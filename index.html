@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Cancionero del Coro</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chordsheetjs/dist/chordsheet.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Cancionero del Coro</h1>
+
+    <select id="song-select">
+  	<option value="c2.chordpro">Canto Ejemplo 1</option>
+  	<option value="S1.chordpro">Canto Ejemplo 2</option>
+    </select>
+
+    <label for="transpose">Transponer:</label>
+    <select id="transpose">
+      <option value="0">Original</option>
+      <option value="-2">-2</option>
+      <option value="-1">-1</option>
+      <option value="1">+1</option>
+      <option value="2">+2</option>
+    </select>
+
+    <div id="song-display" class="song"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
