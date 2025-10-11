@@ -11,7 +11,7 @@
     <pre id="letra"></pre>
   
     <script>
-      fetch('canciones.json')  // lee el archivo
+      fetch('Santo.json')  // lee el archivo
         .then(res => res.json())  // convierte el texto a objeto JSON
         .then(data => {
           document.getElementById('titulo').textContent = data.titulo;
@@ -25,4 +25,5 @@
   </body>
 
 </html>
+
 
