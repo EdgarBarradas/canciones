@@ -7,26 +7,21 @@
   <script src="https://cdn.jsdelivr.net/npm/chordsheetjs/dist/chordsheet.min.js"></script>
 </head>
 <body>
-  <div class="container">
-    <h1>Cancionero del Coro</h1>
+    <h1 id="titulo"></h1>
+    <pre id="letra"></pre>
+  
+    <script>
+      fetch('canciones.json')  // lee el archivo
+        .then(res => res.json())  // convierte el texto a objeto JSON
+        .then(data => {
+          document.getElementById('titulo').textContent = data.titulo;
+          document.getElementById('letra').textContent = data.letra;
+        })
+        .catch(err => console.error('Error al cargar JSON:', err));
 
-    <select id="song-select">
-  	<option value="c2.chordpro">Canto Ejemplo 1</option>
-  	<option value="S1.chordpro">Canto Ejemplo 2</option>
-    </select>
+        console.log('naco')
 
-    <label for="transpose">Transponer:</label>
-    <select id="transpose">
-      <option value="0">Original</option>
-      <option value="-2">-2</option>
-      <option value="-1">-1</option>
-      <option value="1">+1</option>
-      <option value="2">+2</option>
-    </select>
+    </script>
+  </body>
 
-    <div id="song-display" class="song"></div>
-  </div>
-
-  <script src="script.js"></script>
-</body>
 </html>
