@@ -25,6 +25,13 @@ canciones = [
       },
     ]
 
+
+letra = {
+"titulo":"Santo Mauricio",
+"tonalidad":"G",
+"letra":"",
+}
+
     function filtrar() {
       tiempo=document.getElementById('tiempo').value
       misa=document.getElementById('misa').value
@@ -55,3 +62,4 @@ canciones = [
     }
 
   
+
