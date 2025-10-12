@@ -1,0 +1,26 @@
+[
+    {
+        "titulo":"Cristo luz de los pueblos",
+        "tiempos":["Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "mp3":"audios/1.mp3",
+        "pdf":"pdfs/1.pdf",
+        "autor":"xxxxx",
+        "tono":"xxxxx",
+        "ritmo":"xxxxxx",
+        "textto":"1",
+      },
+      {
+        "titulo":"Himno Jubileo 2025",
+        "tiempos":["Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "mp3":"audios/2.mp3",
+        "pdf":"pdfs/2.pdf",
+        "autor":"xxxxx",
+        "tono":"xxxxx",
+        "ritmo":"xxxxxx",
+        "texto":"2",
+      },
+]
