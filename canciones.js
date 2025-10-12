@@ -4,7 +4,7 @@ canciones = [
         "tiempos":["Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
-        "mp3":"audios/1.mp3",
+        "mp3":"audios/CristoLuzDeLosPueblos.mp4",
         "pdf":"pdfs/1.pdf",
         "autor":"xxxxx",
         "tono":"xxxxx",
@@ -53,4 +53,5 @@ canciones = [
   `;
 });
     }
+
   
