@@ -3,13 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <title>Cancionero Litúrgico</title>
-  <!--script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script-->
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; }
     h1 { color: darkblue; }
     .cancion { margin-bottom: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 8px; }
     select, button, input { margin: 5px; padding: 5px; }
     input[type="text"] { width: 250px; }
+	#letra { font-family: sans-serif; }
+.chord-line { line-height: 1.6; }
+.chord {
+  display: inline-block;
+  text-align: center;
+  vertical-align: bottom;
+}
+.chord b {
+  display: block;
+  font-size: 0.9em;
+  color: red;
+}
+
   </style>
 </head>
 <body>
@@ -81,6 +93,7 @@
 
 </body>
 </html>
+
 
 
 
