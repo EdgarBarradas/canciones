@@ -33,6 +33,7 @@ letra = {
 }
 
     function filtrar() {
+      document.getElementById('letra')=""
       tiempo=document.getElementById('tiempo').value
       misa=document.getElementById('misa').value
       momento=document.getElementById('momento').value
@@ -62,4 +63,5 @@ letra = {
     }
 
   
+
 
