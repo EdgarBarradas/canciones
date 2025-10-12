@@ -6,8 +6,10 @@ async function cargarDatos(json_file) {
   
   // Luego puedes usar los datos fuera del fetch
   async function main() {
+    json_file='Santo.json'
     const song_data = await cargarDatos(json_file);
     console.log(song_data); // ✅ Aquí ya puedes usar los datos
   }
   
+
   main();
