@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Cancionero Litúrgico</title>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { color: darkblue; }
+    .cancion { margin-bottom: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 8px; }
+    select, button, input { margin: 5px; padding: 5px; }
+    input[type="text"] { width: 250px; }
+  </style>
+</head>
+<body>
+  <h1>Buscador de Canciones</h1>
+
+  <!-- Filtros -->
+  <label>Tiempo:</label>
+  <select id="tiempo">
+ 	<option value="" selected>No filtrar</option>
+	<option value="Adviento">Adviento</option>
+	<option value="Navidad">Navidad</option>
+ 	<option value="Ordinario">Ordinario</option>
+	<option value="Cuaresma">Cuaresma</option>
+	<option value="Pascua">Pascua</option>
+  </select>
+
+  <label>Misa:</label>
+  <select id="misa">
+	<option value="" selected>No filtrar</option>
+	<option value="Santa María Madre de Dios">Santa María Madre de Dios</option>
+	<option value="Epifanía">Epifanía</option>
+	<option value="Bautismo de Jesús">Bautismo de Jesús</option>
+	<option value="San José">San José</option>
+	<option value="Anunciación">Anunciación</option>
+	<option value="Pascua de Resurrección">Pascua de Resurrección</option>
+	<option value="Ascensión de Jesú">Ascensión de Jesús</option>
+	<option value="Pentecostés">Pentecostés</option>
+	<option value="Santísima Trinidad">Santísima Trinidad</option>
+	<option value="Corpus Cristi">Corpus Cristi</option>
+	<option value="Sagrado Corazón de Jesús">Sagrado Corazón de Jesús</option>
+	<option value="Santos Pedro y Pablo">Santos Pedro y Pablo</option>
+	<option value="Santiago Apostol">Santiago Apostol</option>
+	<option value="Asunción de María">Asunción de María</option>
+	<option value="Todos los Santos">Todos los Santos</option>
+	<option value="Difuntos">Difuntos</option>
+	<option value="Cristo Rey">Cristo Rey</option>
+	<option value="Inmaculada Concepción">Inmaculada Concepción</option>
+	<option value="Navidad">Navidad</option>
+	<option value="Ninguna">Ninguna</option>
+  </select>
+
+  <label>Momento:</label>
+  <select id="momento">
+	<option value="" selected>No filtrar</option>
+	<option value="Entrada">Entrada</option>
+	<option value="Penitencial">Penitencial</option>
+	<option value="Gloria">Gloria</option>
+	<option value="Salmo">Salmo</option>
+	<option value="Interleccional">Interleccional</option>
+	<option value="Ofertorio">Ofertorio</option>
+	<option value="Santo">Santo</option>
+	<option value="Comunión">Comunión</option>
+	<option value="Acción de gracias">Acción de gracias</option>
+	<option value="Salida">Salida</option>
+	<option value="Marianos">Marianos</option>
+  </select>
+
+  <!-- Caja de texto para búsqueda -->
+  <label>Buscar por texto:</label>
+  <input type="text" id="textoBusqueda" placeholder="Título, autor, letra, acordes...">
+
+  <button onclick="filtrar()">Buscar</button>
+
+  <h2>Resultados:</h2>
+  <div id="resultados"></div>
+
+  <script src='canciones.js"></script>
+
+</body>
+</html>
