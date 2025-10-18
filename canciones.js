@@ -98,12 +98,11 @@ function transponer(nuevo){////////////////////////////------Esta función reali
       crear_bloque_letra(letra)
 }
 
-// async function mostrarLetraAcordes(txt_file) {
-//   letra_acordes = await (await fetch((txt_file))).text();
-//   eval(letra_acordes)
-
-// crear_bloque_letra(letra)
-//     }        
+async function mostrarLetraAcordes(txt_file) {
+  letra_acordes = await (await fetch((txt_file))).text();
+  eval(letra_acordes)
+  crear_bloque_letra(letra)
+}        
 
 async function leerCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
@@ -129,7 +128,7 @@ async function leerCanciones(txt_file) {///////---- función asíncrona que lee 
               document.getElementById('resultados').innerHTML += `
                 <div class="cancion">
                   <h3>${c.titulo} </h3>
-                  <h4 onclick="mostrarLetraAcordes('${c.txt}')">Ver letra y acordes</h4>
+                  <h4 class="azul" onclick="mostrarLetraAcordes('${c.txt}')">Ver letra y acordes</h4>
                   <audio controls src="${c.audio}"></audio>
                 </div>`;
         });
@@ -143,6 +142,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
