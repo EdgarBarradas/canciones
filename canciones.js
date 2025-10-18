@@ -17,30 +17,30 @@ function transponer(nuevo){
   console.log(nuevo)
   console.log(document.getElementById("tonalidad").innerHTML)
   
-      final=nuevo
-      actual=document.getElementById("tonalidad").innerHTML
-      actual=actual.replace("tonalidad: ","")
-      document.getElementById("tonalidad").innerHTML="tonalidad: "+nuevo
+      // final=nuevo
+      // actual=document.getElementById("tonalidad").innerHTML
+      // actual=actual.replace("tonalidad: ","")
+      // document.getElementById("tonalidad").innerHTML="tonalidad: "+nuevo
     
-      if (actual.charAt(actual.length - 1)==='m'){
-        actual=actual.substring(0,actual.length - 1)
-        nuevo=nuevo.substring(0,nuevo.length - 1)
+      // if (actual.charAt(actual.length - 1)==='m'){
+      //   actual=actual.substring(0,actual.length - 1)
+      //   nuevo=nuevo.substring(0,nuevo.length - 1)
         
-      }
-      cambio=(12+tonalidades.indexOf(nuevo)-tonalidades.indexOf(actual))%12
+      // }
+      // cambio=(12+tonalidades.indexOf(nuevo)-tonalidades.indexOf(actual))%12
     
-      indexes=reverse_indexes(letra.letra,"[")
-      indexes.forEach((index,i)=>{
-        text_to_replace=letra.letra.substring(index+1,index+3)
-        if (text_to_replace[1]!='#'){text_to_replace=text_to_replace[0]}
-        replacing_text=tonalidades[(12+tonalidades.indexOf(text_to_replace)+cambio)%12]
-        //console.log(text_to_replace+" "+" +"+cambio+" "+replacing_text)
-        letra.letra=letra.letra.substring(0,index)+letra.letra.substring(index).replace(text_to_replace,replacing_text)
-      })
+      // indexes=reverse_indexes(letra.letra,"[")
+      // indexes.forEach((index,i)=>{
+      //   text_to_replace=letra.letra.substring(index+1,index+3)
+      //   if (text_to_replace[1]!='#'){text_to_replace=text_to_replace[0]}
+      //   replacing_text=tonalidades[(12+tonalidades.indexOf(text_to_replace)+cambio)%12]
+      //   //console.log(text_to_replace+" "+" +"+cambio+" "+replacing_text)
+      //   letra.letra=letra.letra.substring(0,index)+letra.letra.substring(index).replace(text_to_replace,replacing_text)
+      // })
     
-      letra.tonalidad=final
-      document.getElementById("bloque_letra").innerHTML=" "
-      crear_bloque_letra(letra) 
+      // letra.tonalidad=final
+      // document.getElementById("bloque_letra").innerHTML=" "
+      // crear_bloque_letra(letra) 
 }
 
 
@@ -161,6 +161,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
