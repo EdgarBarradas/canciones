@@ -1,7 +1,7 @@
 letra={
   titulo:"Santo Mauricio",
   tonalidad:"G",
-  letra`
+  letra:`
   S[G]anto, S[D]anto, S[Em]anto es El Señ[D]or, Di[C]os del univ[Am]erso,[D] 
   ll[G]enos est[D]án, el ci[Em]elo y la ti[D]erra, d[C]e su glori[D]a   [D7][G]  
 
@@ -13,4 +13,5 @@ letra={
   bendito [Am]el que viene, en n[C]ombre d[D]el Señ[G]or.  
   `
   };
+
 
