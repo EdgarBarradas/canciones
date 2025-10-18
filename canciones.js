@@ -12,12 +12,6 @@ function reverse_indexes(texto,cadena){
 return indexes
 }
 
-////////////////////////////////////////////////////////////////////
-async function mostrarLetraAcordes(txt_file) {
-  letra_acordes = await (await fetch((txt_file))).text();
-  eval(letra_acordes)
-  console.log(letra)
-
 function transponer(nuevo){
   console.log('entró a transponer')
   console.log(nuevo)
@@ -48,6 +42,13 @@ function transponer(nuevo){
       document.getElementById("bloque_letra").innerHTML=" "
       crear_bloque_letra(letra) 
 }
+
+
+////////////////////////////////////////////////////////////////////
+async function mostrarLetraAcordes(txt_file) {
+  letra_acordes = await (await fetch((txt_file))).text();
+  eval(letra_acordes)
+  console.log(letra)
 
 function crear_bloque_letra(letra){
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
@@ -160,6 +161,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
