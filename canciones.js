@@ -19,6 +19,10 @@ async function mostrarLetraAcordes(txt_file) {
   console.log(letra)
 
 function transponer(nuevo){
+  console.log('entró a transponer')
+  console.log(nuevo)
+  console.log(document.getElementById("tonalidad").innerHTML)
+  
       final=nuevo
       actual=document.getElementById("tonalidad").innerHTML
       actual=actual.replace("tonalidad: ","")
@@ -156,6 +160,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
