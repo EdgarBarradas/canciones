@@ -46,16 +46,11 @@ function transponer(nuevo){
 }
 
 function crear_bloque_letra(letra){
-  console.log('dentro de crear_bloque_letra')
-  console.log(letra)
-  console.log(letra.titulo)
-  console.log(letra.tonalidad)
-  
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
   document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
   document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
-  if (tonalidad.charAt(tonalidad.length - 1)=='m'){
+  if (tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
     tonalidades_m.forEach((t,i)=>{
       if (letra.tonalidad===t){s=" selected"}
       else{s=""}
@@ -158,6 +153,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
