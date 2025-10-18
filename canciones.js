@@ -2,7 +2,8 @@ tonalidades=['C','C#','D','D#','E','F','F#','G','G#','A','A#','B']
 tonalidades_m=['Cm','C#m','Dm','D#m','Em','Fm','F#m','Gm','G#m','Am','A#m','Bm']
 
 async function leerCanciones(txt_file) {
-    canciones = eval(await (await fetch((txt_file))).text();)
+    canciones = await (await fetch((txt_file))).text();
+    canciones = eval(canciones)
     console.log(canciones)
 
     document.getElementById("btnBuscar").addEventListener("click", () => {
@@ -151,6 +152,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
