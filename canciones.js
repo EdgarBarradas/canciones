@@ -1,4 +1,4 @@
-.txt// canciones = [
+// canciones = [
 //     {
 //         "titulo":"Cristo luz de los pueblos",
 //         "tiempos":["Ordinario"],
@@ -59,6 +59,7 @@ console.log(canciones[0].audio)
 // }
 
   
+
 
 
 
