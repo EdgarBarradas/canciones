@@ -12,6 +12,73 @@ function reverse_indexes(texto,cadena){
 return indexes
 }
 
+function cbl(letra){
+  document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
+  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
+  document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
+  document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
+  
+  if (letra.tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
+    tonalidades_m.forEach((t,i)=>{
+      if (letra.tonalidad===t){s=" selected"}
+      else{s=""}
+      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
+      })
+  }
+  else{
+    tonalidades.forEach((t,i)=>{
+      if (letra.tonalidad===t){s=" selected"}
+      else{s=""}
+      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
+      })
+  }
+  console.log(document.getElementById("transponer"))
+  //document.getElementById("transponer").addEventListener("change", () => transponer(document.getElementById("transponer").value))
+  
+
+  
+  lineas = letra.letra.trim().split("\n");
+  estilo_letra="letra_estrofa"
+  estilo_acorde="acorde_estrofa"
+
+  lineas.forEach((linea, i) => {
+
+    if (lineas[i].includes('ESTRIBILLO')){estilo_letra="letra_estrib";estilo_acorde="acorde_estrib"}
+    if (lineas[i]==""){estilo_letra="letra_estrofa";estilo_acorde="acorde_estrofa"}
+    lineas[i]=lineas[i].replace(/\]\[/g, " ]        [")
+    lineas[i]=lineas[i].replace(/\] /g, "].    ")
+
+    while (lineas[i].includes("[")){
+      index_a=lineas[i].indexOf("[")
+      index_b=lineas[i].indexOf("]")
+
+      letras_bajo_acorde=1
+      avail=lineas[i].substring(index_b+1).substring(0,10).length
+      next_index=lineas[i].substring(index_b+1).indexOf("[")
+      if (next_index>0){avail=Math.min(next_index,avail)}
+      acorde_size=lineas[i].substring(index_a+1,index_b).length
+      if (acorde_size===1){letras_bajo_acorde=Math.min(1,avail)}
+      if (acorde_size===2){letras_bajo_acorde=Math.min(3,avail)}
+      if (acorde_size===3){letras_bajo_acorde=Math.min(4,avail)}
+      if (acorde_size===4){letras_bajo_acorde=Math.min(5,avail)}
+
+      lineas[i]=lineas[i].substring(0,index_a)+
+      '<span class="'+estilo_acorde+'"><b>'+lineas[i].substring(index_a+1,index_b)+'</b>'+lineas[i].substring(index_b+1,index_b+1+letras_bajo_acorde)+'</span>'+lineas[i].substring(index_b+1+letras_bajo_acorde)
+    }
+
+    //lineas[i]=lineas[i].replaceAll('_','<span class="blancos">_</span>')
+    if (lineas[i]==""){
+      document.getElementById("bloque_letra").innerHTML += '<br>'
+    }
+    else{
+      document.getElementById("bloque_letra").innerHTML += '<p class="'+estilo_letra+'">'+lineas[i]+'</p>'
+    }
+  
+
+  });
+
+}
+
 function transponer(nuevo){
   console.log('entró a transponer')
   console.log(nuevo)
@@ -116,74 +183,74 @@ async function mostrarLetraAcordes(txt_file) {
   eval(letra_acordes)
   console.log(letra)
 
-function crear_bloque_letra(letra){
-  document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
-  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
-  document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
-  document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
+// function crear_bloque_letra(letra){
+//   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
+//   document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
+//   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
+//   document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
   
-  if (letra.tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
-    tonalidades_m.forEach((t,i)=>{
-      if (letra.tonalidad===t){s=" selected"}
-      else{s=""}
-      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
-      })
-  }
-  else{
-    tonalidades.forEach((t,i)=>{
-      if (letra.tonalidad===t){s=" selected"}
-      else{s=""}
-      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
-      })
-  }
-  console.log(document.getElementById("transponer"))
-  //document.getElementById("transponer").addEventListener("change", () => transponer(document.getElementById("transponer").value))
-  
-
-  
-  lineas = letra.letra.trim().split("\n");
-  estilo_letra="letra_estrofa"
-  estilo_acorde="acorde_estrofa"
-
-  lineas.forEach((linea, i) => {
-
-    if (lineas[i].includes('ESTRIBILLO')){estilo_letra="letra_estrib";estilo_acorde="acorde_estrib"}
-    if (lineas[i]==""){estilo_letra="letra_estrofa";estilo_acorde="acorde_estrofa"}
-    lineas[i]=lineas[i].replace(/\]\[/g, " ]        [")
-    lineas[i]=lineas[i].replace(/\] /g, "].    ")
-
-    while (lineas[i].includes("[")){
-      index_a=lineas[i].indexOf("[")
-      index_b=lineas[i].indexOf("]")
-
-      letras_bajo_acorde=1
-      avail=lineas[i].substring(index_b+1).substring(0,10).length
-      next_index=lineas[i].substring(index_b+1).indexOf("[")
-      if (next_index>0){avail=Math.min(next_index,avail)}
-      acorde_size=lineas[i].substring(index_a+1,index_b).length
-      if (acorde_size===1){letras_bajo_acorde=Math.min(1,avail)}
-      if (acorde_size===2){letras_bajo_acorde=Math.min(3,avail)}
-      if (acorde_size===3){letras_bajo_acorde=Math.min(4,avail)}
-      if (acorde_size===4){letras_bajo_acorde=Math.min(5,avail)}
-
-      lineas[i]=lineas[i].substring(0,index_a)+
-      '<span class="'+estilo_acorde+'"><b>'+lineas[i].substring(index_a+1,index_b)+'</b>'+lineas[i].substring(index_b+1,index_b+1+letras_bajo_acorde)+'</span>'+lineas[i].substring(index_b+1+letras_bajo_acorde)
-    }
-
-    //lineas[i]=lineas[i].replaceAll('_','<span class="blancos">_</span>')
-    if (lineas[i]==""){
-      document.getElementById("bloque_letra").innerHTML += '<br>'
-    }
-    else{
-      document.getElementById("bloque_letra").innerHTML += '<p class="'+estilo_letra+'">'+lineas[i]+'</p>'
-    }
+//   if (letra.tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
+//     tonalidades_m.forEach((t,i)=>{
+//       if (letra.tonalidad===t){s=" selected"}
+//       else{s=""}
+//       document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
+//       })
+//   }
+//   else{
+//     tonalidades.forEach((t,i)=>{
+//       if (letra.tonalidad===t){s=" selected"}
+//       else{s=""}
+//       document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
+//       })
+//   }
+//   console.log(document.getElementById("transponer"))
+//   //document.getElementById("transponer").addEventListener("change", () => transponer(document.getElementById("transponer").value))
   
 
-  });
+  
+//   lineas = letra.letra.trim().split("\n");
+//   estilo_letra="letra_estrofa"
+//   estilo_acorde="acorde_estrofa"
+
+//   lineas.forEach((linea, i) => {
+
+//     if (lineas[i].includes('ESTRIBILLO')){estilo_letra="letra_estrib";estilo_acorde="acorde_estrib"}
+//     if (lineas[i]==""){estilo_letra="letra_estrofa";estilo_acorde="acorde_estrofa"}
+//     lineas[i]=lineas[i].replace(/\]\[/g, " ]        [")
+//     lineas[i]=lineas[i].replace(/\] /g, "].    ")
+
+//     while (lineas[i].includes("[")){
+//       index_a=lineas[i].indexOf("[")
+//       index_b=lineas[i].indexOf("]")
+
+//       letras_bajo_acorde=1
+//       avail=lineas[i].substring(index_b+1).substring(0,10).length
+//       next_index=lineas[i].substring(index_b+1).indexOf("[")
+//       if (next_index>0){avail=Math.min(next_index,avail)}
+//       acorde_size=lineas[i].substring(index_a+1,index_b).length
+//       if (acorde_size===1){letras_bajo_acorde=Math.min(1,avail)}
+//       if (acorde_size===2){letras_bajo_acorde=Math.min(3,avail)}
+//       if (acorde_size===3){letras_bajo_acorde=Math.min(4,avail)}
+//       if (acorde_size===4){letras_bajo_acorde=Math.min(5,avail)}
+
+//       lineas[i]=lineas[i].substring(0,index_a)+
+//       '<span class="'+estilo_acorde+'"><b>'+lineas[i].substring(index_a+1,index_b)+'</b>'+lineas[i].substring(index_b+1,index_b+1+letras_bajo_acorde)+'</span>'+lineas[i].substring(index_b+1+letras_bajo_acorde)
+//     }
+
+//     //lineas[i]=lineas[i].replaceAll('_','<span class="blancos">_</span>')
+//     if (lineas[i]==""){
+//       document.getElementById("bloque_letra").innerHTML += '<br>'
+//     }
+//     else{
+//       document.getElementById("bloque_letra").innerHTML += '<p class="'+estilo_letra+'">'+lineas[i]+'</p>'
+//     }
+  
+
+//   });
 
 }
 console.log('ya voy por acá')
-crear_bloque_letra(letra)
+cbl(letra)
     }        
 ////////////////////////////////////////////////////////////////////
 
@@ -228,6 +295,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
