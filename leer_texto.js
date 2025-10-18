@@ -1,7 +1,7 @@
 async function cargarDatos(txt_file) {
-    const respuesta = await fetch(txt_file);
-    //const song_data = await respuesta.text();
-    return await respuesta.text();
+    // const respuesta = await fetch(txt_file);
+    // return await respuesta.text();
+    return await (await fetch((txt_file))).text();
     }
 // Luego puedes usar los datos fuera del fetch
 async function main() {
@@ -12,4 +12,5 @@ async function main() {
     }
 
 main();
+
 
