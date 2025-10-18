@@ -2,10 +2,11 @@ tonalidades=['C','C#','D','D#','E','F','F#','G','G#','A','A#','B']
 tonalidades_m=['Cm','C#m','Dm','D#m','Em','Fm','F#m','Gm','G#m','Am','A#m','Bm']
 
 async function leerCanciones(txt_file) {
-    canciones = await (await fetch((txt_file))).text();
-    //return eval(canciones)
+    canciones = eval(await (await fetch((txt_file))).text();)
+    console.log(canciones)
 
     document.getElementById("btnBuscar").addEventListener("click", () => {
+        console.log("aquí voy")
             function filtrar() {////////////////  funcion que se llama desde el boton de buscar
                 document.getElementById('letra').innerHTML=""
                 tiempo=document.getElementById('tiempo').value
@@ -150,6 +151,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
