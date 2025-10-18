@@ -70,6 +70,7 @@ function crear_bloque_letra(letra){
       document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
       })
   }
+  console.log(document.getElementById("transponer"))
   document.getElementById("transponer").addEventListener("change", () => transponer(document.getElementById("transponer").value))
   
 
@@ -161,6 +162,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
