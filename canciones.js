@@ -18,7 +18,7 @@
 // ]
 async function leerCanciones(txt_file) {
     canciones = await (await fetch((txt_file))).text();
-    return eval(letra_acordes)
+    return eval(canciones)
     }        
 
 canciones = leerCanciones("canciones.txt")
@@ -59,6 +59,7 @@ console.log(canciones[0].audio)
 // }
 
   
+
 
 
 
