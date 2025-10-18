@@ -1,28 +1,9 @@
-// canciones = [
-//     {
-//         "titulo":"Cristo luz de los pueblos",
-//         "tiempos":["Ordinario"],
-//         "misas":["No filtrar"],
-//         "momentos":["No filtrar"],
-//         "audio":"audios/CristoLuzDeLosPueblos.mp4",
-//         "txt":"letras/1.txt",
-//       },
-//       {
-//         "titulo":"Himno Jubileo 2025",
-//         "tiempos":["Pascua"],
-//         "misas":["No filtrar"],
-//         "momentos":["No filtrar"],
-//         "audio":"audios/2.mp3",
-//         "txt":"letras/2.txt",
-//       },
-// ]
 async function leerCanciones(txt_file) {
     canciones = await (await fetch((txt_file))).text();
     return eval(canciones)
     }        
-
 canciones = leerCanciones("canciones.txt")
-console.log(canciones)
+console.log(await canciones[0].audio)
 
 // async function mostrarLetraAcordes(txt_file) {
 //     letra_acordes = await (await fetch((txt_file))).text();
@@ -59,6 +40,7 @@ console.log(canciones)
 // }
 
   
+
 
 
 
