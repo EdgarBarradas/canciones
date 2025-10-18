@@ -25,9 +25,8 @@ canciones = [
       },
 ]
 
-async function usarTexto(txt_file) {
+async function mostrarLetraAcordes(txt_file) {
     letra_acordes = await (await fetch((txt_file))).text();
-    console.log(letra_acordes);
     eval(letra_acordes)
     console.log(letra)
     }        
@@ -52,13 +51,14 @@ function filtrar() {
           document.getElementById('resultados').innerHTML += `
             <div class="cancion">
               <h3>${c.titulo} </h3>
-              <h4 onclick="mostrar('${c.pdf}')">Ver letra y acordes</h4>
+              <h4 onclick="mostrarLetraAcordes('${c.pdf}')">Ver letra y acordes</h4>
               <audio controls src="${c.audio}"></audio>
             </div>`;
     });
 }
 
   
+
 
 
 
