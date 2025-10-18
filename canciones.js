@@ -248,7 +248,7 @@ async function mostrarLetraAcordes(txt_file) {
 
 //   });
 
-}
+//}
 console.log('ya voy por acá')
 cbl(letra)
     }        
@@ -295,6 +295,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
