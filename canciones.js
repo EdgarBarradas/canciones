@@ -34,7 +34,7 @@ async function leerCanciones(txt_file) {
       });
 }
  
-
+leerCanciones()
 
 // async function mostrarLetraAcordes(txt_file) {
 //     letra_acordes = await (await fetch((txt_file))).text();
@@ -150,6 +150,7 @@ async function leerCanciones(txt_file) {
 
 
   
+
 
 
 
