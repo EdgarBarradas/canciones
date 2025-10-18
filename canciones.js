@@ -15,7 +15,6 @@ return indexes
 ////////////////////////////////////////////////////////////////////
 async function mostrarLetraAcordes(txt_file) {
   letra_acordes = await (await fetch((txt_file))).text();
-  console.log(letra_acordes)
   eval(letra_acordes)
   console.log(letra)
 
@@ -47,7 +46,11 @@ function transponer(nuevo){
 }
 
 function crear_bloque_letra(letra){
-  tonalidad=letra.tonalidad
+  console.log('dentro de crear_bloque_letra')
+  console.log(letra)
+  console.log(letra.titulo)
+  console.log(letra.tonalidad)
+  
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
   document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
@@ -155,6 +158,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
