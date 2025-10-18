@@ -25,15 +25,8 @@ canciones = [
       },
 ]
 
-
-// letra = {
-// "titulo":"Santo Mauricio",
-// "tonalidad":"G",
-// "letra":"",
-// }
-
-function xxx(){
-    console.log("naco")
+function mostrar(){
+    // console.log("naco")
 }
         
 function filtrar() {
@@ -53,16 +46,18 @@ function filtrar() {
         )
 
     canciones_filtradas.forEach(c => {
-      document.getElementById('resultados').innerHTML += `
-        <div class="cancion">
-          <h3>${c.titulo} </h3>
-          <h4 onclick="xxx()">Ver letra y acordes</h4>
-          <audio controls src="${c.audio}"></audio>
-        </div>`;
+        console.log(c.titulo)
+          document.getElementById('resultados').innerHTML += `
+            <div class="cancion">
+              <h3>${c.titulo} </h3>
+              <h4 onclick="mostrar()">Ver letra y acordes</h4>
+              <audio controls src="${c.audio}"></audio>
+            </div>`;
     });
 }
 
   
+
 
 
 
