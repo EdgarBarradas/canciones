@@ -12,15 +12,7 @@ function reverse_indexes(texto,cadena){
 return indexes
 }
 
-
-async function leerCanciones(txt_file) {
-    canciones = await (await fetch((txt_file))).text();
-    canciones = eval(canciones)
-    console.log(canciones)
-
 ////////////////////////////////////////////////////////////////////
-
-
 async function mostrarLetraAcordes(txt_file) {
     letra_acordes = await (await fetch((txt_file))).text();
     eval(letra_acordes)
@@ -117,19 +109,14 @@ function crear_bloque_letra(letra){
 }
 
 crear_bloque_letra(letra)
-
     }        
-
-
-
-    
 ////////////////////////////////////////////////////////////////////
 
 
-
-
-
-
+async function leerCanciones(txt_file) {
+    canciones = await (await fetch((txt_file))).text();
+    canciones = eval(canciones)
+    console.log(canciones)
     
     document.getElementById("btnBuscar").addEventListener("click", () => {////////////////  funcion que se llama desde el boton de buscar
         document.getElementById('letra').innerHTML=""
@@ -167,6 +154,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
