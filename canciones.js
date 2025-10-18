@@ -5,7 +5,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
         "audio":"audios/CristoLuzDeLosPueblos.mp4",
-        "pdf":"pdfs/1.pdf",
+        "txt":"letras/1.txt",
         "autor":"xxxxx",
         "tono":"xxxxx",
         "ritmo":"xxxxxx",
@@ -17,7 +17,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
         "audio":"audios/2.mp3",
-        "pdf":"pdfs/2.pdf",
+        "txt":"letras/2.txt",
         "autor":"xxxxx",
         "tono":"xxxxx",
         "ritmo":"xxxxxx",
@@ -25,10 +25,13 @@ canciones = [
       },
 ]
 
-function mostrar(i){
-    console.log(i)
-}
-        
+async function usarTexto(txt_file) {
+    letra_acordes = await (await fetch((txt_file))).text();
+    console.log(letra_acordes);
+    eval(letra_acordes)
+    console.log(letra)
+    }        
+
 function filtrar() {
     document.getElementById('letra').innerHTML=""
     tiempo=document.getElementById('tiempo').value
@@ -46,8 +49,6 @@ function filtrar() {
         )
 
     canciones_filtradas.forEach(c => {
-        // console.log(c.pdf)
-        // ll=c.pdf
           document.getElementById('resultados').innerHTML += `
             <div class="cancion">
               <h3>${c.titulo} </h3>
@@ -58,6 +59,7 @@ function filtrar() {
 }
 
   
+
 
 
 
