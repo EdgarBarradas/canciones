@@ -49,7 +49,7 @@ function crear_bloque_letra(letra){
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
   document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
-  document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
+  document.getElementById("bloque_letra").innerHTML += '<select id="transponer"></select>'
   if (letra.tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
     tonalidades_m.forEach((t,i)=>{
       if (letra.tonalidad===t){s=" selected"}
@@ -154,6 +154,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
