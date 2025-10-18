@@ -6,9 +6,8 @@ async function leerCanciones(txt_file) {
     canciones = eval(canciones)
     console.log(canciones)
 
-    document.getElementById("btnBuscar").addEventListener("click", () => {
-        console.log("aquí voy")
-            function filtrar() {////////////////  funcion que se llama desde el boton de buscar
+    document.getElementById("btnBuscar").addEventListener("click", () => {////////////////  funcion que se llama desde el boton de buscar
+
                 document.getElementById('letra').innerHTML=""
                 tiempo=document.getElementById('tiempo').value
                 misa=document.getElementById('misa').value
@@ -32,7 +31,7 @@ async function leerCanciones(txt_file) {
                           <audio controls src="${c.audio}"></audio>
                         </div>`;
                 });
-            }
+
       });
 }
  
@@ -152,6 +151,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
