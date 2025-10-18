@@ -4,19 +4,19 @@ canciones = [
         "tiempos":["Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
-        "mp3":"audios/CristoLuzDeLosPueblos.mp4",
+        "audio":"audios/CristoLuzDeLosPueblos.mp4",
         "pdf":"pdfs/1.pdf",
         "autor":"xxxxx",
         "tono":"xxxxx",
         "ritmo":"xxxxxx",
-        "textto":"1",
+        "texto":"1",
       },
       {
         "titulo":"Himno Jubileo 2025",
         "tiempos":["Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
-        "mp3":"audios/2.mp3",
+        "audio":"audios/2.mp3",
         "pdf":"pdfs/2.pdf",
         "autor":"xxxxx",
         "tono":"xxxxx",
@@ -25,15 +25,15 @@ canciones = [
       },
 ]
 
-<!--
-letra = {
-"titulo":"Santo Mauricio",
-"tonalidad":"G",
-"letra":"",
-}
-    -->
-function xxx(i){
-    console.log(i)
+
+// letra = {
+// "titulo":"Santo Mauricio",
+// "tonalidad":"G",
+// "letra":"",
+// }
+
+function xxx(){
+    console.log("naco")
 }
         
 function filtrar() {
@@ -56,13 +56,14 @@ function filtrar() {
       document.getElementById('resultados').innerHTML += `
         <div class="cancion">
           <h3>${c.titulo} </h3>
-          <p onclick="xxx(${c.pdf})">Ver letra y acordes</p>
-          <audio controls src="${c.mp3}"></audio>
+          <h4 onclick="xxx()">Ver letra y acordes</h4>
+          <audio controls src="${c.audio}"></audio>
         </div>`;
     });
 }
 
   
+
 
 
 
