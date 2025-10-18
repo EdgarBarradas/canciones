@@ -46,7 +46,7 @@ function filtrar() {
         )
 
     canciones_filtradas.forEach(c => {
-        console.log(c.titulo)
+        console.log(c.pdf)
           document.getElementById('resultados').innerHTML += `
             <div class="cancion">
               <h3>${c.titulo} </h3>
@@ -57,6 +57,7 @@ function filtrar() {
 }
 
   
+
 
 
 
