@@ -12,7 +12,7 @@ function reverse_indexes(texto,cadena){
 return indexes
 }
 
-function cbl(letra){
+function crear_bloque_letra(letra){
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
   document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
@@ -108,7 +108,7 @@ function transponer(nuevo){
       letra.tonalidad=final
       document.getElementById("bloque_letra").innerHTML=" "
       //crear_bloque_letra(letra) 
-    cbl(letra)
+      crear_bloque_letra(letra)
   
   // document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
   // document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
@@ -251,7 +251,7 @@ async function mostrarLetraAcordes(txt_file) {
 
 //}
 console.log('ya voy por acá')
-cbl(letra)
+crear_bloque_letra(letra)
     }        
 ////////////////////////////////////////////////////////////////////
 
@@ -296,6 +296,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
