@@ -14,8 +14,10 @@ return indexes
 
 ////////////////////////////////////////////////////////////////////
 async function mostrarLetraAcordes(txt_file) {
-    letra_acordes = await (await fetch((txt_file))).text();
-    eval(letra_acordes)
+  letra_acordes = await (await fetch((txt_file))).text();
+  console.log(letra_acordes)
+  eval(letra_acordes)
+  console.log(letra)
 
 function transponer(nuevo){
   final=nuevo
@@ -107,7 +109,7 @@ function crear_bloque_letra(letra){
   });
 
 }
-
+console.log('ya voy por acá')
 crear_bloque_letra(letra)
     }        
 ////////////////////////////////////////////////////////////////////
@@ -116,8 +118,7 @@ crear_bloque_letra(letra)
 async function leerCanciones(txt_file) {
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones)
-    console.log(canciones)
-    
+
     document.getElementById("btnBuscar").addEventListener("click", () => {////////////////  funcion que se llama desde el boton de buscar
         document.getElementById('letra').innerHTML=""
         tiempo=document.getElementById('tiempo').value
@@ -154,6 +155,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
