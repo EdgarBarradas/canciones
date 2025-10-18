@@ -23,46 +23,47 @@ canciones = [
         "ritmo":"xxxxxx",
         "texto":"2",
       },
-    ]
+]
 
-
+<!--
 letra = {
 "titulo":"Santo Mauricio",
 "tonalidad":"G",
 "letra":"",
 }
+    -->
+function xxx(i){
+    console.log(i)
+}
+        
+function filtrar() {
+    document.getElementById('letra').innerHTML=""
+    tiempo=document.getElementById('tiempo').value
+    misa=document.getElementById('misa').value
+    momento=document.getElementById('momento').value
+    texto=document.getElementById('textoBusqueda').value.toLowerCase()
 
-    function filtrar() {
-      document.getElementById('letra').innerHTML=""
-      tiempo=document.getElementById('tiempo').value
-      misa=document.getElementById('misa').value
-      momento=document.getElementById('momento').value
-      texto=document.getElementById('textoBusqueda').value.toLowerCase()
+    document.getElementById("resultados").innerHTML = ""
 
-      document.getElementById("resultados").innerHTML = ""
+    canciones_filtradas = canciones.filter(c =>
+        ( tiempo==="" || (c.tiempos.includes(tiempo))) &&
+        ( misa==="" || (c.misas.includes(misa))) &&
+        ( momento==="" || (c.momentos.includes(momento))) &&
+        ( texto==="" || c.titulo.toLowerCase().includes(texto))
+        )
 
-      canciones_filtradas = canciones.filter(c =>
-      ( tiempo==="" || (c.tiempos.includes(tiempo))) &&
-      ( misa==="" || (c.misas.includes(misa))) &&
-      ( momento==="" || (c.momentos.includes(momento))) &&
-      ( texto==="" || c.titulo.toLowerCase().includes(texto))
-      )
-
-      console.log(canciones)
-      console.log(canciones_filtradas)
-      
-      
     canciones_filtradas.forEach(c => {
       document.getElementById('resultados').innerHTML += `
         <div class="cancion">
           <h3>${c.titulo} </h3>
+          <p onclick="xxx(c.pdf)">Ver letra y acordes</p>
           <audio controls src="${c.mp3}"></audio>
-        </div>
-  `;
-});
-    }
+        </div>`;
+    });
+}
 
   
+
 
 
 
