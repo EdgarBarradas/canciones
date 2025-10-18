@@ -25,8 +25,8 @@ canciones = [
       },
 ]
 
-function mostrar(){
-    // console.log("naco")
+function mostrar(i){
+    console.log(i)
 }
         
 function filtrar() {
@@ -58,6 +58,7 @@ function filtrar() {
 }
 
   
+
 
 
 
