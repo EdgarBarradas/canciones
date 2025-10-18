@@ -56,13 +56,14 @@ function filtrar() {
       document.getElementById('resultados').innerHTML += `
         <div class="cancion">
           <h3>${c.titulo} </h3>
-          <p onclick="xxx(c.pdf)">Ver letra y acordes</p>
+          <p onclick="xxx(${c.pdf})">Ver letra y acordes</p>
           <audio controls src="${c.mp3}"></audio>
         </div>`;
     });
 }
 
   
+
 
 
 
