@@ -1,0 +1,18 @@
+canciones = [
+    {
+        "titulo":"Cristo luz de los pueblos",
+        "tiempos":["Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/CristoLuzDeLosPueblos.mp4",
+        "txt":"letras/1.txt",
+      },
+      {
+        "titulo":"Himno Jubileo 2025",
+        "tiempos":["Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/2.mp3",
+        "txt":"letras/2.txt",
+      },
+]
