@@ -74,10 +74,6 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
 }
 
 function transponer(nuevo){////////////////////////////------Esta función realiza la trasposcón de acordes de una canción mostrada
-  console.log('entró a transponer')
-  console.log(nuevo)
-  console.log(document.getElementById("tonalidad").innerHTML)
-  
       final=nuevo
       actual=document.getElementById("tonalidad").innerHTML
       actual=actual.replace("tonalidad: ","")
@@ -94,7 +90,6 @@ function transponer(nuevo){////////////////////////////------Esta función reali
         text_to_replace=letra.letra.substring(index+1,index+3)
         if (text_to_replace[1]!='#'){text_to_replace=text_to_replace[0]}
         replacing_text=tonalidades[(12+tonalidades.indexOf(text_to_replace)+cambio)%12]
-        //console.log(text_to_replace+" "+" +"+cambio+" "+replacing_text)
         letra.letra=letra.letra.substring(0,index)+letra.letra.substring(index).replace(text_to_replace,replacing_text)
       })
       letra.tonalidad=final
@@ -103,14 +98,12 @@ function transponer(nuevo){////////////////////////////------Esta función reali
       crear_bloque_letra(letra)
 }
 
-async function mostrarLetraAcordes(txt_file) {
-  letra_acordes = await (await fetch((txt_file))).text();
-  eval(letra_acordes)
-  console.log(letra)
+// async function mostrarLetraAcordes(txt_file) {
+//   letra_acordes = await (await fetch((txt_file))).text();
+//   eval(letra_acordes)
 
-
-crear_bloque_letra(letra)
-    }        
+// crear_bloque_letra(letra)
+//     }        
 
 async function leerCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
@@ -150,6 +143,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
