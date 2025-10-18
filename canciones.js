@@ -1,4 +1,4 @@
-// canciones = [
+.txt// canciones = [
 //     {
 //         "titulo":"Cristo luz de los pueblos",
 //         "tiempos":["Ordinario"],
@@ -21,7 +21,7 @@ async function leerCanciones(txt_file) {
     return eval(letra_acordes)
     }        
 
-canciones = leerCanciones()
+canciones = leerCanciones("canciones.txt")
 console.log(canciones[0].audio)
 
 // async function mostrarLetraAcordes(txt_file) {
@@ -59,6 +59,7 @@ console.log(canciones[0].audio)
 // }
 
   
+
 
 
 
