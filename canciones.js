@@ -47,16 +47,18 @@ function filtrar() {
 
     canciones_filtradas.forEach(c => {
         console.log(c.pdf)
+        ll=c.pdf
           document.getElementById('resultados').innerHTML += `
             <div class="cancion">
               <h3>${c.titulo} </h3>
-              <h4 onclick="mostrar()">Ver letra y acordes</h4>
+              <h4 onclick="mostrar(${ll})">Ver letra y acordes</h4>
               <audio controls src="${c.audio}"></audio>
             </div>`;
     });
 }
 
   
+
 
 
 
