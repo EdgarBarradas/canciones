@@ -50,6 +50,8 @@ function crear_bloque_letra(letra){
   document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
   document.getElementById("bloque_letra").innerHTML += '<select id="transponer"></select>'
+  
+  document.getElementById("transponer").addEventListener("change", () => transponer(document.getElementById("transponer").value))
   if (letra.tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
     tonalidades_m.forEach((t,i)=>{
       if (letra.tonalidad===t){s=" selected"}
@@ -64,7 +66,7 @@ function crear_bloque_letra(letra){
       document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
       })
   }
-  document.getElementById("transponer").addEventListener("change", () => transponer(select.value))
+  
 
   
   lineas = letra.letra.trim().split("\n");
@@ -154,6 +156,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
