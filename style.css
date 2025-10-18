@@ -1,28 +1,26 @@
-body {
-  font-family: 'Segoe UI', sans-serif;
-  background: #f9f9f9;
-  color: #222;
-  margin: 2em;
-}
-
-.container {
-  max-width: 700px;
-  margin: auto;
-  background: white;
-  padding: 2em;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
-
-.song .chord {
-  color: #0066cc;
-  font-weight: bold;
+body { font-family: sans-serif; }
+.letra_estrofa { line-height: 1.2; }
+.acorde_estrofa {
   display: inline-block;
-  min-width: 3ch;
   text-align: center;
+  vertical-align: bottom;
 }
-
-select {
-  margin: 0.5em;
-  padding: 0.3em;
+.acorde_estrofa b {
+  display: block;
+  font-size: 0.9em;
+  color: red;
+  line-height: 0.4;
 }
+.letra_estrib { line-height: 1.2; font-style: italic;font-weight: bold;}
+.acorde_estrib {
+  display: inline-block;
+  text-align: center;
+  vertical-align: bottom;
+}
+.acorde_estrib b {
+  display: block;
+  font-size: 0.9em;
+  color: red;
+  line-height: 0.4;
+}
+.blancos {color: white}
