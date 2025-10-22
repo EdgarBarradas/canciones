@@ -1,0 +1,15 @@
+letra={
+  titulo:"Santo P.A.",
+  tonalidad:"Em",
+  letra:`
+S[Em]anto es el Señ[D]or mi Dios, d[C]igno de alab[B7]anza
+a [Em]ÉL el pod[D]er, el hon[C]or y la gl[B7]oria. (2)
+
+Hos[Em]anna, hos[D]anna, hos[C]anna, oh, Señ[B7]or. (2)
+
+Bend[Em]ito el que vi[D]ene en nombre del Señ[B7]or,
+Con t[Em]odos los s[D]antos c[C]antamos para [B7]Él.(2)
+
+Hos[Em]anna, hos[D]anna, hos[C]anna, oh, Señ[B7]or. (2)
+  `
+  };

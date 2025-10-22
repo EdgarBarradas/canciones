@@ -1,0 +1,13 @@
+letra={
+  titulo:"Santo O",
+  tonalidad:"D",
+  letra:`
+S[D]anto, oh S[Csus2]anto, S[D]anto es e[Csus2]l Señor,[G]
+Dios del univ[A]erso,
+ll[D]enos están el ci[Bm]elo y la tierra d[G]e la majestad de su gl[A]oria.
+
+Bend[D]ito el que vi[Csus2]ene en n[D]ombre de [Csus2]el Señor,[G]
+hosanna en el ci[A]elo,[Em]
+hosanna en el ci[A]elo y en la tierra p[D][Csus2][D][Csus2][D]az.
+  `
+  };

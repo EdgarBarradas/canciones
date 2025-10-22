@@ -1,0 +1,19 @@
+letra={
+  titulo:"Santo Cap",
+  tonalidad:"D",
+  letra:`
+S[C]anto, S[Em]anto, S[F]anto es el Señ[G]or,
+Di[C]os del univ[Em]erso, [F]es el Señ[G]o-o-[C]or[C7].
+Ll[F]enos están el cielo y la tierra de su gl[C]oria.
+Bend[F]ito el que viene en nombre dl Señ[C]or.
+Ohsanna en el ci[Em]elo, en n[F]ombre del Señ[G]or,
+S[C]anto, S[Em]anto, S[F]anto es el Señ[G]o-o-[C]or.
+  `
+  };
+
+S[C]anto, S[Em]anto, S[F]anto es el Señ[G]or,
+Di[C]os del univ[Em]erso, [F]es el Señ[G]o-o-[C]or[C7].
+Ll[F]enos están el cielo y la tierra de su gl[C]oria.
+Bend[F]ito el que viene en nombre dl Señ[C]or.
+Ohsanna en el ci[Em]elo, en n[F]ombre del Señ[G]or,
+S[C]anto, S[Em]anto, S[F]anto es el Señ[G]o-o-[C]or.

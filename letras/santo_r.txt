@@ -1,0 +1,14 @@
+letra={
+  titulo:"Santo R",
+  tonalidad:"Em",
+  letra:`
+S[Em]anto, ho S[Bm]anto, S[Em]anto es e[Bm]l Señor, Di[A]os del unive[Em]rso,[B7]
+ll[Em]enos est[Bm]án, en el ci[Em]elo y la ti[Bm]erra, d[A]e, de su gl[Em]oria.[B7]
+
+Hos[Em]anna, hos[D]anna, hos[C]anna, en el ci[B7]elo. (2)
+
+Bend[Em]ito, el que vi[Bm]ene, en el n[Em]ombre de [Bm]el Señor, en el n[A]ombre de el Señ[Em]or.[B7]
+
+Hos[Em]anna, hos[D]anna, hos[C]anna, en el ci[B7]elo. (2)
+  `
+  };

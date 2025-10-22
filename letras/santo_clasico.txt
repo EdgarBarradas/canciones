@@ -1,0 +1,17 @@
+letra={
+  titulo:"Santo clásico",
+  tonalidad:"Am",
+  letra:`
+S[A7]ant[Dm]o, s[G]ant[C]o, santo es el Señ[Dm]or, Dios del [E]univ[Am]erso,
+ll[A7]enos est[Dm]án, el ci[G]elo y la ti[C]erra, de su gl[Dm]oria, hos[E]ann[Am]a.
+
+H[A7]osann[Dm]a, h[G]osann[C]a, h[Am]osann[Dm]a, [E]en el ci[Am]elo,
+h[A7]osann[Dm]a, h[G]osann[C]a, h[Am]osann[Dm]a, [E]en el ci[Am]elo.
+
+Bend[A7]ito el que vi[Dm]ene, en n[G]ombre del Señ[C]or, hos[Am]anna en las alt[Dm]uras, h[E]osann[Am]a.
+
+H[A7]osann[Dm]a, h[G]osann[C]a, h[Am]osann[Dm]a, [E]en el ci[Am]elo,
+h[A7]osann[Dm]a, h[G]osann[C]a, h[Am]osann[Dm]a, [E]en el ci[Am]elo.
+  `
+  };
+

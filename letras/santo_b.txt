@@ -1,0 +1,12 @@
+letra={
+  titulo:"Santo B",
+  tonalidad:"D",
+  letra:`
+S[D]anto, S[A]anto, S[Bm]anto es [A]el Señ[D]or,
+Di[Bm]os del univ[A]erso,
+ll[D]en[A]os est[Bm]án, el ci[G]elo y la ti[D]erra, d[G]e sub glor[A]ia,
+hosanna en en el ci[G]e[A]el[D]o.
+Bend[A]ito el que vi[Bm]ene en n[G]ombre del Señ[A]or,
+hosanna en en el ci[G]e[A]el[D]o.
+  `
+  };
