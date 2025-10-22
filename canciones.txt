@@ -1,5 +1,21 @@
 canciones = [
     {
+        "titulo":"Santo B",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/santo_b.mp4",
+        "txt":"letras/santo_b.txt",
+      },
+      {
+        "titulo":"Santo C",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/santo_cap.mp3",
+        "txt":"letras/santo_cap.txt",
+      },
+    {
         "titulo":"Santo clásico",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
@@ -15,5 +31,38 @@ canciones = [
         "audio":"audios/santo_diocesano.mp3",
         "txt":"letras/santo_diocesano.txt",
       },
+    {
+        "titulo":"Santo M",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/santo_m.mp4",
+        "txt":"letras/santo_m.txt",
+      },
+      {
+        "titulo":"Santo O",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/santo_o.mp3",
+        "txt":"letras/santo_o.txt",
+      },
+    {
+        "titulo":"Santo P.A.",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/santo_pa.mp4",
+        "txt":"letras/santo_pa.txt",
+      },
+      {
+        "titulo":"Santo R",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/santo_r.mp3",
+        "txt":"letras/santo_r.txt",
+      },
 ]
+
 
