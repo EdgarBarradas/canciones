@@ -1,18 +1,19 @@
 canciones = [
     {
-        "titulo":"Cristo luz de los pueblos",
-        "tiempos":["Ordinario"],
+        "titulo":"Santo clásico",
+        "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
-        "audio":"audios/CristoLuzDeLosPueblos.mp4",
-        "txt":"letras/1.txt",
+        "audio":"audios/santo_clasico.mp4",
+        "txt":"letras/santo_clasico.txt",
       },
       {
-        "titulo":"Himno Jubileo 2025",
-        "tiempos":["Pascua"],
+        "titulo":"Santo diocesano",
+        "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
-        "audio":"audios/2.mp3",
-        "txt":"letras/2.txt",
+        "audio":"audios/santo_diocesano.mp3",
+        "txt":"letras/santo_diocesano.txt",
       },
 ]
+
