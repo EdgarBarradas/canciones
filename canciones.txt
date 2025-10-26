@@ -9,8 +9,8 @@ canciones = [
       },
       {
         "titulo":"Santo C",
-       "tiempos":["No filtrar"],
-       "misas":["No filtrar"],
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
         "momentos":["No filtrar"],
         "audio":"audios/santo_cap.mp3",
         "txt":"letras/santo_cap.txt",
@@ -64,3 +64,4 @@ canciones = [
         "txt":"letras/santo_r.txt",
       },
 ]
+
