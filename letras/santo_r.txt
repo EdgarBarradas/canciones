@@ -3,7 +3,7 @@ letra={
   tonalidad:"Em",
   letra:`
 [Em][Bm][Em][Bm][A][Em][B7].
-S[Em]anto, ho S[Bm]anto, S[Em]anto es e[Bm]l Señor, Di[A]os del unive[Em]rso,[B7].
+S[Em]anto, ho S[Bm]anto, S[Em]anto es [Bm]el Señor, Di[A]os del univ[Em]erso,[B7].
 ll[Em]enos est[Bm]án, en el ci[Em]elo y la ti[Bm]erra, d[A]e, de su gl[Em]oria.[B7].
 
 Hos[Em]anna, hos[D]anna, hos[C]anna, en el ci[B7]elo. (2)
@@ -13,5 +13,6 @@ Bend[Em]ito, el que vi[Bm]ene, en el n[Em]ombre de [Bm]el Señor, en el n[A]ombr
 Hos[Em]anna, hos[D]anna, hos[C]anna, en el ci[B7]elo. (2)
   `
   };
+
 
 
