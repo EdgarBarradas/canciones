@@ -57,6 +57,7 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci√
       if (acorde_size===2){letras_bajo_acorde=Math.min(3,avail)}
       if (acorde_size===3){letras_bajo_acorde=Math.min(4,avail)}
       if (acorde_size===4){letras_bajo_acorde=Math.min(5,avail)}
+      if (acorde_size===5){letras_bajo_acorde=Math.min(6,avail)}
 
       lineas[i]=lineas[i].substring(0,index_a)+
       '<span class="'+estilo_acorde+'"><b>'+lineas[i].substring(index_a+1,index_b)+'</b>'+lineas[i].substring(index_b+1,index_b+1+letras_bajo_acorde)+'</span>'+lineas[i].substring(index_b+1+letras_bajo_acorde)
@@ -142,6 +143,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
