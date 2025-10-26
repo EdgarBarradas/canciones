@@ -3,16 +3,13 @@ letra={
   tonalidad:"G",
   letra:`
 [G][C][G]
-[Gsus2]
-S[Gsus2]anto es [Csus2]El Señ[Gsus2]or, S[G]anto es [C]El Señ[D]or.
 
+S[G]anto es [C]El Señ[G]or, S[G]anto es [C]El Señ[D]or.
 Los ci[G]elos y la tierra, procl[Em]aman tu grandeza, hos[C]anna, hos[D]anna. (2)
-
 S[Gsus2]anto es [Csus2]El Señ[Gsus2]or, S[G]anto es [C]El Señ[G]or.
-
 Bend[G]ito el que viene por si[Em]empre en tu nombre, hos[C]anna, hos[D]anna. (2)
-
-S[Gsus2]anto es [Csus2]El Señ[Gsus2]or, S[G]anto es [C]El Señ[D]or.
+S[G]anto es [C]El Señ[G]or, S[G]anto es [C]El Señ[D]or.
   `
   };
+
 
