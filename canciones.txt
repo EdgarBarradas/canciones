@@ -60,8 +60,9 @@ canciones = [
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
-        "audio":"audios/santo_r.mp3",
+        "audio":"audios/santo_r.mp4",
         "txt":"letras/santo_r.txt",
       },
 ]
+
 
