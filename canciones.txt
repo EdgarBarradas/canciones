@@ -1,4 +1,4 @@
-canciones = [
+´canciones = [
 //    {
 //        "titulo":"Santo B",
 //        "tiempos":["No filtrar"],
@@ -63,7 +63,8 @@ canciones = [
         "audio":"audios/santo_r.mp3",
         "txt":"letras/santo_r.txt",
       },
-]
+]´
+
 
 
 
