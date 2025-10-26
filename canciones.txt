@@ -15,7 +15,7 @@ canciones = [
         "audio":"audios/santo_cap.mp3",
         "txt":"letras/santo_cap.txt",
       },
-    {
+      {
         "titulo":"Santo clásico",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
@@ -31,7 +31,7 @@ canciones = [
         "audio":"audios/santo_diocesano.mp3",
         "txt":"letras/santo_diocesano.txt",
       },
-    {
+      {
         "titulo":"Santo M",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
@@ -47,7 +47,7 @@ canciones = [
         "audio":"audios/santo_o.mp3",
         "txt":"letras/santo_o.txt",
       },
-    {
+      {
         "titulo":"Santo P.A.",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
@@ -64,9 +64,3 @@ canciones = [
         "txt":"letras/santo_r.txt",
       },
 ]
-
-
-
-
-
-
