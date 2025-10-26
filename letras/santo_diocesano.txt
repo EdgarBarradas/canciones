@@ -6,11 +6,12 @@ letra={
 [G][C][G].
 S[G]anto es [C]El Señ[G]or, S[G]anto es [C]El Señ[D]or.
 Los ci[G]elos y la tierra, procl[Em]aman tu grandeza, hos[C]anna, hos[D]anna. (2)
-S[G]anto es [C]El Señ[G]or, S[G]anto es [C]El Señ[G]or.
+S[G]anto es [C]El Señ[G]or, S[G]anto es [C]El Señ[D]or.
 Bend[G]ito el que viene por si[Em]empre en tu nombre, hos[C]anna, hos[D]anna. (2)
 S[G]anto es [C]El Señ[G]or, S[G]anto es [C]El Señ[D]or.
   `
   };
+
 
 
 
