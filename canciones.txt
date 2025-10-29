@@ -63,7 +63,40 @@ canciones = [
         "audio":"audios/santo_r.mp4",
         "txt":"letras/santo_r.txt",
       },
+      {
+        "titulo":"Este es el Cordero de Dios",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_este_es.mp4",
+        "txt":"letras/cordero_este_es.txt",
+      },
+      {
+        "titulo":"Cordero G",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_g.mp4",
+        "txt":"letras/cordero_g.txt",
+      },
+      {
+        "titulo":"Cordero JL",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_jl.mp4",
+        "txt":"letras/cordero_jl.txt",
+      },
+      {
+        "titulo":"Cordero sube tono",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_sube.mp4",
+        "txt":"letras/cordero_sube.txt",
+      },
 ]
+
 
 
 
