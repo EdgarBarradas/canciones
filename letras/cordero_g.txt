@@ -6,6 +6,6 @@ letra={
 Cord[G]ero e Dios, que qu[Bm]itas el pecado del m[Am]undo, ten pied[D]ad,
 Cord[G]ero e Dios, que qu[Bm]itas el pecado del m[Am]undo, ten pied[D]ad,
 Cord[G]ero e Dios, que qu[Bm]itas el pecado del m[Am]undo,[D].
-danos la p[G]az, [Bm]danos la p[Am]az, [D] danos la p[G]az[C][G][C][G].
+danos la p[G]az, [Bm] danos la p[Am]az, [D] danos la p[G]az[C][G][C][G].
   `
   };

@@ -2,13 +2,13 @@ letra={
   titulo:"Cordero S",
   tonalidad:"C",
   letra:`
-Cord[C]ero de Di[G]os, que quit[Am]as el pecado del m[F]und[G]o,
+Cord[C]ero de Di[G]os, que quit[Am]as el pecado del m[F]un-d[G]o,
 t[F]en pied[G]ad de nos[C]o-[E]o-tr[Am]os, t[F]en pied[G]ad, de nos[C]otros[G].
 
-Cord[C]ero de Di[G]os, que quit[Am]as el pecado del m[F]und[G]o,
+Cord[C]ero de Di[G]os, que quit[Am]as el pecado del m[F]un-d[G]o,
 t[F]en pied[G]ad de nos[C]o-[E]o-tr[Am]os, t[F]en pied[G]ad, de nos[C]otros[A].
 
-Cord[D]ero de Di[A]os, que quit[Bm]as el pecado del m[G]und[A]o,
+Cord[D]ero de Di[A]os, que quit[Bm]as el pecado del m[G]un-d[A]o,
 c[G]oncéden[A]os la p[D]a-[F#]a-[Bm]az, c[G]oncéden[A]os la p[D]az.
   `
   };
