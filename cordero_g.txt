@@ -1,0 +1,11 @@
+letra={
+  titulo:"Cordero G",
+  tonalidad:"G",
+  letra:`
+[G][Bm][A#m][Am][D]
+Cord[G]ero e Dios, que qu[Bm]itas el pec[A#m]ado del m[Am]undo, ten pied[D]ad,
+Cord[G]ero e Dios, que qu[Bm]itas el pec[A#m]ado del m[Am]undo, ten pied[D]ad,
+Cord[G]ero e Dios, que qu[Bm]itas el pec[A#m]ado del m[Am]undo,[D].
+danos la p[G]az, [Bm]dan[A#m]os la p[Am]az, [D] danos la p[G]az[C][G][C][G][C].
+  `
+  };
