@@ -1,0 +1,10 @@
+letra={
+  titulo:"Cordero JL",
+  tonalidad:"C",
+  letra:`
+[C].
+Cordero de Di[Em]os, Tú que qu[F]itas el pecado del m[G]undo, ten pied[Am]ad,
+Cordero de Di[Em]os, Tú que qu[F]itas el pecado del m[G]undo, ten pied[Am]ad,
+Cordero de Di[Em]os, Tú que qu[F]itas el pecado del m[G]undo, danos la p[C]az[Cmaj7]
+  `
+  };
