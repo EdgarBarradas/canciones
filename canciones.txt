@@ -95,7 +95,16 @@ canciones = [
         "audio":"audios/cordero_sube.mp4",
         "txt":"letras/cordero_sube.txt",
       },
+      {
+        "titulo":"Cordero alegre",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_alegre.mp4",
+        "txt":"letras/cordero_alegre.txt",
+      },
 ]
+
 
 
 
