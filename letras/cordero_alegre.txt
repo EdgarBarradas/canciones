@@ -1,0 +1,14 @@
+letra={
+  titulo:"Cordero alegre",
+  tonalidad:"C",
+  letra:`
+C[C]ordero de Di[Am]os, que qu[F]itas el pec[G]ado del m[C]undo,
+ten pied[Am]ad de nos[F]otros, t[G]en pied[C]ad.[G].
+
+C[C]ordero de Di[Am]os, que qu[F]itas el pec[G]ado del m[C]undo,
+ten pied[Am]ad de nos[F]otros, t[G]en pied[C]ad.[G].
+
+C[C]ordero de Di[Am]os, que qu[F]itas el pec[G]ado del m[C]undo,
+d[Am]anos la p[F]az, d[G]anosl[C]a.
+  `
+  };
