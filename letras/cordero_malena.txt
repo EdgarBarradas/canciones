@@ -1,16 +1,17 @@
 letra={
   titulo:"Cordero M",
-  tonalidad:"Em",
+  tonalidad:"Dm",
   letra:`
-Cord[Em]ero de Dios, que qu[A]itas [C]el p[F]ec[D]ado del m[Em]undo,
-t[Am]en pied[D]ad de nos[G]otr[C]os, t[Am]en pied[B]ad de nos[Em]otros.
+Cord[Dm]ero de Dios, que qu[G]itas [A#]el p[G]ec[C]ado del m[Dm]undo,
+t[Gm]en pied[C]ad de nos[F]otr[A#]os, t[Gm]en pied[A]ad de nos[Dm]otros.
 
-Cord[Em]ero de Dios, que qu[A]itas [C]el p[F]ec[D]ado del m[Em]undo,
-t[Am]en pied[D]ad de nos[G]otr[C]os, t[Am]en pied[B]ad de nos[Em]otros.
+Cord[Dm]ero de Dios, que qu[G]itas [A#]el p[G]ec[C]ado del m[Dm]undo,
+t[Gm]en pied[C]ad de nos[F]otr[A#]os, t[Gm]en pied[A]ad de nos[Dm]otros.
 
-Cord[Em]ero de Dios, que qu[A]itas [C]el p[F]ec[D]ado del m[Em]undo,
-d[C]anos la p[Am]az, d[D]anos la p[G]az,
-d[Am]a-n[D]os d[G]a-n[C]os d[Am]a-n[B]os la p[Em]az,[E7].
-d[Am]a-n[D]os d[G]a-n[C]os d[Am]a-n[B]os la p[E]az.
+Cord[Dm]ero de Dios, que qu[G]itas [A#]el p[G]ec[C]ado del m[Dm]undo,
+d[A#]anos la p[Gm]az, d[C]anos la p[F]az,
+d[Gm]a-n[C]os d[F]a-n[A#]os d[Gm]a-n[A]os la p[Dm]az,[D7].
+d[Gm]a-n[C]os d[F]a-n[A#]os d[Gm]a-n[A]os la p[Dm]az.[D].
   `
   };
+
