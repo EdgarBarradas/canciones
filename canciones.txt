@@ -103,7 +103,32 @@ canciones = [
         "audio":"audios/cordero_alegre.mp4",
         "txt":"letras/cordero_alegre.txt",
       },
+      {
+        "titulo":"Cordero capela",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_capela.mp4",
+        "txt":"letras/cordero_capela.txt",
+      },
+      {
+        "titulo":"Cordero malena",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_malena.mp4",
+        "txt":"letras/cordero_malena.txt",
+      },
+      {
+        "titulo":"Cordero pd",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_pd.mp4",
+        "txt":"letras/cordero_pd.txt",
+      },
 ]
+
 
 
 
