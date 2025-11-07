@@ -2,16 +2,17 @@ letra={
   titulo:"Cordero M",
   tonalidad:"Dm",
   letra:`
-Cord[Dm]ero de Dios, que qu[G]itas [A#]el p[G]ec[C]ado del m[Dm]undo,
+Cord[Dm]ero de Dios, que qu[G]itas [A#]el pec[C]ado del m[Dm]undo,
 t[Gm]en pied[C]ad de nos[F]otr[A#]os, t[Gm]en pied[A]ad de nos[Dm]otros.
 
-Cord[Dm]ero de Dios, que qu[G]itas [A#]el p[G]ec[C]ado del m[Dm]undo,
+Cord[Dm]ero de Dios, que qu[G]itas [A#]el pec[C]ado del m[Dm]undo,
 t[Gm]en pied[C]ad de nos[F]otr[A#]os, t[Gm]en pied[A]ad de nos[Dm]otros.
 
-Cord[Dm]ero de Dios, que qu[G]itas [A#]el p[G]ec[C]ado del m[Dm]undo,
+Cord[Dm]ero de Dios, que qu[G]itas [A#]el pec[C]ado del m[Dm]undo,
 d[A#]anos la p[Gm]az, d[C]anos la p[F]az,
 d[Gm]a-n[C]os d[F]a-n[A#]os d[Gm]a-n[A]os la p[Dm]az,[D7].
 d[Gm]a-n[C]os d[F]a-n[A#]os d[Gm]a-n[A]os la p[Dm]az.[D].
   `
   };
+
 
