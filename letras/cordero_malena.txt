@@ -1,0 +1,16 @@
+letra={
+  titulo:"Cordero M",
+  tonalidad:"Em",
+  letra:`
+Cord[Em]ero de Dios, que qu[A]itas [C]el p[F]ec[D]ado del m[Em]undo,
+t[Am]en pied[D]ad de nos[G]otr[C]os, t[Am]en pied[B]ad de nos[Em]otros.
+
+Cord[Em]ero de Dios, que qu[A]itas [C]el p[F]ec[D]ado del m[Em]undo,
+t[Am]en pied[D]ad de nos[G]otr[C]os, t[Am]en pied[B]ad de nos[Em]otros.
+
+Cord[Em]ero de Dios, que qu[A]itas [C]el p[F]ec[D]ado del m[Em]undo,
+d[C]anos la p[Am]az, d[D]anos la p[G]az,
+d[Am]a-n[D]os d[G]a-n[C]os d[Am]a-n[B]os la p[Em]az,[E7].
+d[Am]a-n[D]os d[G]a-n[C]os d[Am]a-n[B]os la p[E]az.
+  `
+  };

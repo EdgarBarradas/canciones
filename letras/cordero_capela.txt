@@ -1,0 +1,9 @@
+letra={
+  titulo:"Cordero a capela",
+  tonalidad:"C",
+  letra:`
+Cord[C]ero de Dios, que quitas el p[F]ecado del m[C]undo, ten pied[F]ad de nos[G]otros,
+Cord[C]ero de Dios, que quitas el p[F]ecado del m[C]undo, ten pied[F]ad de nos[G]otros,
+Cord[C]ero de Dios, que quitas el p[F]ecado del m[C]undo, dan[G]os l[F]a p[C]az.
+  `
+  };

@@ -1,0 +1,14 @@
+letra={
+  titulo:"Cordero PD",
+  tonalidad:"C",
+  letra:`
+Cord[C]ero de Di[Am]os,[F] Tú que qu[G]itas el pec[C]ado del m[Am]un-d[F]o,
+ten pied[G]ad de nos[C]otr[Am]os,[F][G].
+
+Cord[C]ero de Di[Am]os,[F] Tú que qu[G]itas el pec[C]ado del m[Am]un-d[F]o,
+ten pied[G]ad de nos[C]otr[Am]os,[F][G].
+
+Cord[C]ero de Di[Am]os,[F] Tú que qu[G]itas el pec[C]ado del m[Am]un-d[F]o,
+d[G]nos la p[C]a-a[Am]z,[F] d[G]anos la p[c]az.
+  `
+  };
