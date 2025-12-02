@@ -117,6 +117,7 @@ async function leerCanciones(txt_file) {///////---- función asíncrona que lee 
     canciones = eval(canciones)
 
     document.getElementById("btnBuscar").addEventListener("click", () => {///////--------  funcion asignada al boton de buscar
+        document.getElementById('bloque_audio').innerHTML=""
         document.getElementById('bloque_letra').innerHTML=""
         tiempo=document.getElementById('tiempo').value
         misa=document.getElementById('misa').value
@@ -148,6 +149,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
