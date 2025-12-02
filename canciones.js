@@ -106,7 +106,7 @@ async function mostrarLetraAcordes(txt_file) {
 }        
 
 async function mostrarAudioLetraAcordes(audio_file, txt_file) {
-  audio_item = '<audio controls src="${audio_file}"></audio>'
+  audio_item = '<audio controls src="'+audio_file+'"></audio>'
   
   console.log(audio_file)
   console.log(audio_item)
@@ -153,6 +153,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
