@@ -105,6 +105,13 @@ async function mostrarLetraAcordes(txt_file) {
   crear_bloque_letra(letra)
 }        
 
+async function mostrarAudioLetraAcordes(audio_file, txt_file) {
+  document.getElementById("bloque_audio").innerHTML = '<audio controls src="${audio_file}"></audio>'
+  letra_acordes = await (await fetch((txt_file))).text();
+  eval(letra_acordes)
+  crear_bloque_letra(letra)
+}        
+
 async function leerCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones)
@@ -141,6 +148,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
