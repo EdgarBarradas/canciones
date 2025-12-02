@@ -136,7 +136,7 @@ async function leerCanciones(txt_file) {///////---- función asíncrona que lee 
         canciones_filtradas.forEach(c => {
               document.getElementById('resultados').innerHTML += `
                 <div class="cancion">
-                  <h3 onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.txt}')">${c.titulo} </h3>
+                  <h3 class="result" "onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.txt}')">${c.titulo} </h3>
                 </div>`;
         });
 
@@ -149,6 +149,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
