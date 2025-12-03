@@ -100,6 +100,9 @@ function transponer(nuevo){////////////////////////////------Esta función reali
 }
 
 async function mostrarAudioLetraAcordes(audio_file, audio_tono, txt_file) {
+  console.log(audio_file)
+  console.log(audio_tono)
+  console.log(txt_file)
   document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
   document.getElementById("bloque_audio").innerHTML += '<p >"Audio por '+audio_tono+'"</p>'
   letra_acordes = await (await fetch((txt_file))).text();
@@ -144,6 +147,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
