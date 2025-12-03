@@ -5,6 +5,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_b.mp4",
+        "tono_audio":"D",
         "txt":"letras/santo_b.txt",
       },
       {
@@ -13,6 +14,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_cap.mp4",
+        "tono_audio":"C",
         "txt":"letras/santo_cap.txt",
       },
       {
@@ -21,6 +23,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_clasico.mp4",
+        "tono_audio":"Am",
         "txt":"letras/santo_clasico.txt",
       },
       {
@@ -29,6 +32,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_diocesano.mp4",
+        "tono_audio":"G",
         "txt":"letras/santo_diocesano.txt",
       },
       {
@@ -37,6 +41,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_m.mp4",
+        "tono_audio":"G",
         "txt":"letras/santo_m.txt",
       },
       {
@@ -45,6 +50,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_o.mp4",
+        "tono_audio":"D",
         "txt":"letras/santo_o.txt",
       },
       {
@@ -53,6 +59,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_pa.mp4",
+        "tono_audio":"Em",
         "txt":"letras/santo_pa.txt",
       },
       {
@@ -61,6 +68,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_r.mp4",
+        "tono_audio":"Em",
         "txt":"letras/santo_r.txt",
       },
       {
@@ -69,6 +77,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_este_es.mp4",
+        "tono_audio":"Dm",
         "txt":"letras/cordero_este_es.txt",
       },
       {
@@ -77,6 +86,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_g.mp4",
+        "tono_audio":"G",
         "txt":"letras/cordero_g.txt",
       },
       {
@@ -85,6 +95,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_jl.mp4",
+        "tono_audio":"C",
         "txt":"letras/cordero_jl.txt",
       },
       {
@@ -93,6 +104,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_sube.mp4",
+        "tono_audio":"C",
         "txt":"letras/cordero_sube.txt",
       },
       {
@@ -101,6 +113,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_alegre.mp4",
+        "tono_audio":"C",
         "txt":"letras/cordero_alegre.txt",
       },
       {
@@ -109,6 +122,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_capela.mp4",
+        "tono_audio":"C",
         "txt":"letras/cordero_capela.txt",
       },
       {
@@ -117,6 +131,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_malena.mp4",
+        "tono_audio":"Dm",
         "txt":"letras/cordero_malena.txt",
       },
       {
@@ -125,9 +140,11 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_pd.mp4",
+        "tono_audio":"C",
         "txt":"letras/cordero_pd.txt",
       },
 ]
+
 
 
 
