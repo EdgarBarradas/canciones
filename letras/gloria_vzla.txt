@@ -12,17 +12,18 @@ Señ[Am]or hijo unig[Em]énito, Jesucr[F]isto Señ[G]or Di[C]os,
 Cord[Am]ero, de Di[Em]os,[F] hijo del P[E]adre. [Am].
 
 Tu que quitas del m[Em]undo,[Am] el pecado del h[Em]ombre, [F].
-ten pied[C]ad Señor,[D] piedad d[G]e nosotros. [Am]
+ten pied[C]ad Señor,[D] piedad d[G]e nosotros. [Am].
 Tu que quitas del m[Em]undo,[Am] el pecado del h[Em]ombre, [F].
-acoge,[C] acoge,[D] nuestra s[G]úplica. [Am]
+acoge,[C] acoge,[D] nuestra s[G]úplica. [Am].
 Tu que quitas en el ci[Em]elo,[F] a la diestra del P[C]adre [F].
 ten pied[C]ad Señor,[D] piedad d[G]e nosotros.
 
 Porqu[F]e Tú eres Santo, s[C]olo Tú Señor,
 s[F]olo Tú altísimo, J[G]esucristo.
 
-C[F]on El Esp[G]írit[C]u, Sa-[G]an-t[C]o,[Am] en la gloria d[Em]e Dios padre, [F]a-[G]a-m[C]én.
-C[F]on El Esp[G]írit[C]u, Sa-[G]an-t[C]o,[Am] en la gloria d[Em]e Dios padre, [F]a-[G]a-m[C]én. [Am].
+C[C]on El Esp[G]írit[C]u, Sa-[G]an-t[C]o,[Am] en la gloria d[Em]e Dios padre, [F]a-[G]a-m[C]én.
+Con El Esp[G]írit[C]u, Sa-[G]an-t[C]o,[Am] en la gloria d[Em]e Dios padre, [F]a-[G]a-m[C]én. [Am].
 En la gloria d[Em]e Dios Padre [F]a-[G]a-m[C]én.
   `
   };
+
