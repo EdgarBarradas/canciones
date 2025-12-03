@@ -2,7 +2,7 @@ letra={
   titulo:"Gloria MC",
   tonalidad:"Am",
   letra:`
-[G] [C] [E] [Am] [G][Am] [G][Am].
+[G] [C] [E] [Am] [G][Am] [G][Am] .
 
 Gloria a Dios e[G]n las altur[Am]as y en la tierra p[G]az a los h[Am]ombres,
 paz a los h[F]ombres, paz a los h[G]ombres, que ama el Señ[Am]or. (2)
@@ -18,7 +18,7 @@ Tú que quitas los pec[G]ados del m[Am]undo, ten pied[G]ad de nos[Am]otros.
 Tú que quitas los pec[G]ados del m[Am]undo, ati[G]ende nuestra s[Am]úplica.
 Tú que r[G]einas con el P[Am]adre, ten pied[G]ad de nos[Am]otros, d[G]e nos[Am]otros.
 
-[G] [C] [E] [Am] [G][Am] [G][Am].
+[G] [C] [E] [Am] [G][Am] [G][Am] .
 
 Gloria a Dios e[G]n las altur[Am]as y en la tierra p[G]az a los h[Am]ombres,
 paz a los h[F]ombres, paz a los h[G]ombres, que ama el Señ[Am]or. (2)
@@ -30,4 +30,5 @@ con el Esp[G]íritu S[Am]anto, con el Esp[G]íritu S[Am]anto,
 en la gl[F]oria del, Dios P[G]adre, am[Am]én, [G]am[Am]én, [G]am[Am]én.
 `
 };
+
 
