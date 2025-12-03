@@ -99,10 +99,7 @@ function transponer(nuevo){////////////////////////////------Esta función reali
       crear_bloque_letra(letra)
 }
 
-async function mostrarAudioLetraAcordes(c) {
-  txt_file=c.txt
-  audio_file=c.audio
-  audio_tono=c.audio_tono
+async function mostrarAudioLetraAcordes(audio_file, audio_tono, txt_file) {
   document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
   document.getElementById("bloque_audio").innerHTML += '<p >"Audio por '+audio_tono+'"</p>'
   letra_acordes = await (await fetch((txt_file))).text();
@@ -134,7 +131,7 @@ async function leerCanciones(txt_file) {///////---- función asíncrona que lee 
         canciones_filtradas.forEach(c => {
               document.getElementById('resultados').innerHTML += `
                 <div class="cancion">
-                  <h3 class="result" onclick="mostrarAudioLetraAcordes('${c}')">${c.titulo} </h3>
+                  <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.audio_tono}', '${c.txt}')">${c.titulo} </h3>
                 </div>`;
         });
 
@@ -147,6 +144,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
