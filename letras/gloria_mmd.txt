@@ -1,0 +1,33 @@
+letra={
+  titulo:"Gloria MMD",
+  tonalidad:"A",
+  letra:`
+Gloria a Di[A]os en el ci[F#m]elo, y [D]en la tierra p[A]az a los h[F#m]ombres que [E]ama El Señ[A]or.
+Gloria a Di[A]os en el ci[F#m]elo, y [D]en la tierra p[A]az a los h[F#m]ombres que [E]ama El Señ[A]or.
+
+Por tu inmensa gloria te alab[D]am[A]os, [E].
+te bendecimos, te [D]ador[E]am[A]os, [F#m].
+te glorificamos, te d[D]amos gr[B]aci[E]as.
+
+Gloria a Di[A]os en el ci[F#m]elo, y [D]en la tierra p[A]az a los h[F#m]ombres que [E]ama El Señ[A]or.
+
+Señor Dios Rey celestial, Dios padre todopoder[D]os[A]o, [E].
+Señor Hijo único J[D]esucr[E]ist[A]o, [F#m].
+Señor Dios, Cordero de Dios, hij[D]o del P[B]adr[E]e.
+
+Gloria a Di[A]os en el ci[F#m]elo, y [D]en la tierra p[A]az a los h[F#m]ombres que [E]ama El Señ[A]or.
+
+Tú que quitas el pecado del mundo, ten piedad de nos[D]otr[A]os, [E].
+Tú que quitas el pecado del mundo, ati[D]ende nu[E]estra súplic[A]a, [F#m].
+Tú que estás sentado a la derecha del Padre, ten pied[D]ad de nos[B]otr[E]os,
+
+
+Gloria a Di[A]os en el ci[F#m]elo, y [D]en la tierra p[A]az a los h[F#m]ombres que [E]ama El Señ[A]or.
+
+Porque solo Tú eres Santo, sólo T[D]ú Señ[A]or, [E].
+solo Tú altísimo J[D]esucr[E]ist[A]o, [F#m].
+con el Espíritu Santo, en la gl[D]oria del Dios P[B]adr[E]e.
+
+[D]A-[E]a-m[A]én.
+  `
+  };
