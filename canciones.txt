@@ -147,7 +147,7 @@ canciones = [
         "titulo":"Gloria B",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Cordero"],
+        "momentos":["No filtrar","Gloria"],
         "audio":"audios/cordero_pd.mp4",
         "tono_audio":"C",
         "txt":"letras/gloria_b.txt",
@@ -156,7 +156,7 @@ canciones = [
         "titulo":"Gloria MC",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Cordero"],
+        "momentos":["No filtrar","Gloria"],
         "audio":"audios/cordero_pd.mp4",
         "tono_audio":"Am",
         "txt":"letras/gloria_mc.txt",
@@ -165,7 +165,7 @@ canciones = [
         "titulo":"Gloria MMD",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Cordero"],
+        "momentos":["No filtrar","Gloria"],
         "audio":"audios/cordero_pd.mp4",
         "tono_audio":"A",
         "txt":"letras/gloria_mmd.txt",
@@ -174,7 +174,7 @@ canciones = [
         "titulo":"Gloria ST",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Cordero"],
+        "momentos":["No filtrar","Gloria"],
         "audio":"audios/cordero_pd.mp4",
         "tono_audio":"E",
         "txt":"letras/gloria_st.txt",
@@ -183,12 +183,13 @@ canciones = [
         "titulo":"Gloria V",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Cordero"],
+        "momentos":["No filtrar","Gloria"],
         "audio":"audios/cordero_pd.mp4",
         "tono_audio":"C",
         "txt":"letras/gloria_vzla.txt",
       },
 ]
+
 
 
 
