@@ -104,7 +104,7 @@ async function mostrarAudioLetraAcordes(c) {
   audio_file=c.audio
   audio_tono=c.audio_tono
   document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
-  document.getElementById("bloque_audio").innerHTML += '<p >Audio por '+audio_tono+'</p>'
+  document.getElementById("bloque_audio").innerHTML += '<p >"Audio por '+audio_tono+'"</p>'
   letra_acordes = await (await fetch((txt_file))).text();
   eval(letra_acordes)
   crear_bloque_letra(letra)
@@ -147,6 +147,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
