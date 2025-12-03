@@ -41,7 +41,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_m.mp4",
-        "tono_audio":"G",
+        "tono_audio":"A",
         "txt":"letras/santo_m.txt",
       },
       {
@@ -144,6 +144,7 @@ canciones = [
         "txt":"letras/cordero_pd.txt",
       },
 ]
+
 
 
 
