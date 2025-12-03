@@ -143,7 +143,53 @@ canciones = [
         "tono_audio":"C",
         "txt":"letras/cordero_pd.txt",
       },
+      {
+        "titulo":"Gloria B",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_pd.mp4",
+        "tono_audio":"C",
+        "txt":"letras/gloria_b.txt",
+      },
+      {
+        "titulo":"Gloria MC",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_pd.mp4",
+        "tono_audio":"Am",
+        "txt":"letras/gloria_mc.txt",
+      },
+      {
+        "titulo":"Gloria MMD",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_pd.mp4",
+        "tono_audio":"A",
+        "txt":"letras/gloria_mmd.txt",
+      },
+      {
+        "titulo":"Gloria ST",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_pd.mp4",
+        "tono_audio":"E",
+        "txt":"letras/gloria_st.txt",
+      },
+      {
+        "titulo":"Gloria V",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cordero"],
+        "audio":"audios/cordero_pd.mp4",
+        "tono_audio":"C",
+        "txt":"letras/gloria_vzla.txt",
+      },
 ]
+
 
 
 
