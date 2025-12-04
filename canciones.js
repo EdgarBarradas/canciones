@@ -110,8 +110,6 @@ async function fileExist(ruta) {
 
 async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   fileExist(audio_file).then(exist => {
-    console.log(audio_file)
-    console.log(exist)
     if (exist) {
       document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
       document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;">Audio por '+tono_audio+'</p>'
@@ -162,6 +160,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
