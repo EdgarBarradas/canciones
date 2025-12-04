@@ -116,7 +116,8 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
       document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
       document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;">Audio por '+tono_audio+'</p>'
     } else {
-      document.getElementById("bloque_audio").innerHTML = '<p style="color: grey;">No hay audio para esta canción</p>'
+      document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
+      document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;">No hay audio para esta canción</p>'
     }
 });
   letra_acordes = await (await fetch((txt_file))).text();
@@ -161,6 +162,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
