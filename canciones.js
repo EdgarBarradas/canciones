@@ -99,9 +99,24 @@ function transponer(nuevo){////////////////////////////------Esta función reali
       crear_bloque_letra(letra)
 }
 
+async function fileExist(ruta) {
+    try {
+        const resp = await fetch(ruta, { method: "HEAD" });
+        return resp.ok;   // true si existe (200), false si no (404)
+    } catch (e) {
+        return false;     // error de red → tratar como que no existe
+    }
+}
+
 async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
-  document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
-  document.getElementById("bloque_audio").innerHTML += '<p >Audio por '+tono_audio+'</p>'
+  fileExist("./audio/cancion.mp4").then(exist => {
+    if (exist) {
+      document.getElementById("bloque_audio").innerHTML = '<audio controls src="'+audio_file+'"></audio>'
+      document.getElementById("bloque_audio").innerHTML += '<p >Audio por '+tono_audio+'</p>'
+    } else {
+      document.getElementById("bloque_audio").innerHTML += '<p >No hay audio para esta canción</p>'
+    }
+});
   letra_acordes = await (await fetch((txt_file))).text();
   eval(letra_acordes)
   crear_bloque_letra(letra)
@@ -144,6 +159,7 @@ leerCanciones("canciones.txt")
 
 
   
+
 
 
 
