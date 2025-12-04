@@ -148,7 +148,7 @@ canciones = [
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
-        "audio":"audios/C4.mp4",
+        "audio":"",
         "tono_audio":"C",
         "txt":"letras/gloria_b.txt",
       },
@@ -157,7 +157,7 @@ canciones = [
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
-        "audio":"audios/C4.mp4",
+        "audio":"",
         "tono_audio":"Am",
         "txt":"letras/gloria_mc.txt",
       },
@@ -166,7 +166,7 @@ canciones = [
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
-        "audio":"audios/C4.mp4",
+        "audio":"",
         "tono_audio":"A",
         "txt":"letras/gloria_mmd.txt",
       },
@@ -175,7 +175,7 @@ canciones = [
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
-        "audio":"audios/C4.mp4",
+        "audio":"",
         "tono_audio":"E",
         "txt":"letras/gloria_st.txt",
       },
@@ -184,11 +184,12 @@ canciones = [
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
-        "audio":"audios/C4.mp4",
+        "audio":"",
         "tono_audio":"C",
         "txt":"letras/gloria_vzla.txt",
       },
 ]
+
 
 
 
