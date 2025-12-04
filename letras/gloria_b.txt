@@ -8,14 +8,14 @@ Gl[C]o-[F]oria a Di[G]os, en el ci[F]e-[G]e-l[C]o, y en la t[F]ierra p[G]az, a l
 
 Te [C]alab[F]amos, [G] te bendec[C]imos, te ador[F]amos, [G] te glorific[C]amos,
 t[F]e d[G]amos gr[C]acias, p[F]or tu inm[G]ensa gl[C]oria,
-S[F]eñor Di[G]os r[F]ey celesti[G]al, Di[F]os P[G]adre t[F]odopoder[G]oso.
+S[F]eñor Di[G]os R[F]ey celesti[G]al, Di[F]os P[G]adre t[F]odopoder[G]oso.
 
 Gl[C]o-[F]oria a Di[G]os, en el ci[F]e-[G]e-l[C]o, y en la t[F]ierra p[G]az, a los h[F]ombres p[G]az, de bu[F]ena v[G]olunt[C]ad. [F] [G].
 
-S[C]eñor h[F]ijo [G] únic[C]o, Jesucr[F]isto [G] Señor Di[C]os,
-c[F]order[G]o de Di[C]os, h[F]ij[G]o del P[C]adre,
-t[F]ú que qu[G]itas [F] el pec[G]ado, t[F]en pied[G]ad, [F] de nos[G]otros,
-t[F]ú que qu[G]itas [F] el pec[G]ado, t[F]en pied[G]ad, [F] de nos[G]otros.
+S[C]eñor H[F]ijo [G] únic[C]o, Jesucr[F]isto [G] Señor Di[C]os,
+C[F]order[G]o de Di[C]os, H[F]ij[G]o del P[C]adre,
+T[F]ú que qu[G]itas [F] el pec[G]ado, t[F]en pied[G]ad, [F] de nos[G]otros,
+T[F]ú que qu[G]itas [F] el pec[G]ado, t[F]en pied[G]ad, [F] de nos[G]otros.
 
 Gl[C]o-[F]oria a Di[G]os, en el ci[F]e-[G]e-l[C]o, y en la t[F]ierra p[G]az, a los h[F]ombres p[G]az, de bu[F]ena v[G]olunt[C]ad. [F] [G].
 
@@ -26,4 +26,5 @@ c[F]on el Esp[G]íritu, [F] Espiritu S[G]anto, [F]en la gl[G]oria [F] de Dios P[
 Gl[C]o-[F]oria a Di[G]os, en el ci[F]e-[G]e-l[C]o, y en la t[F]ierra p[G]az, a los h[F]ombres p[G]az, de bu[F]ena v[G]olunt[C]ad. [F] [G].
   `
   };
+
 
