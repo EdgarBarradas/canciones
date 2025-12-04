@@ -5,18 +5,19 @@ letra={
 Gl[E]oria a Di[A]os, en las alt[E]uras y p[A]az, en la ti[E]erra, a los h[A]ombres de bu[B]ena volunt[E]ad.
 
 Te alabamos, te bendecimos, te ad[A]oramos, te glorific[E]a-m[B]os.
-Te damos gr[E]acias, por tu inmensa gloria, Señor Dios p[A]adre, todopoder[E]o-s[B]o.
+Te damos gr[E]acias, por tu inmensa gloria, Señor Dios P[A]adre, todopoder[E]o-s[B]o.
 
 Gl[E]oria a Di[A]os, en las alt[E]uras y p[A]az, en la ti[E]erra, a los h[A]ombres de bu[B]ena volunt[E]ad.
 
-Tú ere el cordero, que quita el pecado, Ten piedad de nos[A]otros, escucha nuestra oraci[E]o-[B]ón.
-Solo tú eres s[E]anto, solo tú Señor, solo tú alt[A]ísimo, Jesucr[E]is-t[B]o.
+Tú eres El Cordero, que quita el pecado, ten piedad de nos[A]otros, escucha nuestra oraci[E]o-[B]ón.
+Solo Tú eres s[E]anto, solo Tú Señor, solo Tú alt[A]ísimo, Jesucr[E]is-t[B]o.
 
 Gl[E]oria a Di[A]os, en las alt[E]uras y p[A]az, en la ti[E]erra, a los h[A]ombres de bu[B]ena volunt[E]ad.
 
-Tú que estás sentado, a la diestra del padre, con el Espíritu S[A]anto, en la gloria del P[E]a-dr[B]e.
+Tú que estás sentado, a la diestra del Padre, con el Espíritu S[A]anto, en la gloria del P[E]a-dr[B]e.
 
 Gl[E]oria a Di[A]os, en las alt[E]uras y p[A]az, en la ti[E]erra, a los h[A]ombres de bu[B]ena volunt[E]ad.
 `
   };
+
 
