@@ -2,9 +2,9 @@ letra={
   titulo:"El tamborilero",
   tonalidad:"A",
   letra:`
-[A]El camino que ll[D]eva a Bel[A]én, baja hasta el valle que la ni[D]eve cubri[A]ó,[E]los pastorcillos quieren v[D]er a su r[E]ey, 
+[A]El camino que ll[D]eva a Bel[A]én, baja hasta el valle que la ni[D]eve cubri[A]ó,[E] los pastorcillos quieren v[D]er a su r[E]ey, 
 le traen reg[A]alos en su hum[A7]ilde zurr[D]ón, ropoponp[A]om, ropoponp[E]om,
-h[A]a nacido en un port[D]al de Bel[A]én, [E]El Niño Di[A]os.
+h[A]a nacido en un port[D]al de Bel[A]én, [E] El Niño Di[A]os.
 
 Yo quisiera pon[D]er a tus pi[A]es, algún presente que te agr[D]ade, Señ[A]or,[E] mas tú ya sabes que soy p[D]obre tambi[E]én, 
 y no pos[A]eo más que un vi[A7]ejo tamb[D]or, ropoponp[A]om, ropoponponp[E]om,
@@ -15,3 +15,4 @@ su ronco ac[A]ento es c[A7]anto de am[D]or, ropoponp[A]om, ropoponp[E]om,
 cu[A]ando Dios me vio toc[D]ando ante [A]Él, m[E]e sonri[A]ó.
   `
   };
+
