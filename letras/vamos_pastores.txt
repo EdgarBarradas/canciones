@@ -1,0 +1,20 @@
+letra={
+  titulo:"Vamos pastores",
+  tonalidad:"E",
+  letra:`
+V[E]amos pastores, que el tiempo pasa, vamos a c[B]asa del Niño Di[E]os. (2)
+Allí postr[A]ados le adorar[E]emos y le dar[B]emos el coraz[E]ón. (2)
+
+Pastores a Belén, vamos con alegr[B]ía, a ver al Niño Dios, al hijo de Mar[E]ía,
+ah[A]í, ah[E]í, ahí está Jes[E]ús, ah[A]í, ah[E]í, radiante está la l[E]uz.
+
+Llevemos pues, turrones y mi[B]el, para ofrecer al Niño Manu[E]el. (2)
+Ay Manuel, ay Manuel, ay Manuel.
+
+Yo llevo en mi morral, leche, queso y piñ[B]ones, también llevo panal, mantequilla y reques[E]ones,
+ah[A]í, ah[E]í, ahí está Jes[E]ús, ah[A]í, ah[E]í, radiante está la l[E]uz.
+
+Llevemos pues, turrones y mi[B]el, para ofrecer al Niño Manu[E]el. (2)
+Ay Manuel, ay Manuel, ay Manuel.
+`
+  };

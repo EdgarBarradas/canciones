@@ -1,0 +1,19 @@
+letra={
+  titulo:"Adeste fideles",
+  tonalidad:"C",
+  letra:`
+Ad[C]este fid[G]eles, l[C]aeti triumph[G]antes, ven[Am]ite, ven[G]ite in B[D]e-[D7]ethleh[G]em,
+n[C]atum vid[F]et[C]e, R[D]egem angel[G]orum;
+ven[C]ite adorem[G]us, ven[C]ite adorem[G]us, v[Dm]enite ador[G]emus, D[F]o-[G]omin[C]um.
+
+
+En gr[C]ege rel[G]icto, h[C]umiles ad c[G]unas, voc[Am]ati past[G]ores appr[D]o-[D7]per[G]ant,
+[C]et nos ov[F]anti, gr[D]adu festin[G]emus;
+ven[C]ite adorem[G]us, ven[C]ite adorem[G]us, v[Dm]enite ador[G]emus, D[F]o-[G]omin[C]um.
+
+
+Aet[C]erni Par[G]entis, spl[C]endorem aet[G]ernum, vel[Am]atum sub c[G]arne vid[D]ébi[D7]m[G]us,
+d[C]eum inf[F]antem, p[D]annis invol[G]utum;
+ven[C]ite adorem[G]us, ven[C]ite adorem[G]us, v[Dm]enite ador[G]emus, D[F]o-[G]omin[C]um.
+`
+  };

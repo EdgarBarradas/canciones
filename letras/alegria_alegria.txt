@@ -1,0 +1,20 @@
+letra={
+  titulo:"Alegría, alegría, alegría",
+  tonalidad:"C",
+  letra:`
+		ESTRIBILLO
+Alegr[F]ía, alegría, alegr[C]ía, alegr[F]ía, alegría y plac[C]er,
+que esta noche nace El Niño, en el p[G]ortal de Bel[C]én. (2)
+
+		ESTRIBILLO
+
+Esta noche nace El Niño, yo no t[G]engo que llev[C]arle,
+le llevo mi corazón, que le s[G]irva de pañ[C]ales.
+
+		ESTRIBILLO
+
+En el portal, de Belén, hay estr[G]ellas, sol y l[C]una,
+La Virgen y San José, y El Niñ[G]o que está en la c[C]una.
+
+		ESTRIBILLO  `
+  };

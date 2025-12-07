@@ -1,0 +1,19 @@
+letra={
+  titulo:"El Burrito Sabanero",
+  tonalidad:"G",
+  letra:`
+Con mi burr[G7]ito saban[C]ero voy cam[D]ino de Bel[G]én. (2)
+Si me v[C]en, si me v[G]en, voy cam[D]ino de Bel[G]én. (2)
+
+EL lucer[G7]ito mañan[C]ero ilum[D]ina mi send[G]ero. (2)
+Si me v[C]en, si me v[G]en, voy cam[D]ino de Bel[G]én. (2)
+
+Con mi cuatr[G7]ico voy cant[C]ando, mi burr[D]ito va trot[G]ando. (2)
+Si me v[C]en, si me v[G]en, voy cam[D]ino de Bel[G]én. (2)
+
+T[B]uki tuki tuki t[Em]uki, t[B]uki tuki tukit[Em]á,
+apúr[A]ate mi burr[D]ito que ya v[A]amos a lleg[D]ar,
+t[B]uki tuki tuki t[Em]uki, t[B]uki tuki tukit[Em]ú,
+apúr[C]ate mi burr[G]ito vamos [D]a ver a Jes[G]ús.
+  `
+  };

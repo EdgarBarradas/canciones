@@ -1,0 +1,24 @@
+letra={
+  titulo:"Hoy en la terra",
+  tonalidad:"E",
+  letra:`
+		ESTRIBILLO
+H[E]oy en la ti[B]erra, n[A]ace el am[B]or, h[E]oy en la ti[B]erra, n[A]ac[B]e Di[E]os, [B].
+h[E]oy en la ti[B]erra, n[A]ace el am[B]or, h[E]oy en la ti[B]erra, n[A]ac[B]e Di[E]os.
+
+Alegría, p[A]az y am[E]or, en la ti[B]erra a los h[E]ombres,
+alegría, p[A]az y am[E]or, esta n[B]oche nace Di[E]os.
+
+		ESTRIBILLO
+
+Alegría, g[A]ozo y p[E]az, en la ti[B]erra a los h[E]ombres,
+alegría, g[A]ozo y p[E]az, esta n[B]oche es Navid[E]ad.
+
+		ESTRIBILLO
+
+Alegría, p[A]az y b[E]ien, en la ti[B]erra a los h[E]ombres,
+alegría p[A]az y bi[E]en, hoy Dios n[B]ace en Bel[E]én.
+
+		ESTRIBILLO
+  `
+  };

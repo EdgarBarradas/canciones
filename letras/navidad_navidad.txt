@@ -1,0 +1,29 @@
+letra={
+  titulo:"Navidad, Navidad",
+  tonalidad:"D",
+  letra:`
+		ESTRIBILLO
+N[D]avidad, Navidad, d[G]ulce Navid[D]ad, c[G]on campanas [D]este día h[E]ay que festej[A]ar,
+N[D]avidad, Navidad, p[G]orque ya naci[D]ó, ayer n[G]oche, N[D]ochebuena, [A]El Niño de Di[D]os.
+
+Pastores a Belén, queries pronto lleg[G]ar, seguid aquella estr[A]ella, que allí os guiar[D]á.
+Llegando a Belén, dormido en caja est[G]á, con su dulce sonr[A]isa, y hojas de la p[D]az.
+
+		ESTRIBILLO
+
+La Virgen y San José, a su lado estar[G]án, y los tres reyes m[A]agos, regalitos les traer[D]án.
+Incienso, mirra y turrón, mazapán para alegr[G]ar, al Niño que ha nac[A]ido, ha nacido en el port[D]al.
+
+		ESTRIBILLO
+
+Campanas por doquier, resuenan sin ces[G]ar, proclaman con plac[A]er, que hoy es Navid[D]ad.
+Los niños con canción, la grata nueva d[G]an, de este día de am[A]or, y buena volunt[D]ad.
+
+		ESTRIBILLO
+
+El Niño de Belén, nos trae la salvaci[G]ón, con júbilo son p[A]ar, se entona esta canci[D]ón.
+Yo te amo mi Jesús, tus glorias cantar[G]é, en este día tan fel[A]iz, me regocijar[D]é.
+
+		ESTRIBILLO
+`
+  };

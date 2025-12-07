@@ -1,0 +1,18 @@
+letra={
+  titulo:"Ángeles cantando están",
+  tonalidad:"D",
+  letra:`
+[D]Ángeles cant[G]ando est[D]án, tan dulc[G]ísim[A]a canci[D]ón, las montañas su [G]eco d[D]an, como fi[G]el cont[A]estaci[D]ón.
+
+		ESTRIBILLO
+Gl[D]o-[G]o-[D]o-[A]o-ria, [G]a Dios en el ci[E]el[A]o, Gl[D]o-[G]o-[D]o-[A]o-ria, [G]a Dios en el ci[D]e-[A]l[D]o.
+
+L[D]os pastores s[G]in ces[D]ar, sus lo[G]ores d[A]an a Di[D]os, cuán glorioso es e[G]l cant[D]ar, de su m[G]elodi[A]osa v[D]oz.
+
+		ESTRIBILLO
+
+[D]Oh, venid pronto [G]a Bel[D]én, para c[G]ontempl[A]ar con f[D]e, a Jesús, aut[G]or del bi[D]en, al reci[G]én nac[A]ido r[D]ey.
+
+		ESTRIBILLO
+`
+  };

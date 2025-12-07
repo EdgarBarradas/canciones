@@ -1,0 +1,17 @@
+letra={
+  titulo:"Noche",
+  tonalidad:"G",
+  letra:`
+N[G]oche de paz, noche de amor, cl[D]aro s[D7]ol br[G]illa y[G7]a,
+[C]y los ángeles c[G]antando están, gl[C]oria a Dios, gloria al R[G]ey eternal.
+Du[D]erme el N[D7]iño Jes[G]ú-[Em]ús, du[G]erme el N[D]iño Jes[G]ús.
+
+N[G]oche de paz, noche de Dios, [D]al port[D7]al va [G]el past[G7]or,
+[C]y entre paja se encu[G]entra el Señor, [C]es el Verbo que c[G]arne tomó.
+Du[D]erme el N[D7]iño Jes[G]ú-[Em]ús, du[G]erme el N[D]iño Jes[G]ús.
+
+N[G]oche feliz, noche de amor, t[D]odo du[D7]erme en d[G]erred[G7]or,
+[C]solo velan mir[G]ando la faz, d[C]e su Niño en ang[G]elical paz.
+J[D]osé y Mar[D7]ía en Bel[G]é-[Em]én, J[G]osé y Mar[D]ía en Bel[G]én.
+  `
+  };

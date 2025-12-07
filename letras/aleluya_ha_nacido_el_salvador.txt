@@ -1,0 +1,23 @@
+letra={
+  titulo:"Aleluya, ha nacido EL Salvador",
+  tonalidad:"D",
+  letra:`
+		ESTRIBILLO
+Alel[D]uya,[G] alel[D]uya, ha nac[G]ido El Salvad[D]or. Aleluya,[G] alel[D]uya, ha nac[G]ido El S[A]alvad[D]or.
+
+Escuchad herm[A]an[D]os, una gr[G]an notic[D]ia.
+H[G]oy en Belén de Jud[D]á, nos ha nac[A]ido El Salvad[D]or. (2)
+
+		ESTRIBILLO
+
+Escuchad herm[A]an[D]os, una gr[G]an notic[D]ia.
+Gl[G]oria en los cielos a Dios, y en la ti[A]erra al hombre de paz. (2)
+
+		ESTRIBILLO
+
+Escuchad herm[A]an[D]os, una gr[G]an notic[D]ia.
+Di[G]os a su Hijo envió, es Jesucr[A]isto Salvador. (2)
+
+		ESTRIBILLO
+  `
+  };

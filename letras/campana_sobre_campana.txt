@@ -1,0 +1,26 @@
+letra={
+  titulo:"Campana sobre campana",
+  tonalidad:"C",
+  letra:`
+C[C]ampana sobre camp[G]ana, y sobre campana [C]una,
+asómate a la vent[G]ana, verás al Niño en la c[C]una.
+
+		ESTRIBILLO
+Belén, camp[F]anas de Bel[C]én, que l[F]os ángeles t[C]ocan, qué nu[G]eva me tra[C]es.
+
+Recogido, t[G]u reb[C]año, [G]a dónd[D]e vas p[G]astorc[C]ito,
+voy a llevar [G]al corr[C]al, r[G]eques[D]ón, mant[G]eca y v[C]ino.
+
+		ESTRIBILLO
+
+C[C]ampana sobre camp[G]ana, y sobre campana d[C]os,
+asómate a la vent[G]ana, que ya nació El Niño Di[C]os.
+
+		ESTRIBILLO
+
+Caminando a m[G]edia n[C]oche, h[G]acia d[D]ónde v[G]as past[C]or,
+te llevo al Niñ[G]o que n[C]ace, c[G]omo Di[D]os mi c[G]oraz[C]ón.
+
+		ESTRIBILLO
+  `
+  };

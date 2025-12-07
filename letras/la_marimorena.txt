@@ -1,0 +1,30 @@
+letra={
+  titulo:"La Marimorena",
+  tonalidad:"A",
+  letra:`
+		ESTRIBILLO
+[A]Ande, ande, ande, LA Marimor[E]ena, ande, ande, ande que es la Nochebu[A]ena. (2)
+
+En el portal de Belén, hay estr[D]ellas, sol y luna, La Virgen y San Jos[E]é, y el Niño que está en la c[A]una.
+
+En el portal de Belén, hacen fu[D]ego los past[A]ores, para calentar al N[E]iño que ha nacido entre las fl[A]ores.
+
+		ESTRIBILLO
+
+Una estrella se ha perdido, y en el ci[D]elo no apar[A]ece, en el portal de ha met[E]ido y su cara respland[A]ece.
+
+		ESTRIBILLO
+
+En el portal de Belén, hay un h[D]ombre haciéndo g[A]achas, con la cuchara en la m[E]ano, convidando a las much[A]achas.
+
+		ESTRIBILLO
+
+Esta noche es Nochebuena y mañ[D]ana es Navid[A]ad, dame la bota Mar[E]ía que me voy a emborrach[A]ar.
+
+		ESTRIBILLO
+
+Los pastores no son hombres, que son [D]ángeles del ci[A]elo, en el patio de Mar[E]ía ellos fueron los prim[A]eros.
+
+		ESTRIBILLO
+  `
+  };
