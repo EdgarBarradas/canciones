@@ -1,0 +1,13 @@
+letra={
+  titulo:"Señor, Señor",
+  tonalidad:"D",
+  letra:`
+Señ[D]or, Señ[Bm]or, t[G]en piedad de nos[A]otros,
+Señ[D]or, Señ[Bm]or, t[G]en piedad de nos[A]otros,
+Cr[D]isto ten pied[Bm]ad, t[G]en piedad de nos[A]otros,
+Cr[D]isto ten pied[Bm]ad, t[G]en piedad de nos[A]otros,
+Señ[D]or, Señ[Bm]or, t[G]en piedad de nos[A]otros,
+Señ[D]or, Señ[Bm]or, t[G]en piedad de nos[A]otros, Señ[D]or.
+
+  `
+  };

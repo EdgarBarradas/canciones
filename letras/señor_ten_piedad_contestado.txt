@@ -1,0 +1,9 @@
+letra={
+  titulo:"Señor ten piedad Contestado",
+  tonalidad:"Am",
+  letra:`
+Señ[Am]or, t[G]en pied[Am]ad. Señ[Am]or, t[G]en pied[Am]ad.
+Cr[Am]isto, t[G]en pied[Am]ad. Cr[Am]isto, t[G]en pied[Am]ad.
+Señ[Am]or, t[G]en pied[Am]ad. Señ[Am]or, t[G]en pied[Am]ad.
+  `
+  };

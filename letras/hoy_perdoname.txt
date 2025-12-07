@@ -1,0 +1,12 @@
+letra={
+  titulo:"Hoy perdóname",
+  tonalidad:"C",
+  letra:`
+H[C]oy[G] perd[Am]óname, h[F]oy por si[G]empre,[G7] sin mir[C]ar a la ment[C7]ira,
+lo vac[F]ío de nuestras v[Fm]idas, nuestra f[C]alta de am[D]or y carid[G]ad. [G7].
+
+H[C]oy[G] perd[Am]óname, h[F]oy por si[G]empre,[G7] aun sabi[C]endo que he ca[C7]ído,
+que de T[F]i siempre había hu[Fm]ído, hoy regr[C]eso arrepent[D]ido, vuelvo a T[G]i, [G7].
+vuelvo a T[C]i, [C7] vuelvo a T[F]i, [G ]vuelvo a T[C]i.
+  `
+  };

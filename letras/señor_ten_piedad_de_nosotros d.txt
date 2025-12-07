@@ -1,0 +1,14 @@
+letra={
+  titulo:"Señor ten piedad de nosotros D",
+  tonalidad:"D",
+  letra:`
+Señ[D]or ten piedad de nos[Em]otros, ten pied[A]ad, Señor ten pied[D]ad,
+Señor ten piedad de nos[Em]otros, ten pied[A]ad, Señor ten pied[D]ad.
+
+Cristo, Cr[Em]isto, Cr[A]isto ten pied[D]ad,
+Cristo, Cr[Em]isto, Cr[A]isto ten pied[D]ad.
+
+Señor ten piedad de nos[Em]otros, ten pied[A]ad, Señor ten pied[D]ad,
+Señor ten piedad de nos[Em]otros, ten pied[A]ad, Señor ten pied[D]ad.
+  `
+  };

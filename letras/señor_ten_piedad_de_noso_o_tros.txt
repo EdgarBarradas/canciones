@@ -1,0 +1,9 @@
+letra={
+  titulo:"Señor ten piedad de noso-o-tros",
+  tonalidad:"Am",
+  letra:`
+Señ[Am]or ten pied[Dm]ad, de nos[F]o-[E]o-tr[Am]os. Señ[Am]or ten pied[Dm]ad, de nos[F]o-[E]o-tr[Am]os.
+Cr[C]-isto, ten pied[G]ad, de nos[F]o-[E]o-tr[Am]os. Cr[C]-isto, ten pied[G]ad, de nos[F]o-[E]o-tr[Am]os.
+Señ[Am]or ten pied[Dm]ad, de nos[F]o-[E]o-tr[Am]os. Señ[Am]or ten pied[Dm]ad, de nos[F]o-[E]o-tr[Am]os.
+  `
+  };

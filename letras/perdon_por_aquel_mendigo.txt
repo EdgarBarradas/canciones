@@ -1,0 +1,29 @@
+letra={
+  titulo:"Perdón por aquel mendigo",
+  tonalidad:"Em",
+  letra:`
+Perd[Em]ón,[B] por aquel mend[Em]igo, por aquella lágrima qu[C]e hice brill[B]ar,
+perdón, por aquellos ojos, que al buscar los míos no quise mir[Em]ar, [E].
+perd[Am]ón, por aquellos [Em]ojos, que al buscar los míos no qu[B]ise mir[Em]ar.
+
+Señ[Em]or,[B] no le di la m[Em]ano, se encontraba solo y lo d[C]ejé part[B]ir,
+perdón, por no dar cariño, por solo buscarlo y tan lejos de T[Em]i, [E].
+perd[Am]ón, por no dar car[Em]iño, por solo buscarlo y tan l[B]ejos de T[Em]i.
+
+		ESTRIBILLO
+Señ[E]or, por qué soy as[Am]í, estoy como ci[D]ego y no sé comprend[G]er,
+Señ[Am]or, Tú eres mi esper[Em]anza, dame tu mir[B]ada y que te sepa v[Em]er, [E].
+Señ[Am]or, Tú eres mi esper[Em]anza, dame tu mir[B]ada y que te sepa v[Em]er.
+
+Señ[Em]or,[B] no voy siempre al[Em]egre, no doy luz a otros que est[C]án junto a m[B]í,
+perdón, por esa tristeza, por sentirme solo cuando estás ah[Em]í, [E].
+perd[Am]ón, por esa trist[Em]eza, por sentirme solo cuando [B]estás ah[Em]í.
+
+Perd[Em]ón,[B] por otros herm[Em]anos, a quienes no importa de t[B]u padec[B]er,
+estás, cerca del que sufre, pasan a tu lado, pero no te v[Em]en, [E].
+est[Am]ás, cerca del que s[Em]ufre, pasan a tu lado, per[B]o no te v[Em]en.
+
+		ESTRIBILLO
+
+  `
+  };

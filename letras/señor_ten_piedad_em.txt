@@ -1,0 +1,14 @@
+letra={
+  titulo:"Señor ten piedad Em",
+  tonalidad:"Em",
+  letra:`
+Señ[Em]or, ten pied[D]ad, t[C]en piedad de nos[B]otros,
+Señ[Em]or, ten pied[D]ad, t[C]en piedad de nos[B]otr[Em]os, [E].
+
+Cr[Am]isto ten pied[D]ad, Cr[G]isto ten pied[C]ad, Cr[Am]isto te pied[B]ad, de nos[Em]o-[B]o-tr[Em]os, [E].
+Cr[Am]isto ten pied[D]ad, Cr[G]isto ten pied[C]ad, Cr[Am]isto te pied[B]ad, de nos[Em]o-[B]o-tr[Em]os.
+
+Señ[Em]or, ten pied[D]ad, t[C]en piedad de nos[B]otros,
+Señ[Em]or, ten pied[D]ad, t[C]en piedad de nos[B]otr[Em]os.
+  `
+  };

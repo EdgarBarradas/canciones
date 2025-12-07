@@ -1,0 +1,24 @@
+letra={
+  titulo:"Perdóname Señor",
+  tonalidad:"E",
+  letra:`
+		ESTRIBILLO
+Perd[E]ón, perd[B]ón, perd[A]óname, Señ[E]or,
+ante T[A]i,[Am] yo pequ[E]é, perd[A]ónam[B]e, Señ[E]or.
+
+Mi pec[Em]ado,[E] yo bien lo con[Am]ozco, y mi f[D]alta no se aparta de mi m[G]ente,
+Contra T[Em]i Señor, contra T[Am]i Señor, y[C]o p[B]e-qu[E]é. [B].
+
+		ESTRIBILLO
+
+En pec[E]ado,[E] me concibi[Am]ó mi madre, y Tú v[D]es que malo soy de nacimi[G]ento,
+Tú qui[Em]eres, mi rectitud de coraz[Am]ón, ens[C]éñame en secr[B]eto lo que és s[E]abio. [B].
+
+		ESTRIBILLO
+
+Que mi [E]alma, quede limp[E]ia de mal[Am]icia, purif[D]ícame Tú de mi pec[G]ado,
+de la mu[Em]erte, líbrame, Señ[Am]or, y mi l[C]engua tu justic[B]ia aclamar[E]á. [B].
+
+		ESTRIBILLO
+  `
+  };

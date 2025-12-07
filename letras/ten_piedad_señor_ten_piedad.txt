@@ -1,0 +1,14 @@
+letra={
+  titulo:"Ten piedad, Señor ten piedad",
+  tonalidad:"Am",
+  letra:`
+Ten pied[Am]ad, Señ[Dm]or ten pied[Am]ad, soy pecad[F]or, t[E]en pied[Am]ad,
+Ten pied[Am]ad, Señ[Dm]or ten pied[Am]ad, soy pecad[F]or, t[E]en pied[Am]ad.
+
+Y de m[F]í, Cristo a piádate, contra T[G]i, yo pequ[Am]é,
+Y de m[F]í, Cristo a piádate, contra T[G]i, yo pequ[Am]é. [E].
+
+Ten pied[Am]ad, Señ[Dm]or ten pied[Am]ad, soy pecad[F]or, t[E]en pied[Am]ad,
+Ten pied[Am]ad, Señ[Dm]or ten pied[Am]ad, soy pecad[F]or, t[E]en pied[Am]ad.
+  `
+  };
