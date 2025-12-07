@@ -16,7 +16,7 @@ que mañana es fi[G]esta, y al otr[A]o tambi[D]én. [E] [A].
 En el ci[A]elo hay una estrella, que a los r[E]eyes magos gu[A]ía,
 hacia Belén para ver, a Dios h[E]ijo de Mar[A]ía,
 Cuando p[D]asan los mon[A]arcas, sale l[E]a gente al cam[A]ino.
-y alegr[D]es se van con [A]ellos, para v[E]er al tierno n[A]iño. [A7].
+y alegr[D]es se van con [A]ellos, para v[E]er al tierno N[A]iño. [A7].
 
 		ESTRIBILLO
 
@@ -28,3 +28,4 @@ para ens[D]eñar a los h[A]ombres, la humild[E]ad de su lin[A]aje. [A7].
 		ESTRIBILLO
 `
   };
+
