@@ -7,6 +7,8 @@ letra={
 
 En el portal de Belén, hay estr[D]ellas, sol y luna, La Virgen y San Jos[E]é, y el Niño que está en la c[A]una.
 
+		ESTRIBILLO
+
 En el portal de Belén, hacen fu[D]ego los past[A]ores, para calentar al N[E]iño que ha nacido entre las fl[A]ores.
 
 		ESTRIBILLO
@@ -28,3 +30,4 @@ Los pastores no son hombres, que son [D]ángeles del ci[A]elo, en el patio de Ma
 		ESTRIBILLO
   `
   };
+
