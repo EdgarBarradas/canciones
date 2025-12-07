@@ -8,14 +8,15 @@ quiera nacer en nos[Bm]otros tambi[G]én, aleluy[A]a aleluy[D]a.
 		ESTRIBILLO
 Aleluya, aleluy[G]a, aleluy[A]a, aleluy[D]a.
 
-S[D]olo los pobres y hum[Bm]ildes lo v[G]en, aleluya, [G]aleluy[D]a,
+S[D]olo los pobres y hum[Bm]ildes lo v[G]en, aleluya, [A]aleluy[D]a,
 solo el amor nos cond[Bm]uce hasta [G]Él, aleluy[A]a, aleluy[D]a.
 
 		ESTRIBILLO
 
-H[D]ay en los cielos mens[Bm]ajes de p[G]az, aleluya, [G]aleluy[D]a,
+H[D]ay en los cielos mens[Bm]ajes de p[G]az, aleluya, [A]aleluy[D]a,
 para los hombres de f[Bm]e y volunt[G]ad, aleluy[A]a, aleluy[D]a.
 
 		ESTRIBILLO
   `
   };
+
