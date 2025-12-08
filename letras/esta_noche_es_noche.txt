@@ -1,0 +1,20 @@
+letra={
+  titulo:"Esta noche es noche",
+  tonalidad:"Bm",
+  letra:`
+Esta noche es n[Bm]oche, noche de alegr[A]ía,
+noche en que dio a l[G]uz, la Virgen Mar[F#]ía, la Virgen Mar[Bm]ía. (2)
+
+		ESTRIBILLO
+C[B]antemos, cant[Em]emos, con gran ef[Bm]icacia,
+y a los aguin[F#]aldos, démosle las gr[Bm]acias. (2)
+
+
+Los pastores d[Bm]icen, vamos a Bel[A]én;
+a adorar al N[G]iño, para nuestro bi[F#]en, par nuestro bi[Bm]en. (2)
+
+
+Rosas del Carmelo, y de Jeric[A]ó,
+vamos a Bel[G]én, que Jesús naci[F#]ó, que Jesús naci[Bm]ó. (2)
+`
+  };

@@ -1,0 +1,27 @@
+letra={
+  titulo:"El cardenalito",
+  tonalidad:"A",
+  letra:`
+		ESTRIBILLO
+[A]Estando en la cruz nu[E]estro redent[A]or, a sacarle esp[A7]ina llegó un pajar[D]ito,
+manchó su plum[E]aje con sangre de Cr[A]isto, [D]y por eso es r[E]ojo, y por eso es r[A]ojo el c[E]ardenal[A]ito.
+
+Si el niño está trist[E]e, se contentar[A]á, y si el niño ll[A7]ora, se consolar[D]á,
+la virgen lo arr[E]ulla con su dulce m[A]anto, y un c[D]ardenal[A]ito le br[E]inda su c[A]anto,
+y un c[D]ardenal[A]ito le br[E]inda su c[A]anto.
+
+		ESTRIBILLO
+
+El cardenalito cruz[E]ó el ancho m[A]ar, cruzando front[A7]eras llegó hasta Bel[D]én,
+y le dijo al N[E]iño que aquí en Venezu[A]ela, toditos los n[A]iños lo ad[E]oran tambi[A]én,
+tod[D]itos los n[A]iños lo ad[E]oran tambi[A]én.
+
+		ESTRIBILLO
+
+Cantaba en su jaula trist[E]e un carden[A]al, cuando el preso c[A7]anta, es por no llor[D]ar,
+llegó un muchach[E]ito, las puertas le abri[A]ó, y a l[D]a libert[A]ad cont[E]ento vol[A]ó,
+y a l[D]a libert[A]ad cont[E]ento vol[A]ó.
+
+		ESTRIBILLO
+`
+  };
