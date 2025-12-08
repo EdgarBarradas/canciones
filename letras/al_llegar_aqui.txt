@@ -1,0 +1,21 @@
+letra={
+  titulo:"Al llegar aquí",
+  tonalidad:"G",
+  letra:`
+Al llegar aqu[G]í, al llegar aquí, m[G7]e saco el pañu[C]elo,
+Para darle a t[D]odos feliz año nu[G]evo, p[C]ara darle a t[G]odos f[D]eliz año nu[G]evo.
+L[C]an-l[G]an-l[D]an-l[G]an, l[C]an-lan-lan, l[G]an-lan-lan, l[D]an-lan-lan, l[G]an.
+
+Palomita blanca, palomita blanca, p[G7]aticas az[C]ules,
+Tú eres la que c[D]anta por dentro’e las n[G]ubes, tú [C]eres la que c[G]anta p[D]or dentro’e las n[G]ubes.
+L[C]an-l[G]an-l[D]an-l[G]an, l[C]an-lan-lan, l[G]an-lan-lan, l[D]an-lan-lan, l[G]an.
+
+Esta era la casa, esta era la casa, qu[G7]e yo les dec[C]ía,
+que al llegar a [D]ella la puerta se abr[G]ía, que [C]al llegar a [G]ella l[D]a puerta se abr[G]ía.
+L[C]an-l[G]an-l[D]an-l[G]an, l[C]an-lan-lan, l[G]an-lan-lan, l[D]an-lan-lan, l[G]an.
+
+¿Qué fue del dichoso?, ¿quién? ¡maravilloso! C[G7]omo San Jos[C]é,
+que una vara s[D]eca, la hizo florec[G]er, que [C]una vara s[G]eca, l[D]a hizo florec[G]er.
+L[C]an-l[G]an-l[D]an-l[G]an, l[C]an-lan-lan, l[G]an-lan-lan, l[D]an-lan-lan, l[G]an.
+`
+  };

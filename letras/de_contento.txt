@@ -1,0 +1,23 @@
+letra={
+  titulo:"De contento",
+  tonalidad:"A",
+  letra:`
+		ESTRIBILLO
+D[A]e contento, v[E]oy cant[A]ando, [B]al Dios N[E]iño c[B]elebr[E]ando. (2)
+
+H[A]imnos, himnos de alab[E]anza, c[D]antos,[E] cantos de alegr[A]ía. 
+[D].En honor al N[A]iño,[E] que nos da Mar[A]ía. (2)
+
+		ESTRIBILLO
+
+C[A]antos, cantos de alegr[A]ía, t[D]odos,[A] todos dirij[A]amos. 
+[D].Al que está nac[A]ido,[E] al que tanto am[A]amos. (2)
+
+		ESTRIBILLO
+
+[A]Eres, eres, oh, Jes[A]ús, v[D]ida,[A] vida y cons[A]uelo. 
+[D].Verdad y cam[A]ino,[E] que nos lleva al ci[A]elo. (2)
+
+		ESTRIBILLO
+`
+  };

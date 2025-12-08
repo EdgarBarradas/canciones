@@ -1,0 +1,22 @@
+letra={
+  titulo:"Corre caballito",
+  tonalidad:"A",
+  letra:`
+C[A]orre caballito, vamos a Bel[Bm]én, a ver a Mar[E]ía y al Niño tambi[A]én. (2)
+Al Niño tambi[B]én, dicen los past[E]ores.
+Qu[D]e ha nacido un N[A]iño cub[E]ierto de fl[A]ores. (2)
+
+[A]El Angel Gabriel, anunció a Mar[Bm]ía, que el Niño Div[E]ino de ella nacer[A]ía. (2)
+De ella nacer[B]ía, dicen los past[E]ores,
+Qu[D]e ha nacido un N[A]iño cub[E]ierto de fl[A]ores. (2)
+
+S[A]an José, La Virgen, la mula y el bu[Bm]ey, fueron los que vi[E]eron al Niño nac[A]er. (2)
+Al Niño nac[B]er, dicen los past[E]ores.
+Qu[D]e ha nacido un N[A]iño cub[E]ierto de fl[A]ores. (2)
+
+L[A]os tres Reyes Magos vienen del or[Bm]iente, y le traen al N[E]iño hermosos pres[A]entes. (2)
+Hermosos pres[B]entes, dicen los past[E]ores,
+Qu[D]e ha nacido un N[A]iño cub[E]ierto de fl[A]ores. (2)
+
+`
+  };

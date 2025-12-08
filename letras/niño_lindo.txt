@@ -1,0 +1,27 @@
+letra={
+  titulo:"Niño lindo",
+  tonalidad:"Dm",
+  letra:`
+		ESTRIBILLO
+N[Dm]iño lindo,[A] ante ti me r[Dm]indo, Niño lindo, eres tú mi D[Dm]ios.
+N[C]iño l[F]indo,[C] ante ti me r[F]indo, N[A]iño l[A#]indo,[A] eres tú mi D[Dm]ios. (2)
+
+Esa tu hermos[C]ura, ese tu cand[F]or,
+El alma me r[A]oba, el alma me r[A#]oba, m[A]e roba el am[Dm]or. (2)
+
+		ESTRIBILLO
+
+Con tus ojos l[C]indos, Jesús, míram[F]e,
+y solo con [A]eso, y solo con [A#]eso, m[A]e consolar[Dm]é. (2)
+
+		ESTRIBILLO
+
+La vida bien m[C]ío, mi alma tambi[F]én,
+te ofrezco gust[A]oso, te ofrezco gust[A#]oso, r[A]endido a tus pi[Dm]es. (2)
+
+		ESTRIBILLO
+
+Adiós, tierno inf[C]ante, adiós, niño, adi[F]ós
+adiós, dulce am[A]ante, adiós, dulce am[A#]ante, [A]adiós, niño, adi[Dm]ós. (2)
+`
+  };

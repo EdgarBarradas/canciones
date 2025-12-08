@@ -1,0 +1,28 @@
+letra={
+  titulo:"La mula",
+  tonalidad:"Bm",
+  letra:`
+T[Bm]engo que andar con cuid[B]ado, piensa la m[Em]ula,
+pues llevo sobre m[A]í, a María y al N[D]iño,
+aún no sé cómo [F#]es, mas pronto nacer[Bm]á,
+tengo que darme pr[F#]isa, y encontrar un lug[Bm]ar. [F#]
+
+J[Bm]osé va muy preocup[B]ado, pues hace fr[Em]ío,
+la noche es muy [A]oscura, y va a nacer el N[D]iño.
+María le consu[F#]ela, y le dice a Jos[Bm]é,
+"Verás como esta n[F#]oche estaremos los tr[Bm]es. [B]
+
+		ESTRIBILLO
+" ¡Qué suerte t[Em]engo!, piensa la m[A]ula, voy a corr[D]er, [Bm].
+conozco un s[Em]itio donde quiz[F#]ás pueda nac[Bm]er. [B]
+Corred past[Em]ores, id prepar[A]ando aquel lug[D]ar, [Bm]
+pedid ay[Em]uda dentro, de n[F#]ada van a lleg[Bm]ar.
+
+Tengo que darle mi ali[B]ento, piensa la m[Em]ula,
+Mientras con la mir[A]ada, no lo deja un mom[D]ento.
+Es un niño preci[F#]oso, nunca vi cosa igu[Bm]al,
+que milagro tan gr[F#]ande, en un pobre port[Bm]al. [B]
+
+		ESTRIBILLO
+`
+  };

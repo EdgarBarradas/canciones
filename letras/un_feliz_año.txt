@@ -1,0 +1,20 @@
+letra={
+  titulo:"Un feliz año pa' ti",
+  tonalidad:"G",
+  letra:`
+		ESTRIBILLO
+Oh, l[G]una que brilla en dic[D]iembre, se oye el rumor de un cañon[G]azo. (2)
+[E]esta parranda quer[Am]ida, vi[D]ene a darte un feliz [G]año. (2)
+Un feliz [D]año pa' ti, un feliz [G]año pa'ella, un feliz [D]año pa' todos, un feliz [G]año. (2)
+
+Este es el conj[D]unto, (ay tú, ay tú), alegre y senc[G]illo. (2)
+[G7] T[C]odo el que lo esc[G]ucha, todo el que lo esc[D]ucha le toma car[G]iño. (2)
+
+		ESTRIBILLO
+
+Nosotros cant[D]amos, (ay tú, ay tú), en La Navid[G]ad. (2)
+[G7] B[C]ellos villanc[G]icos, bellos villanc[D]icos de felicid[G]ad. (2)
+
+		ESTRIBILLO
+`
+  };

@@ -1,0 +1,25 @@
+letra={
+  titulo:"A ti te cantamos",
+  tonalidad:"Bm",
+  letra:`
+		ESTRIBILLO
+A ti te cant[Bm]amos, preci[F#]osa Mar[Bm]ía,[B] y de ti esper[Em]amos paz y alegr[F#]ía.
+A ti te cant[B]amos[Em], a ti te cant[A]am[D]os, preci[G]osa Mar[F#]ía.
+
+T[B]ú, la flor más pura, d[E]el vergel del ci[B]elo, eres la esper[F#]anza, [C#]eres el consu[F#]elo. (2)
+
+		ESTRIBILLO
+
+[B]A ti gran Señora, [E]a ti suspir[B]amos, madre del Dios N[F#]iño, [C#]al que tanto am[F#]amos. (2)
+
+		ESTRIBILLO
+
+[B]Eres luz divina, fu[E]ente de hermos[B]ura, que ilumina al N[F#]iño, c[C#]on gracia y tern[F#]ura. (2)
+
+		ESTRIBILLO
+
+N[B]o nos desampares, d[E]ivina Señ[B]ora, se nuestro consu[F#]elo, [C#]en cualquiera h[F#]ora. (2)
+
+		ESTRIBILLO
+`
+  };

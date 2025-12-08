@@ -1,0 +1,27 @@
+letra={
+  titulo:"Fuego al cañón",
+  tonalidad:"",
+  letra:`
+		ESTRIBILLO
+¡Fu[G]ego al cañ[D]ón!, ¡fuego al cañ[G]ón!,
+p[C]ara que resp[G]eten nu[D]estro parrand[G]ón. (2)
+
+Niño chiquit[D]ico, Niño parrand[G]ero. (2)
+V[C]ente con nos[G]otros, h[D]asta el mes de en[G]ero. (2)
+
+		ESTRIBILLO
+
+Esta casa es gr[D]ande, tiene cuatro esqu[G]inas. (2)
+Y [C]en el centro ti[G]ene, n[D]ardo y clavell[G]inas. (2)
+
+		ESTRIBILLO
+
+San José, La V[D]irgen, la mula y el bu[G]ey. (2)
+Fu[C]eron los que vi[G]eron, [D]al Niño nac[G]er. (2)
+
+		ESTRIBILLO
+
+Esta casa es gr[D]ande, tiene cuatro al[G]eros. (2)
+Y [C]en el centro ti[G]ene, l[D]os aguinald[G]eros. (2)
+`
+  };
