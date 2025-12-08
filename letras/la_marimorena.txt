@@ -3,7 +3,7 @@ letra={
   tonalidad:"A",
   letra:`
 		ESTRIBILLO
-[A]Ande, ande, ande, LA Marimor[E]ena, ande, ande, ande que es la Nochebu[A]ena. (2)
+[A]Ande, ande, ande, La Marimor[E]ena, ande, ande, ande que es la Nochebu[A]ena. (2)
 
 En el portal de Belén, hay estr[D]ellas, sol y luna, La Virgen y San Jos[E]é, y el Niño que está en la c[A]una.
 
@@ -30,4 +30,5 @@ Los pastores no son hombres, que son [D]ángeles del ci[A]elo, en el patio de Ma
 		ESTRIBILLO
   `
   };
+
 
