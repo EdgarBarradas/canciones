@@ -539,7 +539,26 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/la_mula.txt",
       },
+      {
+        "titulo":"El cardenalito",
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/el_cardenalito.txt",
+      },
+      {
+        "titulo":"Esta noche es noche",
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/esta_noche_es_noche.txt",
+      },
 ]
+
 
 
 
