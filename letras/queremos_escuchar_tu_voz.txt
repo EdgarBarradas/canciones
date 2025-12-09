@@ -1,0 +1,12 @@
+letra={
+  titulo:"Queremos escuchar tu voz",
+  tonalidad:"C",
+  letra:`
+Quer[C]emos escuchar tu voz, oh, Jes[F]ús, oh, Jes[C]ús,
+vivir tu amor en plenitud, y cambi[G]ar,
+nuestra v[F]ida, nuestro s[G]er, dando fr[Em]utos de este am[Am]or,
+siendo t[F]estimonio en nu[G]estro camin[C]ar, [C7].
+nuestra v[F]ida, nuestro s[G]er, dando fr[Em]utos de este am[Am]or,
+siendo t[F]estimonio en nu[G]estro camin[C]ar.
+`
+  };

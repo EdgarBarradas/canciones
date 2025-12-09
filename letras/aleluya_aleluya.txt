@@ -1,0 +1,11 @@
+letra={
+  titulo:"Aleluya D",
+  tonalidad:"G",
+  letra:`
+Alel[G]uya, alel[C]uya, alel[D]uya, alel[G]uya.(2)
+
+[Em]Alel[Am]uya, [D]alel[G]uya, [Em]alel[Am]uya, [D]alel[G]uya.(2)
+
+Alel[G]uya, alel[C]uya, alel[D]uya, alel[G]uya.(2)
+`
+  };

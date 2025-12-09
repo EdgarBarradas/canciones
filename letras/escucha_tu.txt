@@ -1,0 +1,10 @@
+letra={
+  titulo:"Escucha, tú",
+  tonalidad:"E",
+  letra:`
+Esc[E]ucha, t[B]ú, la pal[E]abra de Dios,
+no solo con t[A]us o[E]ídos, tambi[F#]én con el coraz[B]ón,
+esc[E]ucha, t[B]ú, la pal[E]abra de Dios,
+y estate siempre at[A]ento [B]a su v[E]oz.
+`
+  };

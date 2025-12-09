@@ -1,0 +1,8 @@
+letra={
+  titulo:"Tu palabra me da vida",
+  tonalidad:"C",
+  letra:`
+Tu pal[C]abra m[C7]e da v[F]id[C]a, confío en Ti, Señ[G]or,
+tu pal[C]abra [C7]es et[F]ern[C]a, en ella esp[G]erar[C]é.
+`
+  };

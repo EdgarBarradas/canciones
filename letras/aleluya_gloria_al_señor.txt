@@ -1,0 +1,14 @@
+letra={
+  titulo:"Aleluya, gloria al Señor",
+  tonalidad:"D",
+  letra:`
+Alel[D]uya, aleluya, al[G]eluya, aleluya, gl[A]oria al Señ[D]or,
+aleluya, aleluya, al[G]eluya, aleluya, gl[A]oria al Señ[D]or.
+
+Gloria al Señ[G]or (aleluya), gl[A]oria al Señ[D]or (aleluya),
+gloria al Señ[G]or (aleluya), gl[A]oria al Señ[D]or.
+
+Alel[D]uya, aleluya, al[G]eluya, aleluya, gl[A]oria al Señ[D]or,
+aleluya, aleluya, al[G]eluya, aleluya, gl[A]oria al Señ[D]or.
+`
+  };

@@ -1,0 +1,8 @@
+letra={
+  titulo:"Canta aleluya",
+  tonalidad:"Am",
+  letra:`
+C[Am]anta alel[G]uya al Señ[Am]or, [G]. c[Am]anta alel[G]uya al Señ[Am]or, [E].
+c[F]anta alel[G]uya, c[F]anta alel[C]uy[Am]a, c[Am]anta alel[G]uya el Señ[Am]or.
+`
+  };

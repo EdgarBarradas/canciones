@@ -1,0 +1,10 @@
+letra={
+  titulo:"Honor y gloria",
+  tonalidad:"D",
+  letra:`
+Hon[D]or y gl[A]oria a T[Bm]i, Señ[F#]or, S[G]eñ[E]or Jes[A]ús, [A7].
+hon[D]or y gl[A]oria a T[Bm]i, Seño[F#]r, S[G]eñ[A]or Jes[D]ús, [A]
+esp[G]ero en [A]El Señ[D]or, esp[G]ero en s[E]u pal[A]abra,
+hon[D]or y gl[A]oria a T[Bm]i, Seño[F#]r, S[G]eñ[A]or Jes[D]ús.
+`
+  };

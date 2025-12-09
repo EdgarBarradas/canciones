@@ -1,0 +1,11 @@
+letra={
+  titulo:"Oh, oh, aleluya",
+  tonalidad:"C",
+  letra:`
+Oh, oh [C]alel[G]uy[Am]a, oh,oh [F]alel[G]uy[C]a, [G].
+oh, oh, oh,[C] alel[F]uy[E]a[Am]a, al[F]el[G]uy[C]a. [G].
+
+Oh, oh [C]alel[G]uy[Am]a, oh,oh [F]alel[G]uy[C]a, [G].
+oh, oh, oh,[C] alel[F]uy[E]a[Am]a, al[F]el[G]uy[C]a.
+`
+  };
