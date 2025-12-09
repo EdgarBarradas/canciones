@@ -687,7 +687,7 @@ canciones = [
         "titulo":"En la espera",
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Comunión","Marianos"],
+        "momentos":["No filtrar","Comunión"],
         "audio":"no hay",
         "tono_audio":"x",
         "txt":"letras/en_la_espera.txt",
@@ -795,10 +795,11 @@ canciones = [
         "titulo":"Virgen del Adviento",
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Marianos"],
+        "momentos":["No filtrar"],
         "audio":"no hay",
         "tono_audio":"x",
         "txt":"letras/virgen_del_adviento.txt",
       },
 ]
+
 
