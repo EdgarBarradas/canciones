@@ -557,24 +557,94 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/esta_noche_es_noche.txt",
       },
+      {
+        "titulo":"Gloria aleluya",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/gloria_aleluya.txt",
+      },
+      {
+        "titulo":"Aleluya, gloria al Señor",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/aleluya_gloria_al_señor.txt",
+      },
+      {
+        "titulo":"Aleluya",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/aleluya.txt",
+      },
+      {
+        "titulo":"Aleluya D",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/aleluya_aleluya.txt",
+      },
+      {
+        "titulo":"Oh, oh, aleluya",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/oh_oh_aleluya.txt",
+      },
+      {
+        "titulo":"Canta aleluya",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/canta_aleluya.txt",
+      },
+      {
+        "titulo":"Honor y gloria",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/honor_y_gloria.txt",
+      },
+      {
+        "titulo":"Queremos escuchar tu voz",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/queremos_escuchar_tu_voz.txt",
+      },
+      {
+        "titulo":"Escucha, tú",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/escucha_tu.txt",
+      },
+      {
+        "titulo":"Tu palabra me da vida",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["Interleccional"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/tu_palabra_me_da_vida.txt",
+      },
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
