@@ -1,0 +1,25 @@
+letra={
+  titulo:"Quiero decir que sí",
+  tonalidad:"C",
+  letra:`
+Qui[C7]ero dec[F]ir que sí, como T[G]ú, Mar[Em]ía,
+como T[A]ú, un d[Dm]ía, como T[G]ú, Mar[C]ía,
+qui[C7]ero decir que s[F]í, qui[G]ero decir que s[Em]í,
+qui[A]ero decir que s[Dm]í, qui[G]ero decir que s[C]í.
+
+Qui[C7]ero entregarme a [F]Él, como T[G]ú, Mar[Em]ía,
+como T[A]ú, un d[Dm]ía, como T[G]ú, Mar[C]ía,
+qui[C7]ero entregarme a [F]Él, qui[G]ero entregarme a [Em]Él,
+qui[A]ero entregarme a [Dm]Él, qui[G]ero entregarme a [C]Él.
+
+Qui[C7]ero negarme a [F]mí, como T[G]ú, Mar[Em]ía,
+como T[A]ú, un d[Dm]ía, como T[G]ú, Mar[C]ía,
+qui[C7]ero negarme a [F]mí, qui[G]ero negarme a [Em]mí,
+qui[A]ero negarme a [Dm]mí, qui[G]ero negarme a [C]mí.
+
+Qui[C7]ero dec[F]ir que sí, como T[G]ú, Mar[Em]ía,
+como T[A]ú, un d[Dm]ía, como T[G]ú, Mar[C]ía,
+qui[C7]ero decir que s[F]í, qui[G]ero decir que s[Em]í,
+qui[A]ero decir que s[Dm]í, qui[G]ero decir que s[C]í.
+`
+  };

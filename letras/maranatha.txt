@@ -1,0 +1,22 @@
+letra={
+  titulo:"Maranatha",
+  tonalidad:"A",
+  letra:`
+H[A]az que abandone la alf[E]orja que hasta ahora he llev[A]ado, 
+h[D]az que rechace el vest[E]ido que traje hasta aqu[A]í, [F#m].
+ha[D]z que me quede desn[E]udo ante tu pres[A]encia, 
+h[D]az que abandone mi vi[E]eja razón de viv[A]ir. [A7].
+
+		ESTRIBILLO
+Maranath[D]a,[E] ven Señor Jes[A]ús,[F#m] Maranath[E]a, ven Señor Jes[A]ús, [A7].
+Maranath[D]a,[E] ven Señor Jes[A]ús,[F#m] Maranath[E]a, ven Señor Jes[A]ús.
+
+Dame valor en la l[E]ucha que llevo conmigo,
+h[D]az que comprenda que s[E]olo un rival tengo y[A]o, 
+[D]ese rival es el di[E]ablo que habita en mi ad[A]entro, 
+cu[D]ando me venza a mí m[E]ismo seré ya de Di[A]os. [A7].
+
+		ESTRIBILLO
+
+`
+  };

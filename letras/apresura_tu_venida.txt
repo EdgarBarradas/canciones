@@ -1,0 +1,28 @@
+letra={
+  titulo:"Apresura tu venida",
+  tonalidad:"A",
+  letra:`
+Señ[A]or que vi[D]enes a d[A]arnos, nueva vi-[D]i-d[E]a,
+apres[D]ura tu ven[E]ida, apres[D]ura t[E]u ven[A]i-[E]i-d[A]a.
+
+Tú que traes la esperanza, de alcanzar la s[D]alvaci[E]ón,
+y [D]eres la eterna ali[A]anza, de paz y d[D]e bendici[E]ón,
+inf[D]unde en el corazón, nueva v[A]i-[D]i-d[E]a, apres[A]ura tu ven[E]i-d[A]a.
+Apres[D]ura tu ven[E]ida, apres[D]ura t[E]u ven[A]i-[E]i-d[A]a.
+
+Tú viniste por librarnos, del pecado y d[D]el dol[E]or,
+[D]y vendrás para, juzg[A]arnos, tan solo s[D]obre el am[E]or,
+siempre vi[D]enes para darnos, nueva v[A]i-[D]i-d[E]a, apres[A]ura tu ven[E]i-d[A]a.
+Apres[D]ura tu ven[E]ida, apres[D]ura t[E]u ven[A]i-[E]i-d[A]a.
+
+Ahora vienes disfrazado, te podemos c[D]onoc[E]er,
+p[D]orque estas a nuestro l[A]ado, si te acept[D]amos a v[E]er,
+pues nos vi[D]enes a traer, nueva v[A]i-[D]i-d[E]a, apres[A]ura tu ven[E]i-d[A]a.
+Apres[D]ura tu ven[E]ida, apres[D]ura t[E]u ven[A]i-[E]i-d[A]a.
+
+Los que su estrella habéis visto, no dejéis de c[D]amin[E]ar,
+pu[D]ertas abiertas a Cr[A]isto, abridlas d[D]e par en p[E]ar,
+pues que vi[D]enes para dar, nueva v[A]i-[D]i-d[E]a, apres[A]ura tu ven[E]i-d[A]a.
+Apres[D]ura tu ven[E]ida, apres[D]ura t[E]u ven[A]i-[E]i-d[A]a.
+`
+  };

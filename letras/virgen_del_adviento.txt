@@ -1,0 +1,28 @@
+letra={
+  titulo:"Virgen del Adviento",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+V[D]irgen del advi[[G]ent[D]o, [G]esperanza nu[D]estra,
+ruega por nos[G]otr[D]os, m[G]adre d[A]e la igl[D]esia.
+
+V[D]irgen del advi[A]ent[D]o, [A]esper[Bm]anza nu[F#]estra;
+d[D]e Jesús la aur[A]or[D]a, d[Bm]el cielo la pu[A]erta.
+
+	ESTRIBILLO
+
+M[D]adre de los h[A]ombr[D]es, d[A]e la m[Bm]ar estr[F#]ella;
+ll[D]évanos a Cr[A]ist[D]o, d[Bm]anos sus prom[A]esas.
+
+	ESTRIBILLO
+
+[D]Eres Virgen M[A]adr[D]e, l[A]a de gr[Bm]acia ll[F#]ena;
+d[D]el Señor la escl[A]av[D]a, d[Bm]el mundo la R[A]eina.
+
+	ESTRIBILLO
+
+[D]Alza nuestros [A]oj[D]os, h[A]acia t[Bm]u bell[F#]eza;
+gu[D]ía nuestros p[A]as[D]os, [Bm]a la vida et[A]erna.
+
+`
+  };

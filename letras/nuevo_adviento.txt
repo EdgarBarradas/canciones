@@ -1,0 +1,30 @@
+letra={
+  titulo:"Nuevo Adviento",
+  tonalidad:"",
+  letra:`
+	ESTRIBILLO
+Señ[C]or te esperamos, [F]en el nuevo Advi[D]ent[G]o,
+vi[C]enes a salvarnos, v[F]amos a tu encu[G]entr[D]o. [G].
+
+Se [C]oye d[E]esde l[Am]ejos, la v[C]oz de Isa[G]ías,
+que an[C]uncia al Mes[E]í[Am]as, le ll[F]ama Emmanu[G]el.
+Ju[C]an nos lo señala: "Cord[F]ero inmol[G]ado,
+que qu[F]ita el pec[C]ado", vay[F]am[G]os con [C]Él.
+
+	ESTRIBILLO
+
+C[C]on la V[E]irgen M[Am]adre, la Igl[C]esia está un[G]ida;
+en v[C]ela encend[E]id[Am]a, de f[F]e y de oraci[G]ón.
+L[C]a Virg[E]en María, del s[F]ol es la aur[G]ora,
+ya ll[F]ega la h[C]ora, de l[F]a s[G]alvaci[C]ón.
+
+	ESTRIBILLO
+
+Ve[C]n a nu[E]estro m[Am]undo, Señ[C]or, que te esp[G]era;
+comi[C]ence una [E]er[Am]a, de l[F]uz y verd[G]ad.
+R[C]ásguens[E]e los cielos, y b[F]aja a salv[G]arnos,
+pues vi[F]enes a d[C]arnos, tu am[F]or [G]y tu p[C]az.
+
+	ESTRIBILLO
+`
+  };

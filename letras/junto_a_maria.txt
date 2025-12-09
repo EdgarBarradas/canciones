@@ -1,0 +1,18 @@
+letra={
+  titulo:"Junto a María",
+  tonalidad:"C",
+  letra:`
+J[C]unto a Mar[G]ía, ven[Am]imos a ofrec[Em]er, el p[F]an y vino[D] de am[G]or.
+Haz que oc[F]urra el mil[G]agro Señ[C]or,[Am] haz que oc[F]urra el mil[C]agro otra v[C]ez, [C7].
+haz que oc[F]urra el mil[G]agro Señ[C]or,[Am] haz que oc[F]urra el mil[C]agro otra v[C]ez. [G].
+
+J[C]unto a los h[G]ombres, ven[Am]imos a ofrec[Em]er, l[F]a alegría[D] y el dol[G]or.
+Haz que oc[F]urra el mil[G]agro Señ[C]or,[Am] haz que oc[F]urra el mil[C]agro otra v[C]ez, [C7].
+haz que oc[F]urra el mil[G]agro Señ[C]or,[Am] haz que oc[F]urra el mil[C]agro otra v[C]ez. [G].
+
+C[C]on amor,[G] venimos a ofrec[Am]er, [E] l[F]o que somos [G]y queremos s[C]er, [G].
+T[C]ú estás,[G] presente en nuestro alt[Am]ar, [E] por [F]eso queremos c[G]elebrar c[E]on Marí[Am]a.
+Que har[F]ás el mil[G]agro señ[C]or,[Am] que har[F]ás el mil[G]agro otra v[C]ez, [C7].
+que har[F]ás el mil[G]agro señ[C]or,[Am] que har[F]ás el mil[G]agro otra v[C]ez. [F][G][C].
+`
+  };

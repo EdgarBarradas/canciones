@@ -1,0 +1,23 @@
+letra={
+  titulo:"Bendita sea tu pureza",
+  tonalidad:"C",
+  letra:`
+B[C]endita sea tu pur[G]eza, y et[Am]ernamente lo s[Em]ea,
+pues t[F]odo un Dios se recr[C]ea, en tan gr[F]aciosa bell[G]eza,
+a T[C]i celestial princ[G]esa, V[Am]irgen Sagrada Mar[Em]ía,
+yo te ofr[F]ezco en este d[C]ía, [F]alma vida y coraz[G]ón.
+
+[C]Ave, Mar[G]ía, [Am]ave, Mar[Em]ía,
+M[F]adre mía, madre nu[C]estra, m[F]adre del Salvad[G]or. (2)
+
+A t[C]i celestial princ[G]esa, V[Am]irgen Sagrada Mar[Em]ía,
+yo te ofr[F]ezco en este d[C]ía, [F]alma vida y coraz[G]ón,
+m[C]írame con compasi[G]ón, n[Am]o me dejes Madre m[Em]ía,
+y en la h[F]ora de mi agon[C]ía, s[F]é mi amparo y protecci[G]ón.
+
+[C]Ave, Mar[G]ía, [Am]ave, Mar[Em]ía,
+M[F]adre mía, madre nu[C]estra, m[F]adre del Salvad[G]or,
+[C]ave, Mar[G]ía, [Am]ave, Mar[Em]ía,
+M[F]adre mía, madre nu[C]estra, m[F]adre del S[G]alvad[C]or.
+`
+  };

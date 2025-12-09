@@ -1,0 +1,28 @@
+letra={
+  titulo:"Señor a Ti clamamos",
+  tonalidad:"D",
+  letra:`
+Señ[D]or a Ti clam[G]a-m[D]-os, env[F#]ían[Bm]os tu S[E]alvad[A]or,
+confi[D]ados esper[G]a-m[D]os, tu l[G]uz, tu v[A]ida y tu am[D]or.
+
+	ESTRIBILLO
+V[A]en oh, Señ[D]or, d[A]anos tu p[Bm]az,
+tu pu[G]eblo ansi[A]oso cl[G]ama a T[A]i, soc[G]órren[A]os, no t[E]ardes m[A]ás.
+
+Anh[D]elos del Mes[G]í-[D]as, tu pu[F#]eblo el[Bm]eva en s[E]u cant[A]ar,
+trist[D]eza es nuestra v[G]i-d[D]a, viv[G]ida s[A]in tu p[D]az.
+
+	ESTRIBILLO
+
+Recu[D]erda tu prom[G]e-s[D]a, y t[F#]u des[Bm]eo d[E]e salv[A]ar,
+inm[D]ensa es la trist[G]e-z[D]a, de nu[G]estro p[A]eregrin[D]ar.
+
+	ESTRIBILLO
+
+La esp[D]era del Mes[G]í-[D]as, tambi[F#]én nos vi[Bm]ene a r[E]ecord[A]ar,
+su [D]última ven[G]i-d[D]a, en gl[G]oria [A]y majest[D]ad.
+
+V[A]en oh, Señ[D]or, d[A]anos tu p[Bm]az,
+tu pu[G]eblo ansi[A]oso cl[G]ama a T[A]i, soc[G]órren[A]os, no t[G]ard[A]es m[D]ás.
+`
+  };

@@ -1,0 +1,26 @@
+letra={
+  titulo:"Toda la tierra",
+  tonalidad:"C",
+  letra:`
+T[C]oda la ti[Em]erra esp[Dm]era al Salvad[G]or, y [C]el surco abi[Em]erto a la [F]obra del Señ[G]or,
+es el m[Am]undo que l[Em]ucha por l[F]a libert[G]ad, recl[C]ama just[Em]icia y b[F]usca l[G]a verd[C]ad.
+
+D[C]ice el Prof[Em]eta al pu[Dm]eblo de Isra[G]el: “D[C]e madre v[Em]irgen ya vi[F]ene el Emmanu[G]el”
+será “Di[Am]os con nos[Em]otros”, herm[F]ano ser[G]á, con [C]Él la esper[Em]anza al m[F]undo v[G]olver[C]á.
+
+C[C]erros y v[Em]alles habr[Dm]á que prepar[G]ar, nu[C]evos cam[Em]inos tendr[F]emos que traz[G]ar;
+el Señ[Am]or está c[Em]erca hay qu[F]e irlo a encontr[G]ar, y t[C]odas las pu[Em]ertas abr[F]ir de p[G]ar en p[C]ar.
+
+[C]En un pes[Em]ebre, Jes[Dm]ús apareci[G]ó, p[C]ero en el m[Em]undo es d[F]onde nace h[G]oy;
+vive en nu[Am]estros herm[Em]anos, con [F]ellos est[G]á, y vu[C]elve de nu[Em]evo a d[F]arnos l[G]ibert[C]ad.
+
+T[C]oda la ti[Em]erra esp[Dm]era al Salvad[G]or, vi[C]ene a tra[Em]er a los h[F]ombres la verd[G]ad,
+a sembr[Am]ar por el m[Em]undo, sem[F]illas de am[G]or. A t[C]odos los p[Em]obres su br[F]azo s[G]alvar[C]á.
+
+D[C]e nuestra c[Em]arne se qu[Dm]iso revest[G]ir, p[C]obre y senc[Em]illo, de hum[F]ilde coraz[G]ón.
+Nacer[Am]á como entonc[Em]es, vendr[F]á a compart[G]ir, la su[C]erte del h[Em]ombre, su ang[F]ustia y s[G]u dol[C]or.
+
+[C]Él viene si[Em]empre, viv[Dm]imos de esper[G]ar, t[C]odos los d[Em]ías la vu[F]elta de Jes[G]ús.
+¡Contempl[Am]ad su mir[Em]ada, su v[F]oz escuch[G]ad, dej[C]ad que las so[Em]mbras se ll[F]enen d[G]e su l[C]uz!
+`
+  };

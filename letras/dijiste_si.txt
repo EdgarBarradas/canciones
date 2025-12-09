@@ -1,0 +1,34 @@
+letra={
+  titulo:"Dijiste sí",
+  tonalidad:"Do",
+  letra:`
+Dijiste s[C]í, y la tierra estalló de alegr[F]ía,
+dijiste s[G]í, y en tu vientre latía div[C]ina La Salvaci[G]ón.
+
+Hágase en m[F]í, de coraz[G]ón, la volunt[Em]ad de mi Señ[Am]or,
+que se c[D]umplan en mí cada día los sueños de Di[G]os.
+Mar[C]ía, las tinieblas se harán mediod[Am]ía,
+a una sola palabra que d[F]igas, en tus labios alumbra ya el s[G]ol.
+Mar[C]ía, la doncella que Dios promet[Am]ía,
+un volcán de ternura div[F]ina, primavera de Dios redent[G]or.
+
+[A].
+
+Gabriel tembl[D]ó, conmovido de tanta bell[G]eza,
+madre de Di[A]os, cuéntame en tu mirada de am[D]or de la anunciaci[A]ón.
+
+Hágase en m[G]í, de coraz[A]ón, la volunt[F#]ad de mi Señ[Bm]or,
+que se c[E]umplan en mí cada día los sueños de Di[A]os.
+Mar[D]ía, las tinieblas se harán mediod[Bm]ía,
+a una sola palabra que d[G]igas, en tus labios alumbra ya el s[A]ol.
+Mar[D]ía, la doncella que Dios promet[Bm]ía,
+un volcán de ternura div[G]ina, primavera de Dios redent[A]or.
+
+Hágase en m[G]í, de coraz[A]ón, la volunt[F#]ad de mi Señ[Bm]or,
+que se c[E]umplan en mí cada día los sueños de Di[A]os.
+Mar[D]ía, las tinieblas se harán mediod[Bm]ía,
+a una sola palabra que d[G]igas, en tus labios alumbra ya el s[A]ol.
+Mar[D]ía, la doncella que Dios promet[Bm]ía,
+un volcán de ternura div[G]ina, primavera de Di[A]os redent[D]or.
+`
+  };

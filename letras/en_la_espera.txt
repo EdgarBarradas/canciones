@@ -1,0 +1,26 @@
+letra={
+  titulo:"En la espera",
+  tonalidad:"",
+  letra:`
+En Advi[C]ento, hay qu[G]e san[Am]ar, las her[F]idas del coraz[G]ón,
+para qu[Em]e ahí nazca el Señ[A]or. En esp[F]era,[G] en esp[Em]era, [A].
+las her[Dm]idas hay que san[G]ar, en esp[F]era del qu[G]e va a nac[C]er.
+
+En esp[C]era, del n[G]iño Di[Am]os, los cam[F]inos hay que enderez[G]ar,
+y los v[Em]alles hay que rellen[A]ar. En esp[F]era,[G] en esp[Em]era, [A].
+los cam[Dm]inos enderez[G]ar, en espera del que va a nac[C]er.
+
+Dijo el [C]ángel: “Madr[G]e ser[Am]ás”, y Mar[F]ía le contest[G]ó:
+“hágase [Em]en mi tu volunt[A]ad”. En esp[F]era,[G] en esp[Em]era, [A].
+“hágas[Dm]e en mi tu volunt[G]ad”, en esp[F]era del qu[G]e va a nac[C]er.
+
+
+Y Mar[C]ía, fue [G]a Jud[Am]á, entró en c[F]asa de Isab[G]el,
+y con g[Em]ozo la salud[A]ó. En esp[F]era,[G] en esp[Em]era, [A].
+y con g[Dm]ozo la salud[G]ó, en esp[F]era del qu[G]e va a nac[C]er.
+
+Camin[C]ando, haci[G]a Bel[Am]én, va Mar[F]ía con San Jos[G]é,
+en esp[Em]era del hijo de Di[A]os. En esp[F]era,[G] en esp[Em]era, [A].
+va Mar[Dm]ía con San Jos[G]é, en esp[F]era del qu[G]e va a nac[C]er.
+`
+  };

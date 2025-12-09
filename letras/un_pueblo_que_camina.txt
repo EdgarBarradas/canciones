@@ -1,0 +1,27 @@
+letra={
+  titulo:"Un pueblo que camina",
+  tonalidad:"Dm",
+  letra:`
+		ESTRIBILLO
+Un pu[Dm]eblo que camina por el m[C]undo, grit[A#]ando: v[A]en Señ[Dm]or,
+un pueblo que busca en esta v[C]ida, la gr[A#]an lib[A]eraci[Dm]ón.
+
+Los p[C]obres siempre esperan el am[F]anecer,
+de un d[C]ía más justo y sin opresi[Dm]ón,
+los p[C]obres hemos puesto la esper[F]anza en Ti,[A#] Libertad[A]or.
+
+		ESTRIBILLO
+
+Salv[C]aste nuestra vida de la escl[F]avitud,
+escl[C]avos de la ley sirviendo en [Dm]el temor,
+nos[C]otros hemos puesto la esper[F]anza en Ti,[A#] Dios del am[A]or.
+
+		ESTRIBILLO
+
+El m[C]undo por la guerra sangra s[F]in razón,
+fam[C]ilias destrozadas buscan [Dm]un hogar,
+el m[C]undo tiene puesta su esper[F]anza en Ti,[A#] Dios de la p[A]az.
+
+		ESTRIBILLO
+`
+  };

@@ -1,0 +1,24 @@
+letra={
+  titulo:"Ven, ven Señor no tardes",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+V[C]en, ven Señor no tardes, v[G]en ven que te esper[C]amos,
+ven, ven Señor no tardes, ven, pr[F]o-ont[G]o Señ[C]or. (2)
+
+El mundo muere de fr[F]í-í[C]o, el [G]alma perdió el cal[C]or,
+los hombres no son herm[F]a-an[C]os, el m[D]undo no ti[G]ene am[C]or.
+
+	ESTRIBILLO
+
+Envuelto en sombría n[F]o-och[C]e, el m[G]undo, sin paz, no v[C]e,
+buscando va, una esper[F]a-anz[C]a, busc[D]ando, Señ[G]or, la f[C]e.
+
+	ESTRIBILLO
+
+Al mundo le falta v[F]i-id[C]a, al m[G]undo le falta l[C]uz,
+al mundo le falta el ci[F]e-el[C]o, al m[D]undo le f[G]altas T[C]ú.
+
+	ESTRIBILLO
+`
+  };

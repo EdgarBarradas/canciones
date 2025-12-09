@@ -1,0 +1,30 @@
+letra={
+  titulo:"La Virgen sueña caminos",
+  tonalidad:"D",
+  letra:`
+La V[D]irgen su[G]eña cam[D]i-nos, está a la esper[A]a,
+La V[G]irgen sabe que el n[D]iño, est[A]á muy cerc[D]a.
+De Nazaret a Belén, hay una send[A]a;
+por [G]ella van los cr[D]een, en l[A]as promes[D]as.
+
+			ESTRIBILLO
+Los que soñáis y esperáis la buena nuev[A]a,
+Abr[G]id las puertas al n[D]iño, que est[A]á muy cerc[D]a.
+El Señor, c[G]erca est[D]á, Él v[Em]iene c[A]on la p[D]az,
+El Señor, c[G]erca est[D]á, Él tr[Em]ae l[A]a verd[D]ad.
+
+En estos d[G]ías del [D]a-ño, el pueblo esper[A]a,
+que v[G]enga pronto el Mes[D]ías, a nu[A]estra tierr[D]a.
+En la ciudad de Belén, llama a las puert[A]as,
+preg[G]unta en las pos[D]adas, y no h[A]ay respuest[D]a.
+
+			ESTRIBILLO
+
+La tarde y[G]a lo sosp[D]e-cha, está alert[A]a.
+El s[G]ol le dice a la l[D]una, que n[A]o se duerm[D]a.
+A la ciudad de Belén, vendrá una estrell[A]a,
+vendr[G]á con todo el que qui[D]era, cruz[A]ar fronter[D]as.
+
+			ESTRIBILLO
+`
+  };

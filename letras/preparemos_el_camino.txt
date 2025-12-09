@@ -1,0 +1,25 @@
+letra={
+  titulo:"Vamos a preparar",
+  tonalidad:"C",
+  letra:`
+V[C]amos a preparar, [F]el cam[C]ino d[G]el Señ[C]or, 
+vamos a construir, l[F]a ciud[C]ad de nu[G]estro Di[C]os.
+Vendr[F]á el Señor con la aurora, [C]Él brillará en la mañana, pr[F]egonará, l[G]a verd[C]ad.
+Vendr[F]á el Señor con su fuerza, [C]Él romperá las cadenas, [F]Él nos dará la l[G]ibert[C]ad.
+
+Él estará a nuestro lado, Él guiará nuestros pasos, Él nos dará l[F]a salvaci[G]ón.
+N[C]os limpiará del pecado, ya no seremos, esclavos, Él nos dará l[F]a libert[G]ad.
+
+		ESTRIBILLO
+
+Visitará nuestras casas, nos llenará de esperanza, Él nos dará l[F]a salvaci[G]ón.
+C[C]ompartirá nuestros cantos, todos seremos hermanos, Él nos dará l[F]a libert[G]ad.
+
+		ESTRIBILLO
+
+Caminará con nosotros, nunca estaremos ya solos, Él nos dará l[F]a salvaci[G]ón.
+[C]Él cumplirá la promesa y llevará nuestras penas, Él nos dará l[F]a libert[G]ad.
+
+		ESTRIBILLO
+`
+  };
