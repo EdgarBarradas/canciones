@@ -5,10 +5,11 @@ letra={
 Recibe, oh Di[G]os, el p[C]an que te ofrec[G]em[D]os, luego ser[C]á el cu[Am]erpo de Jes[D]ús,
 también ac[G]epta nu[C]estro sacrif[G]ici[D]o, nuestra oraci[C]ón, y nu[Am]estro coraz[G]ón.
 
-Recibe, oh, Di[G]os, el vC]ino que ofrec[G]em[D]os, luego ser[C]á la s[Am]angre de Jes[D]ús,
+Recibe, oh, Di[G]os, el v[C]ino que ofrec[G]em[D]os, luego ser[C]á la s[Am]angre de Jes[D]ús,
 también ac[G]epta nu[C]estro sacrif[G]ici[D]o, nuestra oraci[C]ón, y nu[Am]estro coraz[G]ón.
 
-Recíbel[G]os, SeñC]or por nuestras f[G]alt[D]as, por los que est[C]án aqu[Am]í junto al alt[D]ar,
-por los cristi[G]anos vC]ivos y dif[G]unt[D]os, por todo el m[C]undo, p[D]or su salvaci[G]ón.
+Recíbel[G]os, Señ[C]or por nuestras f[G]alt[D]as, por los que est[C]án aqu[Am]í junto al alt[D]ar,
+por los cristi[G]anos v[C]ivos y dif[G]unt[D]os, por todo el m[C]undo, p[D]or su salvaci[G]ón.
 `
   };
+
