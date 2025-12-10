@@ -1,0 +1,17 @@
+letra={
+  titulo:"Por los niños",
+  tonalidad:"A",
+  letra:`
+Por los n[A]iños que empi[D]ezan la v[E]ida, por los h[A]ombres sin t[D]echo ni hog[E]ar
+por los pu[A]eblos que s[D]ufren la gu[E]erra, te ofrec[D]emos el v[E]ino y el p[A]an. [A7].
+
+	ESTRIBILLO
+P[D]an y vino sobre [E]el altar, son ofrendas de am[A]or,
+p[F#m]an y vino ser[D]án después, tu cu[E]erpo y sangre Señ[A]or (2).
+
+Por los h[A]ombres que v[D]iven un[E]idos, por los h[A]ombres que b[D]uscan la p[E]az,
+por los pu[A]eblos n[D]o te con[E]ocen, te ofrec[D]emos el v[E]ino y el p[A]an. [A7].
+
+	ESTRIBILLO
+`
+  };

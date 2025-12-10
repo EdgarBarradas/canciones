@@ -1,0 +1,22 @@
+letra={
+  titulo:"En este pan y este vino",
+  tonalidad:"A",
+  letra:`
+En este p[A]an y este v[F#m]ino de amor, te ofrec[D]emos, nuestra v[E]ida, [A].
+en este pan y este v[F#m]ino de amor, te entreg[D]amos, nuestro c[E]orazón.
+
+Te ofrec[D]emos la alegría del que tr[A]iunfa, te ofrec[D]emos la tristeza del que s[A]ufre,
+te ofrec[D]emos el cansancio del tra[A]bajo, y tambi[B]én la alegría de viv[E]i-[D]i-[E]ir. [A].
+
+                                                                                                  
+En este p[A]an y este v[F#m]ino de amor, te ofrec[D]emos, nuestra v[E]ida, [A].
+en este pan y este v[F#m]ino de amor, te entreg[D]amos, nuestro c[E]orazón.
+
+Te ofrec[D]emos todo aquello que ten[A]emos, lo que h[D]ay en nuestros coraz[A]ones
+te ofrec[D]emos todo aquello que dese[A]amos, nuestra v[B]ida que es el fruto de tu am[E]o-[D]o-[E]or.
+
+En este p[A]an y este v[F#m]ino de amor, te ofrec[D]emos, nuestra v[E]ida, [A].
+en este pan y este v[F#m]ino de amor, te ofrec[D]emos este fr[E]uto de tu am[A]or.
+
+`
+  };

@@ -1,0 +1,28 @@
+letra={
+  titulo:"El Señor Dios nos amó",
+  tonalidad:"C",
+  letra:`
+El Señ[C]or Dios nos amó, como n[Am]adie amó jamás,
+el nos gu[F]ía como estrella cuando n[G]o existe la luz,
+el nos d[C]a todo su amor mientras l[Am]a fracción del pan,
+es el p[F]an de la unid[G]ad el pan de Di[D]os. [G].
+
+	ESTRIBILLO
+Es mi cuerpo, tomad y comed, esta es mi sangre, tomad y bebed,
+pues yo soy La Vida yo soy El Amor, oh Señor condúcenos hasta tu amor.
+
+El Señ[C]or Dios nos amó, como n[Am]adie amó jamás,
+sus pais[F]anos le creían hijo d[G]e un trabajador,
+como t[C]odos el también ganó el p[Am]an con su sudor,
+y con[F]oce la fat[G]iga y el dol[C]or. [G].
+
+	ESTRIBILLO
+
+El Señ[C]or Dios nos amó, como n[Am]adie amó jamás,
+Él re[F]úne a los hombres y les d[G]a a vivir su amor,
+los cristi[C]anos todos ya miembros d[Am]e su cuerpo son,
+nadie p[F]uede separ[G]arlos de su am[C]or. [G].
+
+	ESTRIBILLO
+`
+  };

@@ -1,0 +1,19 @@
+letra={
+  titulo:"Aquí estamos Señor",
+  tonalidad:"D",
+  letra:`
+[D]Aquí estamos Señor,[B] al frente de tu alt[Em]ar,
+hoy queremos que T[A]ú, nos digas como am[D]ar,
+que nos des de tu pan,[B] tu cuerpo salvad[Em]or,
+de ese vino que es la s[A]angre, que en la cruz tu derram[D]aste. [D7].
+
+Con el vino y c[G]on el pan,[A] nuestras vidas t[F#m]e ofrecemos,[Bm].
+y en ti cre[G]emos,[A] te vamos a d[D]ar,[D7].
+ todo lo que s[G]omos,[A] sin tener res[F#m]ervas,[Bm].
+pues con esta ofr[G]enda,[A] queremos cambi[D]ar, [D7]
+con el vino y c[G]on el pan,[A] nuestras vidas t[F#m]e ofrecemos,[Bm].
+y en ti cre[G]emos,[A] te vamos a d[D]ar,[D7].
+todo lo que s[G]omos,[A] sin tener res[F#m]ervas,[Bm].
+pues con esta ofr[G]enda,[A] queremos cambi[D]ar. [G][D].
+`
+  };

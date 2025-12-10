@@ -1,0 +1,21 @@
+letra={
+  titulo:"Este es el momento",
+  tonalidad:"C",
+  letra:`
+[C]Este es el momento, d[Em]e alegrar la mesa, c[Am]on el vino y con el p[Dm]an,
+qu[G]e consagraremos, [F]y que ofreceremos, [G]y que hemos de comulg[C]ar.
+[C]Este es el momento, d[Em]e llegar confiados, [Am]a la mesa del alt[Dm]ar,
+p[G]orque tu palabra v[F]ivificadora, n[G]os acaba de llam[C]ar.
+
+	ESTRIBILLO
+P[C7]adre de Jesús bend[F]ice, l[G]o que presentamos h[C]oy,
+[Am]y que al preparar tu m[Dm]esa se renueve el g[G]ozo de saber tu am[C]or. (2)
+
+P[C]an de nuestras vidas, [Em]pan de nuestras manos, p[Am]an de nuestra juvent[Dm]ud,
+p[G]an que hoy entregamos, j[F]untos como hermanos, [G]en señal de gratit[C]ud.
+V[C]ino de la tierra, bu[Em]ena y generosa, v[Am]ino que ofrecemos h[Dm]oy,
+ll[G]eva nuestras luchas, ll[F]eva nuestras penas, ll[G]eva nuestra sed de am[C]or.
+
+	ESTRIBILLO
+`
+  };

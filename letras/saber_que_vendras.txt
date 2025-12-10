@@ -1,0 +1,19 @@
+letra={
+  titulo:"Saber que vendrás",
+  tonalidad:"C",
+  letra:`
+[C]En este m[F]undo que Cr[Em]isto nos d[Am]a, hac[C]emos la ofr[F]enda del p[G]an,
+[C]el pan de nu[F]estro trab[Em]ajo sin f[Am]in, el v[C]ino de nu[F]estro cant[G]ar,
+tr[C]aigo ante T[F]i nuestra j[Em]usta inquiet[Am]ud, am[C]ar la just[F]icia y la p[G]az.
+
+	ESTRIBILLO
+Sab[F]er que vendrás, sab[Em]er que estar[Am]ás, parti[F]endo a los pobres su p[C]an, [C7].
+sab[F]er que vendrás, sab[Em]er que estar[Am]ás, parti[F]endo a los pobres su p[C]an.
+
+L[C]a sed de t[F]odos los h[Em]ombres sin l[Am]uz, la p[C]ena y el tr[F]iste llor[G]ar,
+[C]el odio d[F]e los que mu[Em]eren sin f[Am]e, cans[C]ados de t[F]anto luch[G]ar,
+[C]en la pat[F]ena de nu[Em]estra oraci[Am]ón, ac[C]epta la v[F]ida señ[G]or.
+
+	ESTRIBILLO
+`
+  };

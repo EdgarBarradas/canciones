@@ -1,0 +1,29 @@
+letra={
+  titulo:"Sobre los dones",
+  tonalidad:"Em",
+  letra:`
+[Em] [D] [Em].
+En mis manos traigo la cos[D]echa de h[Em]oy,
+es el pan de mi trabajo y de m[D]i sud[Em]or,
+es el fr[C]uto de la v[D]id, el v[C]ino del am[D]or,
+y con [Em]ellos te presento todo l[D]o que s[Em]oy.
+
+[D]Ah [Em]ah, [D7]aaaaah,
+
+	ESTRIBILLO
+[G]Sobre los d[Bm]ones que te pr[C]esent[D]amos, derr[G]ama tu Esp[Bm]íritu, [C] [D].
+transf[G]órmal[Bm]os en tu cu[C]erpo y s[D]angre Señ[G]o-[Bm]o-[C]o-[D]or. (2)
+
+[Em] [D] [Em].
+
+Con gozo te cantamos en frat[D]erna uni[Em]ón,
+es tu pueblo el que te aclama y te ofr[D]ece Señ[Em]or,
+la v[D]íctima elegida, el cord[G]ero de Dios,
+que de nu[D]evo de inmola, s[B]obre el altar por am[Em]o-[D]o-[Em]or.
+
+[C] [D].
+
+	ESTRIBILLO
+
+`
+  };

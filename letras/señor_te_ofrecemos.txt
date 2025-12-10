@@ -1,0 +1,28 @@
+letra={
+  titulo:"Señor te ofrecemos",
+  tonalidad:"Am",
+  letra:`
+	ESTRIBILLO
+Señ[Am]or te ofrecemos, el v[G]ino y el p[D]an, así record[Am]amos la c[E]ena pascu[Am]al. (2)
+
+Porque Tú sólo eres bu[G]eno, Señ[Am]or, quer[F]emos cant[E]ar.
+Tus m[Dm]iseric[E]o-ordias, qui[F]én podrá cant[E]ar. [E7].
+
+	ESTRIBILLO
+
+Sólo Tú eres nuestro aux[G]ilio, Señ[Am]or, Tú n[F]os salvar[E]ás.
+Tus m[Dm]iseric[E]o-ordias, qui[F]én podrá cant[E]ar. [E7].
+
+	ESTRIBILLO
+
+Tú eres nuestra fortal[G]eza, Señ[Am]or, ¿quién n[F]os vencer[E]á?
+Tus m[Dm]iseric[E]o-ordias, qui[F]én podrá cant[E]ar. [E7].
+
+	ESTRIBILLO
+
+Te ofrecemos nuestras v[G]idas, Señ[Am]or, en t[F]orno a tu alt[E]ar.
+Tus m[Dm]iseric[E]o-ordias, qui[F]én podrá cant[E]ar. [E7].
+
+	ESTRIBILLO
+`
+  };

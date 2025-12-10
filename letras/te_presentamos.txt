@@ -1,0 +1,15 @@
+letra={
+  titulo:"Te presentamos",
+  tonalidad:"C",
+  letra:`
+T[C]e present[Am]amos el v[F]ino y el p[C]an, b[F]endito s[C]eas por si[G]empre Señ[C]or.
+Bendito s[F]eas Señ[C]or, por [F]este pan que nos d[C]iste,
+fr[F]uto de la tierra y del trab[C]ajo de los h[G]ombres.
+
+T[C]e present[Am]amos el v[F]ino y el p[C]an, b[F]endito s[C]eas por si[G]empre Señ[C]or.
+Bendito s[F]eas Señ[C]or, el v[F]ino Tú nos lo d[G]iste,
+fr[F]uto de la tierra y del trab[C]ajo de los h[G]ombres.
+
+T[C]e present[Am]amos el v[F]ino y el p[C]an, b[F]endito s[C]eas por si[G]empre Señ[C]or.
+`
+  };

@@ -1,0 +1,20 @@
+letra={
+  titulo:"Un niño se te acercó",
+  tonalidad:"C",
+  letra:`
+Un niño s[C]e te acercó,[G] aquella t[C]arde, [C7].
+sus cinco p[F]anes te dio,[G] para ayud[Em]arte, [Am].
+los dos hici[F]eron que y[G]a, no hubiera h[C]ambre, [A].
+los dos hici[Dm]eron que y[G]a, no hubiera h[C]ambre.
+
+La tierra, el [C]aire y el Sol,[G] son tus reg[C]alos, [C7].
+y mil estr[F]ellas de luz,[G] sembró tu m[Em]ano, [Am].
+el hombre p[F]one su am[G]or, y su trab[C]ajo, [A].
+el hombre p[Dm]one su am[G]or, y su trab[C]ajo.
+
+También yo qui[C]ero poner,[G] sobre tu m[C]esa, [C7].
+mis cinco p[F]anes que son,[G] una prom[Em]esa, [Am].
+de darte t[F]odo mi am[G]or, y mi pobr[C]eza, [A].
+de darte t[Dm]odo mi am[G]or, y mi pobr[C]eza.
+`
+  };

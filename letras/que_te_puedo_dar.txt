@@ -1,0 +1,14 @@
+letra={
+  titulo:"Qué te puedo dar",
+  tonalidad:"F",
+  letra:`
+[F]¿Qué te puedo d[C]ar, que no me h[Dm]ayas dado T[A#]ú? [F].
+¿Qué te puedo dec[C]ir, que no me h[Dm]ayas dicho T[C]ú? [F].
+¿Qué puedo hacer por T[C]i? Si yo n[Dm]o puedo hacer n[A#]ada,
+si yo n[F]o puedo hacer n[C]ada, si no es por T[A#]i, Señ[C]or.
+
+T[A#]odo lo que s[C]é, t[A]odo lo que s[Dm]oy, t[A#]odo lo que t[C]engo es t[F]uy[F7]o,
+t[A#]odo lo que s[C]é, t[A]odo lo que s[Dm]oy, t[A#]odo lo que t[C]engo es t[A#]uy[F]o,
+es t[A#]uy[F]o, es t[A#]u-[A#m]uy[F]o.
+`
+  };
