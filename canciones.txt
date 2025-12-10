@@ -666,6 +666,15 @@ canciones = [
         "txt":"letras/adviento.txt",
       },
       {
+        "titulo":"Os anunciamos",
+        "tiempos":["No filtrar","Adviento"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/os_anunciamos.txt",
+      },
+      {
         "titulo":"Apresura tu venida",
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar"],
@@ -954,6 +963,7 @@ canciones = [
         "txt":"letras/te_presentamos.txt",
       },
 ]
+
 
 
 
