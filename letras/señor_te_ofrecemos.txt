@@ -3,7 +3,7 @@ letra={
   tonalidad:"Am",
   letra:`
 	ESTRIBILLO
-Señ[Am]or te ofrecemos, el v[G]ino y el p[D]an, así record[Am]amos la c[E]ena pascu[Am]al. (2)
+Señ[Am]or te ofrecemos, el v[G]ino y el p[C]an, así record[Am]amos la c[E]ena pascu[Am]al. (2)
 
 Porque Tú sólo eres bu[G]eno, Señ[Am]or, quer[F]emos cant[E]ar.
 Tus m[Dm]iseric[E]o-ordias, qui[F]én podrá cant[E]ar. [E7].
@@ -26,3 +26,4 @@ Tus m[Dm]iseric[E]o-ordias, qui[F]én podrá cant[E]ar. [E7].
 	ESTRIBILLO
 `
   };
+
