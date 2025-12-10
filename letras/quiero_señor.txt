@@ -9,7 +9,7 @@ qui[G]ero Señor mi v[D]ida a t[Em]i levantar, c[C]omo ofrenda v[D]iva ante tu a
 
 P[C]ues, p[D]ara ador[G]a-a[D]-a[Em]r, f[C]ue qu[D]e yo nac[E]í,
 h[C]az de mi, t[G]u querer, h[C]az lo que est[D]á en tu coraz[G]ón,[Em].
-[C]y que cada d[D]ía, yo pu[G]eda m[D]ás y m[Em]ás, est[C]ar a tu l[D]ado Señ[G]or. [G7]
+[C]y que cada d[D]ía, yo pu[G]eda m[D]ás y m[Em]ás, est[C]ar a tu l[D]ado Señ[G]or. [G7].
 
 P[C]ues, p[D]ara ador[G]a-a[D]-[Em]ar, f[C]ue qu[D]e yo nac[E]í,
 h[C]az de mi, t[G]u querer, h[C]az lo que est[D]á en tu coraz[G]ón,[Em].
@@ -17,4 +17,5 @@ h[C]az de mi, t[G]u querer, h[C]az lo que est[D]á en tu coraz[G]ón,[Em].
 est[C]ar a tu l[D]ado, est[C]ar a tu l[D]ado, est[C]ar a tu l[D]ado, Señ[C]o[Cm]or. [G].
 `
   };
+
 
