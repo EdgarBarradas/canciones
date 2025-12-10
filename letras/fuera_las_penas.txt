@@ -1,0 +1,12 @@
+letra={
+  titulo:"Fuera las penas",
+  tonalidad:"C",
+  letra:`
+Fu[C]era las penas, viva la alegría,
+p[F]orque esta n[C]oche ha nac[G]ido El Mes[C]ías,
+fuera las penas, viva la alegría,
+p[F]orque esta n[C]oche ha par[G]ío Mar[C]ía,
+gl[C]o-[F]o-[C]o-[G]oria,[F] dale a la zamb[G]omba,
+gl[C]o-[F]o-[C]o-[G]oria,[F] dale a la zamb[G]omb[C]a.
+`
+  };
