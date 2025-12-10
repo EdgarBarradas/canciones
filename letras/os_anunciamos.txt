@@ -23,7 +23,8 @@ La luz de la estrella nos ll[G]eva a Bel[Am]én, acoge a Dios N[C]iño que all[G
 	POST ESTRIBILLO
 C[G]antad con g[C]ozo, c[G]on ilusi[Am]ón,[F] ya se ac[G]erca el Señ[C]or. [A].
 Cantad con g[D]ozo, c[A]on ilusi[Bm]ón,[G] ya se ac[A]erca el Señ[D]or, [Gm].
-ya se acerca el Señ[Dm]or, [G] ya se ac[A]erca el Señ[D]or.
+ya se acerca el Señ[D]or, [G] ya se ac[A]erca el Señ[D]or.
 `
   };
+
 
