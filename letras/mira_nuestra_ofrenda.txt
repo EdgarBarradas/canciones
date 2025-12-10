@@ -2,13 +2,14 @@ letra={
   titulo:"Mira nuestra ofrenda",
   tonalidad:"Am",
   letra:`
-M[Am]ira nuestra ofrenda, m[E]írala Señ[Am]or, t[A]odo lo ofrec[Dm]emos, p[G]ara unirnos m[C]ás.
+M[Am]ira nuestra ofrenda, m[E]írala Señ[Am]or, t[A7]odo lo ofrec[Dm]emos, p[G]ara unirnos m[C]ás.
 
 	ESTRIBILLO
 P[A7]orque tu m[Dm]isa, [G]es nuestra m[C]isa, p[Am]orque tu v[Dm]ida [E]es nuestra v[Am]ida. (2)
 
-Qu[Am]e podemos darte nu[E]estro cread[Am]or, s[A]olo nuestra n[Dm]ada, t[G]ómala Señ[C]or.
+Qu[Am]e podemos darte nu[E]estro cread[Am]or, s[A7]olo nuestra n[Dm]ada, t[G]ómala Señ[C]or.
 
 	ESTRIBILLO
 `
   };
+
