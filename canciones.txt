@@ -351,6 +351,15 @@ canciones = [
         "txt":"letras/alegria_alegria.txt",
       },
       {
+        "titulo":"Fuera las penas",
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/fuera_las_penas.txt",
+      },
+      {
         "titulo":"Campana sobre campana",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar"],
@@ -945,6 +954,7 @@ canciones = [
         "txt":"letras/te_presentamos.txt",
       },
 ]
+
 
 
 
