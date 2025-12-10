@@ -4,7 +4,7 @@ letra={
   letra:`
 [C].
 	PRE ESTRIBILLO
-C[G]antad con g[C]ozo, c[G]on ilusi[Am]ón,[F] ya se ac[G]erca el Señ[C]or. (2)
+C[G]antad con g[C]ozo, c[G]on ilusi[Am]ón, [F] ya se ac[G]erca el Señ[C]or. (2)
 
 
 [C]Os anunciamos el g[G]ozo de Advi[Am]ento, con la prim[C]era v[G]ela ardi[C]endo.
@@ -21,10 +21,11 @@ La luz de la estrella nos ll[G]eva a Bel[Am]én, acoge a Dios N[C]iño que all[G
 
 
 	POST ESTRIBILLO
-C[G]antad con g[C]ozo, c[G]on ilusi[Am]ón,[F] ya se ac[G]erca el Señ[C]or. [A].
+C[G]antad con g[C]ozo, c[G]on ilusi[Am]ón, [F] ya se ac[G]erca el Señ[C]or. [A].
 Cantad con g[D]ozo, c[A]on ilusi[Bm]ón,[G] ya se ac[A]erca el Señ[D]or, [Gm].
 ya se acerca el Señ[D]or, [G] ya se ac[A]erca el Señ[D]or.
 `
   };
+
 
 
