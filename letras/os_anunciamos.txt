@@ -1,0 +1,28 @@
+letra={
+  titulo:"Os anunciamos",
+  tonalidad:"C",
+  letra:`
+[C].
+	PRE ESTRIBILLO
+C[G]antad con g[C]ozo, c[G]on ilusi[Am]ón,[F] ya se ac[G]erca el Señ[C]or. (2)
+
+
+[C]Os anunciamos el g[G]ozo de Advi[Am]ento, con la prim[C]era v[G]ela ardi[C]endo.
+Se acerca ya el tiempo d[G]e salvaci[Am]ón, abre las pu[C]ertas de t[G]u coraz[C]ón.
+
+[C]Os anunciamos el g[G]ozo de Advi[Am]ento, con la seg[C]unda v[G]ela ardi[C]endo.
+Dios Padre en su gloria mu[G]estra su am[Am]or, abre tu [C]alma a Jes[G]ús Salvad[C]or.
+
+[C]Os anunciamos el g[G]ozo de Advi[Am]ento, con la terc[C]era v[G]ela ardi[C]endo.
+El tiempo se acorta ya vi[G]ene el Señ[Am]or, el mundo se al[C]egra en tan bu[G]en redent[C]or.
+
+[C]Os anunciamos el g[G]ozo de Advi[Am]ento, miren la cu[C]arta v[G]ela ardi[C]endo.
+La luz de la estrella nos ll[G]eva a Bel[Am]én, acoge a Dios N[C]iño que all[G]í va a nac[C]er.
+
+
+	POST ESTRIBILLO
+C[G]antad con g[C]ozo, c[G]on ilusi[Am]ón,[F] ya se ac[G]erca el Señ[C]or. [A]
+Cantad con g[D]ozo, c[A]on ilusi[Bm]ón,[G] ya se ac[A]erca el Señ[D]or, [Gm].
+ya se acerca el Señ[Dm]or, [G] ya se ac[A]erca el Señ[D]or.
+`
+  };
