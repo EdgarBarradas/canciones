@@ -8,7 +8,7 @@ el nos d[C]a todo su amor mientras l[Am]a fracción del pan,
 es el p[F]an de la unid[G]ad el pan de Di[D]os. [G].
 
 	ESTRIBILLO
-[E]Es mi cu[Am]erpo, t[F]omad y com[C]ed, esta es mi s[Am]angre, t[F]omad y beb[G]ed,
+[C]Es mi cu[Am]erpo, t[F]omad y com[C]ed, esta es mi s[Am]angre, t[F]omad y beb[G]ed,
 pues yo s[C]oy La V[Am]ida y[F]o soy El Am[C]or, oh Señ[F]or condúceno[G]s hasta tu am[C]or.
 
 El Señ[C]or Dios nos amó, como n[Am]adie amó jamás,
@@ -26,4 +26,5 @@ nadie p[F]uede separ[G]arlos de su am[C]or. [G].
 	ESTRIBILLO
 `
   };
+
 
