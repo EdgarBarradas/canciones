@@ -123,7 +123,7 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   crear_bloque_letra(letra)
 }        
 
-async function leerCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
+async function listarCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones)
 
@@ -143,6 +143,7 @@ async function leerCanciones(txt_file) {///////---- función asíncrona que lee 
             ( momento==="" || (c.momentos.includes(momento))) &&
             ( texto==="" || c.titulo.toLowerCase().includes(texto))
             )
+        canciones_filtradas.sort()
         
         canciones_filtradas.forEach(c => {
               document.getElementById('resultados').innerHTML += `
@@ -154,12 +155,13 @@ async function leerCanciones(txt_file) {///////---- función asíncrona que lee 
       });
 }
  
-leerCanciones("canciones.txt")
+listarCanciones("canciones.txt")
 
 
 
 
   
+
 
 
 
