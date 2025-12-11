@@ -2,8 +2,8 @@ letra={
   titulo:"Los peces en el río",
   tonalidad:"Am",
   letra:`
-L[Am]a Virgen está lav[E]ando, y tendiendo en el rom[Am]ero,
-los pajaritos cant[E]ando, y el romero floreci[Am]endo.
+La Virgen se está pein[E]ando, entre cortina y cort[Am]ina,
+los cabellos son de [E]oro, y el peine de plata f[Am]ina.
 
 		ESTRIBILLO
 Pero mira cómo beben los peces en el río,
@@ -11,19 +11,17 @@ pero mira cómo beben por ver al Dios nac[Am]ido,
 beben y beben y vuelven a beber,
 los peces en el río por ver a Dios nac[Am]er.
 
-La Virgen se está pein[E]ando, entre cortina y cort[Am]ina,
-los cabellos son de [E]oro, y el peine de plata f[Am]ina.
-
+L[Am]a Virgen está lav[E]ando, y tendiendo en el rom[Am]ero,
+los pajaritos cant[E]ando, y el romero floreci[Am]endo.
 		ESTRIBILLO
 
-La Virgen está lav[E]ando, con un cachito'e jab[Am]ón,
-se le mancharon las m[E]anos, manos de mi cora[Am]ón.
- 
+La Virgen está lav[E]ando, con un trozito'e jab[Am]ón,
+se le han picado las m[E]anos, manos de mi cora[Am]ón.
 		ESTRIBILLO
 
-La Virgen va camin[E]ando, por una montaña osc[Am]ura,
-ya al vuelo de una perd[E]iz, se le ha espantado la m[Am]ula.
-
+La Virgen va camin[E]ando, va caminando solit[Am]a,
+no lleva más compañi[E]a, que al Niño de la manit[Am]a.
 		ESTRIBILLO
 `
   };
+
