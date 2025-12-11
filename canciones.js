@@ -143,18 +143,9 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
             ( momento==="" || (c.momentos.includes(momento))) &&
             ( texto==="" || c.titulo.toLowerCase().includes(texto))
             )
-        console.log(canciones_filtradas[0])
-        console.log(canciones_filtradas[1])
-        console.log(canciones_filtradas[2])
-        console.log(canciones_filtradas[3])
-        console.log(canciones_filtradas[4])
+
         canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
-        console.log(canciones_filtradas[0])
-        console.log(canciones_filtradas[1])
-        console.log(canciones_filtradas[2])
-        console.log(canciones_filtradas[3])
-        console.log(canciones_filtradas[4])
-        
+
         canciones_filtradas.forEach(c => {
               document.getElementById('resultados').innerHTML += `
                 <div class="cancion">
@@ -171,6 +162,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
