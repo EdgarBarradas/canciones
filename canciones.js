@@ -148,7 +148,7 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
         console.log(canciones_filtradas[2])
         console.log(canciones_filtradas[3])
         console.log(canciones_filtradas[4])
-        canciones_filtradas.sort()
+        canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
         console.log(canciones_filtradas[0])
         console.log(canciones_filtradas[1])
         console.log(canciones_filtradas[2])
@@ -171,6 +171,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
