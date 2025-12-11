@@ -127,6 +127,10 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones)
 
+    function sinAcentos(t) {
+      return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      }
+
     document.getElementById("btnBuscar").addEventListener("click", () => {///////--------  funcion asignada al boton de buscar
         document.getElementById('bloque_audio').innerHTML=""
         document.getElementById('bloque_letra').innerHTML=""
@@ -141,7 +145,7 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
             ( tiempo==="" || (c.tiempos.includes(tiempo))) &&
             ( misa==="" || (c.misas.includes(misa))) &&
             ( momento==="" || (c.momentos.includes(momento))) &&
-            ( texto==="" || c.titulo.toLowerCase().includes(texto))
+            ( texto==="" || sinAcentos(c.titulo).toLowerCase().includes(sinAcentos(texto)))
             )
 
         canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
@@ -162,6 +166,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
