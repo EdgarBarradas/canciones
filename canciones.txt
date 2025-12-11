@@ -432,7 +432,7 @@ canciones = [
         "txt":"letras/dime_niño.txt",
       },
       {
-        "titulo":"Hacia Belén va una burra",
+        "titulo":"Rin rin",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
@@ -468,7 +468,7 @@ canciones = [
         "txt":"letras/el_burrito_sabanero.txt",
       },
       {
-        "titulo":"Niñi lindo",
+        "titulo":"Niño lindo",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
@@ -963,6 +963,7 @@ canciones = [
         "txt":"letras/te_presentamos.txt",
       },
 ]
+
 
 
 
