@@ -11,8 +11,12 @@ y viva EL Niño de Dios, que ha nacido en Nochebu[C]ena.
 
 Dime N[C]iño, de quién [G]eres, y si te llamas Jes[C]ús. (2)
 S[F]oy amor [G]en el pes[C]ebre y sufr[G]imiento en la cr[C]uz. (2)
+		ESTRIBILLO
 
+La Nochebuena se vien[G]e, tururú, la nNochebuena se v[C]a, tururú,
+y nosotros nos irem[G]os, tururú, y no volveremos m[C]ás.
 		ESTRIBILLO
   `
   };
+
 
