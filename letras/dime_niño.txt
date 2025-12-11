@@ -2,7 +2,7 @@ letra={
   titulo:"Dime Niño",
   tonalidad:"C",
   letra:`
-Dimo N[C]iño, de quién [G]eres, todo vestidito de bl[C]anco. (2)
+Dimo N[C]iño, de quién eres, todo v[G]estidito de bl[C]anco. (2)
 S[F]oy de La V[G]irgen Mar[C]ía, y del [G]Espíritu S[C]anto. (2)
 
 		ESTRIBILLO
@@ -15,3 +15,4 @@ S[F]oy amor [G]en el pes[C]ebre y sufr[G]imiento en la cr[C]uz. (2)
 		ESTRIBILLO
   `
   };
+
