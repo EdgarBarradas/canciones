@@ -3,32 +3,27 @@ letra={
   tonalidad:"A",
   letra:`
 		ESTRIBILLO
-[A]Ande, ande, ande, La Marimor[E]ena, ande, ande, ande que es la Nochebu[A]ena. (2)
+[A]Ande, ande, ande, La Marimor[E]ena, ande, ande, [D]ande que es la N[E]ochebu[A]ena. (2)
 
-En el portal de Belén, hay estr[D]ellas, sol y luna, La Virgen y San Jos[E]é, y el Niño que está en la c[A]una.
-
+En el portal de Belén, hay estr[D]ellas, sol y l[A]una, La Virg[D]en y San Jos[A]é, y el Niñ[E]o que está en la c[A]una.
 		ESTRIBILLO
 
-En el portal de Belén, hacen fu[D]ego los past[A]ores, para calentar al N[E]iño que ha nacido entre las fl[A]ores.
-
+En el portal de Belén, hacen fu[D]ego los past[A]ores, para c[D]alentar al N[A]iño que ha nac[E]ido entre las fl[A]ores.
 		ESTRIBILLO
 
-Una estrella se ha perdido, y en el ci[D]elo no apar[A]ece, en el portal de ha met[E]ido y su cara respland[A]ece.
-
+Una estrella se ha perdido, y en el ci[D]elo no apar[A]ece, en el p[D]ortal de ha met[A]ido y su c[E]ara respland[A]ece.
 		ESTRIBILLO
 
-En el portal de Belén, hay un h[D]ombre haciéndo g[A]achas, con la cuchara en la m[E]ano, convidando a las much[A]achas.
-
+En el portal de Belén, hay un h[D]ombre haciéndo g[A]achas, con la c[D]uchara en la m[A]ano, convid[E]ando a las much[A]achas.
 		ESTRIBILLO
 
-Esta noche es Nochebuena y mañ[D]ana es Navid[A]ad, dame la bota Mar[E]ía que me voy a emborrach[A]ar.
-
+Esta noche es Nochebuena y mañ[D]ana es Navid[A]ad, dame l[D]a bota Mar[A]ía que me v[E]oy a emborrach[A]ar.
 		ESTRIBILLO
 
-Los pastores no son hombres, que son [D]ángeles del ci[A]elo, en el patio de Mar[E]ía ellos fueron los prim[A]eros.
-
+Los pastores no son hombres, que son [D]ángeles del ci[A]elo, en el p[D]atio de Mar[A]ía ellos fu[E]eron los prim[A]eros.
 		ESTRIBILLO
   `
   };
+
 
 
