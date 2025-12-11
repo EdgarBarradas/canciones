@@ -7,7 +7,7 @@ caminito de Belén, ol[F]é, olé, Hol[G]anda y olé,
 Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
 
 Cargaditos de juguetes, cargaditos de juguetes,
-para el Niño de Belén, ol[F]é, olé, Holanda y olé,
+para el Niño de Belén, ol[F]é, olé, Hol[G]anda y olé,
 Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
 
 La Virgen va caminando, La Virgen va caminando,
@@ -20,10 +20,11 @@ Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
 
 No pidas agua, mi vida, no pidas agua, mi vida,
 no pidas agua, mi bien, ol[F]é, olé, Hol[G]anda y olé,
-Holanda, ya se ve, ya se ve, ya se ve.
+Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
 
 Que los ríos vienen turbios, que los ríos vienen turbios,
 y no se puede beber, ol[F]é, olé, Hol[G]anda y olé,
 Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
 `
   };
+
