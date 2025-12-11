@@ -720,7 +720,7 @@ canciones = [
         "txt":"letras/junto_a_maria.txt",
       },
       {
-        "titulo":"La Virgen sueñacaminos",
+        "titulo":"La Virgen sueña caminos",
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
@@ -963,6 +963,7 @@ canciones = [
         "txt":"letras/te_presentamos.txt",
       },
 ]
+
 
 
 
