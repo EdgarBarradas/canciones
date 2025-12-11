@@ -1,5 +1,5 @@
 letra={
-  titulo:"Hacia Belén va una burra",
+  titulo:"Rin rin",
   tonalidad:"C",
   letra:`
 Haci[C]a Belén va una burra, rin, r[G]in, yo me remendaba, yo me remendé,
@@ -8,21 +8,22 @@ Lleva en su chocolatera, rin, r[G]in, yo me remendaba, yo me remendé,
 yo me hice un remiendo, yo me lo quité. Su molinillo y su anafr[C]e.
 
 		ESTRIBILLO
-María, Marí[G]a, ven a acá corriend[C]o,
-que el choc[F]olatill[C]o, se lo est[G]án comiend[C]o. (2)
+Marí[G]a, Marí[C]a, ven a ac[G]á corriend[C]o,
+que el choc[F]olatill[C]o, se lo est[G]án comiend[C]o.
+Marí[G]a, Marí[C]a, ven a ac[G]á voland[C]o,
+que el choc[F]olatill[C]o, se lo est[G]án llevand[C]o.
 
 En el portal de Belén, rin, r[G]in, yo me remendaba, yo me remendé,
 yo me hice un remiendo, yo me lo quité. Los gitanillos han entrad[C]o.
 Y al niño que está en la cuna, rin, r[G]in, yo me remendaba, yo me remendé,
 yo me hice un remiendo, yo me lo quité. Los pañales les han robad[C]o.
-
 		ESTRIBILLO
 
 En el portal de Belén, rin, r[G]in, yo me remendaba, yo me remendé,
 yo me hice un remiendo, yo me lo quité. Han entrado los raton[C]es.
 Y al bueno de San José, rin, r[G]in, yo me remendaba, yo me remendé,
 yo me hice un remiendo, yo me lo quité. Le han roído los calzon[C]es.
-
 		ESTRIBILLO
   `
   };
+
