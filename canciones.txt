@@ -489,7 +489,7 @@ canciones = [
         "titulo":"A ti te cantamos",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar"],
+        "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
         "tono_audio":"x",
         "txt":"letras/a_ti_te_cantamos.txt",
@@ -1299,6 +1299,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
