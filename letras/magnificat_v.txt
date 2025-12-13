@@ -9,10 +9,10 @@ porque ha mirado, la humildad de su si[Am]erva,
 desde ah[G]ora me felicitar[C]án, t[F]odas l[G]as generaci[C]ones. [C].
 
 	ESTRIBILLO
-Porque El Poderoso ha obrado, y hace maravillas por nosotros,
-grande es su amor, para todos,
-grande es su amor, y por siempre,
-grande es su amor, uh.......
+[F]Porque El Poder[G]oso ha obr[C]ad[Am]o, y h[F]ace marav[G]illas por nos[C]otr[Am]os,
+gr[F]ande [G]es su am[C]or, para t[Am]odos,
+gr[F]ande [G]es su am[C]or, y por si[Am]empre,
+gr[F]ande [G]es su am[C]o-[G]or, [F]uu[C]uu[G]uu[F]uu[C]uh.......
 
 Hace pro[C]ezas, con su brazo,[Am].
 corrige a los sob[F]erbios y con t[G]odo el coraz[C]ón,
@@ -22,3 +22,4 @@ su prom[G]esa por siempre durar[C]á, c[F]omo d[G]ijo a nuestros padres. [C].
 	ESTRIBILLO
 `
   };
+
