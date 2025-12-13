@@ -324,6 +324,24 @@ canciones = [
         "txt":"letras/ya_vienen_los_reyes.txt",
       },
       {
+        "titulo":"Veinticinco de diciembre",
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/veinticinco_de_diciembre.txt",
+      },
+      {
+        "titulo":"Ya viene la vieja",
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/ya_viene_la_vieja.txt",
+      },
+      {
         "titulo":"Arre burriquito",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar"],
@@ -1299,6 +1317,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
