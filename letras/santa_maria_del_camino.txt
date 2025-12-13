@@ -2,23 +2,24 @@ letra={
   titulo:"Santa María del camino",
   tonalidad:"A",
   letra:`
-Mi[A]entras recorres la v[D]i-d[A]a, tú nunca solo est[A]ás,
-c[D]ontigo por el cam[A]ino, Santa María v[A]a. [A7].
+Mi[A]entras recorres la v[D]i-d[A]a, t[E]ú nunca solo est[A]ás,
+c[D]ontigo por el cam[A]ino, S[E]anta María v[A]a. [A7].
 
 	ESTRIBILLO
-V[D]en con nosotros a c[A]aminar, Santa María, v[A]en, [A7].
-v[D]en con nosotros a c[A]aminar, Santa María, v[A]en.
+V[D]en con nosotros a c[A]aminar, S[E]anta María, v[A]en, [A7].
+v[D]en con nosotros a c[A]aminar, S[E]anta María, v[A]en.
 
-[A]Aunque te digan alg[D]u-n[A]os, que nada puede cambi[A]ar,
-l[D]ucha por un mundo nu[A]evo, lucha por la verd[A]ad. [A7].
+[A]Aunque te digan alg[D]u-n[A]os, qu[E]e nada puede cambi[A]ar,
+l[D]ucha por un mundo nu[A]evo, l[E]ucha por la verd[A]ad. [A7].
 	ESTRIBILLO
 
-S[A]i por el mundo los h[D]om-br[A]es, sin conocerse v[A]an,
-n[D]o niegues nunca tu m[A]ano, al que contigo v[A]a. [A7].
+S[A]i por el mundo los h[D]om-br[A]es, s[E]in conocerse v[A]an,
+n[D]o niegues nunca tu m[A]ano, [E]al que contigo v[A]a. [A7].
 	ESTRIBILLO
 
-[A]Aunque parezcan tus p[D]a-s[A]os, inútil camin[A]ar,
-t[D]ú vas haciendo el cam[A]ino, otros te seguir[A]án. [A7].
+[A]Aunque parezcan tus p[D]a-s[A]os, [E]inútil camin[A]ar,
+t[D]ú vas haciendo el cam[A]ino, [E]otros te seguir[A]án. [A7].
 	ESTRIBILLO
 `
   };
+
