@@ -1,0 +1,25 @@
+letra={
+  titulo:"Estrella de la mañana",
+  tonalidad:"Am",
+  letra:`
+[Am] [F] [G] [Am].
+En tu vi[Em]entre,[Am] una gran l[Em]uz, dest[Am]ello de eternid[Em]ad, princ[Am]ipio de la p[Em]az,
+h[F]izo su morada, en t[E]i. [F] [G] [Am].
+En tus oj[Em]os, brill[Am]ó la salvaci[Em]ón, sagr[Am]ario del et[Em]erno,
+er[F]es llena de gr[E]acia y madre d[Am]el amor. [E].
+
+
+	ESTRIBILLO
+Porque tú [Am]eres María, estr[G]ella de la mañ[Am]ana
+amp[G]aro del que te b[F]usca, madre, r[E]eina y sober[Am]ana, [E].
+porque tú [Am]eres María, la aur[G]ora que trae la p[C]az,
+tern[A]ura de una m[Dm]amá, los br[E]azos que me hacen d[Am]escansar. [F] [G] [Am].
+
+
+En tus br[Em]azos, cay[Am]ó la salvaci[Em]ón, desci[Am]ende del mad[Em]ero,
+quien si[F]endo rey se c[E]onvirtió en escl[Am]avo. [F] [G] [Am].
+Tú Mar[Em]ía, sil[Am]encio y oraci[Em]ón,
+t[Am]odo lo guard[Em]abas, [F]y lo medit[E]abas en tu c[Am]orazón. [E].
+	ESTRIBILLO
+`
+  };

@@ -1,0 +1,12 @@
+letra={
+  titulo:"María y los 12",
+  tonalidad:"D",
+  letra:`
+Mar[D]ía y los doce am[A]igos de Jesús, oraban y oraban sin ces[D]ar,
+Mar[D]ía y los doce am[A]igos de Jesús, oraban y oraban sin ces[D]ar,
+para alcanzar la gr[G]acia de Dios, fu[A]erzas para trabaj[D]ar,
+para alcanzar la gr[G]acia de Dios, fu[A]erzas para trabaj[D]ar,
+alel[A]uya, alel[D]uya, v[G]amos todos a or[D]ar,
+alel[A]uya, alel[D]uya, v[G]amonos a tr[A]abaj[D]ar, v[G]amonos a tr[A]abaj[D]ar.
+`
+  };
