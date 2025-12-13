@@ -2,6 +2,7 @@ letra={
   titulo:"Dijiste sí",
   tonalidad:"Do",
   letra:`
+[C] [F] [C] [G].
 Dijiste s[C]í, y la tierra estalló de alegr[F]ía,
 dijiste s[G]í, y en tu vientre latía div[C]ina La Salvaci[G]ón.
 
@@ -32,3 +33,4 @@ Mar[D]ía, la doncella que Dios promet[Bm]ía,
 un volcán de ternura div[G]ina, primavera de Di[A]os redent[D]or.
 `
   };
+
