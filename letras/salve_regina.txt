@@ -1,0 +1,21 @@
+letra={
+  titulo:"Salve Regina",
+  tonalidad:"C",
+  letra:`
+S[C]alve, Regina, M[F]ater miseri[G]cordiæ, [Am].
+vita, dulc[Dm]edo, et spes n[G]ostra, salv[C]e. [G].
+
+Ad te clam[C]amus exs[Am]ules fil[F]ii H[G]evæ, [Am].
+ad te s[Dm]uspiramus, gem[F]entes et fl[G]entes, [Dm].
+in hac lacrim[G]arum vall[C]e. [G].
+
+Eia, erg[Am]o, advocata n[F]ostr[G]a, [Am].
+illos tu[Dm]os misericordes [G]oculos, [Dm]
+ad nos conv[G]ert[C]e. [G].
+
+Et Jes[C]um, bened[Am]ictum fructum v[F]entris t[G]ui, [Am].
+nobis p[F]ost hoc exs[Dm]ilium ost[G]end[C]e. [G].
+
+O-o-o cl[C]emens,[G] O-o-o-o p[F]i-[G]a,[Am] O-o-[Dm]o-o dulc[G]is Virg[F]o Mar[G]i-[C]a. 
+`
+  };

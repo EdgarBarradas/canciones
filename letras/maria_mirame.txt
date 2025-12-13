@@ -1,0 +1,21 @@
+letra={
+  titulo:"María mírame",
+  tonalidad:"C",
+  letra:`
+		ESTRIBILLO
+María m[C]írame,[G] María m[Am]írame,[Em] si tú me m[C]iras, él tambi[F]én me mirar[G]á,
+Madre mía m[Am]írame,[F] de la mano ll[C]évame,[Am] muy cerca de [Dm]Él, que ahí m[G]e quiero qued[C]ar.
+
+María c[Em]úbreme[Dm] con tu m[Am]anto, que tengo mi[F]edo,[G] y no sé rez[C]ar, [C7].
+que por tus [F]ojos m[Em]isericordi[Am]osos, tendré la fu[C]erza,[G] tendré la p[C]az.
+		ESTRIBILLO
+
+Madre consu[Em]élame[Dm] de mis p[Am]enas, es que no qui[F]ero,[G] ofenderle m[C]ás, [C7].
+que por tus [F]ojos m[Em]isericordi[Am]osos, quiero ir al ci[C]elo,[G] y verlos y[C]a.
+		ESTRIBILLO
+
+Madre ac[Em]ógeme[Dm] en el pes[Am]ebre, junto a tu N[F]iño,[G] y a San Jos[C]é, [C7].
+que por tus [F]ojos m[Em]isericordi[Am]osos, toda mi v[C]ida,[G] sea un Bel[C]én.
+		ESTRIBILLO
+`
+  };

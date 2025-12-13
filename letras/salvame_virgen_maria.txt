@@ -1,0 +1,22 @@
+letra={
+  titulo:"Sálveme, Virgen María",
+  tonalidad:"Em",
+  letra:`
+	ESTRIBILLO
+¡Sálvam[Em]e, Virgen Mar[B]ía!, ¡óyem[Em]e, Te imploro con f[B]e!
+mi coraz[Am]ón en T[D]i conf[G]ía, Virgen Mar[Am]ía, s[D]álv[B]ame,
+¡V[Am]irgen Mar[D]ía, s[B]álvam[Em]e!, sálv[B]am[Em]e.
+
+Acu[Em]érdate de la h[B]ora, en que Te nombró Jes[Em]ús
+nuestra Madre y protect[B]ora, desde el árbol de la Cr[Em]uz.
+	ESTRIBILLO
+
+Y[Em]o pequé, contrito ll[B]oro; mil penas yo merec[Em]í;
+tu misericordia impl[B]oro, Madre, apiádate de m[Em]í.
+	ESTRIBILLO
+
+[Em]Un abismo es el pec[B]ado, con que a mi Dios ofend[Em]í,
+y estoy en él derribado, sin Dios ¡Oh, Madre! y sin T[Em]i.
+	ESTRIBILLO
+`
+  };

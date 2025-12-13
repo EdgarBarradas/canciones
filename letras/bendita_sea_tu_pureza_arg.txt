@@ -1,0 +1,11 @@
+letra={
+  titulo:"Bendita sea tu pureza A",
+  tonalidad:"C",
+  letra:`
+B[C]endita sea tu pur[G]eza, y et[Am]ernamente lo s[Em]ea,
+pues t[F]odo un Dios se recr[C]ea, en t[F]an graci[G]osa bell[C]eza,
+a T[C]i celestial princ[G]esa, V[Am]irgen Sagrada Mar[Em]ía,
+y[F]o te ofrezco en este d[C]ía, [F]alma v[G]ida y coraz[C]ón, [C7].
+m[F]írame con compasi[C]ón, n[F]o me d[G]ejes Madre m[C]ía.
+`
+  };

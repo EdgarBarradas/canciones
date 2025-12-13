@@ -1,0 +1,19 @@
+letra={
+  titulo:"Dios te salve María",
+  tonalidad:"C",
+  letra:`
+Di[C]os te salve Mar[Em]ía,[F] llena eres de gr[G]acias,
+[C]el Señor es cont[Em]igo, bend[F]ita entre las muj[G]eres,
+y bend[C]ito s el fr[Em]uto d[F]e tu vi[D]entre Jes[G]ús,
+y bend[C]ito s el fr[Em]uto d[F]e tu vi[D]entre Jes[G]ús.
+
+[C]Ave Mar[G]ía,[F] ave Mar[C]í-í[G]a, [C]ave Mar[G]ía,[F] ave Mar[C]í-[G]í-í[C]a.
+
+S[C]anta Mar[Em]ía,[F] madre de Di[G]os,
+ru[C]ega por nos[Em]otros, [F] pecad[G]ores,
+ah[C]ora y en la h[Em]ora d[F]e nuestra mu[D]erte am[G]én,
+ah[C]ora y en la h[Em]ora d[F]e nuestra mu[D]erte am[G]én,
+
+[C]Ave Mar[G]ía,[F] ave Mar[C]í-í[G]a, [C]ave Mar[G]ía,[F] ave Mar[C]í-[G]í-í[C]a.
+`
+  };

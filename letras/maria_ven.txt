@@ -1,0 +1,15 @@
+letra={
+  titulo:"María ven",
+  tonalidad:"D",
+  letra:`
+[D].
+	ESTRIBILLO
+[D7]. María v[G]en,[A] llévame de la m[D]ano a Jesús,[Bm] enséñam[G]e a amarle,[A] como le amaste t[D]ú (2).
+
+[D7]. Tú fuiste d[G]ócil,[A] al espíritu de Di[D]os,[Bm] y así en tu vi[G]entre, la palabra encarn[A]ó. [D].
+	ESTRIBILLO
+
+[D7]. Tú te entreg[G]aste,[A] madre del Salvad[D]or,[Bm] como la escl[G]ava, la esclava del Señ[A]or. [D].
+	ESTRIBILLO
+`
+  };

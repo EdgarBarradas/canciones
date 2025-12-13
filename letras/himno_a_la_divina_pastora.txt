@@ -1,0 +1,32 @@
+letra={
+  titulo:"Himno a La Divina Pastora",
+  tonalidad:"A",
+  letra:`
+		ESTRIBILLO
+Oh, piad[A]osa y am[D]ante Past[A]ora, de las almas dulc[D]ísimo am[E]or,
+oye el h[A]imno que c[B]antan Señ[E]ora, los que te [B]aman con santo ferv[E]or.
+Oh, piad[A]osa y am[E]ante Past[F#m]ora, de las [C#]almas dulcísimo am[F#m]or,
+oye el h[D]imno que cantan Señ[E]ora, los que te [A]aman con s[E]anto ferv[A]or
+oye el h[C#]imno que cantan Señ[F#m]ora, los que te [A]aman con s[E]anto ferv[A]or.
+		
+Tú eres madre div[A7]ino consu[D]elo, del que ll[C#]eva en el alma el pes[F#m]ar,
+tú le ofr[D]eces la dicha del ci[E]elo, al que si[F#m]empre te s[C#]abe alab[F#m]ar,
+al que si[A]empre te s[E]abe ala[A]bar.
+		ESTRIBILLO
+
+Flores puras, loz[A7]anas y b[D]ellas, su exquis[C#]ita fragancia te d[F#m]an,
+y al r[D]edor de tu trono de estr[E]ellas, los quer[F#m]ubes cant[C#]ándote est[F#m]án,
+los quer[A]ubes cant[E]ándote est[A]án.
+		ESTRIBILLO
+
+A tu influjo, Past[A7]ora cel[D]este, para si[C#]empre de aquí se alej[F#m]ó,
+la horror[D]osa y mortífera p[E]este, que este pu[F#m]eblo infel[C#]iz desol[F#m]ó,
+que este pu[A]eblo infel[E]iz desol[A]ó.
+		ESTRIBILLO
+
+¡Dadnos, virgen, la p[A7]az que anhel[D]amos, y con [C#]ella la dicha etern[F#m]al,
+cómo si[D]empre nosotros te am[E]amos, dulce m[F#m]adre de t[C#]odo mort[F#m]al,
+dulce m[A]adre de t[E]odo mort[A]al.
+
+`
+  };

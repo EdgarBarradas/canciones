@@ -1,0 +1,17 @@
+letra={
+  titulo:"Salve, estrella de los mares",
+  tonalidad:"C",
+  letra:`
+¡S[C]alve!, Estr[F]ella de los m[C]ares, de los mares [F]Iris, de eterna vent[C]ura;
+¡Salve!, ¡oh F[F]énix de hermos[C]ura! M[F]adre d[D]el Divino Am[G]or.
+
+D[C]e tu pu[G]eblo, a l[C]os pes[G]ares, t[C]u clem[F]encia dé consu[D]el[G]o.
+F[C]ervor[G]oso, ll[C]egue al Ci[G]elo, y h[C]asta T[F]i, y hasta T[C]i nuestr[G]o clam[C]or.
+ 
+¡S[E]alve!, ¡S[Am]alve! Estr[E]ella de los m[Am]ares. ¡S[F]alve!, Estrella de los m[C]ares.
+¡S[F]í!, Fervoroso llega al Ci[C]elo, y h[A]asta T[Dm]i, y hasta T[C]i, nuestr[G]o clam[C]or.
+
+¡S[E]alve!... ¡S[Am]alve! Estr[E]ella de los m[Am]ares.
+Estr[A]ella de los m[Dm]ares, ¡S[F]alve!… ¡S[C]alve!… ¡Salve!, ¡S[F]a-a-alv[C]e!
+`
+  };

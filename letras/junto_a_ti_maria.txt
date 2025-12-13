@@ -1,0 +1,19 @@
+letra={
+  titulo:"Junto a ti María",
+  tonalidad:"D",
+  letra:`
+J[D]unto a ti Mar[A]ía, como un n[Bm]iño quiero est[F#]ar,
+t[G]ómame en tus br[D]azos guíam[E]e en mi camin[A]ar,
+qui[D]ero que me ed[A]uques, que me ens[Bm]eñes a rez[F#]ar,
+h[G]azme transpar[D]ente, llénam[A]e de p[D]az.
+
+M[D]adr[A]e, m[Bm]adr[F#]e, m[G]adr[D]e, m[E]adr[A]e, m[D]adr[A]e, m[Bm]adr[F#]e, m[G]adr[D]e, madr[D]e.
+
+Gr[D]acias madre m[A]ía, por llev[Bm]arnos a Jesús,
+h[G]aznos más hum[D]ildes tan senc[E]illo como t[A]ú,
+gr[D]acias madre m[A]ía, por abr[Bm]ir tu corazón,
+p[G]orque nos congr[D]egas y nos d[A]as tu amor.
+
+M[D]adr[A]e, m[Bm]adr[F#]e, m[G]adr[D]e, m[E]adr[A]e, m[D]adr[A]e, m[Bm]adr[F#]e, m[G]adr[D]e, m[G]a-[A]adr[D]e.
+`
+  };

@@ -1,0 +1,20 @@
+letra={
+  titulo:"El Ángelus",
+  tonalidad:"F",
+  letra:`
+El [F]ángel vino de los ci[C]elos, y [Gm]a Mar[C]ía le anunci[F]ó,
+el gran misterio de Dios h[C]ombre, que [Gm]a los ci[C]elos admir[F]ó.
+
+	ESTRIBILLO
+V[F7]irgen m[A#]adre, señ[C]ora nu[F]estra, r[D]ecord[Gm]ando la enc[C]arnaci[F]ón,
+t[F7]e cant[A#]amos tus h[C]ijos t[F]odos, c[D]omo estr[Gm]ella de s[C]alvaci[F]ón.
+
+"Yo s[F]oy la esclava del señ[C]or mi Dios", La v[Gm]irgen d[C]ijo al contest[F]ar,
+"que se haga en mí según has d[C]icho tú, se c[Gm]umpla en m[C]í su volunt[F]ad"
+	ESTRIBILLO
+
+Y el v[F]erbo para redim[C]irnos, tom[Gm]ó su c[C]arne virgin[F]al,
+vivió hecho hombre entre nos[C]otros, libr[Gm]ándon[C]os de eterno m[F]al.
+	ESTRIBILLO
+`
+  };

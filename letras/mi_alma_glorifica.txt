@@ -1,0 +1,28 @@
+letra={
+  titulo:"Mi alma glorifica",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+Mi [D]alma glorifica al Señor, mi Di[A]os, g[Bm]ózase mi espíritu en mi S[G]alvad[F#]or,
+[G]Él es mi alegr[A]ía, [D]es mi plenit[Bm]ud, [G]Él es todo p[A]ara m[D]í. [F#].
+
+Ha mir[Bm]ado la baj[F#]eza de su si[Bm]erva, muy dich[A]osa le dirán todos los pu[D]eblos,
+porque en m[B]i ha hecho grandes maravillas, el que t[Bm]odo puede y c[F#]uyo nombre es s[Bm]anto. [A].
+	ESTRIBILLO
+
+Su clem[Bm]encia se derr[F#]ama por los s[Bm]iglos, sobre aqu[A]ellos que le temen y le [D]aman,
+despleg[B]ó el poder de su derecha, dispers[Bm]ó a los que pi[F#]ensan que son [Bm]algo. [A].
+	ESTRIBILLO
+
+Derrib[Bm]ó a los potent[F#]ados de sus tr[Bm]onos, y ensalz[A]ó a los humildes y a los p[D]obres,
+los hambri[B]entos se saciaron de sus bienes, y alej[Bm]ó de sí vac[F#]íos a los r[Bm]icos. [A].
+	ESTRIBILLO
+
+Acogi[Bm]ó a Isra[F#]el su humilde si[Bm]ervo, acord[A]ándose de su miseric[D]ordia,
+como hab[B]ía prometido a nuestros padres, a Abrah[Bm]am y descend[F#]encia para si[Bm]empre. [A].
+	ESTRIBILLO
+
+Mi [D]alma glorifica al Señor, mi Di[A]os, g[Bm]ózase mi espíritu en mi S[G]alvad[F#]or,
+[G]Él es mi alegr[A]ía, [D]es mi plenit[Bm]ud, [G]Él es todo p[A]ara m[D]í.
+`
+  };

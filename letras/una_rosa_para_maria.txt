@@ -1,0 +1,25 @@
+letra={
+  titulo:"Una rosa para María",
+  tonalidad:"C",
+  letra:`
+Tr[C]aigo una rosa blanca para Mar[F]ía, para Mar[G]ía, para Mar[C]ía,
+es una rosa suave y sin esp[F]inas, y sin esp[G]inas, y sin esp[C]inas. [C7].
+
+Porque el p[F]ecado no ha conoc[G]ido, porque sin m[Em]ancha ella ha viv[Am]ido,
+por su pur[F]eza, su ser matern[G]al, por su dulz[C]ura y su santid[C7]ad.
+Porque el p[F]ecado no ha conoc[G]ido, porque sin m[Em]ancha ella ha viv[Am]ido,
+por su pur[F]eza, su ser matern[G]al, por su dulz[F]ura y s[G]u santid[C]ad.
+
+Tr[C]aigo una rosa roja para Mar[F]ía, para Mar[G]ía, para Mar[C]ía,
+como ella quiero darle toda mi v[F]ida, toda mi v[G]ida, toda mi v[C]ida. [C7].
+
+Porque al mir[F]ar a su hijo en la cr[G]uz, su coraz[Em]ón traspasado qued[Am]ó,
+y aquella her[F]ida se transform[G]ó, en el cami[C]no más grande de am[C7]or.
+Porque al mir[F]ar a su hijo en la cr[G]uz, su coraz[Em]ón traspasado qued[Am]ó,
+y aquella her[F]ida se transform[G]ó, en el cam[F]ino más gr[G]ande de am[C]or.
+
+Tr[C]aigo una rosa blanca para Mar[F]ía, para Mar[G]ía, para Mar[C]ía,
+como ella quiero darle toda mi v[F]ida, toda mi v[G]ida, toda mi v[C]ida.
+
+`
+  };

@@ -1,0 +1,12 @@
+letra={
+  titulo:"Venid todos con flores a María",
+  tonalidad:"C",
+  letra:`
+Ven[C]id y vamos t[G]odos, con flores a porf[C]ía,
+con flores a Mar[G]ía, que m[F]adre nuestra [G]es,
+con flores a Marí-[G]a, que m[F]adre nu[G]estra [C]es.
+
+De nu[C]evo aquí nos ti[G]enes, pur[F]ísima donc[G]ella,
+más qu[C]e la luna b[G]ella, postrados [F]a tus pi[G]es, postrados a tus pies.
+`
+  };

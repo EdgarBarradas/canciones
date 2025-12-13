@@ -1,0 +1,23 @@
+letra={
+  titulo:"Madre de los creyentes",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+M[C]adre de los creyentes, que si[A7]empre fuiste fi[Dm]el,
+d[G]anos tu confi[C]anza,[F] dan[G]os tu f[C]e,
+d[G]anos tu confi[C]anza,[F] dan[G]os tu f[C]e.
+
+Pasaste por el mundo en me[G]dio de tini[C]eblas,
+sufriendo a cada p[Em]aso la noche de la f[G]e,
+sinti[F]endo cada día la esp[G]ada del sil[C]encio,
+a osc[F]uras padec[C]iste el ri[G]esgo de cre[C]er.
+	ESTRIBILLO
+
+La fe por el desierto a l[G]omos de un asn[C]illo,
+la fe cuando en las b[Em]odas Jesús se hizo esper[G]ar,
+la f[F]e cuando pensaron que el H[G]ijo estaba l[C]oco,
+la f[F]e sobre el calv[C]ario al b[G]orde de acab[C]ar.
+	ESTRIBILLO
+
+`
+  };

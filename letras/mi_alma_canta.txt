@@ -1,0 +1,27 @@
+letra={
+  titulo:"Mi alma canta",
+  tonalidad:"Bm",
+  letra:`
+[Bm]
+	ESTRIBILLO
+Mi alma c[D]anta, c[G]anta la grandeza del señ[D]or, [A].
+[Bm]y mi esp[A]íritu, s[Bm]e estremece de g[A]ozo en Di[Bm]os,[F#] mi salvad[Bm]or. (2)
+
+P[D]orque mir[A]ó, c[Bm]on bondad, l[D]a pequeñ[A]ez de su s[Bm]ervidora,
+p[D]orque mir[A]ó, c[Bm]on bondad, l[D]a pequeñ[A]ez de su s[Bm]ervidora,
+[D]en adel[A]ante t[Bm]odas las gentes,[D] me llamar[A]án fel[Bm]iz, [D].
+me llamarán fel[A]iz,[F#]  me llamarán fel[Bm]iz.
+	ESTRIBILLO
+
+D[G]erribó del tr[D]ono a los poderosos,[G]   y elevó a los hum[D]ildes,
+colm[G]ó de bienes a l[D]os hambrientos,
+y d[G]espidió a los ricos con las m[D]anos vacías, [G].
+mi alma canta la grand[D]eza del señor,
+y mi esp[G]íritu se estr[D]emece de g[A]ozo en Di[Bm]os,[F#] mi salvad[Bm]or.
+
+
+	ESTRIBILLO
+
+      [F#]mi salvad[Bm]or.
+`
+  };

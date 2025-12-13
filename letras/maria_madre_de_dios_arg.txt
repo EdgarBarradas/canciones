@@ -1,0 +1,21 @@
+letra={
+  titulo:"María, madre de Dios arg",
+  tonalidad:"C",
+  letra:`
+Mar[C]ía, madre de Di[Em]os, y madre nu[Am]estra, por am[G]or,
+tú [C]eres mi gu[C7]ía y m[F]i compañ[Fm]ía, Mar[C]ía la ma[G]dre de Di[C]os.
+
+Por eso h[F]oy, hoy te traigo fl[C]ores, flores ll[F]enas de col[G]ores e ilusi[C]ón, [C7].
+pero la mej[F]or (pero la mej[Fm]or), la de tus am[C]ores (la de tu am[Am]or),
+es la fl[F]or de nu[G]estro coraz[C]ón.
+
+Mar[C]ía, madre de Di[Em]os, y madre nu[Am]estra, por am[G]or,
+tú [C]eres mi gu[C7]ía y m[F]i compañ[Fm]ía, Mar[C]ía la ma[G]dre de Di[C]os.
+
+Por eso h[F]oy, hoy te traigo fl[C]ores, flores ll[F]enas de col[G]ores e ilusi[C]ón, [C7].
+pero la mej[F]or (pero la mej[Fm]or), la de tus am[C]ores (la de tu am[Am]or),
+es la fl[F]or de nu[G]estro coraz[C]ón. (2)
+
+Es la fl[F]or de nu[G]estro coraz[C]ón.
+`
+  };

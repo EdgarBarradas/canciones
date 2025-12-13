@@ -1,0 +1,8 @@
+letra={
+  titulo:"Oh, Virgen de La Victoria",
+  tonalidad:"C",
+  letra:`
+[C]. Oh, V[F]irgen de La Vict[C]oria, madre y abogada nuestr[G]a,
+rog[F]ad por n[C]os, rog[G]ad por n[Am]os, rog[F]ad por n[C]os.
+`
+  };

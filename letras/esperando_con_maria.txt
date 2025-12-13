@@ -1,0 +1,28 @@
+letra={
+  titulo:"Gloria al Señor",
+  tonalidad:"D",
+  letra:`
+El Señ[Dm]or ha estado gr[A#]ande, a Jes[C]ús resucit[F]ó,
+con Mar[A]ía sus hermanos, entendi[Gm]eron que pas[A]ó.
+Como el vi[Dm]ento que da v[A#]ida, el Esp[C]íritu sopl[F]ó,
+y aqu[A]ella fe incierta, en firm[A7]eza se cambi[D]ó.
+
+		ESTRIBILLO
+Gloria al Señor, es nuestra esper[G]anza,
+y con Mar[A]ía se hace v[G]ida su pal[D]abra.
+Gloria al Señor, porque en el sil[G]encio,
+guardó la f[A]e sencilla y gr[G]ande c[A]on am[D]or. [Dm].
+
+Pues sus [Dm]ojos se abri[A#]eron, y tambi[C]én su coraz[F]ón,
+la trist[A]eza fue alegría, fue su g[Gm]ozo el dol[A]or.
+Esper[Dm]ando con Mar[A#]ía, se llen[C]aron del Señ[F]or,
+porque Di[A]os está presente, si está limpio el c[A7]oraz[D]ón.
+		ESTRIBILLO
+
+Nuestro ti[Dm]empo es tiempo nu[A#]evo, cada v[C]ez que sale el s[F]ol,
+y escuch[A]amos su Palabra, fuerza v[Gm]iva de su am[A]or.
+Que dis[Dm]ipa las tini[A#]eblas, y al[C]eja del tem[F]or.
+Se hacen fu[A]ertes nuestras manos, con la Madre d[A7]el Señ[D]or.
+		ESTRIBILLO
+`
+  };

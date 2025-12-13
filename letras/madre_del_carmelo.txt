@@ -1,0 +1,23 @@
+letra={
+  titulo:"Acógeme Madre del Carmelo",
+  tonalidad:"C",
+  letra:`
+[C] [G] [F] [C] [F] [C] [Csus2].
+[C]Acógem[G]e, oh M[Am]adre del Carmelo, b[Dm]ajo tu herm[Aaug]oso m[F]anto protect[G]or,
+m[C]adre de Di[G]os ac[Am]ógeme en tu seno, [Dm]y cantar[Aaug]é tus gl[F]orias con ferv[G]or.
+
+Te promet[C]í,[G] te promet[Am]í la vida m[Dm]ía, fiel p[F]ermanecer[G]é,
+te promet[C]í,[G] te promet[Am]í, la vida m[Dm]ía, fiel p[F]ermanecer[G]é,
+tuyo s[C]oy, oh Mar[F]í—[Fm]í—[C]a.
+
+Bl[Am]anca Flor del Carm[G]elo, v[Gm]id en rac[A]imos, cel[Dm]este claridad,
+p[G]uro prodigio, [Am]al ser a una, M[G]adre de Dios y V[Am]irgen,[D] Virgen fec[G]u-[D]und[G]a.
+
+[C]Acógem[G]e, oh M[Am]adre del Carmelo, b[Dm]ajo tu herm[Aaug]oso m[F]anto protect[G]or,
+m[C]adre de Di[G]os ac[Am]ógeme en tu seno, [Dm]y cantar[Aaug]é tus gl[F]orias con ferv[G]or.
+
+Te promet[C]í,[G] te promet[Am]í la vida m[Dm]ía, fiel p[F]ermanecer[G]é,
+te promet[C]í,[G] te promet[Am]í, la vida m[Dm]ía, fiel p[F]ermanecer[G]é,
+tuyo s[C]oy, oh Mar[F]í—[Fm]í—[C]a.
+`
+  };

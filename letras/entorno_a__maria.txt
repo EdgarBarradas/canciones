@@ -1,0 +1,21 @@
+letra={
+  titulo:"Entorno a María",
+  tonalidad:"D",
+  letra:`
+[C] [F] [G] [C].
+Entorno a Mar[G]ía, y si[F]empre en oraci[C]ón, en un solo espír[G]itu, con un m[F]ismo coraz[C]ón, [Am].
+entorno a Mar[Em]ía, la igl[G]esia se form[Am]ó,[F] cuando estando j[C]untos el Esp[F]íritu se derram[G]ó.
+
+[G] [A] [D].
+
+Estando reun[A]idos, en el [G]aposento [D]alto, un viento impetu[A]oso llen[G]ó todo el lug[D]ar, [Bm].
+y lenguas de fu[F#m]ego en cada [A]uno se pos[Bm]aron,[G] y entorno a Mar[D]ía El Esp[G]íritu se derram[A]ó. [A7].
+
+Mar[D]ía madre nu[A]estra, Mar[Bm]ía madre de Di[F#m]os, m[G]adre de luz y esper[D]anza, portad[G]ora del am[A]or.
+Mar[Bm]ía madre de la igl[F#m]esia, est[G]amos entorno a t[D]i, un[G]idos en un solo esp[D]íritu y en un m[G]ismo c[A]oraz[F]ón.
+
+[G] [A] [D] [G] [A].
+
+Mar[Bm]ía madre de la igl[F#m]esia, est[G]amos entorno a t[D]i, un[G]idos en un solo esp[D]íritu y en un m[G]ismo c[A]oraz[F]ón.
+`
+  };

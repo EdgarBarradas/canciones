@@ -1,0 +1,23 @@
+letra={
+  titulo:"Madre de Dios y madre nuestra",
+  tonalidad:"D",
+  letra:`
+		ESTRIBILLO
+Madre de Di[D]os y M[A]adre nu[Bm]estra, sagrario herm[D]oso, santu[G]ario del Am[A]or,
+preciosa aur[Em]ora del S[F#]ol de nuestros pu[Bm]eblos, merced del ci[G]elo, gozo de la Trinid[A]ad,
+Madre de Di[D]os y M[A]adre nu[Bm]estra, sagrario herm[D]oso, santu[G]ario del Am[A]or,
+preciosa aur[Em]ora del S[F#]ol de nuestros pu[Bm]eblos, merced del ci[G]elo, g[A]ozo de la Trinid[D]ad.
+
+Salve, Señ[Bm]ora, la hija predil[F#]ecta, del Padre aceptas su plan de salvaci[Bm]ón,
+hágase si[B]empre en nosotros su pal[Em]abra, confiamos, M[Bm]adre, en tu intercesi[F#]ón. [A].
+		ESTRIBILLO
+
+Salve, Señ[Bm]ora, Madre corredent[F#]ora, como en el calvario, de pie junto al alt[Bm]ar,
+que hagamos si[B]empre lo que Jesús nos d[Em]ice, al recib[Bm]irlo como Tú al comulg[F#]ar. [A].
+		ESTRIBILLO
+
+Salve, Señ[Bm]ora, esposa inmacul[F#]ada, la que esperaba fiel en Pentecost[Bm]és,
+que ahora y si[B]empre, el Espíritu Div[Em]ino, nos ilum[Bm]ine con su amor y su pod[F#]er. [A].
+		ESTRIBILLO
+`
+  };

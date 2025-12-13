@@ -1,0 +1,17 @@
+letra={
+  titulo:"Oh, María",
+  tonalidad:"C",
+  letra:`
+Oh, Mar[C]ía, madre m[G]ía, oh, consu[Am]elo del mort[G]al,
+ampar[C]adme y gui[G]adme, a la p[F]atria c[G]elesti[C]al.
+
+Con el [C]ángel, de Mar[G]ía, la grand[Am]eza celebr[G]ad,
+transport[C]ados de alegr[G]ía, sus fin[F]ezas p[G]ublic[C]ad.
+
+Quién a t[C]i ferviente cl[G]ama, halla al[Am]ivio en el pes[G]ar,
+pues tu n[C]ombre luz derr[G]ama, gozo y b[F]álsam[G]o sin p[C]ar.
+
+Pues te ll[C]amo con fe v[G]iva, muestra oh m[Am]adre, tu bond[G]ad,
+a mi vu[C]elve compas[G]iva, esos [F]ojos d[G]e pied[C]ad.
+`
+  };

@@ -1,0 +1,26 @@
+letra={
+  titulo:"Reina y Señora del mar",
+  tonalidad:"Dm",
+  letra:`
+“Reina y Señora del M[Dm]ar”, tú que vas por esos m[C]ares,
+hazle llegar esta s[A#]alve, a los que en el cielo est[A]án.
+
+Y siempre de madrug[Dm]a, quién lo iba a imagin[C]ar,
+salieron de tierra f[A#]irme, se los llevó el tempor[A]al.
+
+“Reina y Señora del M[Dm]ar”, tú que vas por esos m[C]ares,
+quiero cantando rez[A#]arle, a esa gente de la m[A]ar.
+
+Diles Tú, Carmen Div[Dm]ina, que desde que faltan [C]ellos,
+dentro de mi coraz[A#]ón, llevó clavada esa esp[A]ina.
+
+Hoy yo les quiero cant[Dm]ar: Virgen del Carmen Señ[C]ora,
+quiero cantar en mem[A#]oria, de los que en el cielo est[A]án.
+
+Hoy yo les quiero cant[Dm]ar: Virgen del Carmen Señ[C]ora,
+quiero cantar en mem[A#]oria, de los que en el cielo est[A]án.
+
+Hoy yo les quiero cant[Dm]ar…
+
+`
+  };

@@ -1,0 +1,25 @@
+letra={
+  titulo:"Quiero caminar contigo",
+  tonalidad:"D",
+  letra:`
+[D] [G] [D] [G] [D].
+Quiero caminar contigo Mar[G]ía,[D] pues tú eres mi madre eres mi gu[G]ía, [A].
+Tú eres para mí el más grande ej[G]emplo, de santid[D]ad, de humild[A]ad. [D].
+Quiero caminar contigo Mar[G]ía,[D] no solo un momento todos los d[G]ías, [A].
+necesito tu amor de m[G]adre, tu intercesi[D]ón, ante el señ[A]or.
+
+
+		ESTRIBILLO
+Guía mis p[D]asos ll[G]évame al ci[D]elo,[A] bajo tu m[Bm]anto n[G]o tengo mi[D]ed[A]o,
+llena de gr[D]acia, [G]ave Mar[D]ía,[A] hoy yo te ofr[Bm]ezco t[A]oda mi v[D]ida.
+
+
+Quiero caminar contigo Mar[G]ía,[D] Madre en el dolor y en la alegr[G]ía, [A].
+Tú que fuiste fiel hasta el extr[G]emo, fiel en la cr[D]uz, fiel a Jes[A]ús.
+		ESTRIBILLO
+
+[Em]. Celestial princesa míram[Bm]e con compasión, [G].
+hoy te doy mi alma, vida y c[D]oraz[A]ón.
+		ESTRIBILLO
+`
+  };

@@ -1,0 +1,23 @@
+letra={
+  titulo:"Reina del cielo m",
+  tonalidad:"Am",
+  letra:`
+[Am].
+Reina del Cielo, al[Em]égrate:[F]    aleluya, [C]aleluy[G]a-aaa [Am].
+porque al que tú port[Em]abas:[F]   aleluya,C aleluy[G]a-aaa [Dm].
+resucitó como d[Am]ijo:[F] aleluya, [C]aleluy[G]a-aaa [Dm].
+Ruega a Dios por nos[Am]otros:[F]   aleluya, [C]aleluy[G]a. [G7].
+
+	ESTRIBILLO
+G[C]oza y al[G]égrate, V[Dm]irgen Mar[F]í-[G]a
+p[C]or la verdad[G]era res[Dm]urrecci[F]ón del S[G]eñor. [C].
+Goza y al[G]égrate, R[Dm]eina del Ci[F]e-l[G]o:  [Dm]aleluy[G]a, aleluuuy[Am]a.
+
+Dios Padre, que por la res[Em]urrección[F]   de tu Hijo, nu[C]estro Señ[G]or Jes[Am]ús
+te dignaste dar al m[Em]undo[F]       [C]alegr[G]íaaaá [Dm].
+concédenos por tu M[Am]adre,[F]   por la Virgen Mar[C]í-[G]a, [Dm].
+alcanzar el g[Am]ozo [F]  de la vida et[C]ern[G]a. [Dm]. 
+Por Jesucristo,[Em]    nuestro Señooo-[G]or.
+	ESTRIBILLO
+`
+  };

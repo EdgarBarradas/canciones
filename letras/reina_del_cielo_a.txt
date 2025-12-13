@@ -1,0 +1,17 @@
+letra={
+  titulo:"Reina del cielo",
+  tonalidad:"D",
+  letra:`
+Reina del Ci[D]elo, Santa María, alégrate porque tu Señ[A]or,
+Aquel que llev[Em]aste en tu vientre s[A]anto, como lo había d[A7]icho resucit[D]ó. [D7].
+
+	ESTRIBILLO
+Alel[G]uya, resucit[D]ó, verdaderam[A]ente, nuestro Señ[D]or, [D7].
+Alel[G]uya, nos redimi[D]ó, venció a la mu[A]erte, resucit[D]ó.
+
+
+Que cante tu [D]alma llena de alegría, porque confiaste en medio del dol[A]or,
+Ruega por nos[Em]otros virgencita bu[A]ena para que alcanc[A7]emos la resurrecci[D]ón. [D7].
+	ESTRIBILLO
+`
+  };
