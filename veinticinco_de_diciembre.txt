@@ -1,0 +1,15 @@
+letra={
+  titulo:"Veinticinco de diciembre",
+  tonalidad:"Am",
+  letra:`
+V[Am]einticinco d[E]e diciembre, f[Am]un, f[E]un, f[Am]un,
+v[Am]einticinco d[E]e diciembre, f[Am]un, f[E]un, f[Am]un.
+Un niñ[C]ito m[G]uy bon[C]ito, h[G]a nac[C]ido en [G]un port[C]al,
+con su c[Dm]arita de r[E]osa, parec[Dm]e una flor herm[E]osa, f[Am]un, f[E]un, f[Am]un.
+
+V[Am]enid, venid, p[E]astorcitos, f[Am]un, f[E]un, f[Am]un,
+v[Am]enid, venid, p[E]astorcitos, f[Am]un, f[E]un, f[Am]un.
+Venid c[C]on la p[G]ander[C]eta y c[G]astañu[C]elas [G]al port[C]al,
+alegr[Dm]ad al Dios del ci[E]elo, que ha apar[Dm]ecido en el su[E]elo, f[Am]un, f[E]un, f[Am]un.
+`
+  };
