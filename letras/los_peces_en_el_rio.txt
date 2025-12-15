@@ -6,9 +6,9 @@ La Virgen se está pein[E]ando, entre cortina y cort[Am]ina,
 los cabellos son de [E]oro, y el peine de plata f[Am]ina.
 
 		ESTRIBILLO
-Pero mira cómo beben los peces en el río,
+Pero mira cómo beben los peces en el r[E]ío,
 pero mira cómo beben por ver al Dios nac[Am]ido,
-beben y beben y vuelven a beber,
+beben y beben y vuelven a beb[E]er,
 los peces en el río por ver a Dios nac[Am]er.
 
 L[Am]a Virgen está lav[E]ando, y tendiendo en el rom[Am]ero,
@@ -24,4 +24,5 @@ no lleva más compañi[E]a, que al Niño de la manit[Am]a.
 		ESTRIBILLO
 `
   };
+
 
