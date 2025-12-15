@@ -12,11 +12,13 @@ le llevo mi corazón, que le s[G]irva de pañ[C]ales.
 
 En el portal, de Belén, hay estr[G]ellas, sol y l[C]una,
 La Virgen y San José, y El Niñ[G]o que está en la c[C]una.
-		ESTRIBILLO  `
+		ESTRIBILLO
 
 Todos le llevan al Niño, yo no t[G]engo, que llev[C]arle,
 le llevare el corazón, que es la pr[G]enda que más v[C]ale.
-		ESTRIBILLO  `
+		ESTRIBILLO 
+`
   };
+
 
 
