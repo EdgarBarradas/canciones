@@ -2,7 +2,7 @@ letra={
   titulo:"Ya viene la vieja",
   tonalidad:"A",
   letra:`
-[D] [A] [E] [A].
+[D] [A] [D] [A] [D] [A] [E] [A].
 Y[A]a vien[D]e la vi[A]eja, con el [D]aguin[A]aldo,
 le par[G]ece m[A]ucho, le vien[D]e quit[A]ando,
 le par[G]ece m[A]ucho, le vien[D]e quit[A]ando.
@@ -10,30 +10,28 @@ le par[G]ece m[A]ucho, le vien[D]e quit[A]ando.
 	ESTRIBILLO
 Pamp[D]anitos v[A]erdes, hoj[D]as de lim[A]ón,
 la V[D]irgen Mar[A]ía, madr[E]e del Señ[A]or.
+[D] [A] [E] [A]. (2)
 
-[D] [A] [E] [A].
 Ya vien[D]en los R[A]eyes, por los [D]aren[A]ales,
 por los [G]aren[A]ales, muy ric[D]os pañ[A]ales,
 por los [G]aren[A]ales, muy ric[D]os pañ[A]ales.
 	ESTRIBILLO
 
-[D] [A] [E] [A].
 Ya vien[D]en los R[A]eyes, por aqu[D]el cam[A]ino,
 ya le tr[G]aen al N[A]iño, sopit[D]as con v[A]ino,
 ya le tr[G]aen al N[A]iño, sopit[D]as con v[A]ino.
 	ESTRIBILLO
 
-[D] [A] [E] [A].
 Ya vien[D]en los r[A]eyes con el [D]aguin[A]aldo,
 ya le tr[G]aen al N[A]iño, muy lind[D]os reg[A]alos,
 ya le tr[G]aen al N[A]iño, muy lind[D]os reg[A]alos.
 	ESTRIBILLO
 
-[D] [A] [E] [A].
 Oro tr[D]ae Melch[A]or, inciens[D]o Gasp[A]ar,
 y olor[G]osa m[A]irra trae B[D]altaz[A]ar,
 y olor[G]osa m[A]irra trae B[D]altaz[A]ar.
 	ESTRIBILLO
 `
   };
+
 
