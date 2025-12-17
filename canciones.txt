@@ -351,6 +351,15 @@ canciones = [
         "txt":"letras/arre_burruquito.txt",
       },
       {
+        "titulo":"Palillos y panderos",
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/palillos_y_panderos.txt",
+      },
+      {
         "titulo":"El Tamborilero",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar"],
@@ -1317,6 +1326,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
