@@ -202,7 +202,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
         "audio":"no hay",
-        "tono_audio":"x",
+        "tono_audio":"audios/gloria_a_dios_en_el_cielo.mp4",
         "txt":"letras/gloria_a_dios_en_el_cielo.txt",
       },
 
@@ -1335,6 +1335,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
