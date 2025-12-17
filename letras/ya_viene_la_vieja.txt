@@ -13,8 +13,8 @@ la V[D]irgen Mar[A]ía, madr[E]e del Señ[A]or.
 [D] [A] [E] [A]. (2)
 
 Ya vien[D]en los R[A]eyes, por los [D]aren[A]ales,
-por los [G]aren[A]ales, muy ric[D]os pañ[A]ales,
-por los [G]aren[A]ales, muy ric[D]os pañ[A]ales.
+ya le tr[G]aen al N[A]iño, muy ric[D]os pañ[A]ales,
+ya le tr[G]aen al N[A]iño, muy ric[D]os pañ[A]ales.
 	ESTRIBILLO
 
 Ya vien[D]en los R[A]eyes, por aqu[D]el cam[A]ino,
@@ -33,5 +33,6 @@ y olor[G]osa m[A]irra trae B[D]altaz[A]ar.
 	ESTRIBILLO
 `
   };
+
 
 
