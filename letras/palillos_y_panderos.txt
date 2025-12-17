@@ -1,0 +1,34 @@
+letra={
+  titulo:"Palillos y panderos",
+  tonalidad:"D",
+  letra:`
+¿D[D]e quién es esta casita, con ventanas y balc[A]ones?
+¿Será de mi tío Jo[Em]aquín, el mej[A]or de los mej[D]ores?
+Y si no está aqu[G]í, por casualid[A]ad, su padre, el tal[G]ega, nos conv[A]idar[D]á.
+
+	ESTRIBILLO
+Entre zambombas, palillos y pandero', alegría, que ha nacido Di[A]os.
+En un m[Em]undo de gitanos bu[A]eno',
+que le cantar[G]án, que le bailar[A]án, entre zamb[G]ombas, pal[A]illos y pand[D]eros'
+
+La Virgen va caminando, va caminando sol[A]ita,
+y no lleva más comp[Em]añía, que el niñ[A]o de la man[D]ita.
+Y si no está aqu[G]í, por casualid[A]ad, su señora m[G]adre nos conv[A]idar[D]á.
+
+	ESTRIBILLO
+
+Hasta aquí hemos venido, cuatrocientos en pand[A]illa,
+Si quieres que te cant[Em]emos', saca cu[A]atrocientos s[D]illa'.
+Y si no está aqu[G]í, por casualid[A]ad, Joaquín, el tal[G]ega, nos conv[A]idar[D]á.
+
+	ESTRIBILLO
+
+La virgen hizo un potaje, y se lo olvidó el tom[A]ate,
+Y san José le dec[Em]ía, "Si lo pru[A]ebo, que me m[D]ate"
+Y si no está aqu[G]í, por casualid[A]ad, Joaquín, el tal[G]ega, nos conv[A]idar[D]á.
+
+	ESTRIBILLO
+
+	ESTRIBILLO
+`
+  };
