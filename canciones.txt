@@ -196,6 +196,15 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/gloria_vzla.txt",
       },
+      {
+        "titulo":"Gloria a Dios en el cielo",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Gloria"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/gloria_a_dios_en_el_cielo.txt",
+      },
 
       {
         "titulo":"Perdón por aquel mendigo",
@@ -1326,6 +1335,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
