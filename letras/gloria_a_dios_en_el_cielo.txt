@@ -1,0 +1,32 @@
+letra={
+  titulo:"Gloria a Dios en el cielo",
+  tonalidad:"C",
+  letra:`
+[C] [F][C] [D] [G].
+	ESTRIBILLO
+Gl[C]oria a Dios en el ci[F]el[C]o, y en la t[Am]ierra p[Em]az a los h[F]ombr[C]es,
+y en la t[F]ierra p[Em]az a los h[Dm]ombr[A]es, que [D7]ama El Señ[G]or.
+
+P[C]or tu inmensa gloria t[F]e alab[C]amos,
+te bendecimos, t[F]e ador[C]amos,
+te glorificamos, t[F]e damos gr[C]acias.
+Señ[Am]or Di[Em]os, R[F]ey celesti[C]al, Dios P[D]adre todopoderos[G]o.
+
+	ESTRIBILLO
+
+Señ[Am]or hijo únic[C]o Jesucr[G]ist[Am]o, Señor Di[C]os, Cordero de Dios hijo del P[Em]adr[Am]e,
+T[Dm]ú que quitas el pec[F]ado del m[Am]undo, t[Dm]en pied[F]ad de nos[Am]otros,
+T[Dm]ú que quitas el pec[F]ado del m[Am]undo, ati[F]ende nu[G]estra súplic[D]a,
+T[C]ú que estás sentado a la derecha del Padre, t[F]en pied[Am]ad de nos[F]otr[G]os.
+
+	ESTRIBILLO
+
+P[C]orque solo Tú [F]eres S[C]anto, solo T[F]ú Señ[C]or,
+solo Tú altísimo J[F]esucr[C]isto, c[Am]on El Esp[Em]íritu S[F]ant[C]o,
+en la gl[D]oria de Dios Padr[G]e.
+
+	ESTRIBILLO
+
+[F]Am[C]én, [F]am[C]én.
+`
+  };
