@@ -1,12 +1,12 @@
 letra={
-  titulo:"Ay, del Chirriquitín",
+  titulo:"Ay, del Chiquirritín",
   tonalidad:"D",
   letra:`
 		ESTRIBILLO
-A[D]y, del Chiquirritín, Chiquirriquitín, que ha nacido entre p[A]ajas,
+A[D]y, del Chiquirritín, Chiquirriquitín, metidito entre p[A]ajas,
 [G]ay, del Chiquirrit[A]ín, Chiquirriquitín. Chiquitín, Chiquitito del [G]alm[D]a.
 
-Con el buey y la mula, Dios ha nac[A]ido, [G]y en un pobre pes[A]ebre, lo han recog[G]id[D]o.
+Entre el buey y la mula, Dios ha nac[A]ido, [G]y en un pobre pes[A]ebre, lo han recog[G]id[D]o.
 
 		ESTRIBILLO
 
@@ -15,3 +15,4 @@ Por debajo del arco, del portal[A]illo, s[G]e descubre a Mar[A]ía, José y al N
 		ESTRIBILLO
   `
   };
+
