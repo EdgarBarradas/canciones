@@ -16,7 +16,7 @@ los pajaritos cant[E]ando, y el romero floreci[Am]endo.
 		ESTRIBILLO
 
 La Virgen está lav[E]ando, con un trozito'e jab[Am]ón,
-se le han picado las m[E]anos, manos de mi cora[Am]ón.
+se le han picado las m[E]anos, manos de mi coraz[Am]ón.
 		ESTRIBILLO
 
 La Virgen va camin[E]ando, va caminando solit[Am]a,
@@ -24,5 +24,6 @@ no lleva más compañi[E]a, que al Niño de la manit[Am]a.
 		ESTRIBILLO
 `
   };
+
 
 
