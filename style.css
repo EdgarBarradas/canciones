@@ -7,11 +7,12 @@ h1 { color: darkblue; }
 .result {margin: 0px;}
 #letra { font-family: sans-serif; }
 
-.letra_estrofa { line-height: 1.2;	-webkit-text-size-adjust: none;    text-size-adjust: none;	line-height: 1.2em; margin-top: 16px;  margin-bottom: 16px;}
+.letra_estrofa { line-height: 1.2;	-webkit-text-size-adjust: none;    text-size-adjust: none;	line-height: 1.2em; margin-top: 4px;  margin-bottom: 4px;}
 .acorde_estrofa {  display: inline-block;  text-align: center;  vertical-align: bottom;  font-size: inherit;}
 .acorde_estrofa b {  display: block;  font-size: 0.9em;  color: red;  line-height: 0.4;}
 
-.letra_estrib { line-height: 1.2; font-style: italic;font-weight: bold;	-webkit-text-size-adjust: none;    text-size-adjust: none;	line-height: 1.2em; margin-top: 16px;  margin-bottom: 16px;}
+.letra_estrib { line-height: 1.2; font-style: italic;font-weight: bold;	-webkit-text-size-adjust: none;    text-size-adjust: none;	line-height: 1.2em; margin-top: 4px;  margin-bottom: 4px;}
 .acorde_estrib {  display: inline-block;  text-align: center;  vertical-align: bottom;  font-size: inherit;	}
 .acorde_estrib b {  display: block;  font-size: 0.9em;  color: red;  line-height: 0.4;}
+
 
