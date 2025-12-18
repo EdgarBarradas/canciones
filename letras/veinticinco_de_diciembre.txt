@@ -2,22 +2,23 @@ letra={
   titulo:"Veinticinco de diciembre",
   tonalidad:"Am",
   letra:`
-V[Am]einticinco d[E]e diciembre, f[Am]um, f[E]um, f[Am]um,
-v[Am]einticinco d[E]e diciembre, f[Am]um, f[E]um, f[Am]um.
+V[Am]einticinco d[E]e diciembre, f[Am]um, f[E]um, f[Am]um. (2)
+
 Un niñ[C]ito m[G]uy bon[C]ito, h[G]a nac[C]ido en [G]un port[C]al,
-con su c[Dm]arita de r[E]osa, parec[F]e una flor herm[E]osa, f[Am]um, f[E]um, f[Am]um.
+con su c[Dm]arita de r[E]osa, parec[F]e una flor herm[E]osa, f[Am]um, f[E]um, f[Am]um. (2)
 
-V[Am]enid, venid, p[E]astorcillos, f[Am]um, f[E]um, f[Am]um,
-v[Am]enid, venid, p[E]astorcillos, f[Am]um, f[E]um, f[Am]umn.
+V[Am]enid, venid, p[E]astorcillos, f[Am]um, f[E]um, f[Am]um. (2)
+
 Venid c[C]on la p[G]ander[C]eta y c[G]astañu[C]elas [G]al port[C]al,
-adora[Dm]ad al Dios del ci[E]elo, que ha apar[F]ecido en el su[E]elo, f[Am]um, f[E]um, f[Am]um.
+adora[Dm]ad al Dios del ci[E]elo, que ha apar[F]ecido en el su[E]elo, f[Am]um, f[E]um, f[Am]um. (2)
 
-D[Am]esde el cielo est[E]á mirando, f[Am]um, f[E]um, f[Am]um,
-d[Am]esde el cielo est[E]á mirando, f[Am]um, f[E]um, f[Am]um,
+D[Am]esde el cielo est[E]á mirando, f[Am]um, f[E]um, f[Am]um. (2)
+
 a la ti[C]erra r[G]util[C]ante, qu[G]e rel[C]umbra c[G]on su l[C]uz,
-y a la p[Dm]az del firmam[E]ento, celebr[F]ando el nacimi[E]ento d[Am]e J[E]es[Am]ús.
+y a la p[Dm]az del firmam[E]ento, celebr[F]ando el nacimi[E]ento d[Am]e J[E]es[Am]ús. (2)
 `
   };
+
 
 
 
