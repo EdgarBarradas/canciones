@@ -3,36 +3,27 @@ letra={
   tonalidad:"A",
   letra:`
 [D] [A] [D] [A] [D] [A] [E] [A].
-Y[A]a vien[D]e la vi[A]eja, con el [D]aguin[A]aldo,
-le par[G]ece m[A]ucho, le vien[D]e quit[A]ando,
-le par[G]ece m[A]ucho, le vien[D]e quit[A]ando.
+Y[A]a vien[E]e la vi[A]eja, con el [E]aguin[A]aldo,
+le par[G]ece m[A]ucho, le vien[E]e quit[A]ando.
 
 	ESTRIBILLO
 Pamp[D]anitos v[A]erdes, hoj[D]as de lim[A]ón,
-la V[D]irgen Mar[A]ía, madr[E]e del Señ[A]or.
-[D] [A] [E] [A]. (2)
+la V[D]irgen Mar[A]ía, madr[E]e del Señ[A]or. (2)
 
-Ya vien[D]en los R[A]eyes, por los [D]aren[A]ales,
-ya le tr[G]aen al N[A]iño, muy ric[D]os pañ[A]ales,
-ya le tr[G]aen al N[A]iño, muy ric[D]os pañ[A]ales.
+Ya vien[E]en los R[A]eyes, por los [E]aren[A]ales,
+ya le tr[G]aen al N[A]iño, muy ric[E]os pañ[A]ales.
 	ESTRIBILLO
 
-Ya vien[D]en los R[A]eyes, por aqu[D]el cam[A]ino,
-ya le tr[G]aen al N[A]iño, sopit[D]as con v[A]ino,
-ya le tr[G]aen al N[A]iño, sopit[D]as con v[A]ino.
+Ya vien[E]en los R[A]eyes, por aqu[E]el cam[A]ino,
+ya le tr[G]aen al N[A]iño, sopit[E]as con v[A]ino.
 	ESTRIBILLO
 
-Ya vien[D]en los r[A]eyes con el [D]aguin[A]aldo,
-ya le tr[G]aen al N[A]iño, muy lind[D]os reg[A]alos,
-ya le tr[G]aen al N[A]iño, muy lind[D]os reg[A]alos.
+Ya vien[E]en los r[A]eyes con el [E]aguin[A]aldo,
+ya le tr[G]aen al N[A]iño, muy lind[E]os reg[A]alos.
 	ESTRIBILLO
 
-Oro tr[D]ae Melch[A]or, inciens[D]o Gasp[A]ar,
-y olor[G]osa m[A]irra trae B[D]altaz[A]ar,
-y olor[G]osa m[A]irra trae B[D]altaz[A]ar.
+Oro tr[E]ae Melch[A]or, inciens[E]o Gasp[A]ar,
+y olor[G]osa m[A]irra trae B[E]altaz[A]ar.
 	ESTRIBILLO
 `
   };
-
-
-
