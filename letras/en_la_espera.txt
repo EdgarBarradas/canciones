@@ -8,7 +8,7 @@ las her[Dm]idas hay que san[G]ar, en esp[F]era del qu[G]e va a nac[C]er.
 
 En esp[C]era, del n[G]iño Di[Am]os, los cam[F]inos hay que enderez[G]ar,
 y los v[Em]alles hay que rellen[A]ar. En esp[F]era,[G] en esp[Em]era, [A].
-los cam[Dm]inos enderez[G]ar, en espera del que va a nac[C]er.
+los cam[Dm]inos enderez[G]ar, en esp[F]era del qu[G]e va a nac[C]er.
 
 Dijo el [C]ángel: “Madr[G]e ser[Am]ás”, y Mar[F]ía le contest[G]ó:
 “hágase [Em]en mi tu volunt[A]ad”. En esp[F]era,[G] en esp[Em]era, [A].
@@ -24,3 +24,4 @@ en esp[Em]era del hijo de Di[A]os. En esp[F]era,[G] en esp[Em]era, [A].
 va Mar[Dm]ía con San Jos[G]é, en esp[F]era del qu[G]e va a nac[C]er.
 `
   };
+
