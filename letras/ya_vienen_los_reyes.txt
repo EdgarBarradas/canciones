@@ -2,29 +2,26 @@ letra={
   titulo:"Ya vienen los reyes",
   tonalidad:"C",
   letra:`
-Ya vien[C]en Los Reyes Magos, ya vienen Los Reyes Magos,
-caminito de Belén, ol[F]é, olé, Hol[G]anda y olé,
-Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
+Ya vien[C]en Los Reyes Magos, ya vienen Los Reyes Magos, caminito de Belén.
 
-Cargaditos de juguetes, cargaditos de juguetes,
-para el Niño de Belén, ol[F]é, olé, Hol[G]anda y olé,
-Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
+  ESTRIBILLO
+Ol[F]é, olé, Ol[G]anda y olé, Olanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
 
-La Virgen va caminando, La Virgen va caminando,
-caminito de Belén, ol[F]é, olé, Hol[G]anda y olé,
-Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
+Cargad[C]itos de juguetes, cargaditos de juguetes, para el Niño de Belén.
+  ESTRIBILLO
 
-Como el camino es tan largo, como el camino es tan largo,
-pide el Niño de beber, ol[F]é, olé, Hol[G]anda y olé,
-Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
+La Virg[C]en va caminando, La Virgen va caminando, caminito de Belén.
+  ESTRIBILLO
 
-No pidas agua, mi vida, no pidas agua, mi vida,
-no pidas agua, mi bien, ol[F]é, olé, Hol[G]anda y olé,
-Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
+Como el c[C]amino es tan largo, como el camino es tan largo, pide el Niño de beber.
+  ESTRIBILLO
 
-Que los ríos vienen turbios, que los ríos vienen turbios,
-y no se puede beber, ol[F]é, olé, Hol[G]anda y olé,
-Holanda, ya se v[C]e, ya se v[G]e, ya se v[C]e.
+No pid[C]as agua, mi vida, no pidas agua, mi vida, no pidas agua, mi bien.
+  ESTRIBILLO
+
+Que los r[C]íos vienen turbios, que los ríos vienen turbios, y no se puede beber.
+  ESTRIBILLO
 `
   };
+
 
