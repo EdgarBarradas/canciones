@@ -7,17 +7,16 @@ S[F]oy de La V[G]irgen Mar[C]ía, y del [G]Espíritu S[C]anto. (2)
 
 		ESTRIBILLO
 Resu[C]enen con alegría los cánticos de mi ti[G]erra,
-y viva EL Niño de Dios, que ha nacido en Nochebu[C]ena.
+y viva EL Niño de Dios, que ha nacido en Nochebu[C]ena. (2)
+La Nochebuena se vien[G]e, tururú, la Nochebuena se va-[C]a, tururú,
+y nosotros nos irem[G]os, tururú, y no volveremos má-[C]ás.
 
 Dime N[C]iño, de quién [G]eres, y si te llamas Jes[C]ús. (2)
 S[F]oy amor [G]en el pes[C]ebre y sufr[G]imiento en la cr[C]uz. (2)
 		ESTRIBILLO
-
-La Nochebuena se vien[G]e, tururú, la Nochebuena se v[C]a, tururú,
-y nosotros nos irem[G]os, tururú, y no volveremos m[C]ás.
-		ESTRIBILLO
-  `
+`
   };
+
 
 
 
