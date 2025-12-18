@@ -504,6 +504,15 @@ canciones = [
         "txt":"letras/el_burrito_sabanero.txt",
       },
       {
+        "titulo":"Cantemos cantemos",
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"no hay",
+        "tono_audio":"x",
+        "txt":"letras/cantemos_cantemos.txt",
+      },
+      {
         "titulo":"Niño lindo",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar"],
@@ -1335,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
