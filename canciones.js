@@ -157,6 +157,10 @@ function buscarCanciones(canciones) {
 async function listarCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones)
+    document.getElementById("tiempo").addEventListener("change", () => buscarCanciones(canciones));
+    document.getElementById("misa").addEventListener("change", () => buscarCanciones(canciones));
+    document.getElementById("momento").addEventListener("change", () => buscarCanciones(canciones));
+    document.getElementById("textoBusqueda").addEventListener("change", () => buscarCanciones(canciones));
     document.getElementById("btnBuscar").addEventListener("click", () => buscarCanciones(canciones));
 }
  
@@ -166,6 +170,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
