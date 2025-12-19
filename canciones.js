@@ -123,6 +123,34 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   crear_bloque_letra(letra)
 }        
 
+function buscarCanciones(canciones) {
+  document.getElementById('bloque_audio').innerHTML=""
+  document.getElementById('bloque_letra').innerHTML=""
+  tiempo=document.getElementById('tiempo').value
+  misa=document.getElementById('misa').value
+  momento=document.getElementById('momento').value
+  texto=document.getElementById('textoBusqueda').value.toLowerCase()
+
+  document.getElementById("resultados").innerHTML = ""
+
+  canciones_filtradas = canciones.filter(c =>
+      ( tiempo==="" || (c.tiempos.includes(tiempo))) &&
+      ( misa==="" || (c.misas.includes(misa))) &&
+      ( momento==="" || (c.momentos.includes(momento))) &&
+      ( texto==="" || sinAcentos(c.titulo).toLowerCase().includes(sinAcentos(texto)))
+      )
+
+  canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
+
+  canciones_filtradas.forEach(c => {
+        document.getElementById('resultados').innerHTML += `
+          <div class="cancion">
+            <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
+          </div>`;
+  });  
+}
+
+
 async function listarCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones)
@@ -166,6 +194,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
