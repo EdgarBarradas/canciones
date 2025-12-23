@@ -3,7 +3,7 @@ letra={
   tonalidad:"D",
   letra:`
 [D]El Niño Dios ha nac[Bm]ido en Bel[G]én, aleluy[A]a, [G]aleluy[D]a,
-quiera nacer en nos[Bm]otros tambi[G]én, aleluy[A]a aleluy[D]a.
+quiere nacer en nos[Bm]otros tambi[G]én, aleluy[A]a aleluy[D]a.
 
 		ESTRIBILLO
 Aleluya, aleluy[G]a, aleluy[A]a, aleluy[D]a. (2)
@@ -17,5 +17,6 @@ para los hombres de f[Bm]e y volunt[G]ad, aleluy[A]a, aleluy[D]a.
 		ESTRIBILLO
   `
   };
+
 
 
