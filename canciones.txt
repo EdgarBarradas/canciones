@@ -20,7 +20,7 @@ canciones = [
       {
         "titulo":"Santo clásico",
         "tiempos":["No filtrar"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Navidad"],
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_clasico.mp4",
         "tono_audio":"Am",
@@ -92,7 +92,7 @@ canciones = [
       {
         "titulo":"Cordero JL",
         "tiempos":["No filtrar"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Navidad"],
         "momentos":["No filtrar","Cordero"],
         "audio":"audios/cordero_jl.mp4",
         "tono_audio":"C",
@@ -172,7 +172,7 @@ canciones = [
       {
         "titulo":"Gloria MMD",
         "tiempos":["No filtrar"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Navidad"],
         "momentos":["No filtrar","Gloria"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -371,7 +371,7 @@ canciones = [
       {
         "titulo":"El Tamborilero",
         "tiempos":["No filtrar","Navidad"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Navidad"],
         "momentos":["No filtrar"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -414,7 +414,7 @@ canciones = [
         "txt":"letras/aleluya_el_niño_dios_ha_nacido.txt",
       },
       {
-        "titulo":"Aleluya, he nacido El Salvador",
+        "titulo":"Aleluya, ha nacido El Salvador",
         "tiempos":["No filtrar","Navidad"],
         "misas":["No filtrar","Navidad"],
         "momentos":["No filtrar","Interleccional"],
@@ -434,7 +434,7 @@ canciones = [
       {
         "titulo":"Hoy en la tierra",
         "tiempos":["No filtrar","Navidad"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Navidad"],
         "momentos":["No filtrar"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -1344,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
