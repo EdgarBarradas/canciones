@@ -760,8 +760,8 @@ canciones = [
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar","Inmaculada Concepción","Santa María Madre de Dios"],
         "momentos":["No filtrar","Ofertorio"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"junto_a_maria.mp4",
+        "tono_audio":"C",
         "txt":"letras/junto_a_maria.txt",
       },
       {
@@ -1321,8 +1321,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"viva_maria.mp4",
+        "tono_audio":"D",
         "txt":"letras/viva_maria.txt",
       },
       {
@@ -1344,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
