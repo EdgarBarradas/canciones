@@ -6,7 +6,7 @@ letra={
 proclama mi [C]alma, la grandeza de Di[Am]os,
 se alegra mi esp[F]íritu en Di[G]os mi Salvad[C]or,
 porque ha mirado, la humildad de su si[Am]erva,
-desde ah[G]ora me felicitar[C]án, t[F]odas l[G]as generaci[C]ones. [C7].
+desde ah[G]ora me felicitar[C]án,[C7] t[F]odas l[G]as generaci[C]ones. [C7].
 
 	ESTRIBILLO
 [F]Porque El Poder[G]oso ha obr[C]ad[Am]o, y h[F]ace marav[G]illas por nos[C]otr[Am]os,
@@ -17,10 +17,11 @@ gr[F]ande [G]es su am[C]o-[G]or, [F]uu[C]uu[G]uu[F]uu[C]uh.......
 Hace pro[C]ezas, con su br[Am]azo,
 corrige a los sob[F]erbios y con t[G]odo el coraz[C]ón,
 ensalza a los humildes, llena de bienes a los p[Am]obres,
-su prom[G]esa por siempre durar[C]á, c[F]omo d[G]ijo a nuestros p[7]adres. [C7].
+su prom[G]esa por siempre durar[C]á,[C7] c[F]omo d[G]ijo a nuestros p[C]adres. [C7].
 
 	ESTRIBILLO
 `
   };
+
 
 
