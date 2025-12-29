@@ -733,8 +733,8 @@ canciones = [
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar","Inmaculada Concepción"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/bendita_sea_tu_pureza.mp4",
+        "tono_audio":"C",
         "txt":"letras/bendita_sea_tu_pureza.txt",
       },
       {
@@ -742,8 +742,8 @@ canciones = [
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar","Inmaculada Concepción"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/dijiste_si.mp4",
+        "tono_audio":"C",
         "txt":"letras/dijiste_si.txt",
       },
       {
@@ -1015,8 +1015,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Inmaculada Concepción"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/bendita_sea_tu_pureza_arg.mp4",
+        "tono_audio":"C",
         "txt":"letras/bendita_sea_tu_pureza_arg.txt",
       },
       {
@@ -1024,8 +1024,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/dios_te_salve_maria.mp4",
+        "tono_audio":"C",
         "txt":"letras/dios_te_salve_maria.txt",
       },
       {
@@ -1033,8 +1033,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Inmaculada Concepción"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/el_angelus.mp4",
+        "tono_audio":"C",
         "txt":"letras/el_angelus.txt",
       },
       {
@@ -1042,8 +1042,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/el_señor_hizo_en_mi.mp4",
+        "tono_audio":"Dm",
         "txt":"letras/el_señor_hizo_en_mi.txt",
       },
       {
@@ -1344,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
