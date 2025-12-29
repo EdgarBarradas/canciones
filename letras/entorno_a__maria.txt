@@ -12,10 +12,11 @@ Estando reun[A]idos, en el [G]aposento [D]alto, un viento impetu[A]oso llen[G]ó
 y lenguas de fu[F#m]ego en cada [A]uno se pos[Bm]aron,[G] y entorno a Mar[D]ía El Esp[G]íritu se derram[A]ó. [A7].
 
 Mar[D]ía madre nu[A]estra, Mar[Bm]ía madre de Di[F#m]os, m[G]adre de luz y esper[D]anza, portad[G]ora del am[A]or.
-Mar[Bm]ía madre de la igl[F#m]esia, est[G]amos entorno a t[D]i, un[G]idos en un solo esp[D]íritu y en un m[G]ismo c[A]oraz[F]ón.
+Mar[Bm]ía madre de la igl[F#m]esia, est[G]amos entorno a t[D]i, un[G]idos en un solo esp[D]íritu y en un m[G]ismo c[A]oraz[D]ón.
 
 [G] [A] [D] [G] [A].
 
-Mar[Bm]ía madre de la igl[F#m]esia, est[G]amos entorno a t[D]i, un[G]idos en un solo esp[D]íritu y en un m[G]ismo c[A]oraz[F]ón.
+Mar[Bm]ía madre de la igl[F#m]esia, est[G]amos entorno a t[D]i, un[G]idos en un solo esp[D]íritu y en un m[G]ismo c[A]oraz[D]ón.
 `
   };
+
