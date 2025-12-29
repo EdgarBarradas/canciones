@@ -16,7 +16,7 @@ un volcán de ternura div[F]ina, primavera de Dios redent[G]or.
 [A].
 
 Gabriel tembl[D]ó, conmovido de tanta bell[G]eza,
-madre de Di[A]os, cuéntame en tu mirada de am[D]or de la anunciaci[A]ón.
+madre de Di[A]os, cuélame en tu mirada de am[D]or de la anunciaci[A]ón.
 
 Hágase en m[G]í, de coraz[A]ón, la volunt[F#]ad de mi Señ[Bm]or,
 que se c[E]umplan en mí cada día los sueños de Di[A]os.
@@ -33,4 +33,5 @@ Mar[D]ía, la doncella que Dios promet[Bm]ía,
 un volcán de ternura div[G]ina, primavera de Di[A]os redent[D]or.
 `
   };
+
 
