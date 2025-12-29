@@ -3,7 +3,7 @@ letra={
   tonalidad:"Am",
   letra:`
 Tantas c[Am]osas en la vida, nos ofr[Dm]ecen plenitud, y nos s[G]on más que mentiras, que desg[C]astan la inquiet[E]ud,
-tú has llen[Am]ado mi existencia, al quer[Dm]erme de verdad, yo quisi[F]era, madre buena, darte el p[E]an.
+tú has llen[Am]ado mi existencia, al quer[Dm]erme de verdad, yo quisi[F]era, madre buena, amarte m[E]ás.
 En sil[Am]encio escuchabas, la pal[Dm]abra de Jesús, y la hac[G]ías pan de vida, medit[C]ando en tu interi[E]or,
 la sem[Am]illa que ha caído, ya germ[Dm]ina y está en flor, con el c[F]orazón en fiesta, cantar[E]é.
 
@@ -18,3 +18,4 @@ muchas c[Am]osas en nosotros, son el fr[Dm]uto de tu amor, la pleg[F]aria más s
 	ESTRIBILLO
 `
   };
+
