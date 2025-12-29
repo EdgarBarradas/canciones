@@ -3,31 +3,28 @@ letra={
   tonalidad:"Dm",
   letra:`
 	ESTRIBILLO
-El Señ[Dm]or hizo en m[C]í marav[Gm]ill[A]as, S[Dm]anto [C]es mi Di[Dm]os.
+El Señ[Dm]or hizo en M[C]í marav[Gm]ill[A]as, S[Dm]anto [C]es mi Di[Dm]os.
 
 Mi alma engrand[C]ece al Señ[Dm]or, se alegra mi espíritu en Di[C]os mi Salvad[Dm]or,
 pues miró la humild[C]ad de su escl[Dm]ava, desde ahora dichosa me dir[C]án  todos los s[Dm]iglos.
-
 	ESTRIBILLO
 
 Maravillas hizo en M[C]í el Poder[Dm]oso, y S[C]anto es su N[Dm]ombre,
 por siglos y s[C]iglos su am[Dm]or, con aqu[C]ellos que le t[Dm]emen.
-
 	ESTRIBILLO
 
 Desplegó el pod[C]er de su br[Dm]azo, y deshizo los proyectos del sob[C]erbio coraz[Dm]ón,
 derribó de su tr[C]ono a poder[Dm]osos, a los hum[C]ildes ensalz[Dm]ó.
-
 	ESTRIBILLO
 
 Colmó de bi[C]en a los hambri[Dm]entos, a los r[C]icos Rechaz[Dm]ó,
 acogió a Isra[C]el, su servid[Dm]or, según lo tenía promet[C]ido a nuestros p[Dm]adres.
-
 	ESTRIBILLO
 
 Recordando su am[C]or por Abrah[Dm]am, y su raza a lo largo de s[C]iglos y s[Dm]iglos,
 Gloria al Padre y a Cr[C]isto, El Señ[Dm]or, y al Espíritu que habita en nuestras [C]almas. Am[Dm]én.
 
-[C]A-a-m[Dm]én.
+[A#]A-[C]a-m[Dm]én.
 `
   };
+
