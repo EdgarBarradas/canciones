@@ -7,14 +7,14 @@ letra={
 	ESTRIBILLO
 [Em]Estrella hermosa, que anuncia el d[Am]í-í-[Em]a,
 [E]eres oh, M[Am]adre, V[D]irgen Mar[G]ía, [Em]eres Mar[Am]í-í-í-[B]a, 
-[Em]estrella herm[Am]osa, qu[D]e anuncia el d[G]ía,
+[E]estrella herm[Am]osa, qu[D]e anuncia el d[G]ía,
 [Em]eres oh, M[Am]a-a-a-dr[B]e, V[Am]irgen Mar[B]í-í-[Em]a. [Am] [Em] [Am] [Em].
 
 [Am].
 
 Más que el luc[Em]ero, ya en tu albor[B]ada,
-br[Em]illas oh, M[Am]adre, [D]oh Madre Inmacul[G]a-ad[B]a.
-[Em]Inunde el s[Am]eno d[D]el alma m[G]ía,
+br[E]illas oh, M[Am]adre, [D]oh Madre Inmacul[G]a-ad[B]a.
+[E]Inunde el s[Am]eno d[D]el alma m[G]ía,
 t[Em]u luz pur[Am]í-í-sim[B]a, V[Am]irgen Mar[B]í-í-[Em]a.
 
 [Em] [Am] [Em] [Am] [Em].
@@ -22,3 +22,4 @@ t[Em]u luz pur[Am]í-í-sim[B]a, V[Am]irgen Mar[B]í-í-[Em]a.
 	ESTRIBILLO
 `
   };
+
