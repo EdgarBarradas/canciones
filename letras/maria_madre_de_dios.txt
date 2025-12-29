@@ -14,7 +14,7 @@ y en su presencia est[B]ás, para ayudar a tus h[E]ijos.
 	ESTRIBILLO
 
 Sin llega la oscurid[Am]ad, y el mundo busca una l[E]uz,
-que no olvide esta verd[B]ad, la guía a la luz t[E]ú.
+que no olvide esta verd[B]ad, la guía a la luz eres t[E]ú.
 	ESTRIBILLO
 
 En ti se aprende a escuch[Am]ar, a Dios que se hizo pal[E]abra,
@@ -22,4 +22,5 @@ de ti se puede esper[B]ar, la vida que nunca ac[E]aba.
 	ESTRIBILLO
 `
   };
+
 
