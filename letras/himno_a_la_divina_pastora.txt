@@ -27,7 +27,8 @@ que este pu[A]eblo infel[E]iz desol[A]ó.
 ¡Dadnos, virgen, la p[A7]az que anhel[D]amos, y con [C#]ella la dicha etern[F#m]al,
 cómo si[D]empre nosotros te am[E]amos, dulce m[F#m]adre de t[C#]odo mort[F#m]al,
 dulce m[A]adre de t[E]odo mort[A]al.
-
+		ESTRIBILLO
 `
   };
+
 
