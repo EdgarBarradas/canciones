@@ -1074,7 +1074,7 @@ canciones = [
         "txt":"letras/esperando_con_maria.txt",
       },
       {
-        "titulo":"Estralla hermosa",
+        "titulo":"Estrella hermosa",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Inmaculada Concepción"],
         "momentos":["No filtrar","Marianos"],
@@ -1344,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
