@@ -5,23 +5,25 @@ letra={
 [D][Dsus4][D].
 		ESTRIBILLO
 Ante tu alt[Em]ar,[A]   hoy como herm[D]anos, el pan y el v[G]ino[A] te present[D]amos,
-ante tu alt[Em]ar,[A]  hoy como herm[D]anos, el pan y el v[G]ino[A] te present[D]amos. [D7]
+ante tu alt[Em]ar,[A]  hoy como herm[D]anos, el pan y el v[G]ino[A] te present[D]amos. [D7].
 
 Fr[G]uto del sudor,[A] y del esfuerzo del h[F#m]ombre, [Bm].
-que [G]es transformado en cu[A]erpo y sangre de nu[D]estro señor. (2)
-
+que [G]es transformado en cu[A]erpo y sangre de nu[D]estro señor.[D7].
+Fr[G]uto del sudor,[A] y del esfuerzo del h[F#m]ombre, [Bm].
+que [G]es transformado en cu[A]erpo y sangre de nu[G]estr[A]o señ[D]or.
 
 		ESTRIBILLO
 
 T[G]odos unidos,[A] en tus manos est[F#m]amos, [Bm].
-y c[G]omo un trigo p[A]uro nos puedes sembr[D]ar,
+y c[G]omo un trigo p[A]uro nos puedes sembr[D]ar,[D7].
 porqu[G]e el trigo que no m[A]uere, solo se qu[F#m]eda, [Bm].
-y [G]el que muere,[A] fruto et[A7]erno dar[D]á.
+y [G]el que muere,[A] fruto et[G]ern[A]o dar[D]á.
 
 
 [D]Ante tu alt[Em]ar,[A]   hoy como herm[D]anos, el pan y el v[G]ino[A] te present[D]amos,
 ante tu alt[Em]ar, [A]ante tu alt[D]ar.
 `
   };
+
 
 
