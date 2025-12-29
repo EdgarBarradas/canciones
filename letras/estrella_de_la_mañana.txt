@@ -17,9 +17,12 @@ tern[A]ura de una m[Dm]amá, los br[E]azos que me hacen d[Am]escansar. [F] [G] [
 
 
 En tus br[Em]azos, cay[Am]ó la salvaci[Em]ón, desci[Am]ende del mad[Em]ero,
-quien si[F]endo rey se c[E]onvirtió en escl[Am]avo. [F] [G] [Am].
+quien si[F]endo rey se c[E]onvirtió en escl[Am]avo. [E].
+	ESTRIBILLO
+
 Tú Mar[Em]ía, sil[Am]encio y oraci[Em]ón,
 t[Am]odo lo guard[Em]abas, [F]y lo medit[E]abas en tu c[Am]orazón. [E].
 	ESTRIBILLO
 `
   };
+
