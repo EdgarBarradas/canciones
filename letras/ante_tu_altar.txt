@@ -19,11 +19,11 @@ y c[G]omo un trigo p[A]uro nos puedes sembr[D]ar,[D7].
 porqu[G]e el trigo que no m[A]uere, solo se qu[F#m]eda, [Bm].
 y [G]el que muere,[A] fruto et[G]ern[A]o dar[D]á.
 
-
-[D]Ante tu alt[Em]ar,[A]   hoy como herm[D]anos, el pan y el v[G]ino[A] te present[D]amos,
+Ante tu alt[Em]ar,[A]   hoy como herm[D]anos, el pan y el v[G]ino[A] te present[D]amos,
 ante tu alt[Em]ar, [A]ante tu alt[D]ar.
 `
   };
+
 
 
 
