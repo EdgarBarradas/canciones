@@ -895,8 +895,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Ofertorio"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"aqui_estamos_señor.mp4",
+        "tono_audio":"A",
         "txt":"letras/aqui_estamos_señor.txt",
       },
       {
@@ -949,8 +949,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Ofertorio"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"ante_tu_altar.mp4",
+        "tono_audio":"D",
         "txt":"letras/ante_tu_altar.txt",
       },
       {
@@ -1123,8 +1123,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"madre_del_carmelo.mp4",
+        "tono_audio":"C",
         "txt":"letras/madre_del_carmelo.txt",
       },
       {
@@ -1132,8 +1132,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"magnificat_v.mp4",
+        "tono_audio":"C",
         "txt":"letras/magnificat_v.txt",
       },
       {
@@ -1141,8 +1141,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Santa María Madre de Dios"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"maria_madre_de_dios.mp4",
+        "tono_audio":"E",
         "txt":"letras/maria_madre_de_dios.txt",
       },
       {
@@ -1285,8 +1285,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"santa_maria_del_camino.mp4",
+        "tono_audio":"A",
         "txt":"letras/santa_maria_del_camino.txt",
       },
       {
@@ -1294,8 +1294,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"tantas_cosas_en_la_vida.mp4",
+        "tono_audio":"Am",
         "txt":"letras/tantas_cosas_en_la_vida.txt",
       },
       {
@@ -1344,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
