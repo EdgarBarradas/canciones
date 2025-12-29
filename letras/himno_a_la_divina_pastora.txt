@@ -8,7 +8,7 @@ oye el h[A]imno que c[B]antan Señ[E]ora, los que te [B]aman con santo ferv[E]or
 Oh, piad[A]osa y am[E]ante Past[F#m]ora, de las [C#]almas dulcísimo am[F#m]or,
 oye el h[D]imno que cantan Señ[E]ora, los que te [A]aman con s[E]anto ferv[A]or
 oye el h[C#]imno que cantan Señ[F#m]ora, los que te [A]aman con s[E]anto ferv[A]or.
-		
+
 Tú eres madre div[A7]ino consu[D]elo, del que ll[C#]eva en el alma el pes[F#m]ar,
 tú le ofr[D]eces la dicha del ci[E]elo, al que si[F#m]empre te s[C#]abe alab[F#m]ar,
 al que si[A]empre te s[E]abe ala[A]bar.
@@ -30,3 +30,4 @@ dulce m[A]adre de t[E]odo mort[A]al.
 
 `
   };
+
