@@ -1330,8 +1330,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"maria_y_los_doce.mp4",
+        "tono_audio":"D",
         "txt":"letras/maria_y_los_doce.txt",
       },
       {
@@ -1344,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
