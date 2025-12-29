@@ -11,7 +11,8 @@ que en el ci[Am]elo tan s[F]olo te [C]aman m[Fm]ej[C]or.
 V[F]irgen s[C]anta, V[F]irgen p[C]ura,[Am] vida esper[F]anza y dulz[C]ura,
 d[G]el alma que en ti conf[C]ía, m[Am]adre de Di[C]os, m[Fm]adre mí[C]a,
 mientras mi vida alent[Am]are, t[C]odo mi amor p[F]ara t[C]i, [Am].
-más si mi am[Em]or te olvid[F]ar[G]e, [F] madre m[C]ía, madre m[C]ía, [Am].
+más si mi am[Em]or te olvid[F]ar[G]e, [F] madre m[C]ía,[F] madre m[C]ía, [Am].
 más si mi am[Em]or te olvid[C]ar[Am]e, tú no te olv[C]ides d[F]e m[C]í.
 `
   };
+
