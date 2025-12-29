@@ -4,7 +4,7 @@ letra={
   letra:`
 [E].
 	ESTRIBILLO
-María madre de Dios, y madre nuestra Mar[B]ía,
+María Madre de Dios, y Madre nuestra Mar[B]ía,
 del pobre tú eres la voz, y del triste la alegr[E]ía.
 María madre eres tú,[E7] y en ti los ojos est[A]án,
 de quienes siendo tus h[E]ijos,[B] te vienen a suplic[E]ar.
@@ -14,7 +14,7 @@ y en su presencia est[B]ás, para ayudar a tus h[E]ijos.
 	ESTRIBILLO
 
 Sin llega la oscurid[Am]ad, y el mundo busca una l[E]uz,
-que no olvide esta verd[B]ad, la luz María eres t[E]ú.
+que no olvide esta verd[B]ad, la guía a la luz t[E]ú.
 	ESTRIBILLO
 
 En ti se aprende a escuch[Am]ar, a Dios que se hizo pal[E]abra,
@@ -22,3 +22,4 @@ de ti se puede esper[B]ar, la vida que nunca ac[E]aba.
 	ESTRIBILLO
 `
   };
+
