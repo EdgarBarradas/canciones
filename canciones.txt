@@ -758,7 +758,7 @@ canciones = [
       {
         "titulo":"Junto a María",
         "tiempos":["No filtrar","Adviento"],
-        "misas":["No filtrar","Inmaculada Concepción"],
+        "misas":["No filtrar","Inmaculada Concepción","Santa María Madre de Dios"],
         "momentos":["No filtrar","Ofertorio"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -1102,7 +1102,7 @@ canciones = [
       },
       {
         "titulo":"Madre de Dios y madre nuestra",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Pentecostés"],
         "misas":["No filtrar","Santísima Trinidad"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
@@ -1139,7 +1139,7 @@ canciones = [
       {
         "titulo":"María madre de Dios",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Santa María Madre de Dios"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -1148,7 +1148,7 @@ canciones = [
       {
         "titulo":"María madre de Dios A",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Santa María Madre de Dios"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -1344,6 +1344,7 @@ canciones = [
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
