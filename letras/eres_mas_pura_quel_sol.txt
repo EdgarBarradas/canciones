@@ -3,18 +3,19 @@ letra={
   tonalidad:"Dm",
   letra:`
 [Dm]Eres más p[A]ura que el s[Dm]ol más herm[A]osa que las perlas que oc[A7]ultan los m[Dm]ares,
-[Dm]ella s[A]ola entre t[Dm]antos mort[A]ales, del pecado de Ad[A7]án nos libró.
+[Dm]ella s[A]ola entre t[Dm]antos mort[A]ales, del pecado de Ad[A7]án nos libr[Dm]ó.
 
 	ESTRIBILLO
 Sa[D7]lve, salve, cantad a Mar[Gm]ía, qu[A]e más puro que t[A7]ú solo Di[Dm]os,
 y [D7]en el cielo una voz repet[Gm]ía, m[A]ás que tú solo Di[A7]os, solo Di[Dm]os.
 
 C[Dm]on torr[A]entes de l[Dm]uz que te in[A]undan los arcángeles b[A7]esan tus pi[Dm]es,
-l[Dm]as estr[A]ellas tu fr[Dm]ente circ[A]undan y hasta Dios complac[A7]ido te ve.
+l[Dm]as estr[A]ellas tu fr[Dm]ente circ[A]undan y hasta Dios complac[A7]ido te v[Dm]e.
 	ESTRIBILLO
 
 Pu[Dm]es llam[A]ándote p[Dm]ura y sin m[A]ancha de rodillas los m[A7]undos est[Dm]án,
-[Dm]y tu esp[A]íritu arr[Dm]iba y ens[A]ancha tanta fe, tanto am[A7]or, tanto afán.
+[Dm]y tu esp[A]íritu arr[Dm]iba y ens[A]ancha tanta fe, tanto am[A7]or, tanto af[Dm]án.
 	ESTRIBILLO
 `
   };
+
