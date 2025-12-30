@@ -1096,8 +1096,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/junto_a_ti_maria.mp4",
+        "tono_audio":"D",
         "txt":"letras/junto_a_ti_maria.txt",
       },
       {
@@ -1339,11 +1339,12 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/estrella_de_la_mañana.mp4",
+        "tono_audio":"Em",
         "txt":"letras/estrella_de_la_mañana.txt",
       },
 ]
+
 
 
 
