@@ -6,21 +6,22 @@ M[Am]anifiesta tu santidad en mí, t[Dm]ómame de entre lo que me dispersé,
 rec[G]ógeme de donde me perdí, y ll[C]évame de nuevo al c[E]orazón.
 
 ESTRIBILLO
-Tú [Am]eres el agua viva, Tú [Dm]eres el agua pura,
+Tú [Am]eres el Agua Viva, Tú [Dm]eres el agua pura,
 in[G]úndame, inúndame, y t[C]odo se transformará en m[E]í. (2)
 
 Mi ti[Am]erra se abrirá a tu lluvia, mis r[Dm]ocas ya no harán daño a nadie,
 mis m[G]ontes se harán camino, para t[C]odos. [E].
 Mi p[Am]asto abundante medicina será, par[Dm]a todo el que coma de mí,
-y[G]o seré la tierra, que m[C]ana leche y mi[E]el.
+Y[G]o seré la tierra, que m[C]ana leche y mi[E]el.
 ESTRIBILLO
 
 M[Dm]e darás unas entrañas nu[Am]evas, mis rocas ya no harán daño a n[Dm]adie, s[E]ólo acariciar[E7]án.
-Inf[Am]úndeme tu espíritu Señor, y h[Dm]az que se encariñe conmigo,
-que qui[G]eras ser morada en mí, y as[C]í tenga sab[E]or a ti.
+Inf[Am]úndeme tu Espíritu Señor, y h[Dm]az que se encariñe conmigo,
+que qui[G]eras ser morada en mí, y as[C]í tenga sab[E]or a Ti.
 Ent[Dm]onces habitaré en la tierra que es m[Am]ía, y yo seré tu pu[Dm]eblo y T[E]ú serás mi Di[E7]os.
 ESTRIBILLO
 `
   };
+
 
 
