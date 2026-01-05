@@ -29,8 +29,9 @@ Este [C]es mi hijo am[D]ado, mi elej[G]ido. [D].
 Gloria al P[A]adre de los ci[E]elos, gloria al H[F#m]ijo Salvad[C#m]or,
 gloria al [D]Espíritu S[A]anto, gloria a Di[B]os eterno am[E]or,
 gloria al P[A]adre de los ci[E]elos, gloria al H[F#m]ijo Salvad[C#m]or,
-gloria al [D]Espíritu S[A]anto, gloria a Di[Bm]os et[E]erno am[A]or.
+gloria al [D]Espíritu S[A]anto, gloria a Di[Bm]os et[E]erno am[D]or. [A].
 `
   };
+
 
 
