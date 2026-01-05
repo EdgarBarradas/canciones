@@ -1352,7 +1352,17 @@ canciones = [
         "tono_audio":"Am",
         "txt":"letras/tu_eres_el_agua_viva.txt",
       },
+      {
+        "titulo":"El bautismo de Jesús",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar","Bautismo de Jesús"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/el_bautismo_de_jesus.mp4",
+        "tono_audio":"G",
+        "txt":"letras/el_bautismo_de_jesus.txt",
+      },
 ]
+
 
 
 
