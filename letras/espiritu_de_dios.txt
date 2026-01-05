@@ -2,15 +2,15 @@ letra={
   titulo:"Espíritu de Dios",
   tonalidad:"Em",
   letra:`
-Esp[Em]íritu de Dios, toma mi v[D]ida, toma mi [C]alma, toma mi s[B]er. (2)
+Espíritu de Di[Em]os, toma mi v[D]ida, toma mi [C]alma, toma mi s[B]er. (2)
 
 Y llénam[Em]e, de tu pres[D]encia, de tu pod[C]er, de tu b[B]ondad. (2)
 
-Esp[Em]íritu de Dios, llena mi v[D]ida, llena mi [C]alma, llena mi s[B]er. (2)
+Espíritu de Di[Em]os, llena mi v[D]ida, llena mi [C]alma, llena mi s[B]er. (2)
 
 Y llénam[Em]e, de tu pres[D]encia, de tu pod[C]er, de tu b[B]ondad. (2)
 
-Esp[Em]íritu de Dios, danos tus d[D]ones, danos tu ali[C]ento al camin[B]ar. (2)
+Espíritu de Di[Em]os, danos tus d[D]ones, danos tu ali[C]ento al camin[B]ar. (2)
 
 Y llénan[Em]os de sabidur[D]ía, de entendimi[C]ento, de temor de Di[B]os,
 y llénan[Em]os de fortal[D]eza, de tu cons[C]ejo, ciencia y pied[B]ad.
@@ -18,3 +18,4 @@ y llénan[Em]os de fortal[D]eza, de tu cons[C]ejo, ciencia y pied[B]ad.
 Espíritu de Di[Em]os.
 `
   };
+
