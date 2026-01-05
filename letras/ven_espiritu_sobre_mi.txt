@@ -2,6 +2,7 @@ letra={
   titulo:"Ven Espíritu de Dios sobre mí",
   tonalidad:"Dm",
   letra:`
+    ESTRIBILLO
 V[Dm]en Espíritu de Dios, sobre m[C]í,
 me [Gm]abro, a tu pres[Dm]encia, cambiar[A#]ás, mi c[F]oraz[C]ón. [A].
 V[Dm]en Espíritu de Dios, sobre m[C]í,
@@ -11,6 +12,8 @@ T[Dm]oca mi debilid[C]ad, t[Gm]oma todo lo que s[Dm]oy,
 p[A#]ongo, mi v[A]ida en tus m[F]anos [G]y mi f[C]e.
 P[Dm]oco a poco llegar[C]ás, [Gm]a inundarme de tu l[Dm]uz,
 T[A#]ú cambiar[A]ás mi pas[F]ado, c[G]antar[C]é. [A].
+    ESTRIBILLO
 `
   };
+
 
