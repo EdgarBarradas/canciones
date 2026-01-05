@@ -1421,7 +1421,7 @@ canciones = [
         "misas":["No filtrar","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/espiritu_de_dios.mp4",
-        "tono_audio":"Em",
+        "tono_audio":"Am",
         "txt":"letras/espiritu_de_dios.txt",
       },
       {
@@ -1434,6 +1434,7 @@ canciones = [
         "txt":"letras/bendigamos_al_señor.txt",
       },
 ]
+
 
 
 
