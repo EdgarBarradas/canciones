@@ -1,0 +1,35 @@
+letra={
+  titulo:"El bautismo de Jesús",
+  tonalidad:"G",
+  letra:`
+[G] [D] [Em]   [C] [D] [G]
+Vino de Galil[D]ea,[Em] a las aguas del rí[Bm]o Jordán, [C].
+se metió entre la g[G]ente, en p[Am]os del bautism[D]o de Juan, [G].
+al salir de las [D]aguas,[Em] de repente el ciel[Bm]o se abrió, [C].
+y El Espíritu S[G]anto, com[Am]o paloma d[D]escendió, [Em].
+y del cielo se oy[Bm]ó la voz, del P[G]a-dr[D]e que d[Em]ijo,
+Este [C]es mi hijo am[G]ado, mi [D]elej[G]ido. [D].
+
+
+	ESTRIBILLO
+Oh, Jes[G]ús, ciervo eleg[D]ido, que en las [Em]aguas del Jord[Bm]án,
+El Esp[C]íritu te ha ung[G]ido, para t[Am]u misión de am[D]ar.
+Oh, Jes[G]ús, ciervo eleg[D]ido, que en las [Em]aguas del Jord[Bm]án,
+nos rev[C]elas el mist[G]erio, de La S[Am]anta Tr[D]inid[G]ad.
+
+
+Al bajar aquel r[D]ío,[Em] nuestra historia tom[Bm]aste en ti, [C].
+Tú te hiciste pec[G]ado, par[Am]a nosotros r[D]esurgir, [G].
+Santificas el [D]agua,[Em] donde nacen hij[Bm]os de Dios, [C].
+El espíritu S[G]anto, nos h[Am]ace ser nuev[D]a creación, [Em].
+Y a nosotros tambi[Bm]én la voz, del P[G]a-dr[D]e nos d[Em]ice,
+Este [C]es mi hijo am[G]ado, mi [D]elej[G]ido. [D].
+	ESTRIBILLO
+
+Gloria al P[G]adre de los ci[D]elos, gloria al H[Em]ijo Salvad[Bm]or,
+gloria al [C]Espíritu S[G]anto, gloria a Di[Am]os eterno am[D]or,
+gloria al P[G]adre de los ci[D]elos, gloria al H[Em]ijo Salvad[Bm]or,
+gloria al [C]Espíritu S[G]anto, gloria a Di[Am]os et[D]erno am[G]or.
+	ESTRIBILLO
+`
+  };
