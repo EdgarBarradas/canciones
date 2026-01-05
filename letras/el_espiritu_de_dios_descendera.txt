@@ -1,0 +1,24 @@
+letra={
+  titulo:"El Espíritu de Dios descenderá",
+  tonalidad:"D",
+  letra:`
+El Espíritu de Di[G]os desc[A]ender[D]á (2).
+El Espíritu de Di[G]os nos ll[A]enar[D]á (2).
+El Esp[G]írit[A]u de Di[D]os (2).
+
+V[D7]en Espíritu Div[G]in[D]o, v[A]en y llenan[D]os (2).
+
+El Espíritu de Di[G]os nos quemará (2).
+El Espíritu de Di[G]os nos cambiará (2).
+El Esp[G]írit[A]u de Di[D]os (2).
+
+V[D7]en Espíritu Div[G]in[D]o, v[A]en y cámbian[D]os (2).
+
+El Espíritu de Di[G]os nos [A]unir[D]á (2).
+El Espíritu de Di[G]os nos gu[A]iar[D]á (2).
+El Esp[G]írit[A]u de Di[D]os (2).
+
+V[D7]en Espíritu Div[G]in[D]o, v[A]en y guían[D]os.
+V[D7]en Espíritu Div[G]in[D]o, v[A]en y cámbian[D]os.
+`
+  };

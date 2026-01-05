@@ -1,0 +1,25 @@
+letra={
+  titulo:"Espíritu Santo ven, ven",
+  tonalidad:"E",
+  letra:`
+ESTRIBILLO
+Esp[E]íritu Santo ven, ven, Espíritu Santo v[B]en, ven,
+Esp[E]íritu Santo ven, ven, ¡En el n[A]ombre d[B]el Señ[E]or!
+
+¡Acomp[A]áñame, ilum[E]íname, t[B]oma mi v[E]ida!
+Acomp[A]áñame, ilum[E]íname, Esp[A]íritu S[B]anto v[E]en, ¡ven!
+ESTRIBILLO
+
+¡Purif[A]ícame, renu[E]évame, t[B]oma mi v[E]ida!
+Purif[A]ícame, renu[E]évame, Esp[A]íritu S[B]anto v[E]en, ¡ven!
+ESTRIBILLO
+
+¡Santif[A]ícame, transf[E]órmame, T[B]ú, ¡cada d[E]ía!
+Santif[A]ícame, transf[E]órmame, Esp[A]íritu S[B]anto v[E]en, ¡ven!
+ESTRIBILLO
+
+¡Resuc[A]ítame, convi[E]érteme, t[B]odos los d[E]ías,
+Glorif[A]ícame, convi[E]érteme, Esp[A]íritu S[B]anto v[E]en, ¡ven!
+ESTRIBILLO
+`
+  };

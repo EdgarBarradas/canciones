@@ -1,0 +1,20 @@
+letra={
+  titulo:"Ilumíname Señor",
+  tonalidad:"Am",
+  letra:`
+Ilum[Am]íname, Señ[F]or, con tu Esp[E]íritu, transf[Dm]órmame, Señ[E]or, con tu Esp[Am]íritu, [E].
+ilum[Am]íname, Señ[F]or, con tu Esp[E]íritu, ilum[Dm]íname, transf[E]órmame, Señ[Am]or. [A7].
+
+		ESTRIBILLO
+Y d[Dm]éjame sent[G]ir, el fu[C]ego de tu am[Am]or, aquí [Dm]en mi coraz[E]ón, Señ[Gm]or, [A].
+y d[Dm]éjame sent[G]ir, el fu[C]ego de tu am[Am]or, aquí [Dm]en mi coraz[E]ón, Señ[Am]or. [E].
+
+Resuc[Am]ítame, Señ[F]or, con tu Esp[E]íritu, convi[Dm]érteme, Señ[E]or, con tu Esp[Am]íritu, [E].
+resuc[Am]ítame, Señ[F]or, con tu Esp[E]íritu, resuc[Dm]ítame, conviért[E]eme, Señ[Am]or. [A7].
+		ESTRIBILLO
+
+Fortal[Am]éceme, Señ[F]or, con tu Esp[E]íritu, consu[Dm]élame, Señ[E]or, con tu Esp[Am]íritu, [E].
+fortal[Am]éceme, Señ[F]or, con tu Esp[E]íritu, fortal[Dm]éceme, consuél[E]ame, Señ[Am]or. [A7].
+		ESTRIBILLO
+`
+  };

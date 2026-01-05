@@ -1,0 +1,16 @@
+letra={
+  titulo:"Ven Espíritu de Dios, maranatha",
+  tonalidad:"G",
+  letra:`
+V[G]en Esp[D]íritu de Di[Em]os, inúndame de am[C]or, ayúdame a segu[D]ir,
+v[G]en y d[D]ame tu cal[Em]or, toma mi coraz[C]ón, ens[D]éñame a serv[G]i-[D]ir.
+
+			ESTRIBILLO
+V[G]en Esp[D]íritu de Di[Em]os, ven a mi s[C]er, ven a mi v[D]ida, [D7].
+v[G]en, y d[D]ame tu cal[Em]or, ven a mor[C]a-[D]ar, Maranath[G]a.
+
+H[G]oy, la v[D]ida que me d[Em]as, te invoca en su dol[C]or, y clama ven Señ[D]or,
+v[G]en y c[D]ambia mi exist[Em]ir, transfórmame Señ[C]or, en gl[D]orias hacia t[G]i-[D]i.
+			ESTRIBILLO
+`
+  };
