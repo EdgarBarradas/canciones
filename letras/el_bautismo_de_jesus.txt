@@ -21,7 +21,7 @@ nos rev[C]elas el mist[G]erio, de La S[Am]anta Tr[D]inid[G]ad.
 Al bajar aquel r[D]ío,[Em] nuestra historia tom[Bm]aste en ti, [C].
 Tú te hiciste pec[G]ado, par[Am]a nosotros r[D]esurgir, [G].
 Santificas el [D]agua,[Em] donde nacen hij[Bm]os de Dios, [C].
-El espíritu S[G]anto, nos h[Am]ace ser nuev[D]a creación, [C].
+Y El espíritu S[G]anto, nos h[Am]ace ser nuev[D]a creación, [C].
 Y a nosotros tambi[D]én la voz, del P[Bm]adre nos d[Em]ice,
 Este [C]es mi hijo am[D]ado, mi elej[G]ido. [D].
 	ESTRIBILLO
@@ -32,6 +32,7 @@ gloria al P[A]adre de los ci[E]elos, gloria al H[F#m]ijo Salvad[C#m]or,
 gloria al [D]Espíritu S[A]anto, gloria a Di[Bm]os et[E]erno am[D]or. [A].
 `
   };
+
 
 
 
