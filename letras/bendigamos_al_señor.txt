@@ -8,9 +8,11 @@ su bond[G#m]ad y su perdón, y su gr[C#m]an fidelidad,
 por los s[A]iglos de los s[B]iglos durar[E]án. [E7].
 
 	ESTRIBILLO
-El Esp[A]íritu de Di[B]os hoy est[G#m]á sobre m[C#m]í, [A]Él es quien me ha ung[B]ido para proclam[E]ar, [E7] [A].
+El Esp[A]íritu de Di[B]os hoy est[G#m]á sobre m[C#m]í,
+[A]Él es quien me ha ung[B]ido para proclam[E]ar, [E7] [A].
 la buena nu[B]eva a los más p[G#m]obr[C#m]es,[A] la gracia d[F#]e su salvaci[B]ón.
-El Esp[A]íritu de Di[B]os hoy est[G#m]á sobre m[C#m]í, [A]Él es quien me ha ung[B]ido para proclam[E]ar, [E7] [A].
+El Esp[A]íritu de Di[B]os hoy est[G#m]á sobre m[C#m]í,
+[A]Él es quien me ha ung[B]ido para proclam[E]ar, [E7] [A].
 la buena nu[B]eva a los más p[G#m]obr[C#m]es,[A] la gracia d[B]e su salvaci[E]ón.
 
 Envi[E]ados con poder, y en el n[C#m]ombre de Jesús,
@@ -26,3 +28,4 @@ borrar[A]án la paz de nu[B]estro coraz[E]ón. [E7].
 	ESTRIBILLO
 `
   };
+
