@@ -3,10 +3,12 @@ letra={
   tonalidad:"Dm",
   letra:`
     ESTRIBILLO
-V[Dm]en Espíritu de Dios, sobre m[C]í,
+Ven Esp[Dm]íritu de Dios, sobre m[C]í,
 me [Gm]abro, a tu pres[Dm]encia, cambiar[A#]ás, mi c[F]oraz[C]ón. [A].
-V[Dm]en Espíritu de Dios, sobre m[C]í,
-me [Gm]abro, a tu pres[Dm]encia, cambiar[A#]ás, mi c[F]or[C]az[F]ón. [A].
+Ven Esp[Dm]íritu de Dios, sobre m[C]í,
+me [Gm]abro, a tu pres[Dm]encia, cambiar[A#]ás, mi c[F]or[C]az[F]ón.
+
+ [A].
 
 T[Dm]oca mi debilid[C]ad, t[Gm]oma todo lo que s[Dm]oy,
 p[A#]ongo, mi v[A]ida en tus m[F]anos [G]y mi f[C]e.
@@ -15,5 +17,6 @@ T[A#]ú cambiar[A]ás mi pas[F]ado, c[G]antar[C]é. [A].
     ESTRIBILLO
 `
   };
+
 
 
