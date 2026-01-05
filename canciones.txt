@@ -1385,7 +1385,7 @@ canciones = [
         "misas":["No filtrar","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/iluminame_señor.mp4",
-        "tono_audio":"Am",
+        "tono_audio":"Bm",
         "txt":"letras/iluminame_señor.txt",
       },
       {
@@ -1394,7 +1394,7 @@ canciones = [
         "misas":["No filtrar","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/espiritu_santo_ven_ven.mp4",
-        "tono_audio":"E",
+        "tono_audio":"D",
         "txt":"letras/espiritu_santo_ven_ven.txt",
       },
       {
@@ -1403,7 +1403,7 @@ canciones = [
         "misas":["No filtrar","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/ven_espiritu_sobre_mi.mp4",
-        "tono_audio":"Dm",
+        "tono_audio":"Am",
         "txt":"letras/ven_espiritu_sobre_mi.txt",
       },
       {
@@ -1434,6 +1434,7 @@ canciones = [
         "txt":"letras/bendigamos_al_señor.txt",
       },
 ]
+
 
 
 
