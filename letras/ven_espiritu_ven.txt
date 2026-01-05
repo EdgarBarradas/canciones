@@ -5,7 +5,8 @@ letra={
 V[D]en, Esp[A]íritu v[Bm]en, y ll[F#m]éname, Señ[G]or, con t[Em]u preciosa unci[A]ón. [A7].
 V[D]en, Esp[A]íritu v[Bm]en, y ll[F#m]éname, Señ[G]or, con t[Em]u preciosa unci[A]ón.
 
-Purif[D]ícame y l[A]ávame, renu[Bm]évame, rest[F#m]áurame, Señ[G]or,[Em] con tu pod[A]er, [A7].
+Purif[D]ícame y l[A]ávame, renu[Bm]évame, rest[F#m]áurame, Señ[G]or,[Em] con tu pod[A]er,
 Purif[D]ícame y l[A]ávame, renu[Bm]évame, rest[F#m]áurame, Señ[G]or, te qui[A]ero conoc[D]er.
 `
   };
+
