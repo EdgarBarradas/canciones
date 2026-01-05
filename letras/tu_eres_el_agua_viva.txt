@@ -16,12 +16,15 @@ Y[G]o seré la tierra, que m[C]ana leche y mi[E]el.
 ESTRIBILLO
 
 M[Dm]e darás unas entrañas nu[Am]evas, mis rocas ya no harán daño a n[Dm]adie, s[E]ólo acariciar[E7]án.
+
 Inf[Am]úndeme tu Espíritu Señor, y h[Dm]az que se encariñe conmigo,
-que qui[G]eras ser morada en mí, y as[C]í tenga sab[E]or a Ti.
+que qui[G]era hacer morada en mí, y as[C]í tenga sab[E]or a Ti.
+
 Ent[Dm]onces habitaré en la tierra que es m[Am]ía, y yo seré tu pu[Dm]eblo y T[E]ú serás mi Di[E7]os.
 ESTRIBILLO
 `
   };
+
 
 
 
