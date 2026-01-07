@@ -132,7 +132,9 @@ async function showIfAutio(audio_file) {
 
 console.log("test1")
 console.log("audios/santo_b.mp4")
+console.log(showIfAutio("audios/santo_b.mp4"))
 console.log("audios/santo00000_b.mp4")
+console.log(showIfAutio("audios/santo00000_b.mp4"))
 console.log("test2")
 
 function buscarCanciones(canciones) {
@@ -182,6 +184,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
