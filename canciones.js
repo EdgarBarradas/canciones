@@ -148,8 +148,8 @@ function buscarCanciones(canciones) {
   canciones_filtradas.forEach(c => {
     audio_icon = ""
     txt_icon = ""
-    if (c.audio).includes("."){audio_icon = " ♫"}
-    if (c.txt).includes("."){txt_icon = " 📄"}
+    if (c.audio.includes(".")){audio_icon = " ♫"}
+    if (c.txt.includes(".")){txt_icon = " 📄"}
     showing_title = (c.titulo) + txt_icon + audio_icon
     console.log(showing_title)
     
@@ -177,6 +177,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
