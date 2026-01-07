@@ -1,0 +1,8 @@
+letra={
+  titulo:"Agua lavame",
+  tonalidad:"A",
+  letra:`
+[A]Agua lávam[E]e, p[D]urifícam[A]e,
+d[D]ame agua tu Esp[A]íritu, [D]agua l[E]ávam[A]e. (n veces)
+`
+  };
