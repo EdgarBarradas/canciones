@@ -128,14 +128,10 @@ async function showIfAutio(audio_file) {
   return exist ? " ♫" : "";
 }
 
-(async () => {
-console.log("test1")
-console.log("audios/santo_b.mp4")
-console.log(showIfAutio("audios/santo_b.mp4"))
-console.log("audios/santo00000_b.mp4")
-console.log(showIfAutio("audios/santo00000_b.mp4"))
-console.log("test2")
-})();
+async function showIfTxt(txt_file) {
+  const exist = await fileExist(txt_file);
+  return exist ? " 📄" : "";
+}
 
 function buscarCanciones(canciones) {
     function sinAcentos(t) {
@@ -159,12 +155,13 @@ function buscarCanciones(canciones) {
 
   canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
 
-  canciones_filtradas.forEach(c => {
+  
+  for (const c of canciones_filtradas){
         document.getElementById('resultados').innerHTML += `
           <div class="cancion">
             <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
           </div>`;
-  });  
+  }
 }
 
 
@@ -184,6 +181,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
