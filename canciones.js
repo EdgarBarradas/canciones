@@ -127,7 +127,7 @@ async function showIfAudio(audio_file) {
   fileExist(audio_file).then(exist => {
     if (exist) {return 8}
     else {return 9}
-  }
+  })
 }
 
 function buscarCanciones(canciones) {
@@ -177,6 +177,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
