@@ -123,17 +123,7 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   crear_bloque_letra(letra)
 }        
 
-async function showIfAudio(audio_file) {
-  const exist = await fileExist(audio_file);
-  return exist ? " ♫" : "";
-}
-
-async function showIfTxt(txt_file) {
-  const exist = await fileExist(txt_file);
-  return exist ? " 📄" : "";
-}
-
-async function buscarCanciones(canciones) {
+function buscarCanciones(canciones) {
     function sinAcentos(t) {
       return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
       }  
@@ -155,16 +145,12 @@ async function buscarCanciones(canciones) {
 
   canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
 
-  
-  for (const c of canciones_filtradas){
-    console.log(c.titulo)
-    console.log(await(showIfAudio(c.audio)))
-    console.log(await(showIfTxt(c.txt)))
-    document.getElementById('resultados').innerHTML += `
-      <div class="cancion">
-        <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
-      </div>`;
-  }
+  canciones_filtradas.forEach(c => {
+        document.getElementById('resultados').innerHTML += `
+          <div class="cancion">
+            <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
+          </div>`;
+  });  
 }
 
 
@@ -184,13 +170,6 @@ listarCanciones("canciones.txt")
 
 
   
-
-
-
-
-
-
-
 
 
 
