@@ -153,7 +153,7 @@ function buscarCanciones(canciones) {
   canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
 
   canciones_filtradas.forEach(c => {
-        showing_text=${c.titulo}+" "+"7"
+        showing_text = c.titulo+" "+"♫"
         document.getElementById('resultados').innerHTML += `
           <div class="cancion">
             <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${showing_text}</h3>
@@ -178,6 +178,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
