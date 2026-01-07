@@ -1364,7 +1364,7 @@ canciones = [
       {
         "titulo":"Ven, Espíritu ven",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/ven_espiritu_ven.mp4",
         "tono_audio":"D",
@@ -1373,7 +1373,7 @@ canciones = [
       {
         "titulo":"El Espíritu de Dios descenderá",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/el_espiritu_de_dios_descendera.mp4",
         "tono_audio":"D",
@@ -1382,7 +1382,7 @@ canciones = [
       {
         "titulo":"Ilumíname Señor con tu Espíritu",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/iluminame_señor.mp4",
         "tono_audio":"Bm",
@@ -1391,7 +1391,7 @@ canciones = [
       {
         "titulo":"Espíritu Santo ven, ven",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/espiritu_santo_ven_ven.mp4",
         "tono_audio":"D",
@@ -1400,7 +1400,7 @@ canciones = [
       {
         "titulo":"Ven Espíritu de Dios sobre mí",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/ven_espiritu_sobre_mi.mp4",
         "tono_audio":"Am",
@@ -1409,7 +1409,7 @@ canciones = [
       {
         "titulo":"Ven Espíritu de Dios, Maranatha",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/ven_espiritu_de_dios.mp4",
         "tono_audio":"G",
@@ -1418,7 +1418,7 @@ canciones = [
       {
         "titulo":"Espíritu de Dios",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/espiritu_de_dios.mp4",
         "tono_audio":"Am",
@@ -1427,7 +1427,7 @@ canciones = [
       {
         "titulo":"Bendigamos al Señor",
         "tiempos":["No filtrar","Ordinario","Pascua"],
-        "misas":["No filtrar","Pentecostés"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés"],
         "momentos":["No filtrar",],
         "audio":"audios/bendigamos_al_señor.mp4",
         "tono_audio":"E",
@@ -1443,6 +1443,7 @@ canciones = [
         "txt":"letras/agua_lavame.txt",
       },
 ]
+
 
 
 
