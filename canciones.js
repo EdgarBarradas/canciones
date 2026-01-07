@@ -133,7 +133,7 @@ async function showIfTxt(txt_file) {
   return exist ? " 📄" : "";
 }
 
-function buscarCanciones(canciones) {
+async function buscarCanciones(canciones) {
     function sinAcentos(t) {
       return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
       }  
@@ -184,6 +184,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
