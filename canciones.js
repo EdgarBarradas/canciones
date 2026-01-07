@@ -150,9 +150,8 @@ function buscarCanciones(canciones) {
     txt_icon = ""
     if (c.audio.includes(".")){audio_icon = " ♫"}
     if (c.txt.includes(".")){txt_icon = " 📄"}
-    showing_title = (c.titulo) + txt_icon + audio_icon
-    console.log(showing_title)
-    
+    showing_title = c.titulo + txt_icon + audio_icon
+
     document.getElementById('resultados').innerHTML += `
       <div class="cancion">
         <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${showing_title} </h3>
@@ -177,6 +176,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
