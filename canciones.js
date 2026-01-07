@@ -155,7 +155,7 @@ function buscarCanciones(canciones) {
     
     document.getElementById('resultados').innerHTML += `
       <div class="cancion">
-        <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
+        <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${showing_title} </h3>
       </div>`;
   });  
 }
@@ -177,6 +177,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
