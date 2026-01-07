@@ -123,7 +123,7 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   crear_bloque_letra(letra)
 }        
 
-async function showIfAutio(audio_file) {
+async function showIfAudio(audio_file) {
   const exist = await fileExist(audio_file);
   return exist ? " ♫" : "";
 }
@@ -157,10 +157,13 @@ function buscarCanciones(canciones) {
 
   
   for (const c of canciones_filtradas){
-        document.getElementById('resultados').innerHTML += `
-          <div class="cancion">
-            <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
-          </div>`;
+    console.log(c.titulo)
+    console.log(await(showIfAudio(c.audio)))
+    console.log(await(showIfTxt(c.txt)))
+    document.getElementById('resultados').innerHTML += `
+      <div class="cancion">
+        <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
+      </div>`;
   }
 }
 
@@ -181,6 +184,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
