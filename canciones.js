@@ -154,6 +154,7 @@ async function buscarCanciones(canciones) {
 
   for (const c of canciones_filtradas) {
         simbol = await showIfAudio(c.audio)
+        console.log(simbol)
         showing_text = c.titulo+" "+simbol+"♫"
         document.getElementById('resultados').innerHTML += `
           <div class="cancion">
@@ -179,6 +180,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
