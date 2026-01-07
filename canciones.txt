@@ -299,7 +299,7 @@ canciones = [
       {
         "titulo":"Adeste fideles",
         "tiempos":["No filtrar","Navidad"],
-        "misas":["No filtrar","Navidad"],
+        "misas":["No filtrar","Navidad","Epifanía"],
         "momentos":["No filtrar","Comunión"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -326,7 +326,7 @@ canciones = [
       {
         "titulo":"Ya vienen los reyes magos",
         "tiempos":["No filtrar","Navidad"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Epifanía"],
         "momentos":["No filtrar"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -371,7 +371,7 @@ canciones = [
       {
         "titulo":"El Tamborilero",
         "tiempos":["No filtrar","Navidad"],
-        "misas":["No filtrar","Navidad"],
+        "misas":["No filtrar","Navidad","Epifanía"],
         "momentos":["No filtrar"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -407,7 +407,7 @@ canciones = [
       {
         "titulo":"Aleluya, El Niño Dios ha nacido",
         "tiempos":["No filtrar","Navidad"],
-        "misas":["No filtrar","Navidad"],
+        "misas":["No filtrar","Navidad","Epifanía"],
         "momentos":["No filtrar","Interleccional"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -416,7 +416,7 @@ canciones = [
       {
         "titulo":"Aleluya, ha nacido El Salvador",
         "tiempos":["No filtrar","Navidad"],
-        "misas":["No filtrar","Navidad"],
+        "misas":["No filtrar","Navidad","Epifanía"],
         "momentos":["No filtrar","Interleccional"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -1452,6 +1452,7 @@ canciones = [
         "txt":"letras/mi_dios_esta_vivo.txt",
       },
 ]
+
 
 
 
