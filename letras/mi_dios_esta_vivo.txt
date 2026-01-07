@@ -4,9 +4,9 @@ letra={
   letra:`
 Mi Di[D]os está vivo, [Bm]Él no está muerto,
 mi Di[Em]os está vivo, [A]en mi coraz[D]ón,
-mi Di[D]os está vivo, h[Bm]a resucitado,
+mi Dios está vivo, h[Bm]a resucitado,
 lo si[G]ento en mis m[A]anos, lo si[F#m]ento en mis pi[Bm]es,
-lo si[G]ento en mi [A]alma, y en mi s[D]er.
+lo si[Em]ento en mi [A]alma, y en mi s[D]er.
 
 		ESTRIBILLO    
 Ohohoh[A]oh, hay que nacer del [D]agua,
@@ -23,3 +23,4 @@ déjalo que se mu[Em]eva, dentro d[A]e tu coraz[A]ón.
 		ESTRIBILLO   
 `
   };
+
