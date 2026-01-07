@@ -1,5 +1,5 @@
 letra={
-  titulo:"El bautismo de Jesús",
+  titulo:"El bautismo del Señor",
   tonalidad:"G",
   letra:`
 [G] [D] [Em]   [C] [D] [G].
@@ -32,6 +32,7 @@ gloria al P[A]adre de los ci[E]elos, gloria al H[F#m]ijo Salvad[C#m]or,
 gloria al [D]Espíritu S[A]anto, gloria a Di[Bm]os et[E]erno am[D]or. [A].
 `
   };
+
 
 
 
