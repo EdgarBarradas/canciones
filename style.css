@@ -3,7 +3,7 @@ select, button, input { margin: 5px; padding: 5px; }
 input[type="text"] { width: 250px; }
 h1 { color: darkblue; }
 
-.cancion {border: 1px solid #ccc; border-radius: 8px; color: darkblue; font-size: 1.3;  margin: 0px;}
+.cancion {border: 1px solid #ccc; border-radius: 8px; color: darkblue; margin: 0px;}
 .result {margin: 0px;}
 #letra { font-family: sans-serif; }
 
@@ -14,3 +14,4 @@ h1 { color: darkblue; }
 .letra_estrib { line-height: 1.2; font-style: italic;font-weight: bold;	-webkit-text-size-adjust: none;    text-size-adjust: none;	line-height: 1.2em; margin-top: 4px;  margin-bottom: 4px;}/* Linea de estribillo */
 .acorde_estrib {  display: inline-block;  text-align: center;  vertical-align: bottom;  font-size: inherit;	}
 .acorde_estrib b {  display: block;  font-size: 0.8em;  color: red;  line-height: 0.4; text-align: left;  margin-right: 4px;}/* Bloqucito con acorde */
+
