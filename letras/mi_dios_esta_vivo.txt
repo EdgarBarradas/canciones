@@ -1,0 +1,25 @@
+letra={
+  titulo:"Mi Dios está vivo",
+  tonalidad:"D",
+  letra:`
+Mi Di[D]os está vivo, [Bm]Él no está muerto,
+mi Di[Em]os está vivo, [A]en mi coraz[D]ón,
+mi Di[D]os está vivo, h[Bm]a resucitado,
+lo si[G]ento en mis m[A]anos, lo si[F#m]ento en mis pi[Bm]es,
+lo si[G]ento en mi [A]alma, y en mi s[D]er.
+
+		ESTRIBILLO    
+Ohohoh[A]oh, hay que nacer del [D]agua,
+ohohoh[A]oh, hay que nacer del Espír[D]itu de Di[D7]os.
+ohohoh[G]oh, hay que nac[A]er del [F#m]agua y del Esp[Bm]íritu
+de Di[Em]os, hay que nac[A]er del Señ[D]or, [D7].
+ohohoh[G]oh, hay que nac[A]er del [F#m]agua y del Esp[Bm]íritu
+de Di[Em]os, hay que nac[A]er del Señ[D]or.
+
+Prep[D]árate para que si[A]entas, prepárate para que si[D]entas,
+prepárate para que si[Em]entas, el Esp[A]íritu de Di[D]os.
+Déjalo que se mu[A]eva, déjalo que se mu[D]eva,
+déjalo que se mu[Em]eva, dentro d[A]e tu coraz[A]ón.
+		ESTRIBILLO   
+`
+  };
