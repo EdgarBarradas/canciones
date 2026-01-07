@@ -146,10 +146,17 @@ function buscarCanciones(canciones) {
   canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
 
   canciones_filtradas.forEach(c => {
-        document.getElementById('resultados').innerHTML += `
-          <div class="cancion">
-            <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
-          </div>`;
+    audio_icon = " ♫"
+    txt_icon = " 📄"
+    if c.audio.includes("."){audio_icon = " ♫"}
+    if c.txt.includes("."){txt_icon = " 📄"}
+    showing_title = c.txt + txt_icon + audio_icon
+    console.log(showing_title)
+    
+    document.getElementById('resultados').innerHTML += `
+      <div class="cancion">
+        <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
+      </div>`;
   });  
 }
 
@@ -170,6 +177,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
