@@ -123,6 +123,13 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   crear_bloque_letra(letra)
 }        
 
+async function showIfAudio(audio_file) {
+  fileExist(audio_file).then(exist => {
+    if (exist) {return 8}
+    else {return 9}
+  }
+}
+
 function buscarCanciones(canciones) {
     function sinAcentos(t) {
       return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -148,7 +155,7 @@ function buscarCanciones(canciones) {
   canciones_filtradas.forEach(c => {
         document.getElementById('resultados').innerHTML += `
           <div class="cancion">
-            <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo} </h3>
+            <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${c.titulo}+" "+"7"</h3>
           </div>`;
   });  
 }
@@ -170,6 +177,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
