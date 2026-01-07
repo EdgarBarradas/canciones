@@ -130,7 +130,7 @@ async function showIfAudio(audio_file) {
   })
 }
 
-function buscarCanciones(canciones) {
+async function buscarCanciones(canciones) {
     function sinAcentos(t) {
       return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
       }  
@@ -178,6 +178,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
