@@ -123,6 +123,18 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   crear_bloque_letra(letra)
 }        
 
+async function showIfAutio(audio_file) {
+  fileExist(audio_file).then(exist => {
+    if (exist) {return " ♫"}
+    else {return ""}
+  }
+}
+
+console.log("test1")
+console.log("audios/santo_b.mp4")
+console.log("audios/santo00000_b.mp4")
+console.log("test2")
+
 function buscarCanciones(canciones) {
     function sinAcentos(t) {
       return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -170,6 +182,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
