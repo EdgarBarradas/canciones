@@ -127,7 +127,7 @@ async function showIfAutio(audio_file) {
   fileExist(audio_file).then(exist => {
     if (exist) {return " ♫"}
     else {return ""}
-  }
+  })
 }
 
 console.log("test1")
@@ -182,6 +182,7 @@ listarCanciones("canciones.txt")
 
 
   
+
 
 
 
