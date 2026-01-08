@@ -1483,8 +1483,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión","Acción de gracias"],
-        "audio":"audios/nada_nos_separara",
-        "tono_audio":"",
+        "audio":"audios/nada_nos_separara.mp4",
+        "tono_audio":"C",
         "txt":"letras/nada_nos_separara.txt",
       },
       {
@@ -1492,8 +1492,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión","Acción de gracias"],
-        "audio":"audios/me_levantare",
-        "tono_audio":"",
+        "audio":"audios/me_levantare.mp4",
+        "tono_audio":"D",
         "txt":"letras/me_levantare.txt",
       },
       {
@@ -1501,11 +1501,12 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión","Acción de gracias"],
-        "audio":"audios/mueveme",
-        "tono_audio":"",
+        "audio":"audios/mueveme.mp4",
+        "tono_audio":"G#",
         "txt":"letras/mueveme.txt",
       },
 ]
+
 
 
 
