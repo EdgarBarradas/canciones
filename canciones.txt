@@ -1437,7 +1437,7 @@ canciones = [
         "titulo":"Agua lávame",
         "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar","Bautismo de Jesús","Pentecostés","Domingo de Ramos"],
-        "momentos":["No filtrar",],
+        "momentos":["No filtrar","Aspersión"],
         "audio":"audios/agua_lavame.mp4",
         "tono_audio":"A",
         "txt":"letras/agua_lavame.txt",
@@ -1446,7 +1446,7 @@ canciones = [
         "titulo":"Mi Dios está vivo",
         "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar","Bautismo de Jesús","Pentecostés","Domingo de Ramos"],
-        "momentos":["No filtrar",],
+        "momentos":["No filtrar","Aspersión"],
         "audio":"audios/mi_dios_esta_vivo.mp4",
         "tono_audio":"D",
         "txt":"letras/mi_dios_esta_vivo.txt",
@@ -1497,6 +1497,7 @@ canciones = [
         "txt":"letras/mueveme.txt",
       },
 ]
+
 
 
 
