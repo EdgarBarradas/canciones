@@ -5,5 +5,7 @@ letra={
 Muévem[G]e, mi Di[C]os, hacia T[G]i,
 que no me mu[C]evan los h[D]ilos de este m[Em]undo,
 no-o, muévem[C]e, atr[Bm]áeme hacia T[Am]i, desde lo prof[D]undo. (n veces).
+[G].
 `
   };
+
