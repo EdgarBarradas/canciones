@@ -1452,6 +1452,15 @@ canciones = [
         "txt":"letras/mi_dios_esta_vivo.txt",
       },
       {
+        "titulo":"Como corre un río",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar","Bautismo de Jesús","Pentecostés","Domingo de Ramos"],
+        "momentos":["No filtrar","Aspersión"],
+        "audio":"audios/como_corre_un_rio.mp4",
+        "tono_audio":"",
+        "txt":"letras/como_corre_un_rio.txt",
+      },
+      {
         "titulo":"Al recibir",
         "tiempos":["No filtrar"],
         "misas":["No filtrar","Miércoles de Cenizas"],
@@ -1497,6 +1506,7 @@ canciones = [
         "txt":"letras/mueveme.txt",
       },
 ]
+
 
 
 
