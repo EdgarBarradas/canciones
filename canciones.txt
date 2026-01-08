@@ -1451,7 +1451,53 @@ canciones = [
         "tono_audio":"D",
         "txt":"letras/mi_dios_esta_vivo.txt",
       },
+      {
+        "titulo":"Al recibir",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar","Miércoles de Cenizas"],
+        "momentos":["No filtrar",],
+        "audio":"audios/al_recibir",
+        "tono_audio":"",
+        "txt":"letras/al_recibir.txt",
+      },
+      {
+        "titulo":"Con estas cenizas",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar","Miércoles de Cenizas"],
+        "momentos":["No filtrar",],
+        "audio":"audios/con_estas_cenizas",
+        "tono_audio":"",
+        "txt":"letras/con_estas_cenizas.txt",
+      },
+      {
+        "titulo":"Nada nos separará",
+        "tiempos":["No filtrar","Ordinario","Cuaresma","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión","Acción de gracias"],
+        "audio":"audios/nada_nos_separara",
+        "tono_audio":"",
+        "txt":"letras/nada_nos_separara.txt",
+      },
+      {
+        "titulo":"Me levantaré",
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión","Acción de gracias"],
+        "audio":"audios/me_levantare",
+        "tono_audio":"",
+        "txt":"letras/me_levantare.txt",
+      },
+      {
+        "titulo":"Muéveme",
+        "tiempos":["No filtrar","Ordinario","Cuaresma","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión","Acción de gracias"],
+        "audio":"audios/mueveme",
+        "tono_audio":"",
+        "txt":"letras/mueveme.txt",
+      },
 ]
+
 
 
 
