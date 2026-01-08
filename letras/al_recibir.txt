@@ -7,9 +7,9 @@ A los que qui[Gm]eran camin[C]ar la senda d[F]e la conversi[Dm]ón, [Gm]el Seño
 
 		ESTRIBILLO
 Al recib[Gm]ir la ceniza en la fr[C]ente, yo decl[F]aro que quiero cambi[Dm]ar,
-un herm[Gm]ano que sea difer[C]ente, a la f[Dm]orma que quiere el Señ[Cm]o-[Dm]ór,
+un herm[Gm]ano que sea difer[A]ente, a la f[Dm]orma que quiere el Señ[Cm]o-[Dm]ór,
 al recib[Gm]ir la ceniza en la fr[C]ente, yo decl[F]aro que quiero cambi[Dm]ar,
-un herm[Gm]ano que sea difer[C]ente, a la f[Dm]orma que qui[A]ere el Señ[Dm]or.
+un herm[Gm]ano que sea difer[A]ente, a la f[Dm]orma que qui[A]ere el Señ[Dm]or.
 
 Conviértans[Dm]e de sus cam[C]inos dice el Señ[F]or, y crean [Dm]en el evang[C]elio que les d[F]oy.
 Prepar[Gm]emos nuestras [C]almas par[F]a el convite pasc[Dm]ual, [Gm]el Señor n[A]os ayudar[Dm]á. [D7](2)
@@ -24,3 +24,4 @@ Del polvo s[Gm]omos y al p[C]olvo ten[F]emos que retorn[Dm]ar, p[Gm]or el pec[A]
 		ESTRIBILLO
 `
   };
+
