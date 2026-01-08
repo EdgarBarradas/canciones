@@ -1,0 +1,8 @@
+letra={
+  titulo:"Nada nos separará",
+  tonalidad:"C",
+  letra:`
+N[C]ada nos sep[F]arar[C]á, nada nos sep[F]arar[C]á,
+nada nos s[E]eparar[Am]á,[F] del am[G]or de Di[C]os. (n veces).
+`
+  };

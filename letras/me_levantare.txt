@@ -1,0 +1,8 @@
+letra={
+  titulo:"Me levantaré",
+  tonalidad:"D",
+  letra:`
+M[D]e lev[A]antar[Bm]é, e ir[G]é a mi P[A]adre,
+l[D]e decl[A]arar[Bm]é, te [G]am[A]o Señ[D]or. (n veces).
+`
+  };

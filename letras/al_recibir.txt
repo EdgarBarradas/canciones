@@ -1,0 +1,26 @@
+letra={
+  titulo:"Al recibir",
+  tonalidad:"Dm",
+  letra:`
+Hoy inici[Dm]amos el cam[C]ino cuaresm[F]al, en el desi[Dm]erto el Señ[C]or purificar[F]á.
+A los que qui[Gm]eran camin[C]ar la senda d[F]e la conversi[Dm]ón, [Gm]el Señor l[A]os ayudar[Dm]á. [D7](2)
+
+		ESTRIBILLO
+Al recib[Gm]ir la ceniza en la fr[C]ente, yo decl[F]aro que quiero cambi[Dm]ar,
+un herm[Gm]ano que sea difer[C]ente, a la f[Dm]orma que quiere el Señ[Cm]o-[Dm]ór,
+al recib[Gm]ir la ceniza en la fr[C]ente, yo decl[F]aro que quiero cambi[Dm]ar,
+un herm[Gm]ano que sea difer[C]ente, a la f[Dm]orma que qui[A]ere el Señ[Dm]or.
+
+Conviértans[Dm]e de sus cam[C]inos dice el Señ[F]or, y crean [Dm]en el evang[C]elio que les d[F]oy.
+Prepar[Gm]emos nuestras [C]almas par[F]a el convite pasc[Dm]ual, [Gm]el Señor n[A]os ayudar[Dm]á. [D7](2)
+		ESTRIBILLO
+
+La cen[Dm]iza no c[C]ambia nuestro s[F]er, eres t[Dm]ú y soy y[C]o el que debe cambi[F]ar.
+Con el ay[Gm]uno y oraci[C]ón, la penit[F]encia y el perd[Dm]ón, [Gm]el Señor n[A]os ayudar[Dm]á. [D7](2)
+		ESTRIBILLO
+
+La cen[Dm]iza no es m[C]agia, no es pod[F]er, solo es un s[Dm]igno de nu[C]estra fragilid[F]ad.
+Del polvo s[Gm]omos y al p[C]olvo ten[F]emos que retorn[Dm]ar, p[Gm]or el pec[A]ado de Ad[Dm]án. [D7](2)
+		ESTRIBILLO
+`
+  };

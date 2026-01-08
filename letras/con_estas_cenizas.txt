@@ -1,0 +1,33 @@
+letra={
+  titulo:"Con estas cenizas",
+  tonalidad:"Em",
+  letra:`
+	ESTRIBILLO
+Con [Em]estas cenizas Señ[C]or, renunci[D]amos al pec[G]ado. [B].
+Con [Em]estas cenizas Señ[C]or, nos acerc[D]amos a T[G]i.
+
+H[C]oy comenz[D]amos Señ[G]or, un cam[C]ino[Am] penit[B]ente.
+	ESTRIBILLO
+
+[C]Arrepent[D]idos Señ[G]or, camin[C]amos[Am] hacia T[B]i.
+	ESTRIBILLO
+
+T[C]en pied[D]ad Jes[G]ús, porque s[C]omos[Am] pecad[B]ores.
+	ESTRIBILLO
+
+D[C]esde lo h[D]ondo Señ[G]or, hoy cl[C]amamos[Am] hacia T[B]i.
+	ESTRIBILLO
+
+C[C]on oraci[D]ones Señ[G]or, busc[C]amos[Am] tu r[B]ostro.
+	ESTRIBILLO
+
+L[C]os cuar[D]enta d[G]ías, ayun[C]emos[Am] por la f[B]e.
+	ESTRIBILLO
+
+C[C]on el ay[D]uno Señ[G]or, se alim[C]enta[Am] el Esp[B]íritu.
+	ESTRIBILLO
+
+[C]Arroj[D]emos todo m[G]al, la env[C]idia[Am] y el [B]odio.
+	ESTRIBILLO
+`
+  };
