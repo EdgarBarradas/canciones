@@ -3,7 +3,7 @@ letra={
   tonalidad:"D",
   letra:`
 		ESTRIBILLO
-Como corre un r[G]ío d[A]entro de mi s[D]er. (2)
+Como corre un r[Em]ío d[A]entro de mi s[D]er. (2)
 Es que yo conf[G]ío en Cr[A]isto mi R[D]ey. (2)
 Como río de agua v[A]iva que salta pa'rriba que llevo d[D]entro,
 confirma, confirma, en este mom[A]ento, El Espíritu Santo su derramami[D]ento. (2)
@@ -16,3 +16,4 @@ ll[Bm]ega la alegr[G]í, para t[A]i y para m[D]í.
 	ESTRIBILLO
 `
   };
+
