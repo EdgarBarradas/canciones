@@ -4,16 +4,17 @@ letra={
   letra:`
 		ESTRIBILLO
 Como corre un r[Em]ío d[A]entro de mi s[D]er. (2)
-Es que yo conf[G]ío en Cr[A]isto mi R[D]ey. (2)
+Así yo conf[G]ío en Cr[A]isto mi R[D]ey. (2)
 Como río de agua v[A]iva que salta pa'rriba que llevo d[D]entro,
-confirma, confirma, en este mom[A]ento, El Espíritu Santo su derramami[D]ento. (2)
+confirmo, confirmo, en este mom[A]ento, El Espíritu Santo su derramami[D]ento. (2)
 
 Jesús está pas[A]ando por aqu[D]í. (2) [D7].
-Y cuando p[G]asa, t[A]odo se transf[F#m]orma,
+Y cuando Él p[G]asa, t[A]odo lo transf[F#m]orma,
 s[Bm]e va la trist[G]eza, ll[A]ega la alegr[D]ía, [D7].
-y cuando p[G]asa, t[A]odo se transf[F#m]orma,
-ll[Bm]ega la alegr[G]í, para t[A]i y para m[D]í.
+y cuando Él p[G]asa, t[A]odo lo transf[F#m]orma,
+ll[Bm]ega la alegr[G]ía, para t[A]i y para m[D]í.
 	ESTRIBILLO
 `
   };
+
 
