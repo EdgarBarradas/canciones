@@ -1,0 +1,23 @@
+letra={
+  titulo:"El Cáliz que bendecimos",
+  tonalidad:"Dm",
+  letra:`
+El c[Dm]áliz, que bendec[Gm]imos, es la comuni[C]ón de la s[C7]angre de Cr[F]isto, [A].
+el c[Dm]áliz, que bendec[Gm]imos, es la comuni[C]ón de la s[C7]angre de Cr[F]isto. [F7].
+
+¿C[A#]ómo pagaré al Señ[Am]or, t[Gm]odo el bien que me ha h[A]echo?
+Alzar[A#]é la copa de la s[Am]alvación, invoc[Gm]ando su n[E]ombr[A]e. [A].
+
+El c[Dm]áliz, que bendec[Gm]imos, es la comuni[C]ón de la s[C7]angre de Cr[F]isto.
+
+M[A#]ucho le cuesta al Señ[Am]or, la mu[Gm]erte de sus fi[A]eles.
+Señ[A#]or, yo soy tu siervo h[Am]ijo, de tu escl[Gm]ava romp[E]iste mis cad[A]enas. [A7].
+
+El c[Dm]áliz, que bendec[Gm]imos, es la comuni[C]ón de la s[C7]angre de Cr[F]isto.
+
+T[A#]e ofreceré un sacrificio d[Am]e alabanza, invoc[Gm]ando tu nombre Señ[F]or,
+cumplir[Gm]é al Señor mis v[Dm]otos, en pres[A#]encia de t[E]odo el pu[A]eblo. [A7].
+
+El c[Dm]áliz, que bendec[Gm]imos, es la comuni[C]ón de la s[C7]angre de Cr[F]isto, [A].
+el c[Dm]áliz, que bendec[Gm]imos, es la comuni[C]ón de la s[C7]angre de Cr[F]isto.`
+  };

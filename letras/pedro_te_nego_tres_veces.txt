@@ -1,0 +1,26 @@
+letra={
+  titulo:"Pedro te negó tres veces",
+  tonalidad:"Dm",
+  letra:`
+ESTRIBILLO
+P[Dm]edro te negó tres veces, mil veces yo te negu[A]é,
+si Pedro lloró su c[Dm]ulpa, mi c[A]ulpa yo llorar[Dm]é,
+si P[A]edro lloró su c[Dm]ulpa, mi c[A]ulpa yo llorar[Dm]é.
+
+Hoy quisiera llor[A]ar igual que P[Dm]edro,
+porque al igu[F]al que Pedro te he neg[C]ado.
+Hoy te vengo a decir que me arrepi[A]ento,
+Y que s[Gm]oy de los tuyos y que s[A]igo a tu l[Dm]ado.
+Hoy quisiera llor[A]ar igual que P[Dm]edro
+Porque al igual que P[A]edro te he neg[Dm]ado.
+ESTRIBILLO
+
+Te he negado, Señ[A]or, y fui cob[Dm]arde,
+porque no qu[F]ise dar por Ti la c[C]ara,
+tuve miedo y fingí no conoc[A]erte
+y al pas[Gm]ar Tú a mi lado, yo te he d[A]ado la esp[Dm]alda.
+Hoy quisiera llor[A]ar igual que P[Dm]edro
+Porque no quise d[A]ar por Ti la c[Dm]ara.
+ESTRIBILLO
+`
+  };

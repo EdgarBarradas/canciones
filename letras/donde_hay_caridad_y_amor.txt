@@ -1,0 +1,26 @@
+letra={
+  titulo:"Donde hay caridad y amor",
+  tonalidad:"Am",
+  letra:`
+ESTRIBILLO
+Donde h[Am]ay carid[G]ad y am[Am]or, all[G]í está el Señ[C]or, all[Dm]í est[E]á el Señ[Am]or. (2)
+
+Una s[E]ala y una m[Am]esa, una c[G]opa vino y p[C]an, [Dm].
+los hermanos comparti[Am]endo, en am[B]or y en unid[E]ad. [Am].
+Nos re[E]úne la pres[Am]encia, y el recu[G]erdo del Señ[C]or, [Dm].
+celebramos su mem[Am]oria, y la entr[E]ega de su am[Am]or.
+ESTRIBILLO
+
+Invit[E]ados a la m[Am]esa, del banqu[G]ete del Señ[C]or, [Dm].
+recordamos su mand[Am]ato, de viv[B]ir en el am[E]or. [Am].
+Comulg[E]amos en el cu[Am]erpo, y en la s[G]angre que Él nos d[C]a, [Dm].
+Y también en el herm[Am]ano, si lo am[E]amos de verd[Am]ad.
+ESTRIBILLO
+
+Este P[E]an que da la v[Am]ida, y este C[G]áliz de sal[C]ud, [Dm].
+nos reúne a los herm[Am]anos, en el n[B]ombre de Jes[E]ús. [Am].
+Anunci[E]amos su mem[Am]oria, celebr[G]amos su pasi[C]ón, [Dm].
+el misterio de su mu[Am]erte, y de s[E]u resurrecci[Am]ón.
+ESTRIBILLO
+`
+  };

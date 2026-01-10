@@ -1,0 +1,25 @@
+letra={
+  titulo:"Te alabo en verdad",
+  tonalidad:"E",
+  letra:`
+A[E]un en la torm[B]enta, a[A]un cuando arrecie el ma[E]r,
+te al[A]abo, ta al[B]abo en verd[E]ad. [B].
+A[E]un lejos de los m[B]íos, a[A]un en mi soled[E]ad,
+te al[A]abo, ta al[B]abo en verd[E]ad. [E7].
+
+	ESTRIBILLO
+Pues s[A]olo a Ti te t[B]engo, pues Tú [G#m]eres mi hered[C#m]ad,
+te al[A]abo, ta al[B]abo en verd[E]ad. [E7].
+Pues s[A]olo a Ti te t[B]engo, Señor, pues Tú [G#m]eres mi hered[C#m]ad,
+te al[A]abo, ta al[B]abo en verd[E]ad.
+
+[B].
+
+A[E]un sin muchas pal[B]abras, a[A]un cuando no sé alab[E]ar,
+te al[A]abo, ta al[B]abo en verd[E]ad. [B].
+A[E]un con mi cruz a cu[B]estas, aunqu[A]e me cuesta am[E]ar,
+te al[A]abo, ta al[B]abo en verd[E]ad. [E7].
+	ESTRIBILLO
+Te al[A]abo, ta al[B]abo en verd[E]ad.
+`
+  };

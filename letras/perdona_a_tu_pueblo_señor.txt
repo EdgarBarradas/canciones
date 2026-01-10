@@ -1,0 +1,18 @@
+letra={
+  titulo:"Perdona a tu pueblo Señor",
+  tonalidad:"Dm",
+  letra:`
+		ESTRIBILLO
+Perd[Dm]ona a tu pueblo Señ[A]or, perdona a tu pu[A#]eblo, perd[A]ónale, Señ[Dm]or.
+
+No estés eternamente enoj[C]a-ad[F]o, no estés eternamente enoj[A#]ado, perd[A]ónale, Señ[Dm]or.
+Por tus heridas de pies y m[C]a-an[F]os, por los azotes tan inhum[A#]anos, perd[A]ónale, Señ[Dm]or.
+Por tus profundas llagas cru[C]e-el[F]es, por tus afrentas y por tus hi[A#]eles, perd[A]ónale, Señ[Dm]or.
+Por los tres clavos que te clav[C]a-ar[F]on, por las espinas que te punz[A#]aron, perd[A]ónale, Señ[Dm]or.
+		ESTRIBILLO
+
+Por la abertura de tu cost[C]a-ad[F]o, no estés eternamente enoj[A#]ado, perd[A]ónale, Señ[Dm]or.
+No estés eternamente enoja[C]-ad[F]o, no estés eternamente enoj[A#]ado, perd[A]ónale, Señ[Dm]or.
+		ESTRIBILLO
+`
+  };

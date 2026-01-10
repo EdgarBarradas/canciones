@@ -1,0 +1,42 @@
+letra={
+  titulo:"Pequé, pequé, Dios mío",
+  tonalidad:"Dm",
+  letra:`
+Pequ[Dm]é, pequ[A]é, Dios m[Dm]ío, piedad, Señ[C]or pied[F]ad.
+
+	ESTRIBILLO
+Si gr[Gm]andes son mis c[A]ulpas, mayor es tu bond[Dm]ad,
+si gr[Gm]andes son mis c[Dm]ulpas, may[Gm]or es t[A]u bond[Dm]ad.
+
+Por t[Dm]u cru[A]el sent[Dm]encia, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+Por t[Dm]u madr[A]e aflig[Dm]ida, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+P[Dm]or tu r[A]ostro impr[Dm]eso, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+Por t[Dm]u trist[A]e ca[Dm]ída, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+P[Dm]or tu cr[A]uz pes[Dm]ada, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+Por l[Dm]a cruz [A]en que mu[Dm]eres, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+Por t[Dm]u sep[A]ulcro nu[Dm]evo, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+Por nu[Dm]estras c[A]obard[Dm]ías, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+Por t[Dm]antas [A]injust[Dm]icias, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+Por l[Dm]a des[A]iguald[Dm]ad, piedad, Señ[C]or pied[F]ad.
+	ESTRIBILLO
+
+`
+  };

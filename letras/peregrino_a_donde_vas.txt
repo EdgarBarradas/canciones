@@ -1,0 +1,27 @@
+letra={
+  titulo:"Peregrino, ¿a dónde vas?",
+  tonalidad:"Am",
+  letra:`
+Peregr[Am]ino a dónde v[C]as, si no s[Dm]abes a dónde [E]ir,
+peregr[Am]ino por un cam[G]ino que va a mor[Am]ir.
+Si el desierto es un aren[C]al, el desi[Dm]erto de tu viv[E]ir,
+quién te gu[Am]ía y te acomp[G]aña en tu soled[Am]ad.
+
+	ESTRIBILLO
+Solo [Dm]Él, mi Di[Am]os, que me di[G]o la libert[Am]ad
+solo [Dm]Él, mi Di[Am]os, m[G]e guiar[Am]á. (2)
+
+Peregrino que a veces v[C]as, sin un r[Dm]umbo en tu camin[E]ar,
+peregr[Am]ino, que vas cans[G]ado de tanto and[Am]ar.
+Buscas fuentes para tu s[C]ed, y un rinc[Dm]ón donde descans[E]ar,
+vuelve am[Am]igo que aquí en Eg[G]ipto lo encontrar[Am]ás.
+	ESTRIBILLO
+
+Peregrino sin un porqu[C]é, peregr[Dm]ino sin una l[E]uz,
+peregr[Am]ino por el cam[G]ino que va a la cr[Am]uz.
+Dios camina en tu soled[C]ad, ilum[Dm]ina tu coraz[E]ón,
+compañ[Am]ero de tus send[G]eros buscando am[Am]or.
+	ESTRIBILLO
+
+`
+  };

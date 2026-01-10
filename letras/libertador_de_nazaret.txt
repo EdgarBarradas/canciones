@@ -1,0 +1,21 @@
+letra={
+  titulo:"Libertador de Nazaret",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+L[D]ibertador de N[Bm]azaret, v[G]en junto a mí, v[A]en junto a mí,
+l[D]ibertador de N[Bm]azaret, ¿qu[G]é puedo hac[A]er sin t[D]i?
+
+Yo sé que eres camino, que eres la vida y l[G]a verd[D]ad;
+yo sé que el que te s[Bm]igue, s[Em]abe a dónde v[A]a;
+qui[D]ero vivir tu vida, seguir tus huellas, ten[G]er tu l[D]uz;
+quiero beber tu c[Bm]áliz, qui[Em]ero llev[A]ar tu cr[D]uz.
+	ESTRIBILLO
+
+Quiero encender mi fuego, alumbrar mi vida y segu[G]irte a T[D]i;
+quiero escucharte si[Bm]empre, qui[Em]ero luchar por T[A]i;
+b[D]usco un mensaje nuevo, te necesito, Lib[G]ertad[D]or;
+no puedo estar sin r[Bm]umbo, n[Em]o puedo est[A]ar sin Di[D]os.
+	ESTRIBILLO
+`
+  };

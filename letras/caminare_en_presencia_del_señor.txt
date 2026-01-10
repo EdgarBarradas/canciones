@@ -1,0 +1,24 @@
+letra={
+  titulo:"Caminaré",
+  tonalidad:"Em",
+  letra:`
+		ESTRIBILLO
+C[Em]aminar[Am]é en pres[Em]encia d[B]el Señ[Em]or. (2)
+
+Amo al Señor, porque esc[G]ucha mi voz suplic[Em]ante,
+porque inclina su o[D]ído hacia m[G]í el d[Am]ía que lo inv[B]oco.
+		ESTRIBILLO
+
+Me envolvían las redes de la mu[G]erte, caí en tristeza y en ang[Em]ustia,
+invoqué el n[D]ombre del Señ[G]or: ”Señ[Em]or s[Am]alva mi v[B]ida”.
+		ESTRIBILLO
+
+El Señor es benigno y j[G]usto, nuestro Dios es compas[Em]ivo,
+el Señor gu[D]arda a los senc[G]illos, est[Em]ando yo sin fu[Am]erzas me salv[B]ó.
+		ESTRIBILLO
+
+Alma mía, recobra tu c[G]alma, que el Señor fue bueno conm[Em]igo,
+arrancó mi [D]alma de la mu[G]erte, mis [Em]ojos de las lágrimas, mis pi[Am]es de la ca[B]ída.
+		ESTRIBILLO
+`
+  };

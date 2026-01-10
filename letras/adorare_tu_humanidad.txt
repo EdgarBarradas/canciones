@@ -1,0 +1,28 @@
+letra={
+  titulo:"Adoraré tu humanidad",
+  tonalidad:"Em",
+  letra:`
+Adorar[Em]é, tus pies her[D]idos, tus pi[G]es, de mensaj[D]ero,
+que traen la p[Em]az, que traen la p[G]az, a mi coraz[D]ón.
+
+	ESTRIBILLO
+Yo adorar[C]é, señor, y abrazaré tu cuerpo her[Em]ido,
+Yo adorar[C]é, señor, y abrazaré, tu cr[D]uz.
+Tu humanid[C]ad, tu humanid[Em]ad, tu humanid[C]ad, tu humanid[Em]ad.
+
+Adorar[Em]é, tus rod[D]illas, que soport[G]aron, mis ca[D]ídas,
+y se dobl[Em]aron, y se dobla[G]ron, ante m[D]í.
+	ESTRIBILLO
+
+Adorar[Em]é, tus manos su[D]aves, y las her[G]idas que las traspas[D]aron,
+con ellas me alz[Em]aste, y me libr[G]aste, de mi she[D]ol.
+	ESTRIBILLO
+
+Adorar[Em]é, tu rostro her[D]ido, y tu sembl[G]ante, sin hermos[D]ura,
+y en cada esp[Em]ina, de tu cab[G]eza, veré a mi Di[D]os.
+	ESTRIBILLO
+
+Abrazar[Em]é, fuerte tu p[D]echo y escuchar[G]é tus lat[D]idos,
+y de la her[Em]ida, de tu cost[G]ado, yo beber[D]é. 
+`
+  };

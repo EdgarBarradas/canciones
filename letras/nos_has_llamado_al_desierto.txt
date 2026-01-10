@@ -1,0 +1,23 @@
+letra={
+  titulo:"Nos has llamado al desierto",
+  tonalidad:"Dm",
+  letra:`
+	ESTRIBILLO
+Nos h[Dm]as llamado al desierto, Señ[Gm]or de la libert[Dm]ad,
+y est[Gm]á el coraz[A]ón abi[Dm]erto, a la l[A#]uz de tu verd[A]ad.
+Sub[Dm]imos con esperanza, la escal[Gm]ada[C] cuaresm[F]al,
+el pu[Gm]eblo de Di[A]os av[Dm]anza, h[E]asta la c[A]umbre pascu[Dm]al.
+
+Tu pu[Dm]eblo Señor camina, desde la aurora al ocaso,
+a tu p[F]ascua se encamina, y te s[C]igue, paso a p[Dm]aso.
+	ESTRIBILLO
+
+Señ[Dm]or te reconocemos, y tu palabra escuchamos,
+tu cam[F]ino seguiremos, y tu l[C]ey, de amor cant[Dm]amos.
+	ESTRIBILLO
+
+Se ac[Dm]erca Señor tu día, en el que todo florece,
+Con su l[F]uz y alegría, ya el cam[C]ino, respland[Dm]ece.
+	ESTRIBILLO
+`
+  };

@@ -1,0 +1,25 @@
+letra={
+  titulo:"Oh, Dios, por qué?",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+Oh, Di[C]os, ¿p[C7]or qu[F]é no h[G]as abandon[C]ado? 
+Oh, Di[C]os, ¿p[C7]or qu[F]é no h[G]as abandon[C]ado?
+
+Al v[Am]ernos nos maltr[E]atan, gritan a nuestro l[Am]ado,
+si esperaron en Di[E]os que Él les ponga a [E7]salv[Am]o.
+	ESTRIBILLO
+
+Los gr[Am]andes nos ac[E]echan, sujetan nuestras m[Am]anos,
+Señor, no quedes l[E]ejos y ven pronto a ayud[E7]arn[Am]os.
+	ESTRIBILLO
+
+Te b[Am]usco y no resp[E]ondes, día y noche te ll[Am]amo,
+malvados me acom[E]eten se burlan de mi ll[E7]ant[Am]o.
+	ESTRIBILLO
+
+Mis hu[Am]esos se disl[E]ocan, la muerte está llam[Am]ando,
+Señor, ven a ayud[E]arme, me tienes en tus m[E7]an[Am]os.
+	ESTRIBILLO
+`
+  };

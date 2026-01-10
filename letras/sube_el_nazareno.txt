@@ -1,0 +1,23 @@
+letra={
+  titulo:"Sube el Nazareno",
+  tonalidad:"Em",
+  letra:`
+	ESTRIBILLO
+S[Em]ube el Nazareno, s[Am]ube el buen Jes[Em]ús
+S[Am]ube hacia el calv[Em]ario, sube con la cr[B]uz.
+S[Em]ube el Nazareno, s[Am]ube el buen Jes[Em]ús
+S[Am]ube hacia el calv[Em]ario, s[Am]ube c[B]on la cr[Em]uz.
+
+Carga en sí el pecado de la hum[Am]anid[Em]ad,
+s[Am]obre sus esp[Em]aldas pesa t[Am]odo m[B]al.
+	ESTRIBILLO
+
+Dime pueblo mío que te h[Am]ice y[Em]o,
+[Am]en que te he ofend[Em]ido, matas [Am]a tu D[B]ios.
+	ESTRIBILLO
+
+Como res callada que a la mu[Am]erte v[Em]a,
+mu[Am]ere porque qui[Em]ere al hombr[Am]e salv[B]ar.
+	ESTRIBILLO
+`
+  };
