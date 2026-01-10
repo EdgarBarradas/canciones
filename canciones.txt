@@ -1622,7 +1622,17 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/te_alabo_en_verdad.txt",
       },
+      {
+        "titulo":"Dame un nuevo corazón",
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión","Acción de gracias"],
+        "audio":"audios/xxxxxxxxxxx",
+        "tono_audio":"",
+        "txt":"letras/dame_un_nuevo_corazon.txt",
+      },
 ]
+
 
 
 
