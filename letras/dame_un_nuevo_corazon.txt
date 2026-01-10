@@ -1,0 +1,17 @@
+letra={
+  titulo:"Dame un nuevo corazón",
+  tonalidad:"E",
+  letra:`
+[E].
+Dame un nuevo coraz[A]ón, Señor, [B].
+un corazón para alab[G#m]arte, [C#m].
+un corazón para serv[A]irte, [B].
+yo quiero un nuevo coraz[E]ón, Señor. (2)
+
+[E7].
+
+L[A]impio,[B] como el cristal,
+d[Gm]ulce,[C#m] como la miel,
+[A]un corazón que s[B]ea como el tuyo Señ[E]or. (2)
+`
+  };
