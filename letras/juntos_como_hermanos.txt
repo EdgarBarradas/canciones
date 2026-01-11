@@ -15,9 +15,11 @@ n[C]o podremos [F]avanz[C]ar, s[F]in la ay[C]uda d[G]el Señ[C]or. [G].
 Un[C]idos [F]al rez[C]ar, unidos [F]en una oraci[G]ón,
 v[C]iviremos nu[F]estra f[C]e, c[F]on la ay[C]uda d[G]el Señ[C]or. [G].
 	ESTRIBILLO
+
 [G].
 La igl[C]esia en m[F]archa est[C]á, a un mundo nu[F]evo vamos y[G]a,
 d[C]onde reinar[F]á el am[C]or, d[F]onde r[C]einar[G]á la p[C]az. [G].
 	ESTRIBILLO
 `
   };
+
