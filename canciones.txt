@@ -1631,7 +1631,35 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/dame_un_nuevo_corazon.txt",
       },
+      {
+        "titulo":"Alma misionera",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada","Comunión","Salida"],
+        "audio":"audios/xxxxxxxxxxx",
+        "tono_audio":"",
+        "txt":"letras/alma_misionera.txt",
+      },
+      {
+        "titulo":"El Señor de Galilea",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/xxxxxxxxxxx",
+        "tono_audio":"",
+        "txt":"letras/el_señor_de_galilea.txt",
+      },
+      {
+        "titulo":"Juntos como hermanos",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada"],
+        "audio":"audios/xxxxxxxxxxx",
+        "tono_audio":"",
+        "txt":"letras/juntos_como_hermanos.txt",
+      },
 ]
+
 
 
 
