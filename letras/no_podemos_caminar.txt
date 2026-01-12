@@ -5,7 +5,7 @@ letra={
 	ESTRIBILLO
 N[E]o podemos c[A]amin[E]ar, con hambre b[C#m]ajo el s[B]ol,
 d[E]anos si[G#]empre el m[A]ismo p[E]an, tu cu[C#m]erpo y s[B]angre Señ[E]or.
- 
+
 Comamos todos de [A]este p[E]an, el p[C#m]an de l[A]a unid[B]ad, [G#].
 en un cu[C#m]erpo n[A]os uni[E]ó el Señ[C#m]or , por m[F#m]edio d[B]el am[E]or.
 	ESTRIBILLO
@@ -19,3 +19,4 @@ en la n[C#m]oche br[A]illar[E]á tu l[C#m]uz, nos gu[F#m]ía [B]a la verd[E]ad.
 	ESTRIBILLO
 `
   };
+
