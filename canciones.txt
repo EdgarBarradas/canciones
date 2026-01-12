@@ -1658,7 +1658,17 @@ canciones = [
         "tono_audio":"C",
         "txt":"letras/juntos_como_hermanos.txt",
       },
+      {
+        "titulo":"No podemos caminar",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Cominión"],
+        "audio":"audios/no_podemos_caminar",
+        "tono_audio":"",
+        "txt":"letras/no_podemos_caminar.txt",
+      },
 ]
+
 
 
 
