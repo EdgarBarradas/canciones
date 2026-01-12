@@ -9,7 +9,7 @@ no importa lo que s[E]ea, Tú ll[B]ámame a serv[E]ir. [B].
 
 		ESTRIBILLO
 Llévam[E]e donde los h[B]ombres, neces[C#m]iten tus pal[G#m]abras,
-neces[A]iten[F#] mis ganas de viv[B]ir, [B7].
+neces[A]iten[F#] mis ganas de viv[B]ir,
 donde f[E]alte la esper[B]anza, donde f[C#m]alte la alegr[G#m]ía,
 simplem[A]ente,[B] por no saber de t[E]i.
 
@@ -28,5 +28,6 @@ condúceme a la ti[E]erra, que t[B]enga sed de Di[E]os. [B].
 		ESTRIBILLO
 `
   };
+
 
 
