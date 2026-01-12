@@ -2,29 +2,31 @@ letra={
   titulo:"El Señor de Galilea",
   tonalidad:"C",
   letra:`
-Pon tus m[C]anos en las manos del Señor, de Galil[G]ea,
+[C].
+Pon tus manos en las manos del Señor, de Galil[G]ea,
 pon tus m[F]anos en las manos del Señ[G]or, que calma el m[C]ar,
 es Jes[C7]ús el que te va a cuidar, noche y d[F]ía sin ces[Fm]ar,
 pon tus m[C]anos en las manos del Señ[G]or, que calma el m[C]ar. [F] [C].
 
-Pon tus pi[C]es en las huellas del Señor, de Galil[G]ea,
+Pon tus pies en las huellas del Señor, de Galil[G]ea,
 pon tus pi[F]es en las huellas del Señ[G]or, que calma el m[C]ar,
 es Jes[C7]ús el que te va a cuidar, noche y d[F]ía sin ces[Fm]ar,
 pon tus pi[C]es en las huellas del Señ[G]or, que calma el m[C]ar. [F] [C].
 
-Y en tus l[C]abios la palabra del Señor, de Galil[G]ea,
+Y en tus labios la palabra del Señor, de Galil[G]ea,
 y en tus l[F]abios la palabra del Señ[G]or, que calma el m[C]ar,
 es Jes[C7]ús el que te va a cuidar, noche y d[F]ía sin ces[Fm]ar,
 y en tus l[C]abios la palabra del Señ[G]or, que calma el m[C]ar. [F] [C].
 
-Y en tus [C]ojos la mirada del Señor, de Galil[G]ea,
+Y en tus ojos la mirada del Señor, de Galil[G]ea,
 y en tus [F]ojos la mirada del Señ[G]or, que calma el m[C]ar,
 es Jes[C7]ús el que te va a cuidar, noche y d[F]ía sin ces[Fm]ar,
 y en tus [C]ojos la mirada del Señ[G]or, que calma el m[C]ar. [F] [C].
 
-Pon tus m[C]anos en las manos del Señor, de Galil[G]ea,
+Pon tus manos en las manos del Señor, de Galil[G]ea,
 pon tus [F]pies en las huellas del Señ[G]or, que calma el m[C]ar,
 es Jes[C7]ús el que te va a cuidar, noche y d[F]ía sin ces[Fm]ar,
 y en tus l[C]abios la palabra del Señ[G]or, que calma el m[C]ar. [F] [C].
 `
   };
+
