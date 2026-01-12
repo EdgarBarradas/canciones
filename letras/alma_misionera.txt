@@ -8,9 +8,9 @@ Est[E]oy,[B] dispuesto a lo que qui[C#m]eras, [A].
 no importa lo que s[E]ea, Tú ll[B]ámame a serv[E]ir. [B].
 
 		ESTRIBILLO
-Llévam[E]e donde los h[B]ombres, neces[C#m]iten tus pal[F#m]abras,
+Llévam[E]e donde los h[B]ombres, neces[C#m]iten tus pal[G#m]abras,
 neces[A]iten[F#] mis ganas de viv[B]ir, [B7].
-donde f[E]alte la esper[B]anza, donde f[C#m]alte la alegr[F#m]ía,
+donde f[E]alte la esper[B]anza, donde f[C#m]alte la alegr[G#m]ía,
 simplem[A]ente,[B] por no saber de t[E]i.
 
 [B].
@@ -28,4 +28,5 @@ condúceme a la ti[E]erra, que t[B]enga sed de Di[E]os. [B].
 		ESTRIBILLO
 `
   };
+
 
