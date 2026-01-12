@@ -3,7 +3,7 @@ letra={
   tonalidad:"E",
   letra:`
 	ESTRIBILLO
-N[E]o podemos c[A]amin[E]ar, con hambre b[A]ajo el s[B]ol,
+N[E]o podemos c[A]amin[E]ar, con hambre bajo el s[B]ol,
 d[E]anos si[G#]empre el m[A]ismo p[E]an, tu cuerpo y s[B]angre Señ[E]or.
 
 Comamos todos de [A]este p[E]an, el p[C#m]an de la unid[B]ad, [G#].
@@ -19,6 +19,7 @@ en la n[C#m]oche br[A]illar[E]á tu luz, nos gu[F#m]ía a l[B]a verd[E]ad. [B].
 	ESTRIBILLO
 `
   };
+
 
 
 
