@@ -3,21 +3,22 @@ letra={
   tonalidad:"E",
   letra:`
 	ESTRIBILLO
-N[E]o podemos c[A]amin[E]ar, con hambre b[C#m]ajo el s[B]ol,
-d[E]anos si[G#]empre el m[A]ismo p[E]an, tu cu[C#m]erpo y s[B]angre Señ[E]or.
+N[E]o podemos c[A]amin[E]ar, con hambre b[A]ajo el s[B]ol,
+d[E]anos si[G#]empre el m[A]ismo p[E]an, tu cuerpo y s[B]angre Señ[E]or.
 
 Comamos todos de [A]este p[E]an, el p[C#m]an de l[A]a unid[B]ad, [G#].
-en un cu[C#m]erpo n[A]os uni[E]ó el Señ[C#m]or , por m[F#m]edio d[B]el am[E]or.
+en un cu[C#m]erpo n[A]os uni[E]ó el Señ[C#m]or , por m[F#m]edio d[B]el am[E]or. [B].
 	ESTRIBILLO
 
 Señor, yo tengo s[A]ed de T[E]i, sedi[C#m]ento est[A]oy de Di[B]os; [G#].
-pero pr[C#m]onto ll[A]egar[E]é a v[C#m]er, el r[F#m]ostro d[B]el Señ[E]or.
+pero pr[C#m]onto ll[A]egar[E]é a v[C#m]er, el r[F#m]ostro d[B]el Señ[E]or. [B].
 	ESTRIBILLO
 
 Por el desierto el pu[A]eblo v[E]a, cant[C#m]ando s[A]u dolo[B]r; [G#].
-en la n[C#m]oche br[A]illar[E]á tu l[C#m]uz, nos gu[F#m]ía a l[B]a verd[E]ad.
+en la n[C#m]oche br[A]illar[E]á tu l[C#m]uz, nos gu[F#m]ía a l[B]a verd[E]ad. [B].
 	ESTRIBILLO
 `
   };
+
 
 
