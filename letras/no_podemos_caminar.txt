@@ -15,8 +15,9 @@ pero pr[C#m]onto ll[A]egar[E]é a v[C#m]er, el r[F#m]ostro d[B]el Señ[E]or.
 	ESTRIBILLO
 
 Por el desierto el pu[A]eblo v[E]a, cant[C#m]ando s[A]u dolo[B]r; [G#].
-en la n[C#m]oche br[A]illar[E]á tu l[C#m]uz, nos gu[F#m]ía [B]a la verd[E]ad.
+en la n[C#m]oche br[A]illar[E]á tu l[C#m]uz, nos gu[F#m]ía a l[B]a verd[E]ad.
 	ESTRIBILLO
 `
   };
+
 
