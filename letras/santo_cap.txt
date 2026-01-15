@@ -1,6 +1,6 @@
 letra={
   titulo:"Santo C",
-  tonalidad:"D",
+  tonalidad:"C",
   letra:`
 S[C]anto, S[Em]anto, S[F]anto es el Señ[G]or,
 Di[C]os del univ[Em]erso, [F]es el Señ[G]o-o-[C]or[C7].
@@ -10,4 +10,5 @@ Hosanna en el ci[Em]elo, en n[F]ombre del Señ[G]or,
 S[C]anto, S[Em]anto, S[F]anto es el Señ[G]o-o-[C]or.
   `
   };
+
 
