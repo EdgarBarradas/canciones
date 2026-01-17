@@ -20,8 +20,8 @@ los quer[A]ubes cant[E]ándote est[A]án.
 		ESTRIBILLO
 
 A tu influjo, Past[A7]ora cel[D]este, para si[C#]empre de aquí se alej[F#m]ó,
-la horror[D]osa y mortífera p[E]este, que este pu[F#m]eblo infel[C#]iz desol[F#m]ó,
-que este pu[A]eblo infel[E]iz desol[A]ó.
+la horror[D]osa y mortífera p[E]este, que a este pu[F#m]eblo infel[C#]iz desol[F#m]ó,
+que a este pu[A]eblo infel[E]iz desol[A]ó.
 		ESTRIBILLO
 
 ¡Dadnos, virgen, la p[A7]az que anhel[D]amos, y con [C#]ella la dicha etern[F#m]al,
@@ -30,5 +30,6 @@ dulce m[A]adre de t[E]odo mort[A]al.
 		ESTRIBILLO
 `
   };
+
 
 
