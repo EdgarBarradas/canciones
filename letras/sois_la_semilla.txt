@@ -1,0 +1,28 @@
+letra={
+  titulo:"Sois la semilla",
+  tonalidad:"C",
+  letra:`
+S[C]ois la sem[G]illa que h[Am]a de crec[Em]er, sois estr[F]ella que h[Dm]a de brill[G]ar, [G7].
+s[C]ois levad[G]ura, sois gr[Am]ano de s[F]al, ant[C]orcha que d[G]ebe alumbr[C]ar. [G].
+S[C]ois la mañ[G]ana que vu[Am]elve a nac[Em]er, sois esp[F]iga que empi[Dm]eza a gran[G]ar, [G7].
+s[C]ois aguij[G]ón y car[Am]icia a la v[F]ez, test[C]igos que v[G]oy a envi[C]ar.
+
+		ESTRIBILLO
+[G]Id, amigos, p[C]or el mundo [F]anunciando el am[C]or,
+m[Dm]ensajeros de la v[Am]ida, d[G]e la paz y el perd[C]ón.
+S[G]ed, amigos, l[C]os testigos d[F]e mi resurrecci[C]ón,
+[Dm]id llevando mi pres[Am]encia, c[G]on vosotros est[C]oy.
+
+S[C]ois una ll[G]ama que h[Am]a de encend[Em]er, respland[F]ores de f[Dm]e y carid[G]ad. [G7].
+S[C]ois los past[G]ores que h[Am]an de gui[F]ar, al m[C]undo por s[G]endas de p[C]az. [G].
+S[C]ois los am[G]igos que qu[Am]ise escog[Em]er, sois pal[F]abra que int[Dm]ento grit[G]ar, [G7].
+s[C]ois reino nu[G]evo que empi[Am]eza a engendr[F]ar, just[C]icia, am[G]or y verd[C]ad.
+		ESTRIBILLO
+
+S[C]ois fuego y s[G]avia que v[Am]ine a tra[Em]er, sois la [F]ola que ag[Dm]ita la m[G]ar; [G7].
+l[C]a levad[G]ura pequ[Am]eña de ay[F]er, ferm[C]enta la m[G]asa del p[C]an. [G].
+[C]Una ciud[G]ad no se pu[Am]ede escond[Em]er, ni los m[F]ontes se h[Dm]an de ocult[G]ar, [G7].
+[C]en vuestras [G]obras que b[Am]uscan el bi[F]en, los h[C]ombres al P[G]adre ver[C]án.
+		ESTRIBILLO
+`
+  };
