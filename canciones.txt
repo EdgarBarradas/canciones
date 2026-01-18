@@ -1662,12 +1662,40 @@ canciones = [
         "titulo":"No podemos caminar",
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Cominión"],
+        "momentos":["No filtrar","Comunión"],
         "audio":"audios/no_podemos_caminar",
         "tono_audio":"",
         "txt":"letras/no_podemos_caminar.txt",
       },
+      {
+        "titulo":"Como el Padre me amó",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/como_el_padre_me_amo",
+        "tono_audio":"",
+        "txt":"letras/como_el_padre_me_amo.txt",
+      },
+      {
+        "titulo":"Iglesia peregrina de Dios",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada","Comunión"],
+        "audio":"audios/iglesia_peregrina_de_dios",
+        "tono_audio":"",
+        "txt":"letras/iglesia_peregrina_de_dios.txt",
+      },
+      {
+        "titulo":"Sois la semila",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada","Comunión"],
+        "audio":"audios/sois_la_semilla",
+        "tono_audio":"",
+        "txt":"letras/sois_la_semilla.txt",
+      },
 ]
+
 
 
 
