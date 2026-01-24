@@ -1,0 +1,22 @@
+letra={
+  titulo:"Peregrinos de esperanza",
+  tonalidad:"F",
+  letra:`
+[F] [C] [Dm] [A#] [C].
+	ESTRIBILLO
+Llama v[F]iva p[C]ara mi esper[Dm]anza, que este c[A#]anto llegue hasta t[C]i,
+seno et[F]erno d[A]e infinita v[Dm]ida, me encam[F]ino, y[A#]o conf[C]ío en t[F]i.
+
+Toda l[Dm]engua, pu[C]eblos y naci[Dm]ones, hallan luces si[C]empre en tu Pal[Dm]abra.
+Hijos, h[Gm]ijas, fr[A]ágiles, disp[A#]ersos, acog[Gm]idos en tu Hijo am[C]ado.
+	ESTRIBILLO
+
+Dios nos cu[Dm]ida, ti[C]erno y paci[Dm]ente, nace el día, [C]un futuro nu[Dm]evo.
+Cielos nu[Gm]evos y [A]una tierra nu[A#]eva. Caen m[Gm]uros gracias al Esp[C]íritu.
+	ESTRIBILLO
+
+Una s[Dm]enda ti[C]enes por del[Dm]ante, paso firme, Di[C]os sale a tu encu[Dm]entro.
+Mira al H[Gm]ijo qu[A]e se ha hecho h[A#]ombre, para t[Gm]odos, él es el cam[C]ino.
+	ESTRIBILLO
+`
+  };

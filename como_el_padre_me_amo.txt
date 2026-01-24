@@ -1,0 +1,23 @@
+letra={
+  titulo:"Como el Padre me amó",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+C[C]omo el P[G]adre me am[Am]ó, y[F]o [Dm] os he am[G]ado,
+[C] permanec[G]ed en mi am[Am]or,[F] permanec[G]ed en mi am[C]or.
+
+
+[Am] Si guardáis mis pal[C]abras,[F] y como herm[G]anos os am[C]áis, 
+[Em] compartiréis con alegr[Am]ía, el d[F]on de l[Dm]a fraternid[G]ad. 
+[Am] Si os ponéis en cam[C]ino,[F] sirviendo si[G]empre a la verd[C]ad, 
+[Em] fruto daréis en abund[Am]ancia, mi am[F]or se m[Dm]anifestar[G]á. 
+ESTRIBILLO
+
+
+[Am] No veréis amor tan gr[C]ande,[F] como aqu[G]él que os mostr[C]é. 
+[Em] Yo doy la vida por vos[Am]otros, am[F]ad c[Dm]omo yo os am[G]é. 
+[Am] Si hacéis lo que os m[C]ando,[F] y os quer[G]éis de coraz[C]ón, 
+[Em] compartiréis mi pleno g[Am]ozo, de am[F]ar c[Dm]omo Él me am[G]o.
+ESTRIBILLO
+`
+  };

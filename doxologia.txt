@@ -1,0 +1,14 @@
+letra={
+  titulo:"Doxología",
+  tonalidad:"C",
+  letra:`
+Bendición y gl[C]oria, sabidur[G]ía,
+acción de gr[F]acias,[G] damos a Di[C]os, [G].
+bendición y gl[C]oria, sabidur[G]ía,
+acción de gr[F]acias,[G] damos a Di[C]os.
+
+Am[C]én, amén, amén,
+am[C]én, amén, amén,
+am[C]én, amén, amén.
+`
+  };

@@ -1,0 +1,13 @@
+letra={
+  titulo:"Confío en Ti",
+  tonalidad:"x",
+  letra:`
+[D] [A] [Bm] [Bm].
+[G] [G] [A] [Asus4]
+
+Conf[D]ío en T[A]i, de T[Bm]i me fi[D]é,
+no andaré tus p[A]asos, si no [Bm]es desd[E]e la f[A]e, [F#].
+j[Bm]usto he de viv[D]ir, si en T[G]i confi[D]é,
+dame Dios tu Esp[Bm]íritu, d[G]ame T[A]ú la f[D]e. (n veces).
+`
+  };

@@ -1,0 +1,20 @@
+letra={
+  titulo:"Padre nuestro",
+  tonalidad:"G",
+  letra:`
+En el m[G]ar he oído hoy, Señor tu v[Em]oz que me llamó,
+y me pidi[C]ó que me entregara a mis herm[D]anos.
+Esa v[G]oz me transformó, mi vida ent[Em]era ya cambió,
+y solo pi[C]enso ahora Señor en repet[D]irte.
+
+	ESTRIBILLO
+Padre nu[G]estro, en Ti creemos, Padre nu[Em]estro te ofrecemos,
+Padre nu[C]estro nuestras manos, de herm[D]anos. (2).
+
+Cuando v[G]aya a otro lugar, tendré yo qu[Em]e abandonar,
+a mi fam[C]ilia, a mis amigos, por segu[D]irte.
+Pero s[G]é que así algún día, podré ens[Em]eñar tu verdad,
+a mi herm[C]ano y junto a él yo repet[D]irte.
+	ESTRIBILLO
+`
+  };

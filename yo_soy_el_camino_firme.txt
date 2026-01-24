@@ -1,0 +1,24 @@
+letra={
+  titulo:"Yo soy el camino firme",
+  tonalidad:"Am",
+  letra:`
+Yo s[Am]oy la l[Dm]uz del m[Am]undo, n[Dm]o hay tini[Am]eblas j[E]unto a M[Am]í,
+tendr[C]án la l[F]uz de la v[C]ida, p[Dm]or la pal[Am]abra qu[F]e les d[E]i.
+
+	ESTRIBILLO
+Yo s[Am]oy el c[A7]amino f[Dm]irme, Yo soy la v[G]ida y la verd[C]ad,
+por M[F]í llegarán al P[Dm]adre, y el Santo Esp[E]íritu tendr[Am]án.
+
+Yo s[Am]oy el p[Dm]an de v[Am]ida, [Dm]y con ust[Am]edes m[E]e qued[Am]é,
+me entr[C]ego c[F]omo alim[C]ento, s[Dm]oy el mist[Am]erio d[F]e la f[E]e.
+	ESTRIBILLO
+
+Yo s[Am]oy el Bu[Dm]en Past[Am]or, [Dm]y por am[Am]or mi v[E]ida d[Am]oy,
+Yo qui[C]ero s[F]olo un reb[C]año, p[Dm]ermaneci[Am]endo [F]en mi am[E]or.
+	ESTRIBILLO
+
+Yo s[Am]oy Señ[Dm]or y ma[Am]estro, [Dm]y un mandami[Am]ento nu[E]evo os d[Am]oy,
+que se [C]amen [F]unos a [C]otros, c[Dm]omo los h[Am]e am[F]ado y[E]o.
+	ESTRIBILLO
+`
+  };
