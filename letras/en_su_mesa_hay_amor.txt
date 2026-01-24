@@ -1,0 +1,19 @@
+letra={
+  titulo:"En su mesa hay amor",
+  tonalidad:"G",
+  letra:`
+	ESTRIBILLO
+El Señ[G]or nos ha reun[Bm]ido junto a [C]Él, [Cm].
+el Señ[G]or nos ha invit[C]ado a estar con [D]Él.
+En su m[Em]esa hay am[Bm]or, la prom[C]esa del perd[G]ón,
+y en el v[Am]ino y pan,[D] su coraz[G]ón, [D].
+en su m[Em]esa hay am[Bm]or, la prom[C]esa del perd[G]ón,
+y en el v[Am]ino y pan,[D] su coraz[G]ón. [D].
+
+Cuando Señ[G]or tu v[Am]oz llega en sil[D]encio a m[G]í,
+y mis herm[C]anos me habl[D]an de T[G]i,
+sé que a mi lado est[Am]ás, te sientas j[B]unto a m[C]í, [Cm].
+ac[G]oges mi v[D]ida y mi oraci[G]ón.
+	ESTRIBILLO
+`
+  };

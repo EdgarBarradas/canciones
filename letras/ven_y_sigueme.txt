@@ -1,0 +1,26 @@
+letra={
+  titulo:"Ven y sígueme",
+  tonalidad:"A",
+  letra:`
+V[A]en y síguem[E]e, y mar ad[D]entro echa ya tus r[A]edes,
+ven y yo te har[E]é,[D] pescador de hombr[A]es.(2)
+
+		ESTRIBILLO
+En tus pal[D]abras echaré mis r[A]edes,
+dejo mi b[D]arca y donde quieras ir[A]é,
+Tú me llam[D]aste, Señor, por mi n[C#m]ombre,
+y sólo a T[D]i, Señ[E]or, te seguir[A]é.[D][A][D][A].
+
+
+Te vi trabaj[E]ar aquella n[D]oche en que fracas[A]aste.
+Sé de tu dol[E]or, de tu vergü[D]enza y de tus fragilid[A]ades.
+
+Hoy yo te p[D]ido que confíes de nu[A]evo.
+Vuelve a tir[D]ar con la esperanza de ay[A]er.
+estoy cont[D]igo y te prometo abund[C#m]ancia,
+deja t[D]odo por mi am[E]or, ven y síguem[A]e.[D][A][D][A].
+
+		ESTRIBILLO
+
+`
+  };

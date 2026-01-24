@@ -1,0 +1,19 @@
+letra={
+  titulo:"A tu lado Señor",
+  tonalidad:"G",
+  letra:`
+Jesucr[G]isto, yo si[C]ento tu v[G]oz, Tú me has dicho v[C]en y s[D]íguem[Bm]e, [Em].
+déjalo t[Am]odo y dalo [D]a los p[G]obres. [G7].
+Qui[C]ero que s[D]eas sal y l[Bm]uz, [Em].
+confía si[Am]empre porque [D]a tu lado est[G]oy. [C] [G].
+
+Aquí, Señ[Em]or, tien[Bm]es mi v[C]ida, que qui[D]ere ser presencia de tu am[Bm]or. [Em].
+Sé que no es f[Am]ácil, segu[D]ir tus hu[G]ellas,[Em] pero con tu fu[C]erza seré fi[D]el.
+Te servir[Em]é entre los h[Bm]ombres, tu R[C]eino anunciar[G]é,[Em] porque a tu l[Am]ado
+qui[C]ero camin[D]ar.
+Te servir[Em]é entre los h[Bm]ombres, tu cr[C]uz abrazar[G]é,[Em] si no resp[Am]ondo,
+vu[C]élveme a llam[D]ar. (2)
+
+Am[G]é-[C]é-[G]én.
+`
+  };
