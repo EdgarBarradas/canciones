@@ -2,7 +2,7 @@ letra={
   titulo:"Los peces en el río",
   tonalidad:"Am",
   letra:`
-La Virgen se está pein[E]ando, entre cortina y cort[Am]ina,
+L[Am]a Virgen se está pein[E]ando, entre cortina y cort[Am]ina,
 los cabellos son de [E]oro, y el peine de plata f[Am]ina.
 
 		ESTRIBILLO
@@ -24,6 +24,7 @@ no lleva más compañi[E]a, que al Niño de la manit[Am]a.
 		ESTRIBILLO
 `
   };
+
 
 
 
