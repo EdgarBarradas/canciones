@@ -1,0 +1,17 @@
+letra={
+  titulo:"El alfarero",
+  tonalidad:"C",
+  letra:`
+Gr[C]acias quiero darte por am[F]arm[G]e, gr[F]acias quiero darte yo a T[C]i, Señor,
+h[C7]oy soy feliz porqu[F]e te conoc[Fm]í, gr[C]acias por am[G]arme a mí tambi[C]én. [F][C].
+
+		ESTRIBILLO
+Yo quiero s[C]er, Señor am[G]ado, como el b[F]arro en m[G]anos del alfar[C]ero.
+Toma mi vida,[C7] hazla de nu[F]evo.[Fm] Yo quiero s[C]e-[G]er, un vaso nu[C]evo,
+toma mi vida,[C7] hazla de nu[F]evo.[Fm] Yo quiero s[C]e-[G]er, un vaso nu[C]evo.
+
+T[C]e conocí y te am[F]é-[G]é, t[F]e pedí perdón y me escuch[C]aste.
+S[C7]i te ofendí, perdó[F]name, Señ[Fm]or, pues te [C]amo y n[G]unca te olvidar[C]é. [F][C].
+		ESTRIBILLO
+`
+  };

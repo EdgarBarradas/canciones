@@ -1,0 +1,23 @@
+letra={
+  titulo:"Caminaremos los dos",
+  tonalidad:"C",
+  letra:`
+S[C]i quieres venir conmigo, [Dm]a una tierra más feliz,
+v[F]ende todo lo que ti[C]enes, p[G]on tus ojos solo en m[C]í,
+s[F]i quieres venir conm[C]igo, s[G]i quieres seguirme a m[C]í.
+
+			ESTRIBILLO
+[C7] Caminar[F]emos los d[G]os, a un m[Em]undo de p[Am]az,
+construir[F]emos los d[G]os, el am[C]or. (2)
+
+S[C]i te pesa lo que tienes, s[Dm]i te cuesta decidir,
+t[F]e libero de la c[C]arga, t[G]e regalo el primer s[C]í,
+s[F]i te pesa lo que ti[C]enes, s[G]i te cuesta decid[C]ir.
+			ESTRIBILLO
+
+[C]Abandona la tristeza, [Dm]y comienza a sonreír,
+que [F]aunque con tu cruz a cu[C]estas, y[G]o te quiero hacer fel[C]iz,
+s[F]i por mi pierdes tu v[C]ida, y[G]o te enseñaré a viv[C]ir.
+			ESTRIBILLO
+`
+  };
