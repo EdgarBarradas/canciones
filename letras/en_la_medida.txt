@@ -1,0 +1,23 @@
+letra={
+  titulo:"En la medida",
+  tonalidad:"A",
+  letra:`
+En la med[A]ida en que am[D]aste, tú ser[A]ás, 
+serás la parte del am[D]or que hubo en t[E]i,
+no me inter[F#m]esan tus esqu[C#m]emas ni tu im[D]agen,
+tus pod[C#m]eres ni equip[D]aje, nada de [Bm]eso entrar[E]á,
+sólo me imp[F#m]orta lo que d[C#m]iste a los más p[D]obres,
+entreg[C#m]aste a los enf[D]ermos, lo que am[Bm]aste a los dem[E]ás.
+ 
+ESTRIBILLO
+Qu[D]edar[C#m]á, el am[Bm]or que h[E]ubo en t[A]i. (2)
+
+Cuántas n[A]oches has dorm[D]ido tan tranqu[A]ilo,
+aun sabiendo que otros m[D]uchos andan m[E]al,
+cómo expl[F#m]icarme que has perd[C#m]ido tanto ti[D]empo,
+estudi[C#m]ando y trabaj[D]ando y olvid[Bm]aste a los dem[E]ás,
+ahora que qui[F#m]eres, tienes qu[C#m]e rendirme cu[D]entas,
+de lo m[C#m]ucho que has am[D]ado, no me [Bm]interesa m[E]ás.
+ESTRIBILLO
+`
+  };

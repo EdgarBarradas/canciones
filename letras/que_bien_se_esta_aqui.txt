@@ -1,0 +1,16 @@
+letra={
+  titulo:"Que bien se está aquí, Señor",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+Que bien se está aqu[F]í Señ[G]or, no hay otro lug[C]ar donde est[E]ar mej[Am]or,
+tus manos nos guí[F]an, tu amor nos proteg[Dm]e, confiamos en T[G]i. (2)
+
+Seremos tus m[F]anos, para c[G]onstruir un mundo nu[C]evo, [Am].
+seremos tu b[F]oca para n[G]o callar la verd[Am]ad,
+seremos tus [F]ojos, para mir[G]arnos con tern[C]ura, [Am].
+y tu miseric[F]ordia, para esc[Dm]uchar sin juzg[G]ar.
+
+	ESTRIBILLO
+`
+  };

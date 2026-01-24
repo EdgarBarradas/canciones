@@ -1,0 +1,12 @@
+letra={
+  titulo:"En mi debilidad",
+  tonalidad:"C",
+  letra:`
+En mi debilid[C]ad, me haces fu[Am]erte, en mi debilid[G]ad, me haces fu[C]erte,
+solo en tu amor me haces fu[C7]erte, solo en tu v[F]ida me haces fu[Fm]erte,
+en mi debilid[C]ad, te h[Dm]aces fu[G]erte, en m[C]í. (2)
+
+Solo en tu amor me haces fu[C7]erte, solo en tu v[F]ida me haces fu[Fm]erte,
+en mi debilid[C]ad, te h[Dm]aces fu[G]erte, en m[C]í.
+`
+  };

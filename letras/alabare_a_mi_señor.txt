@@ -1,0 +1,29 @@
+letra={
+  titulo:"Alabaré a mi Señor",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+Alabar[C]é a mi Señor, siendo como Él,
+siendo rastro de su amor, y signo de su f[C]e.
+al Señor Alabaré,[C7] dando la esper[F]anza, [Fm].
+al que la perdi[C]ó, al que nunca la vi[G]o así lo alabar[C]é. [F][C].
+
+Alabaré, cuando alivie las c[G]argas,
+alabaré, si al sediento doy [C]agua,
+alabaré,[C7] cuando de otros sea p[F]an,
+si me dejo com[C]er, si me dejo beb[G]er, así lo alabar[C]é. [F][C].
+	ESTRIBILLO
+
+Alabaré, siendo luz que ori[G]enta,
+alabaré, siendo sal en la ti[C]erra,
+alabaré,[C7] fermentando la m[F]asa,
+que dé imagen de am[C]or, quiera Dios que sea y[G]o, así lo alabar[C]é. [F][C].
+	ESTRIBILLO
+
+Alabaré, siendo paz en la gu[G]erra,
+alabaré, si no cierro mi pu[C]erta,
+alabaré,[C7] siendo canto y poes[F]ía,
+del caído bast[C]ón, del soberbio cand[G]or, así lo alabar[C]é. [F][C].
+	ESTRIBILLO
+`
+  };
