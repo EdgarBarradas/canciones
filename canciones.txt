@@ -1793,7 +1793,35 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/yo_soy_el_camino_firme.txt",
       },
+      {
+        "titulo":"Ven y sígueme",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/ven_y_sigueme",
+        "tono_audio":"",
+        "txt":"letras/ven_y_sigueme.txt",
+      },
+      {
+        "titulo":"A tu lado Señor",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/a_tu_lado_señor",
+        "tono_audio":"",
+        "txt":"letras/a_tu_lado_señor.txt",
+      },
+      {
+        "titulo":"En su mesa hay amor",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/en_su_mesa_hay_amor",
+        "tono_audio":"",
+        "txt":"letras/en_su_mesa_hay_amor.txt",
+      },
 ]
+
 
 
 
