@@ -1786,7 +1786,7 @@ canciones = [
       },
       {
         "titulo":"Yo soy el camino firme",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/yo_soy_el_camino_firme",
@@ -1795,7 +1795,7 @@ canciones = [
       },
       {
         "titulo":"Ven y sígueme",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/ven_y_sigueme",
@@ -1804,7 +1804,7 @@ canciones = [
       },
       {
         "titulo":"A tu lado Señor",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/a_tu_lado_señor",
@@ -1813,14 +1813,42 @@ canciones = [
       },
       {
         "titulo":"En su mesa hay amor",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/en_su_mesa_hay_amor",
         "tono_audio":"",
         "txt":"letras/en_su_mesa_hay_amor.txt",
       },
+      {
+        "titulo":"El alfarero",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/el_alfarero",
+        "tono_audio":"",
+        "txt":"letras/el_alfarero.txt",
+      },
+      {
+        "titulo":"Caminaremos los dos",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/caminaremos_los_dos",
+        "tono_audio":"",
+        "txt":"letras/caminaremos_los_dos.txt",
+      },
+      {
+        "titulo":"Alma de Cristo",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Acción de gracias"],
+        "audio":"audios/alma_de_cristo",
+        "tono_audio":"",
+        "txt":"letras/alma_de_cristo.txt",
+      },
 ]
+
 
 
 
