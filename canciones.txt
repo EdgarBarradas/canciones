@@ -1847,7 +1847,35 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/alma_de_cristo.txt",
       },
+      {
+        "titulo":"Alaluya cantará",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar","Difuntos"],
+        "momentos":["No filtrar","Interleccional"],
+        "audio":"audios/aleluya_cantara",
+        "tono_audio":"",
+        "txt":"letras/aleluya_cantara.txt",
+      },
+      {
+        "titulo":"Busca primero",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Interleccional"],
+        "audio":"audios/busca_primero",
+        "tono_audio":"",
+        "txt":"letras/busca_primero.txt",
+      },
+      {
+        "titulo":"Jesús es Señor",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar","Cristo Rey"],
+        "momentos":["No filtrar","Interleccional"],
+        "audio":"audios/jesus_es_señor",
+        "tono_audio":"",
+        "txt":"letras/jesus_es_señor.txt",
+      },
 ]
+
 
 
 
