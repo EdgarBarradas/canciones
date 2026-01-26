@@ -1,0 +1,14 @@
+letra={
+  titulo:"Jesús es Señor",
+  tonalidad:"C",
+  letra:`
+J[C]esús es, J[G]esús es Señ[Am]o-[Em]or, J[F]esús es, J[G]esús es Señ[C]o-[Am]or,
+J[F]esús es, J[G]esús es Señ[C]or. [G].
+
+[C]Aleluya, [G]aleluy[Am]a-[Em]a, [F]aleluya, [G]aleluy[C]a-[Am]a,
+[F]aleluya, [G]aleluy[C]a. [G].
+
+Gl[C]oria a Dios, gl[G]oria a Di[Am]o-[Em]os, gl[F]oria a Dios, gl[G]oria a Di[C]o-[Am]os,
+gl[F]oria a Dios, gl[G]oria a Di[C]os.
+`
+  };

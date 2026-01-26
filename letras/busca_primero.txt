@@ -1,0 +1,11 @@
+letra={
+  titulo:"Busca primero",
+  tonalidad:"C",
+  letra:`
+B[C]usca prim[G]ero el r[Am]eino de Di[Em]os, [F]y su just[C]ici[G]a,
+[C]Él te dar[G]á las dem[Am]ás cos[Em]as, [F]aleluy[C]a, alel[G]uy[C]a.
+
+[C]Aleluy[G]a, al[Am]eluya, aleluy[Em]a, [F]aleluy[C]a, alel[D]uy[G]a,
+[C]aleluy[G]a, alel[Am]uya, aleluy[Em]a, [F]aleluy[C]a, alel[G]uy[C]a.
+`
+  };
