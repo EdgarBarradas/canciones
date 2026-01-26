@@ -1,0 +1,21 @@
+letra={
+  titulo:"Buenos días, Señor",
+  tonalidad:"D",
+  letra:`
+[D][G][D].
+	ESTRIBILLO
+Buenos días, Señ[Em]or, buenos d[D]ías,[G] Dios anoche has cuid[A]ado de m[D]í,
+yo quisi[G]era que toda mi v[D]ida, fuera gl[E]oria, alabanza hacia T[A]i,
+buenos d[G]ías, Señor, buenos d[D]ías, Señor.
+
+	ESTRIBILLO
+
+En tu nombre comienzo este d[G]ía, en tu n[E]ombre lo espero acab[A]ar,
+pensami[Em]entos, palabras y acci[Bm]ones, sean h[E]imno a tu inmensa bond[A]ad.
+	ESTRIBILLO
+
+Me regalas, el tiempo la gr[G]acias, el trab[E]ajo, el descanso, la f[A]e,
+y me d[Em]ices, construye mi r[Bm]eino, y no t[E]emas, contigo estar[A]é.
+	ESTRIBILLO
+`
+  };

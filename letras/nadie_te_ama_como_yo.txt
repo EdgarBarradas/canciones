@@ -1,0 +1,23 @@
+letra={
+  titulo:"Nadie te ama como yo",
+  tonalidad:"C",
+  letra:`
+[C].
+Cuanto he esper[G]ado este mom[Am]ento,[F] cuanto he esperado que estuvi[G]eras así, [C].
+cuanto he esper[G]ado que me habl[Am]aras,[F] cuanto he esperado que vini[G]eras a mí. [C].
+Yo sé bi[G]en lo que has viv[Am]ido,[F] se también por qué has llor[G]ado, [C].
+yo sé bi[G]en lo que has sufr[Am]ido,[F] pues de tu lado no me he [G]ido.
+
+		ESTRIBILLO
+Pues nadie te [C]ama[G] como y[Am]o, pues nadie te [F]ama[Dm] como y[G]o,
+mira la cr[C]uz esa es m[G]i más grande pru[Am]eba,[F] nadie te ama como y[G]o.
+Pues nadie te [C]ama[G] como y[Am]o, pues nadie te [F]ama[Dm] como y[G]o,
+mira la cr[C]uz, fue por t[G]i fue porque te [Am]amo,[F] nadie te ama[G] como y[C]o.
+
+Yo sé bi[G]en lo que me d[Am]ices,[F] aunque a veces no me h[G]ables, [C].
+yo sé bi[G]en lo que en ti si[Am]entes,[F] aunque nunca lo comp[G]artes. [C].
+A tu l[G]ado he camin[Am]ado,[F] junto a ti yo siempre he [G]ido, [C].
+aun a v[G]eces te he carg[Am]ado,[F] yo he sido tu mejor am[G]igo.
+		ESTRIBILLO
+`
+  };

@@ -1,0 +1,19 @@
+letra={
+  titulo:"Canto a la Santísima Trinidad",
+  tonalidad:"E",
+  letra:`
+Tanto am[E]ó Dios al m[B]undo, que entreg[A]ó a si H[B]ijo por am[E]o-[B]or,
+para qu[E]e todo el que cr[B]ea en Él, no per[A]ezca sino t[B]enga vida et[E]ern[B]a. [B7].
+
+	ESTRIBILLO
+Da gloria al P[E]adre, gloria al H[C#m]ijo y al Esp[A]íritu S[B]anto,
+al Dios que [E]es, que [A]era y que vendr[B]á,
+da gloria al P[E]adre, gloria al [C#m]Hijo y al Esp[A]íritu S[B]anto,
+es el mist[E]erio de la S[A]anta Trinid[B]ad,
+aleluy[E]a, aleluy[A]a, aleluy[E]a.
+
+Porque Di[E]os no envió a su H[B]ijo para c[A]ondenar al m[B]undo pecad[E]o-[B]or,
+sino qu[E]e para que el m[B]undo se salv[A]ara por Cr[B]isto redent[E]o-[B]or. [B7].
+	ESTRIBILLO
+`
+  };

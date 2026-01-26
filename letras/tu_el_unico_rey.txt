@@ -1,0 +1,24 @@
+letra={
+  titulo:"Tú, el único Rey",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+T[C]ú, el [G]único Re[Am]y, que tiene que rein[F]ar, el único Señ[G]or,
+al que voy a alab[C]ar, hoy lev[G]anto el coraz[Am]ón,
+al que me conquist[F]ó, simplem[C]ente porque T[G]ú, eres Di[C]os.
+
+Quiero pon[C]erte, enc[G]ima de t[Am]odo,
+en cada mom[C]ento, sentarte en el tr[G]ono,
+que tu alab[C]anza, esté si[G]empre en mi b[Am]oca,
+y reconoc[C]er, que Tú eres Di[G]os,
+que alab[F]arte a ti Señ[G]or , sea si[C]empre lo prim[Am]ero,
+f[F]ijo mi mirada en el ci[G]elo.
+	ESTRIBILLO
+
+[F] [C] [Dm] [G]
+
+Y a T[F]i, toda alab[C]anza, todo el pod[Dm]er y el honor, toda la gl[G]oria Señor. (4)
+
+	ESTRIBILLO (2)
+`
+  };

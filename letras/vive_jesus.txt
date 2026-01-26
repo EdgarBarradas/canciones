@@ -1,0 +1,20 @@
+letra={
+  titulo:"Vive Jesús",
+  tonalidad:"E",
+  letra:`
+V[E]ive Jesús, el Señ[A]or, v[B]ive Jesús, el Señ[E]or, [A] [B].
+v[E]ive Jesús, el Señ[A]or, v[B]ive Jesús, el Señ[E]or.
+
+El v[B]ive, el vive, el v[E]ive, v[C#m]ive, v[A]ive Jes[B]ús, el Señ[E]or. (2)
+
+R[E]eina Jesús, el Señ[A]or, r[B]eina Jesús, el Señ[E]or, [A] [B].
+r[E]eina Jesús, el Señ[A]or, r[B]eina Jesús, el Señ[E]or.
+
+El r[B]eina, el reina, el r[E]eina, r[C#m]eina, r[A]eina Jes[B]ús, el Señ[E]or. (2)
+
+S[E]ana Jesús, el Señ[A]or, s[B]ana Jesús, el Señ[E]or, [A] [B].
+s[E]ana Jesús, el Señ[A]or, s[B]ana Jesús, el Señ[E]or.
+
+El s[B]ana, el sana, el s[E]ana, s[C#m]ana, s[A]ana Jes[B]ús, el Señ[E]or. (2)
+`
+  };

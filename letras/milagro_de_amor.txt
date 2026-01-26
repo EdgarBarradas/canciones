@@ -1,0 +1,24 @@
+letra={
+  titulo:"Milagro de amor",
+  tonalidad:"F",
+  letra:`
+J[F]esús,[C] aquí presente en f[Dm]orma real,
+te p[A#]ido, un poco más de f[F]e y de humild[C]ad,
+quisi[F]era [C] poder ser digno de c[Dm]ompartir,
+cont[A#]igo, el milagro más gr[F]ande de am[C]or.
+
+		ESTRIBILLO
+Mil[F]agro de am[C]or tan infin[Dm]ito, en que T[Am]ú, mi Dios te has h[A#]echo,
+tan pequ[Gm]eño y tan hum[C]ilde, para entr[C7]ar en mí.
+Mil[F]agro de am[C]or tan infin[Dm]ito, en que T[Am]ú, mi Dios te olv[A#]idas,
+de tu gl[Gm]oria y de tu m[C]ajestad por m[C7]í.
+
+Y hoy v[F]engo,[C] lleno de alegr[Dm]ía,
+a recib[A#]irte, en [F]esta eucarist[C]ía,
+te doy gr[F]acias,[C] por llamarme a esa c[Dm]ena,
+porque aunque n[A#]o soy digno, vis[F]itas Tú mi [C]alma.
+		ESTRIBILLO (2)
+
+[A#] [A#] [F].
+`
+  };

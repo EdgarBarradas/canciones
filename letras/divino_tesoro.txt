@@ -1,0 +1,17 @@
+letra={
+  titulo:"Divino tesoro",
+  tonalidad:"A",
+  letra:`
+Has pens[A]ado [D]alguna v[A]ez,[A7] lo gr[D]ande y herm[E]oso que [A]es, [A7].
+r[D]ecib[E]ir a Jesucr[A]ist[F#m]o, en [Bm]un ped[E]azo de P[A]an. (2)
+
+	ESTRIBILLO
+¡Oh Jes[E]us! D[D]ivino Tes[A]or[A7]o,
+ah[D]í est[E]as, ah[A]í est[F#m]as, [Bm]esperando por nos[A]otr[A7]os,
+ah[D]í est[E]as, ah[A]í est[F#m]as, v[Bm]ivo sobre el alt[A]ar.
+
+Quizás nunca [D]imagin[A]ast[A7]e, que en [D]este ped[E]azo de p[A]an, [A7].
+Est[D]á el cu[E]erpo de Cr[A]ist[F#m]o, queri[Bm]éndot[E]e salv[A]ar. (2)
+	ESTRIBILLO
+`
+  };

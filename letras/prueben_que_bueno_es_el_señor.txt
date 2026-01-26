@@ -1,0 +1,21 @@
+letra={
+  titulo:"Prieben que bueno es el Señor",
+  tonalidad:"C",
+  letra:`
+B[C]endeciré al Señor en todo ti[F]empo,
+y mi b[G]oca no cesará de alab[C]arlo,
+mi alma se enorgullese en el Señ[F]or,
+que lo [G]oigan los humildes y se al[C]egren. [C7].
+
+		ESTRIBILLO
+Prueben que bu[F]eno es el Señor,
+hagan la pru[C]eba y veanl[Am]o,
+dich[F]oso aquel que b[G]usca n Él ref[C]ugio (2).
+
+Engrandezcan conmigo a el Señ[F]or,
+[G]ensalcemos todos su n[C]ombre,
+busqué al Señor y me dio su respu[F]esta,
+me libr[G]ó de todos mis tem[C]ores. [C7].
+		ESTRIBILLO
+`
+  };

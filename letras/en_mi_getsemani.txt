@@ -1,0 +1,28 @@
+letra={
+  titulo:"En mi Getsemaní",
+  tonalidad:"C",
+  letra:`
+[C].
+
+Para que mi am[G]or no sea un s[Am]entimiento, tan solo [F]un deslumbramiento pasaj[G]ero, [Em].
+para no gastar las pal[Am]abras más mías, ni vaci[F]ar de contenido mi te qui[G]ero. [C].
+Quiero hundir más h[G]ondo mi ra[Am]íz en ti, y ciment[F]ar en solidez, este mi af[G]ecto, [Em].
+pues mi corazón que es inqui[Am]eto y es frágil, solo aci[F]erta si se abraza a tu proy[G]ecto.
+
+		ESTRIBILLO
+Más all[C]á, de mis mi[G]edos más all[Am]á, de mi [Em]insegurid[F]ad, quiero d[Dm]arte mi respu[G]esta.
+Aquí est[C]oy, para hac[G]er tu volunt[Am]ad, para que mi am[Em]or sea dec[F]irte sí,[G] hasta el fin[C]al.
+
+Duerme en su sop[G]or y temen [Am]en el huerto, ni sus am[F]igos acompañan al ma[G]estro, [Em].
+si es hora de cruz es de f[Am]idelidades, pero el m[F]undo nunca quiere aceptar [G]esto. [C].
+Dame a comprend[G]er Señor tu am[Am]or tan puro, amor que p[F]ersevera en cruz, amor perf[G]ecto, [Em].
+dame serte fiel cuando t[Am]odo es oscuro, para qu[F]e mi amor sea más que un sentimi[G]ento.
+		ESTRIBILLO
+
+No es en las pal[G]abras ni es en l[Am]as promesas, donde la hist[F]oria tiene su motor secr[G]eto, [Em].
+solo es el amor en la cr[Am]uz madurado, el am[F]or que mueve todo el univ[G]erso. [C].
+Pongo mi pequ[G]eña vida hoy [Am]en tus manos, por sobre m[F]is inseguridades y mis mi[G]edos, [Em].
+y elegir tu quer[Am]er y no el mío, hazme en m[F]i Getsemaní fiel y despi[G]erto.
+		ESTRIBILLO (2).
+`
+  };

@@ -1,0 +1,25 @@
+letra={
+  titulo:"Dios trino",
+  tonalidad:"A",
+  letra:`
+En nombre del P[A]adre, en nombre del H[D]ijo,
+en nombre del S[A]anto Espíritu,[E] estamos aqu[A]í. [E].
+En nombre del P[A]adre, en nombre del H[D]ijo,
+en nombre del S[A]anto Espíritu,[E] estamos aqu[A]í. [A7].
+
+Para alab[D]ar y agradec[E]er, bendec[C#m]ir y ador[F#m]ar,
+estamos aqu[D]í,[E] a tu disposici[A]ón, [A7].
+para alab[D]ar y agradec[E]er, bendec[C#m]ir y ador[F#m]ar,
+estamos aqu[D]í,[E] Dios trino de am[A]or.
+
+En nombre del P[A]adre, en nombre del H[D]ijo,
+en nombre del S[A]anto Espíritu,[E] estamos aqu[A]í. [E].
+En nombre del P[A]adre, en nombre del H[D]ijo,
+en nombre del S[A]anto Espíritu,[E] estamos aqu[A]í. [A7].
+
+Para escuch[D]ar y acog[E]er, tu pal[C#m]abra y segu[F#m]ir,
+estamos aqu[D]í,[E] a tu disposici[A]ón, [A7].
+para com[D]er y compart[E]ir, degust[C#m]ar tu alim[F#m]ento,
+estamos aqu[D]í,[E] Dios trino de am[A]or.
+`
+  };
