@@ -3,7 +3,7 @@ letra={
   tonalidad:"C",
   letra:`
 	ESTRIBILLO
-T[C]ú, el [G]único Re[Am]y, que tiene que rein[F]ar, el único Señ[G]or,
+T[C]ú, el [G]único R[Am]ey, que tiene que rein[F]ar, el único Señ[G]or,
 al que voy a alab[C]ar, hoy lev[G]anto el coraz[Am]ón,
 al que me conquist[F]ó, simplem[C]ente porque T[G]ú, eres Di[C]os.
 
@@ -22,3 +22,4 @@ Y a T[F]i, toda alab[C]anza, todo el pod[Dm]er y el honor, toda la gl[G]oria Se�
 	ESTRIBILLO (2)
 `
   };
+
