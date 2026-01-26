@@ -1,6 +1,6 @@
 letra={
   titulo:"Vienen con alegría",
-  tonalidad:"D",
+  tonalidad:"C",
   letra:`
 	ESTRIBILLO
 Vi[C]enen con alegría Señor, cantando vienen con alegría Señ[C7]or
@@ -17,3 +17,4 @@ deseos de un mundo más hum[G]ano, que n[F]acen del bi[G]en y la verd[C]ad.
 	ESTRIBILLO
 `
   };
+
