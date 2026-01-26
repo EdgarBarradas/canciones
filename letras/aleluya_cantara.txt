@@ -1,8 +1,9 @@
 letra={
   titulo:"Aleluya cantará",
-  tonalidad:"C",
+  tonalidad:"G",
   letra:`
 [G]Alel[C]uya c[D]antar[G]á, quien perdi[Am]ó la esper[Em]anza,
 y la ti[C]erra sonreir[G]á, alel[D]uy[G]a. (2)
 `
   };
+
