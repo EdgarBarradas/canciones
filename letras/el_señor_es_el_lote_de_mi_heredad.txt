@@ -2,8 +2,11 @@ letra={
   titulo:"El Señor es el lote de mi heredad",
   tonalidad:"C",
   letra:`
+		ESTRIBILLO
 El Señ[C]or es el l[G]ote de mi hered[Am]ad, [F]al[C]eluy[G]a,
-por si[Am]empre mi [F]alma te cantar[G]á, [F]al[G]eluy[C]a. (2)
+por si[Am]empre mi [F]alma te cantar[G]á, [F]al[G]eluy[C]a.
+
+		ESTRIBILLO
 
 Prot[C]égeme, Dios m[G]ío, me ref[Am]ugio en Ti, yo d[F]igo al Señ[C]or, Tú eres mi bi[G]en,
 los di[Am]oses y señ[F]ores de la t[G]ierra, n[F]o me s[G]atisf[C]acen. [G].
@@ -22,3 +25,4 @@ de alegr[G]ía,[F] por si[G]empre a tu der[C]echa. [G] (2)
 		ESTRIBILLO
 `
   };
+
