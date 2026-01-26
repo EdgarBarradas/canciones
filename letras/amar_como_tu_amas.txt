@@ -1,0 +1,26 @@
+letra={
+  titulo:"Amar como Tú amas",
+  tonalidad:"C",
+  letra:`
+Jes[C]ús, estoy aquí, Jes[C7]ús, ¿qué esperas de m[F]í?,
+mis m[C]anos, están vac[G]ías, que puedo ofrec[C]erte,
+[Bm] solo s[Am]é, que qui[G]ero, ser difer[C]ente.
+
+Jes[C]ús, estoy aquí, Jes[C7]ús, ¿qué esperas de m[F]í?,
+mis [C]ojos, temen al mir[G]arte, quisi[F]era,[G] poder enfrent[C]arte-[D]e.
+
+	ESTRIBILLO
+Am[G]ar, como Tú [C]amas, sent[G]ir, como Tú si[C]entes,
+[Bm] mir[Am]ar a través de tus [D]ojos, Jes[G]ú-[C]ú-[G]ús.
+
+Cont[G]igo, el camino, el camino es dif[C]ícil, me e[G]xiges abrir un nuevo horiz[C]onte,
+[Bm] en l[Am]a soledad de mi n[D]oche, Jes[G]ú-[C]ú-[G]ús.
+
+N[C]o, no puedo abandonarte, Jes[C7]ús, en mi penetr[F]aste,
+me habit[C]aste, triunf[G]aste, y hoy vives em m[C]í-[D]í.
+
+	ESTRIBILLO
+
+Jes[G]ú-[Cm]ú-[G]ús
+`
+  };

@@ -1,0 +1,18 @@
+letra={
+  titulo:"Háblame",
+  tonalidad:"D",
+  letra:`
+Yo si[D]ento Señ[Bm]or, qu[G]e Tú me [A]amas, yo si[D]ento Señ[Bm]or, qu[G]e te puedo am[A]ar
+h[D]áblame Señ[Bm]or, qu[G]e tu siervo esc[A]ucha, h[D]áblam[Bm]e, ¿qu[G]é quieres de m[A]í?
+
+	ESTRIBILLO
+Señ[D]or Tú has sido grande para m[G]í, en el desierto de mi v[Em]ida, háblam[A]e,
+y[D]o quiero est[Bm]ar,[G] dispuesto a t[A]odo, t[D]oma mi s[Bm]er, mi coraz[G]ón es para T[A]i.
+P[D]or eso canto t[Bm]us maravillas, p[G]or eso canto tu am[A]or,
+P[D]or eso canto t[Bm]us maravillas, p[G]or eso canto tu am[A]or.
+
+Te al[D]abo Señ[Bm]or, p[G]or tu grandeza, mil gr[D]acias te d[Bm]oy p[G]or tu gran amor,
+h[D]eme aquí, Señ[Bm]or, p[G]ara acompañarte, h[D]eme aqu[Bm]í, ¿qu[G]é quieres de mi?
+	ESTRIBILLO
+`
+  };

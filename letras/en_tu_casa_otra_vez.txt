@@ -1,0 +1,32 @@
+letra={
+  titulo:"En tu casa otra vez",
+  tonalidad:"A",
+  letra:`
+Aquí est[A]amos Señor, en tu c[F#m]asa otra vez,
+que alegr[D]ía volv[E]erte a encontr[A]ar, [E].
+Vamos [A]a compartir y a expres[F#m]ar nuestra fe,
+como herm[D]anos en t[E]orno a tu alt[A]ar. [A7].
+
+			ESTRIBILLO
+En el n[D]ombre de Di[E]os, vamos [A]a celebr[F#m]ar,
+el mist[D]erio de l[E]a salvaci[A]ón, [A7].
+el Señ[D]or nos dar[E]á, su pal[A]abra y su p[F#m]an,
+es la fi[D]esta del pu[E]eblo de Di[A]os.
+
+[E].
+
+Partir[A]emos tu pan, signo d[F#m]e comunión,
+beber[D]emos tu v[E]ino de am[A]or, [E].
+y a la v[A]ez sellarás, con nos[F#m]otros Señor,
+una ali[D]anza que vi[E]ene de Di[A]os. [A7].
+			ESTRIBILLO
+
+[E].
+
+Nos am[A]aste Señor, como n[F#m]adie jamás,
+nos da fu[D]erza tu f[E]idelid[A]ad, [E].
+en la m[A]esa de Dios, hoy nos tr[F#m]ansformarás,
+en ferm[D]ento de c[E]omunid[A]ad. [A7].
+			ESTRIBILLO
+`
+  };

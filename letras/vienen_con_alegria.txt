@@ -1,0 +1,19 @@
+letra={
+  titulo:"Vienen con alegría",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+Vi[C]enen con alegría Señor, cantando vienen con alegría Señ[C7]or
+l[F]os que camina por la v[C]ida Señor, sembr[D]ando to paz y am[G]or,
+vi[C]enen con alegría Señor, cantando vienen con alegría Señ[C7]or
+l[F]os que camina por la v[C]ida Señor, sembr[F]ando tu p[G]az y am[C]or.
+
+Vi[C]enen trayendo la esper[G]anza, a un mundo cargado de ansied[C]ad,
+a un mundo que busca y que no alc[G]anza, cam[F]inos de am[G]or y de amist[C]ad.
+	ESTRIBILLO
+
+Vi[C]enen trayendo entre sus m[G]anos, esfuerzos de hermanos por la p[C]az,
+deseos de un mundo más hum[G]ano, que n[F]acen del bi[G]en y la verd[C]ad.
+	ESTRIBILLO
+`
+  };

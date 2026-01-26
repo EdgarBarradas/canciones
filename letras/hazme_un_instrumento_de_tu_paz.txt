@@ -1,0 +1,22 @@
+letra={
+  titulo:"Hazme un instrumento de tu paz",
+  tonalidad:"G",
+  letra:`
+H[G]azme un instrumento de tu paz, donde h[Bm]aya odio ll[E]eve yo tu am[Am]or,
+donde h[C]aya injuria tu perdón Señ[Am]or, donde h[C]aya duda f[D]e en t[G]i. (2)
+
+			ESTRIBILLO
+Ma[C]estro ayúdame [D]a nunca busc[G]ar,[Em] quer[C]er ser consol[D]ado como c[G]onsol[G7]ar,
+ser [C]entendido como entend[G]er, ser [A]amado c[A7]omo yo am[D]a-a-[D7]ar.
+
+H[G]azme un instrumento de tu paz, que ll[Bm]eve tu esper[E]anza por doqui[Am]er,
+donde h[C]aya oscuridad lleve la l[Am]uz, donde h[C]aya pena t[D]u gozo Señ[G]or. (2)
+			ESTRIBILLO
+
+H[G]azme un instrumento de tu paz, es p[Bm]erdonando qu[E]e nos das perd[Am]ón,
+es d[C]ando a todos que Tú nos d[Am]as, y muri[C]endo es que volv[D]emos a nac[G]er. (2)
+			ESTRIBILLO
+
+H[G]azme un instrumento de tu paz.
+`
+  };

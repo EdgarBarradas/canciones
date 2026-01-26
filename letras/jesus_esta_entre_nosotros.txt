@@ -1,0 +1,24 @@
+letra={
+  titulo:"Jesús está entre nosotros",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+J[C]esús est[G]á, [F]entre nos[G]otros, [C]Él vive h[Em]oy, [F]y su espíritu a todos d[G]a.
+J[C]esús raz[G]ón, d[F]e nuestra v[G]ida, [C]es El Señ[Em]or, n[F]os reúne en pueblo de am[G]or.
+
+C[Am]ambia nuestras v[F]idas con tu fu[C]erz[G]a,
+gu[Am]árdanos por si[F]empre en tu pres[C]enci[G]a,
+Tú [Am]eres verd[Em]ad, T[F]ú eres la p[C]a-[G]az.
+	ESTRIBILLO
+
+R[Am]ompe las cad[F]enas que nos [C]at[G]an,
+ll[Am]énanos de gr[F]acia en tu pal[C]abr[G]a,
+gr[Am]acias, Señ[Em]or, gr[F]acias, Salvad[C]o-[G]or.
+	ESTRIBILLO
+
+Nu[Am]estras exist[F]encias hoy te al[C]ab[G]an,
+nu[Am]estros coraz[F]ones te dan gr[C]aci[G]as,
+Tú [Am]eres am[Em]or, [F]eres canci[C]ó-[G]ón.
+	ESTRIBILLO
+`
+  };
