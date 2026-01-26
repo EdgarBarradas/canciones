@@ -1874,7 +1874,62 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/jesus_es_señor.txt",
       },
+      {
+        "titulo":"Amar como Tú amas",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/amar_como_tu_amas",
+        "tono_audio":"",
+        "txt":"letras/amar_como_tu_amas.txt",
+      },
+      {
+        "titulo":"En tu casa otra vez",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada"],
+        "audio":"audios/en_tu_casa_otra_vez",
+        "tono_audio":"",
+        "txt":"letras/en_tu_casa_otra_vez.txt",
+      },
+      {
+        "titulo":"Háblame",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/hablame",
+        "tono_audio":"",
+        "txt":"letras/hablame.txt",
+      },
+      {
+        "titulo":"Hazme un instrumento de tu paz",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/hazme_un_instrumento_de_tu_paz",
+        "tono_audio":"",
+        "txt":"letras/hazme_un_instrumento_de_tu_paz.txt",
+      },
+      {
+        "titulo":"Jesús está entre nosotros",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada"],
+        "audio":"audios/jesus_esta_entre_nosotros",
+        "tono_audio":"",
+        "txt":"letras/jesus_esta_entre_nosotros.txt",
+      },
+      {
+        "titulo":"Vienen con alegría",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada"],
+        "audio":"audios/vienen_con_alegria",
+        "tono_audio":"",
+        "txt":"letras/vienen_con_alegria.txt",
+      },
 ]
+
 
 
 
