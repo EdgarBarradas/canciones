@@ -1,0 +1,26 @@
+letra={
+  titulo:"Bienaventurados",
+  tonalidad:"Dm",
+  letra:`
+Bi[Dm]enaventur[Gm]ados, p[C]obres de la Ti[F]erra,
+p[Dm]orque de ust[Gm]edes es el r[E]eino de Di[A]os.
+Bi[Dm]enaventur[Gm]ados, l[C]os que pasan h[F]ambre,
+l[Dm]os que lloran s[Gm]angre por am[A]or a Di[Dm]os. [A].
+
+Bi[Dm]enaventur[Gm]ados, l[C]os desesper[F]ados,
+s[Dm]erán consol[Gm]ados, por Jes[E]ús el R[A]ey.
+Si [Dm]eres buen am[Gm]igo, si [C]eres buen vec[F]ino,
+[Dm]estará cont[Gm]igo nuestro her[A]mano Jes[Dm]ús. [D7].
+
+ESTRIBILLO
+Al[Gm]égrens[C]e y ll[F]énense de g[Dm]ozo, p[Gm]orque les esp[A]eran marav[Cm]illas en el ci[D7]elo,
+Al[Gm]égrens[C]e y ll[F]énense de g[Dm]ozo, bi[Gm]enaventur[A]ados ser[Dm]án.
+
+[A].
+Bi[Dm]enaventur[Gm]ados, l[C]os sacrific[F]ados,
+l[Dm]os desampar[Gm]ados serán gr[E]andes ante Di[A]os.
+Ti[Dm]ende más tu m[Gm]ano, h[C]az a todos herm[F]anos,
+c[Dm]on tu cristian[Gm]ismo y am[A]or a Di[Dm]os. [D7].
+ESTRIBILLO
+`
+  };
