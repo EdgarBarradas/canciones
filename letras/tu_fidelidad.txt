@@ -1,0 +1,20 @@
+letra={
+  titulo:"Tu fidelidad",
+  tonalidad:"C",
+  letra:`
+T[C]u fidelidad, es gr[F]ande,
+t[G]u fidelidad, inc[C]omparabl[E]e,
+n[Am]adie como Tú, bend[Dm]ito Dios,
+gr[F]ande es t[G]u fidelid[C]ad. [G].
+
+T[C]u fidelidad, es gr[F]ande,
+t[G]u fidelidad, inc[C]omparabl[E]e,
+n[Am]adie como Tú, bend[Dm]ito Dios,
+gr[F]ande es t[G]u fidelid[C]ad. [A].
+
+T[D]u fidelidad, es gr[G]ande,
+t[A]u fidelidad, inc[D]omparabl[F#]e,
+n[Bm]adie como Tú, bend[Em]ito Dios,
+gr[G]ande es t[A]u fidelid[D]ad.
+`
+  };

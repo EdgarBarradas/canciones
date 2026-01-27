@@ -1,0 +1,18 @@
+letra={
+  titulo:"Gracias por mi vivir",
+  tonalidad:"C",
+  letra:`
+[C].
+		ESTRIBILLO
+H[G]oy, Señ[C]or, t[G]e dar[Am]é, las gr[F]acias por mi viv[G]ir, 
+por la ti[C]erra y m[C7]is am[F]igos, porque si[C]empre fu[D]i fel[G]iz.
+p[G7]or el tr[C]onco en qu[G]e nac[Am]í, y la s[F]avia que encontr[G]é, 
+y los br[C]otes qu[C7]e naci[F]eron, portad[C]ores d[G]e tu f[C]e.
+
+Por las veces que ca[F]í, y las que me levant[C]é, 
+porque si[Am]empre en ellas vi, el am[G]or de tu poder.
+por lo bu[F]eno que viví, y en lo que sentí dol[C]or. 
+siempre en todo yo te v[Am]i, te doy gr[F]acias, señ[G]or.
+		ESTRIBILLO
+`
+  };

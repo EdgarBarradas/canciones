@@ -1,0 +1,23 @@
+letra={
+  titulo:"Gloria al Cordero de Dios",
+  tonalidad:"Dm",
+  letra:`
+Gl[Dm]oria, gl[A#]or[A]ia, gl[Dm]oria, gl[A#]or[A]ia. [Dm].
+
+[D7]A Jes[Gm]ús, EL Señ[C]or, al Cord[F]ero de Di[Dm]os,
+al n[Gm]ombre sobre t[A]odo n[Cm]ombr[D]e,
+a Jes[Gm]ús, EL Señ[C]or, al Cord[F]ero de Di[Dm]os,
+al n[Gm]ombre sobre t[A]odo nombr[Dm]e.
+
+Gl[Dm]oria, gl[A#]or[A]ia, gl[Dm]oria, gl[A#]or[A]ia. [Dm].
+
+[D7]A Jes[Gm]ús, EL Señ[C]or, al Cord[F]ero de Di[Dm]os,
+al n[Gm]ombre sobre t[A]odo n[Cm]ombr[D]e,
+a Jes[Gm]ús, EL Señ[C]or, al Cord[F]ero de Di[Dm]os,
+al n[Gm]ombre sobre t[A]odo nombr[Dm]e.
+
+Al n[Gm]ombre sobre t[A]odo nombr[Dm]e.
+n[Gm]ombre sobre t[A]odo ... [Dm].
+
+`
+  };

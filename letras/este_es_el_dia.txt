@@ -1,0 +1,24 @@
+letra={
+  titulo:"Este es el día",
+  tonalidad:"C",
+  letra:`
+[C]Este es el día en que actu[F]ó El Señ[C]or,
+s[F]ea nuestra alegr[C]ía y nuestro g[D]oz[G]o,
+dad gr[C]acias al Señ[F]or porque es bu[C]eno, [F].
+porque es et[C]erna s[G]u miseric[C]ordia,
+[F]alel[C]uya, [G]aleluy[C]a.
+
+Que lo diga la c[F]asa de Isra[C]el,
+es eterna s[F]u miseric[G]ordia,
+que lo d[C]iga la c[C7]asa de Aar[F]ón, [Fm].
+es et[C]erna s[G]u miseric[C]ordia,
+que lo d[Am]igan los fi[Em]eles del Señ[Am]or,
+es et[F]erna s[G]u miseric[C]ordia.
+
+[C]Este es el día en que actu[F]ó El Señ[C]or,
+s[F]ea nuestra alegr[C]ía y nuestro g[D]oz[G]o,
+dad gr[C]acias al Señ[F]or porque es bu[C]eno, [F].
+porque es et[C]erna s[G]u miseric[C]ordia,
+[F]alel[C]uya, [G]aleluy[C]a, [F]alel[C]uya, [G]aleluy[C]a.
+`
+  };

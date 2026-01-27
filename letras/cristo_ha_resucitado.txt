@@ -1,0 +1,29 @@
+letra={
+  titulo:"Cristo ha resucitado",
+  tonalidad:"C",
+  letra:`
+Cr[C]isto ha resucit[G]ado, Cr[F]isto ha resucit[C]ado, 
+r[F]esucit[G]emos con [C]É-[Am]Él,   Cr[F]isto nuestra v[G]ida.
+[C]Aleluy[G]a, [F]aleluy[C]a, Cr[F]isto ha r[G]esucit[C]ad[Am]o, [F]alel[A]uy[C]a. [G].
+
+Mu[C]erte y vida lucharon, Cr[F]isto ha resucit[C]ado, 
+y la mu[F]erte fu[G]e venc[C]id[Am]a, Cr[F]isto nuestra v[G]ida. 
+[C]Aleluy[G]a, [F]aleluy[C]a, Cr[F]isto ha r[G]esucit[C]ad[Am]o, [F]alel[A]uy[C]a. [G].
+
+[C]Es el grano que muere, Cr[F]isto ha resucit[C]ado, 
+para el tri[F]unfo d[G]e la esp[C]ig[Am]a, Cr[F]isto nuestra v[G]ida. 
+[C]Aleluy[G]a, [F]aleluy[C]a, Cr[F]isto ha r[G]esucit[C]ad[Am]o, [F]alel[A]uy[C]a. [G].
+
+Cr[C]isto es nuestra esperanza, Cr[F]isto ha resucit[C]ado, 
+nuestra p[F]az, nu[G]estra v[C]id[Am]a, Cr[F]isto nuestra v[G]ida. 
+[C]Aleluy[G]a, [F]aleluy[C]a, Cr[F]isto ha r[G]esucit[C]ad[Am]o, [F]alel[A]uy[C]a. [G].
+
+Viv[C]amos vida nueva, Cr[F]isto ha resucit[C]ado, 
+el baut[F]ismo es nu[G]estra P[C]asc[Am]ua, Cr[F]isto nuestra v[G]ida. 
+[C]Aleluy[G]a, [F]aleluy[C]a, Cr[F]isto ha r[G]esucit[C]ad[Am]o, [F]alel[A]uy[C]a. [G].
+
+Cr[C]isto ha resucitado, Cr[F]isto ha resucit[C]ado, 
+r[F]esucit[G]emos con [C]É-[Am]Él,   Cr[F]isto nuestra v[G]ida.
+[C]Aleluy[G]a, [F]aleluy[C]a, Cr[F]isto ha r[G]esucit[C]ad[Am]o, [F]alel[A]uy[C]a.
+`
+  };

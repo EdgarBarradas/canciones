@@ -1,0 +1,21 @@
+letra={
+  titulo:"Todo es de mi Cristo",
+  tonalidad:"Am",
+  letra:`
+[Am] [F] [Am] [G] [Am]
+Todo es de mi Cr[F]ist[Am]o, por [G]Él y para [Am]Él, [E]. (2)
+
+	ESTRIBILLO
+A Él sea la gl[F]or[G]ia, a Él sea la gl[C]o-[E]o-r[Am]ia,
+a Él sea la gl[Dm]or[E]ia, por siempre am[Am]én.
+
+Todo es de mi Cr[F]ist[Am]o, por [G]Él y para [Am]Él, [E]. (2)
+	ESTRIBILLO (2)
+
+Oh, profundas riqu[F]ez[Am]as, de la s[G]abiduría de Di[Am]os,
+insondables sus ju[F]ici[Am]os, y s[G]us caminos s[Am]on. [E].
+	ESTRIBILLO (4)
+
+A Él sea la gl[Dm]or[E]ia, por siempre am[Am]én.
+`
+  };

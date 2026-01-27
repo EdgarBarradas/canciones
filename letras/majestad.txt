@@ -1,0 +1,19 @@
+letra={
+  titulo:"Majestad",
+  tonalidad:"D",
+  letra:`
+M[D]ajestad, adora su m[G]ajestad,
+a Jes[D]ús, sea h[Bm]onra, gloria y p[Em]oder. [A].
+M[D]ajestad, Reino y aut[G]oridad,
+fluyen del tr[D]ono, hacia su pu[Em]eblo, [A]a Él cant[D]ad.
+
+Aclam[Em]ad, y proclam[A]ad, el nombre de Cr[D]isto, [Bm].
+magnific[Em]ad, glorific[A]ad, a Cristo el R[D]e-[A]ey,
+m[D]ajestad, ad[D7]ora su m[G]ajestad, [Gm].
+Cristo muri[D]ó, resucit[Em]ó, y de r[A]eyes es R[D]ey. (2)
+
+[G].
+
+Cristo muri[D]ó, resucit[Em]ó, y de r[A]eyes es R[G]ey. [D].
+`
+  };
