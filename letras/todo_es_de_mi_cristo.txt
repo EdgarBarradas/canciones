@@ -2,7 +2,8 @@ letra={
   titulo:"Todo es de mi Cristo",
   tonalidad:"Am",
   letra:`
-[Am] [F] [Am] [G] [Am]
+[Am] [F] [Am] [G] [Am].
+
 Todo es de mi Cr[F]ist[Am]o, por [G]Él y para [Am]Él, [E]. (2)
 
 	ESTRIBILLO
@@ -19,3 +20,4 @@ insondables sus ju[F]ici[Am]os, y s[G]us caminos s[Am]on. [E].
 A Él sea la gl[Dm]or[E]ia, por siempre am[Am]én.
 `
   };
+
