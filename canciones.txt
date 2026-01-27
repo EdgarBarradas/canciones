@@ -2027,7 +2027,17 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/vive_jesus.txt",
       },
+      {
+        "titulo":"Bienaventurados",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar","Todos los Santos"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/bienaventurados",
+        "tono_audio":"",
+        "txt":"letras/bienaventurados.txt",
+      },
 ]
+
 
 
 
