@@ -1,0 +1,17 @@
+letra={
+  titulo:"Alabado sea el Santísimo",
+  tonalidad:"C",
+  letra:`
+Alab[C]ado sea el Sant[G]ísimo Sacram[C]ento d[F]el Alt[C]ar,
+y la V[F]irgen conceb[C]ida sin pec[G]ado origin[C]al. (2)
+
+El manj[C]ar más regal[G]ado de este su[C]elo t[F]erren[C]al,
+es Jes[F]ús sacrament[C]ado, Dios et[G]erno e inmort[C]al. (2)
+
+Celebr[C]emos con fe v[G]iva este p[C]an ang[F]elic[C]al,
+y la V[F]irgen conceb[C]ida sin pec[G]ado origin[C]al. (2)
+
+Es el Di[C]os que da la v[G]ida y nac[C]ió en [F]un port[C]al
+de la V[F]irgen conceb[C]ida sin pec[G]ado origin[C]al. (2)
+`
+  };

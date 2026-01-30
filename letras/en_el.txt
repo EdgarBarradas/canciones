@@ -1,0 +1,8 @@
+letra={
+  titulo:"En Él",
+  tonalidad:"F",
+  letra:`
+En [F]Él, viv[Dm]imos, en [Gm]Él, nos mov[C]emos,
+en [F]Él, [A#]en [F]Él, exist[Gm]í-[C]í-m[F]os. (2)
+`
+  };

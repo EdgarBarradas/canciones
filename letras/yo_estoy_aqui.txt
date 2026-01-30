@@ -1,0 +1,14 @@
+letra={
+  titulo:"Yo estoy aquí",
+  tonalidad:"Dm",
+  letra:`
+[Dm].
+
+Y[D7]o estoy aqu[Gm]í, para que [C]obres en m[F]í,
+s[Dm]olo quiero imit[Gm]arte, s[C]olo quiero am[F]arte,
+t[Dm]ómame Señ[Dm]or, que a t[A]u servicio est[Dm]oy. (2)
+
+T[D7]ú, solo T[Gm]ú, puedes hac[C]er esto en m[F]í,
+c[Dm]ambia toda mi v[Gm]ida, transf[A]órmame Señ[Dm]or. (2)
+`
+  };
