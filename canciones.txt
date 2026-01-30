@@ -2099,7 +2099,53 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/tu_fidelidad.txt",
       },
+      {
+        "titulo":"Alabado sea el Santísimo",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Adoración"],
+        "audio":"audios/alabado_sea_el_santisimo",
+        "tono_audio":"",
+        "txt":"letras/alabado_sea_el_santisimo.txt",
+      },
+      {
+        "titulo":"Bendito sea Dios",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Adoración"],
+        "audio":"audios/bendito_bendito",
+        "tono_audio":"",
+        "txt":"letras/bendito_bendito.txt",
+      },
+      {
+        "titulo":"Cantemos al Amor de los amores",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Adoración"],
+        "audio":"audios/cantemos_al_amor_de_los_amores",
+        "tono_audio":"",
+        "txt":"letras/cantemos_al_amor_de_los_amores.txt",
+      },
+      {
+        "titulo":"En el vivimos",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Acción de gracias","Adoración"],
+        "audio":"audios/en_el",
+        "tono_audio":"",
+        "txt":"letras/en_el.txt",
+      },
+      {
+        "titulo":"Yo estoy aquí",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Acción de gracias","Adoración"],
+        "audio":"audios/yo_estoy_aqui",
+        "tono_audio":"",
+        "txt":"letras/yo_estoy_aqui.txt",
+      },
 ]
+
 
 
 
