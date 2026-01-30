@@ -1227,7 +1227,7 @@ canciones = [
         "txt":"letras/reina_del_cielo_a.txt",
       },
       {
-        "titulo":"Reina del cielo",
+        "titulo":"Reina del cielo m",
         "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
@@ -2145,6 +2145,7 @@ canciones = [
         "txt":"letras/yo_estoy_aqui.txt",
       },
 ]
+
 
 
 
