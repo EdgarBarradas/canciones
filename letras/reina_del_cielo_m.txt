@@ -4,7 +4,7 @@ letra={
   letra:`
 [Am].
 Reina del Cielo, al[Em]égrate:[F]    aleluya, [C]aleluy[G]a-aaa [Am].
-porque al que tú port[Em]abas:[F]   aleluya,C aleluy[G]a-aaa [Dm].
+porque al que tú port[Em]abas:[F]   aleluya, [C]aleluy[G]a-aaa [Dm].
 resucitó como d[Am]ijo:[F] aleluya, [C]aleluy[G]a-aaa [Dm].
 Ruega a Dios por nos[Am]otros:[F]   aleluya, [C]aleluy[G]a. [G7].
 
@@ -21,3 +21,4 @@ Por Jesucristo,[Em]    nuestro Señooo-[G]or.
 	ESTRIBILLO
 `
   };
+
