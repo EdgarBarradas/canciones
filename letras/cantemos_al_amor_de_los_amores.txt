@@ -1,0 +1,25 @@
+letra={
+  titulo:"Cantemos al amor de los amores",
+  tonalidad:"C",
+  letra:`
+Cant[C]emos al am[G]or de los am[C]ores, cant[F]emos al Señ[G]or,
+Di[A]os está aqu[Dm]í, ven[C]id adorad[G]ores ador[Em]emos, al Cr[B]isto redent[Em]or.
+
+		ESTRIBILLO
+Gl[C]oria a Cr[A]isto Jes[Dm]ús,[G]   cielos y ti[C]erra,[Am] bendec[F]id al Señ[G]or;
+honor y gloria a T[E]i, Rey de la gl[F]oria, [Dm].
+amor por si[C]empre a Ti, Di[F]os d[C]el [G]am[C]or.
+
+Un[C]amos nuestra v[G]oz a los cant[C]ares, del c[F]oro celesti[G]al,
+Di[A]os está aqu[Dm]í, al Di[C]os de los alt[G]ares, alab[Em]emos con g[B]ozo angelic[Em]al.
+		ESTRIBILLO
+
+Los qu[C]e buscáis sol[G]az en vuestras p[C]enas, y al[F]ivio en el dol[G]or,
+Di[A]os está aqu[Dm]í, y vi[C]erte a manos ll[G]enas, los tes[Em]oros de d[B]ivinal dulz[Em]or.
+		ESTRIBILLO
+
+Oh r[C]ara carid[G]ad y real fin[C]eza, oh d[F]ulce memori[G]al,
+Di[A]os está aqu[Dm]í, con t[C]oda su riqu[G]eza con su cu[Em]erpo y s[B]angre divin[Em]a.
+		ESTRIBILLO
+`
+  };
