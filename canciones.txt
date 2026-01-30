@@ -2137,7 +2137,7 @@ canciones = [
       },
       {
         "titulo":"Yo estoy aquí",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Cuaresma","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Acción de gracias","Adoración"],
         "audio":"audios/yo_estoy_aqui",
@@ -2145,6 +2145,7 @@ canciones = [
         "txt":"letras/yo_estoy_aqui.txt",
       },
 ]
+
 
 
 
