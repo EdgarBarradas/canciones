@@ -8,7 +8,7 @@ Di[A]os está aqu[Dm]í, ven[C]id adorad[G]ores ador[Em]emos, al Cr[B]isto reden
 		ESTRIBILLO
 Gl[C]oria a Cr[A]isto Jes[Dm]ús,[G]   cielos y ti[C]erra,[Am] bendec[F]id al Señ[G]or;
 honor y gloria a T[E]i, Rey de la gl[F]oria, [Dm].
-amor por si[C]empre a Ti, Di[F]os d[C]el [G]am[C]or.
+amor por si[C]empre a Ti, Di[F]os d[C]el [G]am[C]or. (2)
 
 Un[C]amos nuestra v[G]oz a los cant[C]ares, del c[F]oro celesti[G]al,
 Di[A]os está aqu[Dm]í, al Di[C]os de los alt[G]ares, alab[Em]emos con g[B]ozo angelic[Em]al.
@@ -23,3 +23,4 @@ Di[A]os está aqu[Dm]í, con t[C]oda su riqu[G]eza con su cu[Em]erpo y s[B]angre
 		ESTRIBILLO
 `
   };
+
