@@ -1,0 +1,23 @@
+letra={
+  titulo:"El auxilio me viene del Señor",
+  tonalidad:"Em",
+  letra:`
+Lev[Em]anto mis [B]ojos a los m[Em]ontes: ¿de d[C]ónde me vendr[D]á el aux[G]ilio?
+el aux[Am]ilio me viene del Señ[Em]or, que hizo el ci[C]elo y la ti[B]erra.
+	ESTRIBILLO
+el aux[Em]ilio me vi[B]ene del Señ[C]or, que hizo el ci[D]elo y la ti[G]erra,
+el aux[Am]ilio me viene del Señ[Em]or, que h[C]izo el ci[B]elo y la ti[Em]erra.
+
+No permitir[Em]á que resb[B]ale tu pi[Em]e, t[C]u guardi[D]án no du[G]erme,
+no due[Am]rme, ni rep[Em]osa, el guardi[C]án de Isra[B]el.
+	ESTRIBILLO
+
+El Señ[Em]or te gu[B]arda a su s[Em]ombra, el Señ[C]or est[D]á a tu der[G]echa,
+de d[Am]ía el sol no te hará d[Em]año, ni la l[C]una de n[B]oche.
+	ESTRIBILLO
+
+El Señ[Em]or te gu[B]arda de todo m[Em]al, el Señ[C]or gu[D]arda tu [G]alma,
+el gu[Am]arda tus entradas y sal[Em]idas, ah[C]ora y por si[B]empre.
+	ESTRIBILLO
+`
+  };

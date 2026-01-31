@@ -1,0 +1,20 @@
+letra={
+  titulo:"Resucitó, aleluya",
+  tonalidad:"A",
+  letra:`
+	ESTRIBILLO
+Resucit[A]ó, [D]al[E]eluy[A]a, aleluy[F#m]a, [D]el Señor res[E]ucit[A]ó.
+
+Alegría y g[C#7]ozo mis herm[F#m]anos, Jesucr[A]isto el Señ[D]or resucit[E]ó,
+alegr[A]ía y g[C#7]ozo mis herm[F#m]anos, que la mu[D]erte venc[E]ida ya muri[A]ó.
+	ESTRIBILLO
+
+Alegría y g[C#7]ozo mis herm[F#m]anos, el sep[A]ulcro vac[D]ío a qued[E]ó,
+alegr[A]ía y g[C#7]ozo mis herm[F#m]anos, el Señ[D]or de la mu[E]erte es venced[A]or.
+	ESTRIBILLO
+
+Alegría y g[C#7]ozo mis herm[F#m]anos, los que p[A]obre com[D]o Cristo viv[E]ís,
+alegr[A]ía y g[C#7]ozo mis herm[F#m]anos, porque vu[D]estro será el R[E]eino un día al f[A]in.
+	ESTRIBILLO
+`
+  };

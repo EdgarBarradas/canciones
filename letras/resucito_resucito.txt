@@ -1,0 +1,23 @@
+letra={
+  titulo:"Resucitó, resucitó",
+  tonalidad:"Am",
+  letra:`
+	ESTRIBILLO
+Resucit[Am]ó, resucit[G]ó, resucit[F]ó, aleluy[E]a,
+aleluy[Am]a, aleluya, aleluy[F]a, resucitó.
+
+La mu[Am]erte, dónde está la mu[G]erte, dónde está mi mu[F]erte, dónde tu vict[E]oria.
+	ESTRIBILLO
+
+Gr[Am]acias, sean dadas al P[G]adre, que nos pasó a su r[F]eino, donde vive el am[E]or.
+	ESTRIBILLO
+
+Alegr[Am]ía, alegría herm[G]anos, que si hoy nos quer[F]emos, es que Él resucit[E]ó.
+	ESTRIBILLO
+
+Si con Él mor[Am]imos, con Él viv[G]imos, con Él cant[F]amos, aleluy[E]a,
+aleluy[Am]a, aleluy[G]a, aleluy[F]a, resucit[E]ó,
+resucit[Am]ó, resucit[G]ó, resucit[F]ó, aleluy[E]a.
+	ESTRIBILLO
+`
+  };

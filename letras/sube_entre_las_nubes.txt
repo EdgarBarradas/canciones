@@ -1,0 +1,23 @@
+letra={
+  titulo:"Sube entre las nubes",
+  tonalidad:"C",
+  letra:`
+Él s[C]ube, entre las n[G]ubes, y me d[F]a la esper[Dm]anza que pr[F]onto volver[G]á,
+Él s[C]ube, entre las n[G]ubes, pero su Esp[F]íritu de am[Dm]or, p[F]ermanecer[G]á.
+
+Con los pi[Am]es en la ti[Em]erra, mir[F]ando el ci[C]elo,
+me qu[Am]edo y[Em]o, c[F]asi sin ali[G]ento.
+
+Él s[C]ube, entre las n[G]ubes, y me d[F]a la esper[Dm]anza que pr[F]onto volver[G]á,
+Él s[C]ube, entre las n[G]ubes, pero su Esp[F]íritu de am[Dm]or, si[F]empre estar[G]á.
+
+Te agrad[Am]ezco Señ[Em]or, t[F]uya es la gl[C]oria,
+Señ[Am]or de la hist[Em]oria, y d[F]e la eternid[G]ad.
+
+Él s[C]ube, entre las n[G]ubes, y me d[F]a la esper[Dm]anza que pr[F]onto volver[G]á,
+Él s[C]ube, entre las n[G]ubes, pero su Esp[F]íritu de am[Dm]or, nos [F]acompañar[G]á.
+
+Él s[C]ube [G][F][Dm][F][G].
+Él s[C]ube.
+`
+  };

@@ -1,0 +1,25 @@
+letra={
+  titulo:"Este es mi hijo",
+  tonalidad:"Dm",
+  letra:`
+		ESTRIBILLO
+[Dm]Este [C]es mi h[Dm]ijo, muy am[C]ad[Dm]o,
+en quien t[A#]engo pu[C]estas mis complac[F]encias, esc[A]úchenl[Dm]o.
+
+Cont[Dm]igo, queremos subir a la mont[C]aña, Señ[F]or, ens[A]éñanos a or[Dm]ar,
+Jes[Dm]ús, queremos ver tu rostro lumin[C]oso, cual s[F]ol, es t[A]u divinid[Dm]ad.
+		ESTRIBILLO
+
+El P[Dm]adre, nos dice con su voz que se compl[C]ace, a T[F]i, te v[A]amos a escuch[Dm]ar,
+Jes[Dm]ús, te transfiguraste ante nos[C]otros, tu l[F]uz, la v[A]ida nos dar[Dm]á.
+		ESTRIBILLO
+
+Cont[Dm]igo, queremos bajar de la mont[C]aña, Señ[F]or, a hac[A]er tu volunt[Dm]ad,
+lleg[Dm]ar, a donde tienen sed y h[C]ambre, de T[F]i, y a T[A]i se acerquen m[Dm]ás.
+		ESTRIBILLO
+
+Jes[Dm]ús, te vimos con gloria, pero pr[C]onto, a cr[F]uz, dar[A]ás la salvaci[Dm]ón,
+la v[Dm]oz, del Padre resuena en nuestra v[C]ida, su v[F]oz, en nu[A]estro coraz[Dm]ón.
+		ESTRIBILLO
+`
+  };

@@ -1,0 +1,23 @@
+letra={
+  titulo:"No es el final del camino",
+  tonalidad:"C",
+  letra:`
+T[C]ú nos dijiste que la muerte, no es el fin[C7]al del cam[F]ino,
+que aunque morimos no s[C]omos, c[G]arne de un ciego dest[C]ino.
+Tú nos hiciste, tuyos somos, nuestro dest[C7]ino es viv[F]ir,
+siendo fel[Fm]ices cont[C]igo,[Am]. s[Dm]in padec[G]er ni mor[C]ir, [C7].
+si[F]endo fel[Fm]ices cont[C]igo,[Am]. s[Dm]in padec[G]er ni mor[C]ir.
+
+Cu[C]ando la pena nos alcanza, por un herm[C7]ano perd[F]ido,
+cuando el adiós dolor[C]ido, b[G]usca en la fe su esper[C]anza.
+En tu Palabra confiamos, con la cert[C7]eza que T[F]ú,
+ya le has devu[Fm]elto la v[C]ida,[Am]. y[Dm]a le has llev[G]ado a la l[C]uz, [C7].
+y[F]a le has devu[Fm]elto la v[C]ida,[Am]. y[Dm]a le has llev[G]ado a la l[C]uz.
+
+Cu[C]ando, Señor, resucitaste, todos venc[C7]imos cont[F]igo,
+nos regalaste la v[C]ida, c[G]omo en Betania al am[C]igo.
+Si caminamos a tu lado, no va a falt[C7]arnos tu am[F]or,
+porque muri[Fm]endo viv[C]imos,[Am]. v[Dm]ida más cl[G]ara y mej[C]or, [C7].
+p[F]orque muri[Fm]endo viv[C]imos,[Am]. v[Dm]ida más cl[G]ara y mej[C]or.
+`
+  };

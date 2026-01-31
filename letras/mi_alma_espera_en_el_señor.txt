@@ -1,0 +1,25 @@
+letra={
+  titulo:"Mi alma espera en el Señor",
+  tonalidad:"Em",
+  letra:`
+	ESTRIBILLO
+Mi [Em]alma esp[B]era en el Señ[Em]or,[E7]   mi a[Am]lma esp[D]era en su pal[G]abra,
+mi [Am]alma aguarda a Señ[Em]or, porque en [B]Él está la salvaci[Em]ón.
+
+Desde lo hondo a T[B]i grito Señ[Em]or, Señ[G]or, esc[D]ucha mi v[G]oz,
+est[Am]én tus oídos ate[Em]ntos, a la v[C]oz de mi s[B]uplica.
+	ESTRIBILLO
+
+Si llevas cuenta de los del[B]itos Señ[Em]or, qui[G]en podr[D]á resist[G]ir,
+pero de T[Am]i procede el perd[Em]ón, y as[C]í infundes resp[B]eto.
+	ESTRIBILLO
+
+Mi alma agu[B]arda al Señ[Em]or, m[G]ás que el centin[D]ela a la aur[G]ora,
+agu[Am]arda Israel al Señ[Em]or, c[C]omo el centinela a la aur[B]ora.
+	ESTRIBILLO
+
+Porque del Señor viene l[B]a miseric[Em]ordia, [G]y la redenci[D]ón copi[G]osa,
+y [Am]Él redimirá a Isra[Em]el, de t[C]odos sus del[B]itos.
+	ESTRIBILLO
+`
+  };

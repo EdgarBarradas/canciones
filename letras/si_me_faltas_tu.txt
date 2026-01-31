@@ -1,0 +1,23 @@
+letra={
+  titulo:"Si me faltas Tú, Señor",
+  tonalidad:"C",
+  letra:`
+S[C]i me f[F]altas Tú, Señor, yo no soy n[C]ada,
+si me f[F]altas Tú, Señor, yo no soy n[G]ad[C]a,
+y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú,
+y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú.
+
+Aunque pudi[F]era yo hablar, todas las l[C]enguas,
+aunque pudi[F]era conoc[G]er, todas las ci[C]encias,
+y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú,
+y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú.
+
+Aunque tuvi[F]era toda la fe, para mover mont[C]añas,
+aunque vi[F]era todos mis bienes, también mi cu[G]erpo a las ll[C]amas,
+y[E]o no soy n[Am]ada, si me faltas T[G]ú,
+y[E]o no soy n[Am]ada, si me faltas T[G]ú.
+
+Si me f[F]altas Tú, Señor, yo no soy n[C]ada,
+si me f[F]altas Tú, Señor, yo no soy n[G]ad[C]a.
+`
+  };

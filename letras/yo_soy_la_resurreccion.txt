@@ -1,0 +1,15 @@
+letra={
+  titulo:"Yo soy la resurrección",
+  tonalidad:"A",
+  letra:`
+Y[A]o soy la resurrecci[G]ón, y la v[A]ida. (2)
+
+El que cree, en m[D]í, aunque haya mu[A]erto,[E] vivir[A]á. (2)
+
+Y[A]o soy la resurrecci[G]ón, y la v[A]ida. (2)
+
+El que cree, en m[D]í, no morir[A]á,[E] para si[A]empre. (2)
+
+Y[A]o soy la resurrecci[G]ón, y la v[A]ida. (2)
+`
+  };

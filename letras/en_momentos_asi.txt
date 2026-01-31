@@ -1,0 +1,13 @@
+letra={
+  titulo:"En momentos así",
+  tonalidad:"C",
+  letra:`
+En mom[C]entos as[Am]í, lev[F]anto mi v[G]oz, lev[F]anto mi c[G]anto a Cr[C]ist[G]o,
+en mom[C]entos as[Am]í, lev[F]anto mi v[G]oz, lev[F]anto mis m[G]anos a É[C]l, [C7].
+cuanto t[F]e [G]amo Di[C]os,[Am] cuanto t[F]e [G]amo Di[C]os, [Am].
+cuanto t[F]e [G]am[Am]o, Dios te [F]a-[G]am[C]o. (2)
+
+Cuanto t[F]e [G]amo Di[C]os,[Am] cuanto t[F]e [G]amo Di[C]os, [Am].
+cuanto t[F]e [G]am[Am]o, Dios te [F]a-[G]am[C]o.
+`
+  };

@@ -1,0 +1,23 @@
+letra={
+  titulo:"Ya no eres pan y vino",
+  tonalidad:"A",
+  letra:`
+[A][D][A][A].
+
+Y[A]a no eres p[D]an y v[A]ino, ahora que eres cu[D]erpo y s[A]angre, vives en m[E]í,
+de rod[D]illas yo caigo al contempl[A]ar tu bondad, ¿c[F#m]ómo no te v[D]oy a ador[E]ar?
+Mientr[A]as te pierdes [D]en mis l[A]abios, Tú gracia va inund[D]ando t[A]odo, mi coraz[E]ón,
+por esa p[D]az que llena de alegr[A]ía mi ser, ¿c[F#m]ómo no te v[D]oy a ador[E]ar?
+
+		ESTRIBILLO
+Señor Jes[A]ús, mi salvad[E]or, amor et[D]erno, amor div[A]ino,
+y[D]a no falta n[A]ada, lo tengo t[E]odo, te tengo a T[F#m]i,
+y[D]a no falta n[A]ada, lo tengo t[E]odo, te tengo a T[A]i. [D][A][A]
+
+Du[A]eño y Rey del [D]univ[A]erso, ¿cómo puede s[D]er pos[A]ible, que busques mi am[E]or?,
+Tú tan gr[D]ande y yo pequeño y te f[A]ijas en mí ¿c[F#m]ómo no te v[D]oy a ador[E]ar?
+D[A]e rodillas y[D]o te p[A]ido, que el día cuando T[D]ú me lla[A]mes, sea como h[E]oy,
+para mir[D]arte a los ojos y pod[A]erte decir, que ¿c[F#m]ómo no te v[D]oy a ador[E]ar?
+		ESTRIBILLO (2)
+`
+  };

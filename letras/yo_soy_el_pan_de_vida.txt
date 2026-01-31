@@ -1,0 +1,25 @@
+letra={
+  titulo:"Yo le resucitaré",
+  tonalidad:"G",
+  letra:`
+[G][Bm][C][D].
+
+Y[G]o soy el pan de v[Bm]ida, el que vi[C]ene a Mí no tendrá h[D]ambre,
+el que cr[G]ee en M[Bm]í no tendrá s[C]ed, n[G]adie viene a M[Em]í si mi P[Am]adre no la atr[D]ae.
+
+ESTRIBILLO
+Yo le res[G]uc[D]itar[G]é,[G7] yo le res[C]uc[Am]itar[D]é, yo le res[G]uc[G7]itar[C]é, [Am]en el d[G]í-[D]a fin[G]al. (2)
+
+[G]El pan que yo dar[Bm]é, es mi cu[C]erpo vida para el m[D]undo,
+el que si[G]empre c[Bm]oma de mi c[C]arne, v[G]ivirá en m[Em]í, como y[Am]o vivo en mi P[D]adre.
+ESTRIBILLO
+
+Y[G]o soy esa beb[Bm]ida, que se pru[C]eba y no se siente s[D]ed,
+el que si[G]empre b[Bm]eba de mi s[C]angre, v[G]ivirá en M[Em]í, y tendr[Am]á la vida et[D]erna.
+ESTRIBILLO
+
+S[G]i, mi Señor yo cr[Bm]eo, que has ven[C]ido al mundo a redim[D]irnos,
+que Tú [G]eres el H[Bm]ijo de Di[C]os, [G]y que estás aqu[Em]í, alent[Am]ando nuestras v[D]idas.
+ESTRIBILLO
+`
+  };

@@ -1,0 +1,26 @@
+letra={
+  titulo:"Pan de vida eterna",
+  tonalidad:"C",
+  letra:`
+Tantas v[C]eces escuche, que había alguien a mi l[F]ado, [Am] [Dm].
+dispuesto a darme am[G]or, sin ning[F]una condici[G]ón.
+Y hoy te descubro all[C]í, oculto en ese p[F]an, [Am] [Dm].
+silente y amor[G]oso, esper[F]ándome en el alt[G]ar.
+
+		ESTRIBILLO
+Pan de vida et[C]erna, sangre del S[F]eñor, [Am] [Dm].
+alimento de v[G]ida, que esp[F]era día a d[G]ía, solo por m[C]í. [F].
+P[G]an de vida et[C]erna, sangre del S[F]eñor, [Am] [Dm].
+el recuerdo más herm[G]oso, de la entr[F]ega amor[G]osa, que hiciste por m[C]í.
+
+Paci[C]entemente esperas, que mi corazón te [F]abra, [Am] [Dm].
+pues en mi quieres mor[G]ar, y darme v[F]ida nueva en T[G]i.
+Aunque indigno s[C]oy, no mires mi mis[F]eria, [Am] [Dm].
+y en tu bondad inm[G]ensa, me ll[F]enas con tu am[G]or.
+		ESTRIBILLO
+
+[C]Y te siento aquí, presente y vivo en m[F]í, [Am] [Dm].
+sagrario de tu cu[G]erpo, mor[F]ada de tu am[G]or.
+		ESTRIBILLO
+`
+  };

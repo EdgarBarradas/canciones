@@ -1,0 +1,10 @@
+letra={
+  titulo:"Reina del cielo L",
+  tonalidad:"A",
+  letra:`
+R[A]eina del cielo al[D]égrat[A]e, alel[D]uy[A]a,
+porque El Señor, a quien merec[D]iste llev[E]ar, alel[D]uy[E]a,
+r[A]esucitó seg[D]ún su pa[F#m]labra, al[D]eluy[C#]a,
+ru[Bm]ega al Señ[E]or por nos[A]otros, al[E]eluy[A]a.
+`
+  };
