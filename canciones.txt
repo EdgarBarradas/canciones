@@ -2236,7 +2236,7 @@ canciones = [
       },
       {
         "titulo":"Resucitó, aleluya",
-        "tiempos":["No filtrar","Ordinario","Pascua"],
+        "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Entrada","Salida"],
         "audio":"audios/resucito_aleluya",
@@ -2245,7 +2245,7 @@ canciones = [
       },
       {
         "titulo":"Resucitó, resucitó",
-        "tiempos":["No filtrar","Ordinario","Pascua"],
+        "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/resucito_resucito",
@@ -2298,6 +2298,7 @@ canciones = [
         "txt":"letras/yo_soy_la_resurreccion.txt",
       },
 ]
+
 
 
 
