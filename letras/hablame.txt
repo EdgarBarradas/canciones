@@ -7,7 +7,7 @@ h[D]áblame Señ[Bm]or, qu[G]e tu siervo esc[A]ucha, h[D]áblam[Bm]e, ¿qu[G]é 
 
 	ESTRIBILLO
 Señ[D]or Tú has sido grande para m[G]í, en el desierto de mi v[Em]ida, háblam[A]e,
-y[D]o quiero est[Bm]ar,[G] dispuesto a t[A]odo, t[D]oma mi s[Bm]er, mi coraz[G]ón es para T[A]i.
+y[D]o quiero est[Bm]ar,[G] dispuesto a t[A]odo, t[D]oma mi s[Bm]er,[G] mi corazón es para T[A]i.
 P[D]or eso canto t[Bm]us maravillas, p[G]or eso canto tu am[A]or,
 P[D]or eso canto t[Bm]us maravillas, p[G]or eso canto tu am[A]or.
 
@@ -16,4 +16,5 @@ h[D]eme aquí, Señ[Bm]or, p[G]ara acompañ[A]arte, h[D]eme aqu[Bm]í, ¿qu[G]é
 	ESTRIBILLO
 `
   };
+
 
