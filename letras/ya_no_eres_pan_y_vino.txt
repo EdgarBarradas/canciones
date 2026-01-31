@@ -12,7 +12,7 @@ por esa p[D]az que llena de alegr[A]ía mi ser, ¿c[F#m]ómo no te v[D]oy a ador
 		ESTRIBILLO
 Señor Jes[A]ús, mi salvad[E]or, amor et[D]erno, amor div[A]ino,
 y[D]a no falta n[A]ada, lo tengo t[E]odo, te tengo a T[F#m]i,
-y[D]a no falta n[A]ada, lo tengo t[E]odo, te tengo a T[A]i. [D][A][A]
+y[D]a no falta n[A]ada, lo tengo t[E]odo, te tengo a T[A]i. [D][A][A].
 
 Du[A]eño y Rey del [D]univ[A]erso, ¿cómo puede s[D]er pos[A]ible, que busques mi am[E]or?,
 Tú tan gr[D]ande y yo pequeño y te f[A]ijas en mí ¿c[F#m]ómo no te v[D]oy a ador[E]ar?
@@ -21,3 +21,4 @@ para mir[D]arte a los ojos y pod[A]erte decir, que ¿c[F#m]ómo no te v[D]oy a a
 		ESTRIBILLO (2)
 `
   };
+
