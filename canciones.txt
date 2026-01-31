@@ -705,7 +705,7 @@ canciones = [
         "titulo":"Adviento",
         "tiempos":["No filtrar","Adviento"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Entrada"],
+        "momentos":["No filtrar","Entrada","Infantil"],
         "audio":"no hay",
         "tono_audio":"x",
         "txt":"letras/adviento.txt",
@@ -2298,6 +2298,7 @@ canciones = [
         "txt":"letras/yo_soy_la_resurreccion.txt",
       },
 ]
+
 
 
 
