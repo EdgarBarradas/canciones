@@ -10,8 +10,8 @@ Entre tus m[Bm]anos,[E] está mi v[A]ida, Señor, entre tus m[Bm]anos,[E] pongo 
 Hay que mor[D]ir,[E] para viv[A]ir,[F#m] entre tus m[Bm]anos,[E] yo confío mi s[A]er, [A7].
 hay que mor[D]ir,[E] para viv[A]ir,[F#m] entre tus m[Bm]anos,[E] yo confío mi s[A]er.
 
-Si el gr[Bm]ano,[E] de trigo no mu[A]ere, si no mu[Bm]ere,[E] solo quedar[A]á, [A7].
-pero si mu[Bm]ere,[E] en abund[A]ancia dará, un fruto et[Bm]erno [E] que no morir[A]á.
+Si el gr[Bm]ano,[E] de trigo no mu[A]ere, si no mu[Bm]ere,[E] solo quedar[A]á,
+pero si mu[Bm]ere,[E] en abund[A]ancia dará, un fruto et[Bm]erno [E] que no morir[A]á. [A7].
 
 
 	ESTRIBILLO
@@ -19,3 +19,4 @@ pero si mu[Bm]ere,[E] en abund[A]ancia dará, un fruto et[Bm]erno [E] que no mor
 [F#m] entre tus m[Bm]anos,[E] yo confío mi s[A]er.
 `
   };
+
