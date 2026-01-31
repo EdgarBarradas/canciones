@@ -1219,7 +1219,7 @@ canciones = [
       },
       {
         "titulo":"Reina del cielo A",
-        "tiempos":["No filtrar","Ordinario","Pascua"],
+        "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
@@ -1228,7 +1228,7 @@ canciones = [
       },
       {
         "titulo":"Reina del cielo m",
-        "tiempos":["No filtrar","Ordinario","Pascua"],
+        "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
@@ -2227,7 +2227,7 @@ canciones = [
       },
       {
         "titulo":"Reina del cielo L",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar"],
         "audio":"audios/reina_del_cielo_l",
@@ -2298,6 +2298,7 @@ canciones = [
         "txt":"letras/yo_soy_la_resurreccion.txt",
       },
 ]
+
 
 
 
