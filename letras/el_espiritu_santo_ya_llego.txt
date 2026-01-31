@@ -8,7 +8,7 @@ Lo siento en las manos, lo siento en los pi[B]es,
 lo siento en el alma y en todo mi s[E]er. (2)
 
 Aquel que camin[B]ó, sobre las [E]aguas. (2)
-Está aqu[B]í, está a mi l[B]ado. (2)
+Está aqu[B]í, está a mi l[E]ado. (2)
 
 Como un ray[B]o, cayendo sobre m[E]í. (2)
 
@@ -16,3 +16,4 @@ Que quema, que quema, que quema-[B]a,
 que quema, que quema, que quema-[E]a. (2)
 `
   };
+
