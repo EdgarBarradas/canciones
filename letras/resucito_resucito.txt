@@ -4,7 +4,7 @@ letra={
   letra:`
 	ESTRIBILLO
 Resucit[Am]ó, resucit[G]ó, resucit[F]ó, aleluy[E]a,
-aleluy[Am]a, aleluya, aleluy[F]a, resucitó.
+aleluy[Am]a, aleluy[G]a, aleluy[F]a, resucit[E]ó.
 
 La mu[Am]erte, dónde está la mu[G]erte, dónde está mi mu[F]erte, dónde tu vict[E]oria.
 	ESTRIBILLO
@@ -21,3 +21,4 @@ resucit[Am]ó, resucit[G]ó, resucit[F]ó, aleluy[E]a.
 	ESTRIBILLO
 `
   };
+
