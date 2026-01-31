@@ -13,11 +13,12 @@ y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú,
 y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú.
 
 Aunque tuvi[F]era toda la fe, para mover mont[C]añas,
-aunque vi[F]era todos mis bienes, también mi cu[G]erpo a las ll[C]amas,
-y[E]o no soy n[Am]ada, si me faltas T[G]ú,
-y[E]o no soy n[Am]ada, si me faltas T[G]ú.
+aunque vi[F]era todos mis bi[G]enes, también mi cuerpo a las ll[C]amas,
+y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú,
+y[E]o no soy n[Am]ada, si me f[F]altas T[G]ú.
 
 Si me f[F]altas Tú, Señor, yo no soy n[C]ada,
 si me f[F]altas Tú, Señor, yo no soy n[G]ad[C]a.
 `
   };
+
