@@ -11,8 +11,9 @@ y[D]o quiero est[Bm]ar,[G] dispuesto a t[A]odo, t[D]oma mi s[Bm]er, mi coraz[G]�
 P[D]or eso canto t[Bm]us maravillas, p[G]or eso canto tu am[A]or,
 P[D]or eso canto t[Bm]us maravillas, p[G]or eso canto tu am[A]or.
 
-Te al[D]abo Señ[Bm]or, p[G]or tu grandeza, mil gr[D]acias te d[Bm]oy p[G]or tu gran amor,
-h[D]eme aquí, Señ[Bm]or, p[G]ara acompañarte, h[D]eme aqu[Bm]í, ¿qu[G]é quieres de mi?
+Te al[D]abo Señ[Bm]or, p[G]or tu grand[A]eza, mil gr[D]acias te d[Bm]oy p[G]or tu gran am[A]or,
+h[D]eme aquí, Señ[Bm]or, p[G]ara acompañ[A]arte, h[D]eme aqu[Bm]í, ¿qu[G]é quieres de m[A]í?
 	ESTRIBILLO
 `
   };
+
