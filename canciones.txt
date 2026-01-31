@@ -2157,7 +2157,7 @@ canciones = [
         "titulo":"El Espíritu Santo ya llegó",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Pentecostés"],
-        "momentos":["No filtrar","Entrada","Salida"],
+        "momentos":["No filtrar","Entrada","Salida","Infantil"],
         "audio":"audios/el_espiritu_santo_ya_llego",
         "tono_audio":"",
         "txt":"letras/el_espiritu_santo_ya_llego.txt",
@@ -2298,6 +2298,7 @@ canciones = [
         "txt":"letras/yo_soy_la_resurreccion.txt",
       },
 ]
+
 
 
 
