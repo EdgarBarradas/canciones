@@ -1,10 +1,11 @@
 letra={
   titulo:"Reina del cielo L",
-  tonalidad:"A",
+  tonalidad:"C",
   letra:`
-R[A]eina del cielo al[D]égrat[A]e, alel[D]uy[A]a,
-porque El Señor, a quien merec[D]iste llev[E]ar, alel[D]uy[E]a,
-r[A]esucitó seg[D]ún su pa[F#m]labra, al[D]eluy[C#]a,
-ru[Bm]ega al Señ[E]or por nos[A]otros, al[E]eluy[A]a.
+R[C]eina del cielo al[F]égrat[C]e, alel[F]uy[G]a,
+p[C]orque El Señor, a quien merec[F]iste llev[C]ar, alel[F]uy[G]a,
+r[C]esucitó seg[F]ún su pa[Am]labra, al[F]eluy[E]a,
+ru[Dm]ega al Señ[G]or por nos[C]otros, al[G]eluy[C]a.
 `
   };
+
