@@ -1,0 +1,23 @@
+letra={
+  titulo:"Caminando en tu luz",
+  tonalidad:"D",
+  letra:`
+Señ[D]or, haz que camin[F#m]emos, como h[G]ijos de la l[A]uz,
+Señ[D]or, haz que camin[F#m]emos, busc[G]ando lo que te agrada a T[A]i,
+Señ[D]or, haz que camin[F#m]emos, busc[G]ando lo que te agrada a T[A]i.
+
+	ESTRIBILLO
+Y[D]o soy la luz del m[F#m]undo, quien me s[G]igue tendrá, l[Gm]a luz de la v[A]ida.(2)
+
+
+Señ[D]or, toca nuestros [F#m]ojos, para qu[G]e podemos v[A]er,
+tu l[D]uz, que nos ilum[F#m]ina, la s[G]enda que debemos segu[A]ir,
+tu l[D]uz, que nos ilum[F#m]ina, la s[G]enda que debemos segu[A]ir.
+	ESTRIBILLO
+
+Señ[D]or, que cuando vay[F#m]amos, a lav[G]arnos a Silo[A]é,
+lo hag[D]amos, llenos de confi[F#m]anza, sabi[G]endo que Tú obrar[A]ás,
+lo hag[D]amos, llenos de confi[F#m]anza, sabi[G]endo que Tú obrar[A]ás.
+	ESTRIBILLO
+`
+  };
