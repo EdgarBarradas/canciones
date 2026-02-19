@@ -1,0 +1,26 @@
+letra={
+  titulo:"Trnafigúrame",
+  tonalidad:"C",
+  letra:`
+´
+[C] [Em] [F] [Dm] [G].
+
+Hoy v[C]engo mi Jesús, a recib[Em]irte en comunión, y a com[F]er de este p[Dm]an y de este v[G]ino,
+hoy v[Am]engo a entregarte, el c[Em]orazón, para s[F]er por ti Señ[Dm]or transfigur[G]ado.
+Ens[C]éñame a orar, como a Santi[Em]ago, Pedro y Juan, ese d[F]ía que te llen[Dm]aste de esplend[G]or.
+El[Am]ías y Moisés cont[Em]igo están, para habl[F]ar de tu dol[Dm]or ante la cr[G]uz.
+
+ESTRIBILLO
+Transfig[C]úrame, Jesús, transfig[Em]úrame, transfig[F]úrame a tu im[Dm]agen, Señ[G]or,
+transfig[Am]ura este pan, en tu cu[Em]erpo mi Jesús, transfig[F]ura este v[Dm]ino en tu s[G]angre. (2)
+Señ[C]or. [Em] [F] [Dm] [G].
+
+Tú [C]eres nuestro pan, y te entr[Em]egas por amor, y el que c[F]oma de tu cu[Dm]erpo vivir[G]á,
+ven[Am]id sedientos, a este ma[Em]nantial, a alivi[F]ar sus corazones agobi[G]ados.
+Hoy v[C]engo ante tu altar, para un[Em]irme a Ti Jesús, y con [F]esta comuni[Dm]ón ser uno s[G]olo.
+Este [Am]es mi hijo amado esc[Em]úchenlo, y con [F]esto alcanzar[Dm]an la vida et[G]erna.
+
+ESTRIBILLO
+
+`
+  };

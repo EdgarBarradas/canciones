@@ -1,0 +1,26 @@
+letra={
+  titulo:"Padre, vuelvo a Ti",
+  tonalidad:"G",
+  letra:`
+[G].
+
+Querido P[D]adre, cans[C]ado vuelvo a T[G]i, haz que con[C]ozca el d[D]on de tu amist[G]ad,
+vivir por si[B]empre el gozo del perd[C]ón, y en tu pres[G]encia, tu fi[C]esta celebr[D]ar. [G].
+
+Pongo en tus m[D]anos mis c[C]ulpas, Oh Señ[G]or, estoy seg[C]uro de que [D]eres siempre fi[G]el,
+dame la fu[B]erza para poder and[C]ar, buscando en t[G]odo hac[C]er tu volunt[D]ad.
+
+	ESTRIBILLO
+P[G]adre, y[D]o busco tu am[Em]or, P[C]adre, vu[D]elvo a T[G]i; [D].
+m[G]ira qu[B]e tu hijo s[Em]o-[C]y, P[G]adre, vu[D]elvo a T[G]i. (2)
+
+Lo recon[D]ozco, a v[C]eces olvid[G]é, que eres mi P[C]adre y que [D]a mi lado est[G]ás,
+que soy tu h[B]ijo y me aceptas como s[C]oy, sólo me p[G]ides: “vive [C]en sincerid[D]ad”. [G].
+
+Quiero sent[D]irte cerc[C]ano a mí, Señ[G]or, oír tu v[C]oz, que me h[D]abla al coraz[G]ón,
+sentirme l[B]ibre desde tu libert[C]ad, ser signo v[G]ivo de l[C]a fraternid[D]ad.
+
+	ESTRIBILLO
+
+`
+  };

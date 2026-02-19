@@ -1,0 +1,22 @@
+letra={
+  titulo:"Este es el día del Señor",
+  tonalidad:"E",
+  letra:`
+	ESTRIBILLO
+Este es el d[E]ía d[E7]el Señ[A]or, este es el ti[E]empo de la miseric[F#]ordi[B]a, [E].
+este es el día d[E7]el Señ[A]or, este es el ti[E]empo de la miseric[B]ord[E]ia.
+
+Delante de tus [G#m]ojos y[A]a no enrojecer[E]emos,
+a c[A]ausa del ant[E]iguo pec[A]ado de tu pu[B]eblo.
+Arr[E]ancarás de cu[B]ajo el c[C#m]orazón sob[G#m]erbio,
+y har[A]ás un pueblo hum[E]ilde de c[A]orazón sinc[B]er[E]o.
+	ESTRIBILLO
+
+En medio de las g[G#m]entes nos gu[A]ardas como un r[E]esto,
+p[A]ara cantar tus [E]obras y ad[A]elantar tu r[B]eino.
+Ser[E]emos raza nu[B]eva, p[C#m]ara los cielos nu[G#m]evos,
+sac[A]erdotal est[E]irpe, seg[A]ún tu Pr[B]imog[E]énito.
+	ESTRIBILLO
+
+`
+  };
