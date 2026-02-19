@@ -1111,7 +1111,7 @@ canciones = [
       },
       {
         "titulo":"Madre de los creyentes",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
@@ -1282,7 +1282,7 @@ canciones = [
       },
       {
         "titulo":"Santa María del camino",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
         "audio":"audios/santa_maria_del_camino.mp4",
@@ -1723,7 +1723,7 @@ canciones = [
       },
       {
         "titulo":"En la medida",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/en_la_medida",
@@ -1732,7 +1732,7 @@ canciones = [
       },
       {
         "titulo":"En mi debilidad",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión","Acción de gracias"],
         "audio":"audios/en_mi_debilidad",
@@ -1768,7 +1768,7 @@ canciones = [
       },
       {
         "titulo":"Que bien se está aquí",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión","Acción de gracias"],
         "audio":"audios/que_bien_se_esta_aqui",
@@ -1993,7 +1993,7 @@ canciones = [
       },
       {
         "titulo":"Nadie te ama como yo",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/nadie_te_ama_como_yo",
@@ -2290,14 +2290,51 @@ canciones = [
       },
       {
         "titulo":"Yo soy la resurrección y la vida",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma","Pascua"],
         "misas":["No filtrar","Difuntos"],
         "momentos":["No filtrar","Acción de gracias"],
         "audio":"audios/yo_soy_la_resurreccion",
         "tono_audio":"",
         "txt":"letras/yo_soy_la_resurreccion.txt",
       },
+      {
+        "titulo":"Transfigúrame",
+        "tiempos":["No filtrar","Cuaresma","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/transfigurame",
+        "tono_audio":"",
+        "txt":"letras/transfigurame.txt",
+      },
+      {
+        "titulo":"Padre, vuelvo a Ti",
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/padre_vuelvo_a_ti",
+        "tono_audio":"",
+        "txt":"letras/padre_vuelvo_a_ti.txt",
+      },
+      {
+        "titulo":"Este es el día del Señor",
+        "tiempos":["No filtrar","Cuaresma","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada"],
+        "audio":"audios/este_es_el_dia_del_señor",
+        "tono_audio":"",
+        "txt":"letras/este_es_el_dia_del_señor.txt",
+      },
+      {
+        "titulo":"Caminando en tu luz",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/caminando_en_tu_luz",
+        "tono_audio":"",
+        "txt":"letras/caminando_en_tu_luz.txt",
+      },
 ]
+
 
 
 
