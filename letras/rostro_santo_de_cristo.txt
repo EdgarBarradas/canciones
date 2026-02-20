@@ -1,0 +1,25 @@
+letra={
+  titulo:"Rostro Santo de Cristo",
+  tonalidad:"Dm",
+  letra:`
+	ESTRIBILLO
+Rostro S[Dm]anto de C[C]rist[Dm]o, rostro Santo inund[A#]ado de p[C]az,
+rostro S[A]anto ll[A7]eno de dol[Dm]or, Tú [Gm]eres el Señ[Dm]or y herm[A]ano nuestr[Dm]o.
+
+Tú que cargas c[C]on nuestras c[F]ulpas, y red[A#]imes nu[C]estros pec[F]ados,
+vuelve y[Gm]a tus [A]ojos al m[A#]undo, y consu[Gm]ela a qui[A#]en confía en T[A]i.
+	ESTRIBILLO
+
+En la mirada d[C]esesper[F]ada, de quien b[A#]usca as[C]ilo y ref[F]ugio,
+escuch[Gm]amos fu[A]erte tu gr[A#]ito, que nos p[Gm]ide p[A#]az y libert[A]ad.
+	ESTRIBILLO
+
+En las lágrim[C]as del oprim[F]ido, y en el ll[A#]anto d[C]e los que s[F]ufren,
+contempl[Gm]amos tu m[A]ismo dol[A#]or, oh Señ[Gm]or Dios d[A#]e miseric[A]ordia.
+	ESTRIBILLO
+
+En tus ojos ll[C]enos de am[F]or está la mir[A#]ada d[C]e Redent[F]or,
+también t[Gm]uyos son nu[A]estros dol[A#]ores, porque as[Gm]umes el ll[A#]anto de los h[A]ombres.
+	ESTRIBILLO
+`
+  };
