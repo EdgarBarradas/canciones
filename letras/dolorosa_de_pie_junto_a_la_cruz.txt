@@ -1,6 +1,6 @@
 letra={
   titulo:"Dolorosa, de pie junto a La Cruz",
-  tonalidad:"x",
+  tonalidad:"Bm",
   letra:`
 	ESTRIBILLO
 Dolor[Bm]osa, de pi[G]e junto [A]a La Cr[D]uz.
@@ -32,4 +32,5 @@ der[G]echos del h[A]ombre trunc[F#]ados en fl[Bm]or.
 	ESTRIBILLO
 `
   };
+
 
