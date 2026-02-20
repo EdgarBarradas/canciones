@@ -17,7 +17,8 @@ tu cam[F]ino seguiremos, y tu l[C]ey, de amor cant[Dm]amos.
 	ESTRIBILLO
 
 Se ac[Dm]erca Señor tu día, en el que todo florece,
-Con su l[F]uz y alegría, ya el cam[C]ino, respland[Dm]ece.
+Con su l[F]uz y su alegría, ya el cam[C]ino, respland[Dm]ece.
 	ESTRIBILLO
 `
   };
+
