@@ -238,7 +238,7 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar","Penitencial","Comunión"],
-        "audio":"oracion_del_pobre.mp4",
+        "audio":"audios/oracion_del_pobre.mp4",
         "tono_audio":"Bm",
         "txt":"letras/oracion_del_pobre.txt",
       },
@@ -2379,4 +2379,5 @@ canciones = [
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
 
