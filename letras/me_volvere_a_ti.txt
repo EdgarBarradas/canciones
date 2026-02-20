@@ -1,0 +1,9 @@
+letra={
+  titulo:"Me volveré a Ti",
+  tonalidad:"C",
+  letra:`
+[C] Me volveré a Ti, mi Señor,
+y s[G]olo en Ti me [F]apoyaré,
+d[G]escansaré mi vid[C]a.
+`
+  };

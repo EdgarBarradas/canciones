@@ -1,0 +1,34 @@
+letra={
+  titulo:"Dolorosa, de pie junto a La Cruz",
+  tonalidad:"x",
+  letra:`
+	ESTRIBILLO
+Dolor[Bm]osa, de pi[G]e junto [A]a La Cr[D]uz.
+T[Em]ú conoces nuestras p[Bm]enas,
+P[F#]enas de un pueblo que s[Bm]ufre. (2)
+ 
+Dolor de los cu[G]erpos que s[A]ufren enf[D]ermos,
+el h[G]ambre de g[F#]entes que no tienen p[Bm]an,
+sil[F#]encio de aquellos que callan por mi[Bm]edo,
+la p[G]ena del tr[A]iste que est[F#]á en soled[Bm]ad.
+	ESTRIBILLO
+
+El drama del h[G]ombre que fu[A]e margin[D]ado,
+trag[G]edia de n[F#]iños que ignoran re[Bm]ír,
+la b[F#]urda comedia de huecas prom[Bm]esas,
+la f[G]arsa de mu[A]ertos que d[F#]eben viv[Bm]ir.
+	ESTRIBILLO
+
+Dolor de los h[G]ombres sin tr[A]egua oprim[D]idos,
+cans[G]ancio de br[F#]azos en lucha sin f[Bm]in,
+cer[F#]ebros lavados a base de "sl[Bm]ogans",
+el r[G]ictus am[A]argo del p[F#]obre infel[Bm]iz.
+	ESTRIBILLO
+
+El llanto de aqu[G]ellos que s[A]uman frac[D]asos,
+la cr[G]uz del sold[F#]ado que mata el am[Bm]or,
+pobr[F#]eza de muchos sin libro en las m[Bm]anos,
+der[G]echos del h[A]ombre trunc[F#]ados en fl[Bm]or.
+	ESTRIBILLO
+`
+  };
