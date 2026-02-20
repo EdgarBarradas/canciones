@@ -238,8 +238,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar","Penitencial","Comunión"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"oracion_del_pobre.mp4",
+        "tono_audio":"Bm",
         "txt":"letras/oracion_del_pobre.txt",
       },
       {
@@ -1555,8 +1555,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar","Entrada","Comunión"],
-        "audio":"audios/xxxxxxxxxxx",
-        "tono_audio":"",
+        "audio":"audios/nos_has_llamado_al_desierto.mp4",
+        "tono_audio":"Dm",
         "txt":"letras/nos_has_llamado_al_desierto.txt",
       },
       {
@@ -1735,8 +1735,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión","Acción de gracias"],
-        "audio":"audios/en_mi_debilidad",
-        "tono_audio":"",
+        "audio":"audios/en_mi_debilidad.mp4",
+        "tono_audio":"C#",
         "txt":"letras/en_mi_debilidad.txt",
       },
       {
@@ -2311,8 +2311,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/padre_vuelvo_a_ti",
-        "tono_audio":"",
+        "audio":"audios/padre_vuelvo_a_ti.mp4",
+        "tono_audio":"A#",
         "txt":"letras/padre_vuelvo_a_ti.txt",
       },
       {
@@ -2320,8 +2320,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Entrada"],
-        "audio":"audios/este_es_el_dia_del_señor",
-        "tono_audio":"",
+        "audio":"audios/este_es_el_dia_del_señor.mp4",
+        "tono_audio":"F",
         "txt":"letras/este_es_el_dia_del_señor.txt",
       },
       {
@@ -2379,3 +2379,4 @@ canciones = [
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
