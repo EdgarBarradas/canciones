@@ -6,7 +6,7 @@ letra={
 Dolor[Bm]osa, de pi[G]e junto [A]a La Cr[D]uz.
 T[Em]ú conoces nuestras p[Bm]enas,
 P[F#]enas de un pueblo que s[Bm]ufre. (2)
- 
+
 Dolor de los cu[G]erpos que s[A]ufren enf[D]ermos,
 el h[G]ambre de g[F#]entes que no tienen p[Bm]an,
 sil[F#]encio de aquellos que callan por mi[Bm]edo,
@@ -32,3 +32,4 @@ der[G]echos del h[A]ombre trunc[F#]ados en fl[Bm]or.
 	ESTRIBILLO
 `
   };
+
