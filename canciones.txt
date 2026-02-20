@@ -2333,69 +2333,14 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/caminando_en_tu_luz.txt",
       },
+      {
+        "titulo":"Rostro Santo de Cristo",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/rostro_santo_de_cristo",
+        "tono_audio":"",
+        "txt":"letras/rostro_santo_de_cristo.txt",
+      },
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
