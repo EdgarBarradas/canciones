@@ -8,17 +8,18 @@ p[A]ero Tú me [F#m]amas y mor[D]iste por m[E]í.
 tuyo s[A]oy,[F#m] tuyo s[D]oy. [E].
 
 	ESTRIBILLO
-Toma mi m[A]ano, te p[F#m]ido, toma mis l[D]abios, te [E]amo,
+Toma mis m[A]anos, te p[F#m]ido, toma mis l[D]abios, te [E]amo,
 toma mi v[A]ida, oh, P[F#m]adre, tuyo s[D]oy. [E].
-Toma mi m[A]ano, te p[F#m]ido, toma mis l[D]abios, te [E]amo,
+Toma mis m[A]anos, te p[F#m]ido, toma mis l[D]abios, te [E]amo,
 toma mi v[A]ida, oh, P[F#m]adre, tuyo s[D]oy,[E] tuyo s[A]oy.
 
 Cu[A]ando de rod[F#m]illa te m[A]iro, Jes[F#m]ús,
 v[A]eo tu grand[F#m]eza y mi p[D]equeñ[E]ez.
-Qu[A]e puedo d[F#m]arte yo, t[A]odo mi s[F#m]er,
+Qu[A]e puedo d[F#m]arte yo, tan s[A]olo mi s[F#m]er,
 tuyo s[A]oy,[F#m] tuyo s[D]oy. [E].
 	ESTRIBILLO
 
 Tuyo s[D]oy,[E] tuyo s[A]oy.
 `
   };
+
