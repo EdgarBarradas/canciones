@@ -7,6 +7,7 @@ c[F]on la fe pu[G]esta en tu am[C]or, qu[Dm]e Tú me d[Am]as como a un h[E]ij[Am
 Te abro mi coraz[C]ón, y te ofr[F]ezco m[G]i mis[C]eria,
 despoj[Dm]ado, de mis c[Am]osas, qui[E]ero llenarme de T[Am]i.
 
+  ESTRIBILLO
 Qu[A]e tu Espíritu Señ[E]or, abr[D]ase t[E]odo mi s[A]er,
 hazme dócil a tu v[E]oz, transf[D]orma m[E]i vida ent[A]era,
 h[D]azme dócil a tu v[A]oz, transf[Bm]orma m[E]i vida ent[D]er[A]a.
@@ -15,5 +16,7 @@ Pu[Am]esto en tus manos Señ[C]or, si[Dm]ento que s[Am]oy pobre y d[E]éb[Am]il,
 m[F]ás Tú me qui[G]eres as[C]í, y[Dm]o te bend[Am]igo y te al[E]ab[Am]o.
 Padre, en mi debilid[C]ad, Tú me d[F]as la f[G]ortal[C]eza,
 [Dm]amas al hombre senc[Am]illo, le d[E]as tu paz y perd[Am]ón.
+  ESTRIBILLO
   `
   };
+
