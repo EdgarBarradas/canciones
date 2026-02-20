@@ -1510,8 +1510,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Viernes Santo"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/xxxxxxxxxxx",
-        "tono_audio":"",
+        "audio":"audios/adorare_tu_humanidad.mp4",
+        "tono_audio":"Em",
         "txt":"letras/adorare_tu_humanidad.txt",
       },
       {
@@ -1600,8 +1600,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar","Entrada","Comunión"],
-        "audio":"audios/xxxxxxxxxxx",
-        "tono_audio":"",
+        "audio":"audios/peregrino_a_donde_vas.mp4",
+        "tono_audio":"Bm",
         "txt":"letras/peregrino_a_donde_vas.txt",
       },
       {
@@ -1663,8 +1663,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/no_podemos_caminar",
-        "tono_audio":"",
+        "audio":"audios/no_podemos_caminar.mp4",
+        "tono_audio":"D",
         "txt":"letras/no_podemos_caminar.txt",
       },
       {
@@ -1726,8 +1726,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/en_la_medida",
-        "tono_audio":"",
+        "audio":"audios/en_la_medida.mp4",
+        "tono_audio":"A",
         "txt":"letras/en_la_medida.txt",
       },
       {
@@ -1996,8 +1996,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/nadie_te_ama_como_yo",
-        "tono_audio":"",
+        "audio":"audios/nadie_te_ama_como_yo.mp4",
+        "tono_audio":"C",
         "txt":"letras/nadie_te_ama_como_yo.txt",
       },
       {
@@ -2293,8 +2293,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma","Pascua"],
         "misas":["No filtrar","Difuntos"],
         "momentos":["No filtrar","Acción de gracias"],
-        "audio":"audios/yo_soy_la_resurreccion",
-        "tono_audio":"",
+        "audio":"audios/yo_soy_la_resurreccion.mp4",
+        "tono_audio":"A",
         "txt":"letras/yo_soy_la_resurreccion.txt",
       },
       {
@@ -2374,10 +2374,11 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/yo_no_soy_nada",
-        "tono_audio":"",
+        "audio":"audios/yo_no_soy_nada.mp4",
+        "tono_audio":"A",
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
 
 
