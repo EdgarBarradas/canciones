@@ -6,8 +6,8 @@ Adorar[Em]é, tus pies her[D]idos, tus pi[G]es, de mensaj[D]ero,
 que traen la p[Em]az, que traen la p[G]az, a mi coraz[D]ón.
 
 	ESTRIBILLO
-Yo adorar[C]é, señor, y abrazaré tu cuerpo her[Em]ido,
-Yo adorar[C]é, señor, y abrazaré, tu cr[D]uz.
+Yo adorar[C]é, Señor, y abrazaré tu cuerpo her[Em]ido,
+Yo adorar[C]é, Señor, y abrazaré, tu cr[D]uz.
 Tu humanid[C]ad, tu humanid[Em]ad, tu humanid[C]ad, tu humanid[Em]ad.
 
 Adorar[Em]é, tus rod[D]illas, que soport[G]aron, mis ca[D]ídas,
@@ -26,3 +26,4 @@ Abrazar[Em]é, fuerte tu p[D]echo y escuchar[G]é tus lat[D]idos,
 y de la her[Em]ida, de tu cost[G]ado, yo beber[D]é. 
 `
   };
+
