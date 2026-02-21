@@ -2,6 +2,7 @@ letra={
   titulo:"Que bien se está aquí, Señor",
   tonalidad:"C",
   letra:`
+[C].
 	ESTRIBILLO
 Que bien se está aqu[F]í Señ[G]or, no hay otro lug[C]ar donde est[E]ar mej[Am]or,
 tus manos nos guí[F]an, tu amor nos proteg[Dm]e, confiamos en T[G]i. (2)
@@ -14,3 +15,4 @@ y tu miseric[F]ordia, para esc[Dm]uchar sin juzg[G]ar.
 	ESTRIBILLO
 `
   };
+
