@@ -3,7 +3,7 @@ letra={
   tonalidad:"Dm",
   letra:`
 ESTRIBILLO
-P[Dm]edro te negó tres veces, mil veces yo te negu[A]é,
+P[Dm]edro te negó tres veces, mil veces y[A#]o te negu[A]é,
 si Pedro lloró su c[Dm]ulpa, mi c[A]ulpa yo llorar[Dm]é,
 si P[A]edro lloró su c[Dm]ulpa, mi c[A]ulpa yo llorar[Dm]é.
 
@@ -24,3 +24,4 @@ Porque no quise d[A]ar por Ti la c[Dm]ara.
 ESTRIBILLO
 `
   };
+
