@@ -11,7 +11,10 @@ yo quiero un nuevo coraz[E]ón, Señor. (2)
 [E7].
 
 L[A]impio,[B] como el cristal,
-d[Gm]ulce,[C#m] como la miel,
+d[G#m]ulce,[C#m] como la miel,
 [A]un corazón que s[B]ea como el tuyo Señ[E]or. (2)
+
+[A]Un corazón que s[B]ea como el tuyo Señ[A]o-[Am]or. [E].
 `
   };
+
