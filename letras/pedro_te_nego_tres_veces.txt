@@ -12,7 +12,7 @@ porque al igu[F]al que Pedro te he neg[C]ado.
 Hoy te vengo a decir que me arrepi[A]ento,
 Y que s[Gm]oy de los tuyos y que s[A]igo a tu l[Dm]ado.
 Hoy quisiera llor[A]ar igual que P[Dm]edro
-Porque al igual que P[A]edro te he neg[Dm]ado.
+Porque al igu[F]al que P[A]edro te he neg[Dm]ado.
 ESTRIBILLO
 
 Te he negado, Señ[A]or, y fui cob[Dm]arde,
@@ -20,8 +20,9 @@ porque no qu[F]ise dar por Ti la c[C]ara,
 tuve miedo y fingí no conoc[A]erte
 y al pas[Gm]ar Tú a mi lado, yo te he d[A]ado la esp[Dm]alda.
 Hoy quisiera llor[A]ar igual que P[Dm]edro
-Porque no quise d[A]ar por Ti la c[Dm]ara.
+Porque no qu[F]ise d[A]ar por Ti la c[Dm]ara.
 ESTRIBILLO
 `
   };
+
 
