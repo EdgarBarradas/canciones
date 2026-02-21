@@ -12,7 +12,7 @@ Contra T[Em]i Señor, contra T[Am]i Señor, y[C]o p[B]e-qu[E]é. [B].
 		ESTRIBILLO
 
 En pec[Em]ado,[E] me concibi[Am]ó mi madre, y Tú v[D]es que malo soy de nacimi[G]ento,
-Tú qui[Em]eres, mi rectitud de coraz[Am]ón, ens[C]éñame en secr[B]eto lo que és s[E]abio. [B].
+Tú qui[Em]eres, mi rectitud de coraz[Am]ón, ens[C]éñame en secr[B]eto lo que es s[E]abio. [B].
 
 		ESTRIBILLO
 
@@ -22,4 +22,5 @@ de la mu[Em]erte, líbrame, Señ[Am]or, y mi l[C]engua tu justic[B]ia aclamar[E]
 		ESTRIBILLO
   `
   };
+
 
