@@ -1462,7 +1462,7 @@ canciones = [
       },
       {
         "titulo":"Al recibir",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar",],
         "audio":"audios/al_recibir",
@@ -1471,7 +1471,7 @@ canciones = [
       },
       {
         "titulo":"Con estas cenizas",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar",],
         "audio":"audios/con_estas_cenizas",
@@ -2379,6 +2379,7 @@ canciones = [
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
 
 
 
