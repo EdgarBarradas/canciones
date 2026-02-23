@@ -220,7 +220,7 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Penitencial"],
-        "audio":"canciones/perdoname_señor.mp4",
+        "audio":"audios/perdoname_señor.mp4",
         "tono_audio":"E",
         "txt":"letras/perdoname_señor.txt",
       },
@@ -229,7 +229,7 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar","Penitencial","Comunión"],
-        "audio":"canciones/hoy_perdoname.mp4",
+        "audio":"audios/hoy_perdoname.mp4",
         "tono_audio":"C",
         "txt":"letras/hoy_perdoname.txt",
       },
@@ -670,7 +670,7 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Interleccional"],
-        "audio":"canciones/honor_y_gloria.mp4",
+        "audio":"audios/honor_y_gloria.mp4",
         "tono_audio":"D",
         "txt":"letras/honor_y_gloria.txt",
       },
@@ -2379,6 +2379,7 @@ canciones = [
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
 
 
 
