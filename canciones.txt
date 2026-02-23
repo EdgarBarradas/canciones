@@ -220,8 +220,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Penitencial"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"canciones/perdoname_señor.mp4",
+        "tono_audio":"E",
         "txt":"letras/perdoname_señor.txt",
       },
       {
@@ -229,8 +229,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Miércoles de Cenizas"],
         "momentos":["No filtrar","Penitencial","Comunión"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"canciones/hoy_perdoname.mp4",
+        "tono_audio":"C",
         "txt":"letras/hoy_perdoname.txt",
       },
       {
@@ -670,8 +670,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Interleccional"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"canciones/honor_y_gloria.mp4",
+        "tono_audio":"D",
         "txt":"letras/honor_y_gloria.txt",
       },
       {
@@ -1564,8 +1564,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Vía Crucis"],
         "momentos":["No filtrar"],
-        "audio":"audios/xxxxxxxxxxx",
-        "tono_audio":"",
+        "audio":"audios/oh_dios_por_que.mp4",
+        "tono_audio":"A",
         "txt":"letras/oh_dios_por_que.txt",
       },
       {
@@ -1573,8 +1573,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Vía Crucis"],
         "momentos":["No filtrar"],
-        "audio":"audios/xxxxxxxxxxx",
-        "tono_audio":"",
+        "audio":"audios/pedro_te_nego_tres_veces.mp4",
+        "tono_audio":"D#m",
         "txt":"letras/pedro_te_nego_tres_veces.txt",
       },
       {
@@ -1627,8 +1627,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión","Acción de gracias"],
-        "audio":"audios/xxxxxxxxxxx",
-        "tono_audio":"",
+        "audio":"audios/dame_un_nuevo_corazon.mp4",
+        "tono_audio":"E",
         "txt":"letras/dame_un_nuevo_corazon.txt",
       },
       {
@@ -2140,8 +2140,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Acción de gracias","Adoración"],
-        "audio":"audios/yo_estoy_aqui",
-        "tono_audio":"",
+        "audio":"audios/yo_estoy_aqui.mp4",
+        "tono_audio":"Dm",
         "txt":"letras/yo_estoy_aqui.txt",
       },
       {
@@ -2379,6 +2379,7 @@ canciones = [
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
 
 
 
