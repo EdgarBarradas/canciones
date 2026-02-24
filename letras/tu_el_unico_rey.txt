@@ -15,11 +15,10 @@ que alab[F]arte a ti Señ[G]or , sea si[C]empre lo prim[Am]ero,
 f[F]ijo mi mirada en el ci[G]elo.
 	ESTRIBILLO
 
-[F] [C] [Dm] [G]
-
 Y a T[F]i, toda alab[C]anza, todo el pod[Dm]er y el honor, toda la gl[G]oria Señor. (4)
 
 	ESTRIBILLO (2)
 `
   };
+
 
