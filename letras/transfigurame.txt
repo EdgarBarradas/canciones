@@ -16,11 +16,12 @@ transfig[Am]ura este pan, en tu cu[Em]erpo mi Jesús, transfig[F]ura este v[Dm]i
 Señ[C]or. [Em] [F] [Dm] [G].
 
 Tú [C]eres nuestro pan, y te entr[Em]egas por amor, y el que c[F]oma de tu cu[Dm]erpo vivir[G]á,
-ven[Am]id sedientos, a este ma[Em]nantial, a alivi[F]ar sus corazones agobi[G]ados.
-Hoy v[C]engo ante tu altar, para un[Em]irme a Ti Jesús, y con [F]esta comuni[Dm]ón ser uno s[G]olo.
+ven[Am]id sedientos, a este ma[Em]nantial, a alivi[F]ar sus coraz[Dm]ones agobi[G]ados.
+Hoy v[C]engo a tu altar, para un[Em]irme a Ti Jesús, y con [F]esta comuni[Dm]ón ser uno s[G]olo.
 Este [Am]es mi hijo amado esc[Em]úchenlo, y con [F]esto alcanzar[Dm]an la vida et[G]erna.
 
 ESTRIBILLO
 
 `
   };
+
