@@ -2302,8 +2302,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/transfigurame",
-        "tono_audio":"",
+        "audio":"audios/transfigurame.mp4",
+        "tono_audio":"C",
         "txt":"letras/transfigurame.txt",
       },
       {
@@ -2370,15 +2370,16 @@ canciones = [
         "txt":"letras/tu_noche_sera_luz.txt",
       },
       {
-        "titulo":"Yo no soy nada",
+        "titulo":"Tuyo soy",
         "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/yo_no_soy_nada.mp4",
-        "tono_audio":"A",
+        "tono_audio":"B",
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
 
 
 
