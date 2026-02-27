@@ -1848,6 +1848,15 @@ canciones = [
         "txt":"letras/alma_de_cristo.txt",
       },
       {
+        "titulo":"Anima Christi",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Acción de gracias"],
+        "audio":"audios/anima_christi",
+        "tono_audio":"",
+        "txt":"letras/anima_christi.txt",
+      },
+      {
         "titulo":"Alaluya cantará",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Difuntos"],
@@ -2379,6 +2388,7 @@ canciones = [
         "txt":"letras/yo_no_soy_nada.txt",
       },
 ]
+
 
 
 
