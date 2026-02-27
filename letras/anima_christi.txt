@@ -1,0 +1,21 @@
+letra={
+  titulo:"Anima Christi",
+  tonalidad:"Am",
+  letra:`
+	ESTRIBILLO
+[Am]Anima Chr[F]isti, sanct[G]ifica m[Am]e, C[Dm]orpus Chr[Am]isti, s[F]alva m[E]e.
+S[Am]anguis Chr[F]isti, in[G]ebria m[Am]e, aqua l[Dm]ateris Chr[Am]isti, l[E]ava m[Am]e.
+
+Passio Chr[F]isti, conf[G]orta m[Am]e, [Dm]o bone I[Am]esu ex[F]audi m[E]e.
+[Am]Intra v[F]ulnera t[G]u[Am]a, [Dm]absc[F]onde, absc[E]onde m[Am]e.
+	ESTRIBILLO
+
+Ne perm[F]ittas a t[G]e me separ[Am]ari, [Dm]ab hoste mali[Am]gno def[F]ende m[E]e.
+[Am]In hora m[F]ortis m[G]ea[Am]e, v[Dm]oca m[F]e, v[E]oca m[Am]e.
+	ESTRIBILLO
+
+Et iube m[F]e ven[G]ire ad t[Am]e, [Dm]ut cum Sanctis t[Am]uis la[F]udem t[E]e,
+p[Am]er inf[F]inita in sa[G]ecul[Am]a, sa[Dm]ecul[F]orum, [E]am[Am]en.
+	ESTRIBILLO
+`
+  };
