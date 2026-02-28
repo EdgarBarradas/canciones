@@ -1,0 +1,16 @@
+letra={
+  titulo:"María intercesora",
+  tonalidad:"Am",
+  letra:`
+	ESTRIBILLO
+Mar[Am]í[G]a t[C]ú,[E] interces[Am]ora, Marí[G]a t[C]ú,[E] nuestra Señ[Am]ora. (2)
+
+Eres la gracia v[G]iva, Dios cont[F]igo, eres la eleg[E]ida,
+y tu h[Am]ijo, Jesucr[G]isto, entre tu vi[F]entre, te consagr[E]ó madre univers[Am]al.
+	ESTRIBILLO
+
+Santa, santa Mar[G]ía, madre de Di[F]os, madre del h[E]ombre,
+env[Am]ía tu fortal[G]eza, ejemplo v[F]ivo, persever[E]ancia, en Jes[Am]ús.
+	ESTRIBILLO
+`
+  };
