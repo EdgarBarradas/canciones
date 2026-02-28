@@ -1,0 +1,17 @@
+letra={
+  titulo:"Renuevame, Señor Jesús",
+  tonalidad:"D",
+  letra:`
+Renu[D]évam[G]e, Señ[A]or Jes[D]ús,[Bm] ya no qui[G]ero ser igu[A]al,
+renu[D]évam[G]e, Señ[A]or Jes[D]ús,[Bm] pon en m[G]í tu coraz[A]ón. 
+
+Porque t[D]odo lo que h[A]ay dentr[Bm]o de m[F#m]í,[G] necesita ser cambi[Em]ado, Señ[A]or.
+Porque t[D]odo lo que h[A]ay dentro de m[Bm]i coraz[F#m]ón,[G] neces[A]ita más de T[D]i.
+
+Renu[D]évam[G]e, Señ[A]or Jes[D]ús,[Bm] ya no qui[G]ero ser igu[A]al,
+renu[D]évam[G]e, Señ[A]or Jes[D]ús,[Bm] pon en m[G]í tu coraz[A]ón. 
+
+Porque t[D]odo lo que h[A]ay dentr[Bm]o de m[F#m]í,[G] necesita ser cambi[Em]ado, Señ[A]or.
+Porque t[D]odo lo que h[A]ay dentro de m[Bm]i coraz[F#m]ón,[G] neces[A]ita más de T[D]i. (2)
+`
+  };
