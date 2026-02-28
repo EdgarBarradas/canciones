@@ -2387,7 +2387,17 @@ canciones = [
         "tono_audio":"B",
         "txt":"letras/yo_no_soy_nada.txt",
       },
+      {
+        "titulo":"Renuévame, Señor Jesús",
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión","Acción de gracias"],
+        "audio":"audios/renuevame_señor_jesus",
+        "tono_audio":"D",
+        "txt":"letras/renuevame_señor_jesus.txt",
+      },
 ]
+
 
 
 
