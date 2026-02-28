@@ -10,7 +10,7 @@ Passio Chr[F]isti, conf[G]orta m[Am]e, [Dm]o bone I[Am]esu ex[F]audi m[E]e.
 [Am]Intra v[F]ulnera t[G]u[Am]a, [Dm]absc[F]onde, absc[E]onde m[Am]e.
 	ESTRIBILLO
 
-Ne perm[F]ittas a t[G]e me separ[Am]ari, [Dm]ab hoste mali[Am]gno def[F]ende m[E]e.
+Ne perm[F]ittas a t[G]e me separ[Am]ari, [Dm]ab hoste mal[Am]igno def[F]ende m[E]e.
 [Am]In hora m[F]ortis m[G]ea[Am]e, v[Dm]oca m[F]e, v[E]oca m[Am]e.
 	ESTRIBILLO
 
@@ -19,3 +19,4 @@ p[Am]er inf[F]inita in sa[G]ecul[Am]a, sa[Dm]ecul[F]orum, [E]am[Am]en.
 	ESTRIBILLO
 `
   };
+
