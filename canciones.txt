@@ -2396,7 +2396,17 @@ canciones = [
         "tono_audio":"D",
         "txt":"letras/renuevame_señor_jesus.txt",
       },
+      {
+        "titulo":"María intercesora",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Marianos"],
+        "audio":"audios/maria_intercesora",
+        "tono_audio":"Am",
+        "txt":"letras/maria_intercesora.txt",
+      },
 ]
+
 
 
 
