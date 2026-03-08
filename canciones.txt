@@ -2405,7 +2405,35 @@ canciones = [
         "tono_audio":"Am",
         "txt":"letras/maria_intercesora.txt",
       },
+      {
+        "titulo":"Dios es fiel",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/dios_es_fiel",
+        "tono_audio":"x",
+        "txt":"letras/dios_es_fiel.txt",
+      },
+      {
+        "titulo":"Misericordia Dios",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/misericordia_dios",
+        "tono_audio":"x",
+        "txt":"letras/misericordia_dios.txt",
+      },
+      {
+        "titulo":"Volveré a casa del Padre",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/volvere_a_casa_del_padre",
+        "tono_audio":"x",
+        "txt":"letras/volvere_a_casa_del_padre.txt",
+      },
 ]
+
 
 
 
