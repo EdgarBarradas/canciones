@@ -1,0 +1,24 @@
+letra={
+  titulo:"Dios es fiel",
+  tonalidad:"Dm",
+  letra:`
+Di[Dm]os es fi[Gm]el: guarda si[C]empre su Ali[F]anza, l[A#]ibra al pu[Gm]eblo de t[A]oda esclavit[Dm]ud.
+S[D7]u pal[Gm]abra resu[C]ena en los prof[F]etas, r[A#]eclam[Dm]ando el bi[A]en y la virt[Dm]ud.
+
+	ESTRIBILLO
+Pu[C]eblo en m[F]archa por el desi[A#]erto ardi[A]ente, h[D7]oriz[Gm]ontes de p[A]az y libert[Dm]ad.
+[C]Asambl[F]ea de Di[A#]os, eterna fi[A]esta, ti[D7]erra nu[Gm]eva, per[A]enne hered[Dm]ad.
+
+Si [Dm]al mir[Gm]ar hacia atr[C]ás somos tent[F]ados, d[A#]e volv[Gm]er al Eg[A]ipto seduct[Dm]or,
+E[D7]l Esp[Gm]íritu em[C]puja con su fu[F]erza, [A#]a avanz[Dm]ar por la v[A]ía del am[Dm]or.
+	ESTRIBILLO
+
+[Dm]El man[Gm]á es un d[C]on que el cielo env[F]ía p[A#]ero el p[Gm]an de hoy se cu[A]ece con sud[Dm]or,
+l[D7]eche y mi[Gm]el nos dar[C]á la tierra nu[F]eva, s[A#]i el trab[Dm]ajo es fec[A]undo y redent[Dm]or.
+	ESTRIBILLO
+
+[Dm]Y Jes[Gm]ús nos prop[C]one en el calv[F]ario, s[A#]u lecci[Gm]ón "hágas[A]e tu volunt[Dm]ad",
+[D7]y su S[Gm]angre vert[C]ida por nos[F]otros, s[A#]erá el pr[Dm]ecio de nu[A]estra libert[Dm]ad.
+	ESTRIBILLO
+`
+  };

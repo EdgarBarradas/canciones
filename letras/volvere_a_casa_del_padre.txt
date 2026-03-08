@@ -1,0 +1,28 @@
+letra={
+  titulo:"Volveré a la casa del Padre",
+  tonalidad:"Em",
+  letra:`
+	ESTRIBILLO
+Volver[Em]é a la c[B]asa del P[Em]adre, a la casa que un d[C]ía abandon[B]é,
+le dir[Am]é no merezco ser tu h[Em]ijo, contra el ci[Am]elo y contra t[B]i yo pequ[Em]é.
+
+Dejé la c[B]asa del P[Em]adre, en busca de [C]otros cam[B]inos,
+perdiendo el r[Am]umbo y sent[B]ido, mi vida yo malgast[Em]é. [E7].
+Hoy me siento arrepent[Am]ido, solo c[B]on mi soled[Em]ad,
+quiero emprender el cam[B]ino, de regreso hacia el hog[Em]ar.
+	ESTRIBILLO
+
+Cuando volvi[B]ó el hijo a c[Em]asa, su padre l[C]o vio de l[B]ejos,
+y fue corri[Am]endo a su encu[B]entro, y conmovido le abraz[Em]ó, [E7].
+y colgándose del cu[Am]ello, lo cubri[B]ó de tiernos b[Em]esos,
+le puso anillo y traje nu[B]evo, y una fiesta prepar[Em]ó.
+	ESTRIBILLO
+
+El otro herm[B]ano no qui[Em]ere entrar, y dice m[C]uy ofend[B]ido:
+a ese hijo t[Am]uyo perd[B]ido, mejor le tratas que a m[Em]í. [E7].
+Tú ya estás siempre conm[Am]igo, es tu herm[B]ano quien ha vu[Em]elto,
+hoy vive y estaba mu[B]erto, ven y alégrate fel[Em]iz.
+	ESTRIBILLO
+le dir[Am]é no merezco ser tu h[Em]ijo, contra el ci[Am]elo y contra t[B]i yo pequ[Em]é.
+`
+  };
