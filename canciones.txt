@@ -2374,8 +2374,8 @@ canciones = [
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/tu_noche_sera_luz",
-        "tono_audio":"",
+        "audio":"audios/tu_noche_sera_luz.mp4",
+        "tono_audio":"Dm",
         "txt":"letras/tu_noche_sera_luz.txt",
       },
       {
@@ -2433,6 +2433,7 @@ canciones = [
         "txt":"letras/volvere_a_casa_del_padre.txt",
       },
 ]
+
 
 
 
