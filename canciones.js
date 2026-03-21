@@ -12,6 +12,39 @@ function reverse_indexes(texto,cadena){
 return indexes
 }
 
+function pinta_linea_0(linea, bloque){
+    if (linea.includes('ESTRIBILLO')){estilo_letra="letra_estrib";estilo_acorde="acorde_estrib"}
+    if (linea==""){estilo_letra="letra_estrofa";estilo_acorde="acorde_estrofa"}
+    linea=linea.replace(/\]\[/g, " ]        [")
+    linea=linea.replace(/\] /g, "].    ")
+
+    while (linea.includes("[")){
+      index_a=linea.indexOf("[")
+      index_b=linea.indexOf("]")
+
+      letras_bajo_acorde=1
+      avail=linea.substring(index_b+1).substring(0,10).length
+      next_index=linea.substring(index_b+1).indexOf("[")
+      if (next_index>0){avail=Math.min(next_index,avail)}
+      acorde_size=linea.substring(index_a+1,index_b).length
+      if (acorde_size===1){letras_bajo_acorde=Math.min(1,avail)}
+      if (acorde_size===2){letras_bajo_acorde=Math.min(3,avail)}
+      if (acorde_size===3){letras_bajo_acorde=Math.min(4,avail)}
+      if (acorde_size===4){letras_bajo_acorde=Math.min(5,avail)}
+      if (acorde_size===5){letras_bajo_acorde=Math.min(6,avail)}
+
+      linea=linea.substring(0,index_a)+
+      '<span class="'+estilo_acorde+'"><b>'+linea.substring(index_a+1,index_b)+'</b>'+linea.substring(index_b+1,index_b+1+letras_bajo_acorde)+'</span>'+linea.substring(index_b+1+letras_bajo_acorde)
+    }
+
+    if (linea==""){
+      bloque.innerHTML += '<br>'
+    }
+    else{
+      bloque.innerHTML += '<p class="'+estilo_letra+'">'+linea+'</p>'
+    }
+}
+
 function crear_bloque_letra(letra){////////////////////////////------Esta función dibuja el bloque de la letra y los acordes de una canción
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
   document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
@@ -38,38 +71,7 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
   estilo_acorde="acorde_estrofa"
 
   lineas.forEach((linea, i) => {
-
-    if (lineas[i].includes('ESTRIBILLO')){estilo_letra="letra_estrib";estilo_acorde="acorde_estrib"}
-    if (lineas[i]==""){estilo_letra="letra_estrofa";estilo_acorde="acorde_estrofa"}
-    lineas[i]=lineas[i].replace(/\]\[/g, " ]        [")
-    lineas[i]=lineas[i].replace(/\] /g, "].    ")
-
-    while (lineas[i].includes("[")){
-      index_a=lineas[i].indexOf("[")
-      index_b=lineas[i].indexOf("]")
-
-      letras_bajo_acorde=1
-      avail=lineas[i].substring(index_b+1).substring(0,10).length
-      next_index=lineas[i].substring(index_b+1).indexOf("[")
-      if (next_index>0){avail=Math.min(next_index,avail)}
-      acorde_size=lineas[i].substring(index_a+1,index_b).length
-      if (acorde_size===1){letras_bajo_acorde=Math.min(1,avail)}
-      if (acorde_size===2){letras_bajo_acorde=Math.min(3,avail)}
-      if (acorde_size===3){letras_bajo_acorde=Math.min(4,avail)}
-      if (acorde_size===4){letras_bajo_acorde=Math.min(5,avail)}
-      if (acorde_size===5){letras_bajo_acorde=Math.min(6,avail)}
-
-      lineas[i]=lineas[i].substring(0,index_a)+
-      '<span class="'+estilo_acorde+'"><b>'+lineas[i].substring(index_a+1,index_b)+'</b>'+lineas[i].substring(index_b+1,index_b+1+letras_bajo_acorde)+'</span>'+lineas[i].substring(index_b+1+letras_bajo_acorde)
-    }
-
-    //lineas[i]=lineas[i].replaceAll('_','<span class="blancos">_</span>')
-    if (lineas[i]==""){
-      document.getElementById("bloque_letra").innerHTML += '<br>'
-    }
-    else{
-      document.getElementById("bloque_letra").innerHTML += '<p class="'+estilo_letra+'">'+lineas[i]+'</p>'
-    }
+    pinta_linea_0(lineas[i], document.getElementById("bloque_letra"))
   });
 
 }
