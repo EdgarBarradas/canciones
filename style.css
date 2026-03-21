@@ -7,12 +7,10 @@ h1 { color: darkblue; }
 .result {margin: 0px;}
 #letra { font-family: sans-serif; }
 
-.letra_estrofa { line-height: 1.2;	-webkit-text-size-adjust: none;    text-size-adjust: none;	line-height: 1.2em; margin-top: 4px;  margin-bottom: 4px;}/* Linea de estrofa */
-.acorde_estrofa {  display: inline-block;  text-align: center;  vertical-align: bottom;  font-size: inherit;}
-.acorde_estrofa b {  display: block;  font-size: 0.8em;  color: red;  line-height: 0.4; text-align: left;  margin-right: 4px;}/* Bloqucito con acorde */
+.letra_estrofa { line-height: 1.2; -webkit-text-size-adjust: none; text-size-adjust: none; margin-top: 0px; margin-bottom: 0px; white-space: pre;}/* Linea de estrofa */
+.acorde_estrofa { font-size: 0.8em; color: red; line-height: 1.2; margin-top: 0px; margin-bottom: 0px; white-space: pre;}/* Acordes de estrofa */
 
-.letra_estrib { line-height: 1.2; font-style: italic;font-weight: bold;	-webkit-text-size-adjust: none;    text-size-adjust: none;	line-height: 1.2em; margin-top: 4px;  margin-bottom: 4px;	background-color: rgb(220, 220, 220);}/* Linea de estribillo */
-.acorde_estrib {  display: inline-block;  text-align: center;  vertical-align: bottom;  font-size: inherit;	background-color: rgb(220, 220, 220);}
-.acorde_estrib b {  display: block;  font-size: 0.8em;  color: red;  line-height: 0.4; text-align: left;  margin-right: 4px;	background-color: rgb(220, 220, 220);}/* Bloqucito con acorde */
+.letra_estrib { line-height: 1.2; font-style: italic; font-weight: bold; -webkit-text-size-adjust: none; text-size-adjust: none; margin-top: 0px; margin-bottom: 0px; background-color: rgb(220, 220, 220); white-space: pre;}/* Linea de estribillo */
+.acorde_estrib { font-size: 0.8em; color: red; line-height: 1.2; margin-top: 0px; margin-bottom: 0px; background-color: rgb(220, 220, 220); white-space: pre;}/* Acordes de estribillo */
 
 

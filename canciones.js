@@ -12,36 +12,71 @@ function reverse_indexes(texto,cadena){
 return indexes
 }
 
-function pinta_linea_0(linea, bloque){
-    if (linea.includes('ESTRIBILLO')){estilo_letra="letra_estrib";estilo_acorde="acorde_estrib"}
-    if (linea==""){estilo_letra="letra_estrofa";estilo_acorde="acorde_estrofa"}
-    linea=linea.replace(/\]\[/g, " ]        [")
-    linea=linea.replace(/\] /g, "].    ")
+function pinta_linea_1(linea, bloque){
+    if (linea.includes('ESTRIBILLO')){estilo='estrib'}
+    if (linea==""){estilo='estrofa'}
 
-    while (linea.includes("[")){
-      index_a=linea.indexOf("[")
-      index_b=linea.indexOf("]")
-
-      letras_bajo_acorde=1
-      avail=linea.substring(index_b+1).substring(0,10).length
-      next_index=linea.substring(index_b+1).indexOf("[")
-      if (next_index>0){avail=Math.min(next_index,avail)}
-      acorde_size=linea.substring(index_a+1,index_b).length
-      if (acorde_size===1){letras_bajo_acorde=Math.min(1,avail)}
-      if (acorde_size===2){letras_bajo_acorde=Math.min(3,avail)}
-      if (acorde_size===3){letras_bajo_acorde=Math.min(4,avail)}
-      if (acorde_size===4){letras_bajo_acorde=Math.min(5,avail)}
-      if (acorde_size===5){letras_bajo_acorde=Math.min(6,avail)}
-
-      linea=linea.substring(0,index_a)+
-      '<span class="'+estilo_acorde+'"><b>'+linea.substring(index_a+1,index_b)+'</b>'+linea.substring(index_b+1,index_b+1+letras_bajo_acorde)+'</span>'+linea.substring(index_b+1+letras_bajo_acorde)
+    function separar_letras_acordes(text){
+        acordes=[];letras=[];next='letra_nueva'
+        if (text[0]!='['){letras.push('');acordes.push('')}
+        for (let i=0;i<text.length;i++){
+            if (text[i]=='['){next='acorde_nuevo';acordes.push('')}
+            else if (text[i]==']'){next='letra_nueva';letras.push('')}
+            else if (next=='acorde_nuevo'){acordes[acordes.length-1]+=text[i]}
+            else if (next=='letra_nueva'){letras[letras.length-1]+=text[i]}
+        }
+        if (letras.length<acordes.length){letras.push('')}
+        for (let i=0;i<acordes.length;i++){if (acordes[i].length>0){acordes[i]+=' '}}
+        return {acordes:acordes,letras:letras}
     }
 
-    if (linea==""){
-      bloque.innerHTML += '<br>'
+    function alinear(linea_obj, contenedor, est){
+        acordes=linea_obj.acordes;letras=linea_obj.letras
+        contenedor.innerHTML+="<div id='temp_acorde' class='acorde_"+est+"' style='display:inline-block;visibility:hidden'> </div><div id='temp_letra' class='letra_"+est+"' style='display:inline-block;visibility:hidden'> </div>"
+        ta=document.getElementById('temp_acorde');tl=document.getElementById('temp_letra')
+        ancho_espacio_acorde=ta.getBoundingClientRect().width
+        ancho_espacio_letra=tl.getBoundingClientRect().width
+        tl.innerHTML="-";ancho_guion_letra=tl.getBoundingClientRect().width
+        for (let i=0;i<Math.min(acordes.length,letras.length);i++){
+            if ((i==0)&(acordes[0]=='')){continue}
+            ta.innerHTML=acordes.slice(0,i).join('');x1_ta=ta.getBoundingClientRect().width
+            ta.innerHTML=acordes.slice(0,i).concat(acordes[i].replace(' ','')).join('');x2_ta=ta.getBoundingClientRect().width
+            xa=Math.round((x1_ta+x2_ta)/2)
+            tl.innerHTML=letras.slice(0,i).join('');x1_tl=tl.getBoundingClientRect().width
+            tl.innerHTML=letras.slice(0,i).concat([letras[i][0]]).join('');x2_tl=tl.getBoundingClientRect().width
+            xl=Math.round((x1_tl+x2_tl)/2)
+            if (xa>xl){
+                num_esp=Math.trunc((xa-xl+ancho_espacio_letra/2)/ancho_espacio_letra)
+                num_gui=Math.trunc((xa-xl+ancho_guion_letra/2)/ancho_guion_letra)
+                insertar=" ".repeat(num_esp)
+                if (i==0){if (letras[i][0]==' '){letras[i]=insertar+letras[i]}}
+                else if ((letras[i].length>0)&(letras[i-1].length>0)){
+                    if (letras[i][0]==' '){letras[i]=insertar+letras[i]}
+                    else if (letras[i-1].includes(' ')){
+                        last_sp=letras[i-1].lastIndexOf(' ')
+                        letras[i-1]=letras[i-1].substring(0,last_sp+1)+insertar+letras[i-1].substring(last_sp+1)
+                    }
+                    else{letras[i]="-".repeat(num_gui)+letras[i]}
+                }
+            }
+            else{
+                num_esp=Math.trunc((xl-xa+ancho_espacio_acorde/2)/ancho_espacio_acorde)
+                acordes[i]=" ".repeat(num_esp)+acordes[i]
+            }
+        }
+        document.getElementById('temp_acorde').remove();document.getElementById('temp_letra').remove()
+        contenedor.innerHTML+="<div class='acorde_"+est+"'>"+acordes.join('')+"</div>"
+        contenedor.innerHTML+="<div class='letra_"+est+"'>"+letras.join('')+"</div>"
+    }
+
+    if (linea.includes('ESTRIBILLO')){
+        bloque.innerHTML+="<div class='letra_estrib'>      ESTRIBILLO</div>"
+    }
+    else if (linea.replace(' ','')==''){
+        bloque.innerHTML+='<br>'
     }
     else{
-      bloque.innerHTML += '<p class="'+estilo_letra+'">'+linea+'</p>'
+        alinear(separar_letras_acordes(linea), bloque, estilo)
     }
 }
 
@@ -67,11 +102,10 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funciÃ
   }
 
   lineas = letra.letra.trim().split("\n");
-  estilo_letra="letra_estrofa"
-  estilo_acorde="acorde_estrofa"
+  estilo='estrofa'
 
   lineas.forEach((linea, i) => {
-    pinta_linea_0(lineas[i], document.getElementById("bloque_letra"))
+    pinta_linea_1(lineas[i], document.getElementById("bloque_letra"))
   });
 
 }
