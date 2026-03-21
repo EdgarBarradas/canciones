@@ -2,19 +2,20 @@ letra={
   titulo:"Misericordia Dios",
   tonalidad:"Dm",
   letra:`
+[Dm].
 	ESTRIBILLO
-Miseric[Dm]ordia, Señ[Gm]or, hemos pec[A]a-[A7]ad[Dm]o. (2)
+Misericordia, Señ[Gm]or, hemos pec[A]a-[A7]ad[Dm]o. (2)
 
-Miseric[Dm]ordia Dios mío por tu bond[Gm]ad, borra mi c[A]ulpa y mis pec[Dm]ados,
-miseric[Dm]ordia Dios m[D7]ío por tu bond[Gm]ad, limpia m[A]i a-[A7]alm[Dm]a.
-	ESTRIBILLO
-
-Pues recon[Dm]ozco mi c[Gm]ulpa, tengo pres[A]ente mi pec[Dm]ado.
-Si contra t[Dm]i, mi Di[D7]os, solo pequ[Gm]é, Padre perd[A]ón[A7]am[Dm]e.
+Misericordia Dios mío por tu bond[Gm]ad, borra mi c[A]ulpa y mis pec[Dm]ados,
+misericordia Dios mío por todo el m[Gm]al, limpia m[A]i a-[A7]alm[Dm]a.
 	ESTRIBILLO
 
-Crea en m[Dm]í un coraz[Gm]ón, un coraz[A]ón más p[Dm]uro.
-Con tu pod[Dm]er[D7] renuévam[Gm]e, envíam[A]e[A7] tu Santo Esp[Dm]íritu.
+Pues reconozco mi c[Gm]ulpa, tengo pres[A]ente mi pec[Dm]ado.
+Si contra ti, mi Dios, solo pequ[Gm]é, Padre perd[A]ón[A7]am[Dm]e.
+	ESTRIBILLO
+
+Crea en mí un coraz[Gm]ón, un coraz[A]ón más p[Dm]uro.
+Con tu poder renuévam[Gm]e, envíam[A]e[A7] tu Santo Esp[Dm]íritu.
 	ESTRIBILLO
 
 Devuélvem[A#]e la alegría de tu s[A]alvación, afi[Gm]ánzame con esp[A#]íritu gener[A]oso
