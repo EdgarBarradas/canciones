@@ -2,7 +2,7 @@ letra={
   titulo:"Misericordia Dios",
   tonalidad:"Dm",
   letra:`
-[Dm].
+[Dm]
 	ESTRIBILLO
 Misericordia, Señ[Gm]or, hemos pec[A]a-[A7]ad[Dm]o. (2)
 
