@@ -2290,7 +2290,7 @@ canciones = [
       },
       {
         "titulo":"Yo le resucitaré",
-        "tiempos":["No filtrar","Ordinario"],
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
         "misas":["No filtrar","Difuntos"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/yo_soy_el_pan_de_vida",
