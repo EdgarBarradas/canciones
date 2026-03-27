@@ -2460,7 +2460,7 @@ canciones = [
         "txt":"letras/hosanna_hey.txt",
       },
       {
-        "titulo":"Ho, Cruz, te adoramos",
+        "titulo":"Oh, Cruz, te adoramos",
         "tiempos":["No filtrar","Cuaresma"],
         "misas":["No filtrar","Viernes Santo"],
         "momentos":["No filtrar","Comunión"],
