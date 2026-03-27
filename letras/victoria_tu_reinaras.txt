@@ -1,0 +1,28 @@
+letra={
+  titulo:"Victoria, Tú reinarás",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+Vict[C]oria,[C7] Tú reinar[F]ás, oh, cr[G]uz, Tú nos salvar[C]ás. (2)
+
+El verbo en Ti clav[F]ado, muri[G]endo, nos rescat[C]ó,
+de Ti, madero s[F]anto, nos vi[G]ene, la redenci[C]ón.
+	ESTRIBILLO
+
+Extiende, por el m[F]undo, tu Re[G]ino, de salvaci[C]ón,
+Oh cruz, fecund[F]ada, fuente de v[G]ida, y bendici[C]ón.
+	ESTRIBILLO
+
+Impere, sobre el [F]odio, tu R[G]eino, de carid[C]ad,
+Alcance , las naci[F]ones, el g[G]ozo, de la unid[C]ad.
+	ESTRIBILLO
+
+Aumenta, en nuestras [F]almas, tu R[G]eino, de santid[C]ad,
+el río, de la gr[F]acia, ap[G]ague, la iniquid[C]ad.
+	ESTRIBILLO
+
+La gloria, por los s[F]iglos, a Cr[G]isto, libertad[C]or,
+su cruz, nos lleva al ci[F]elo, la ti[G]erra, de promisi[C]ón.
+	ESTRIBILLO
+`
+  };

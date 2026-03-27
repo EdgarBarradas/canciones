@@ -1,0 +1,23 @@
+letra={
+  titulo:"Glorioso Rey en La Cruz",
+  tonalidad:"C",
+  letra:`
+Glori[C]oso Rey en la Cruz, tu r[Am]eino no es de este mundo,
+tus j[G]oyas son tus llagas, tu trono es el madero, [F]Oh, cuán gran misterio.
+Glori[C]oso Rey en la Cruz, tu r[Am]eino es un reino eterno,
+tu m[G]anto es tu sangre, las espinas, tu corona, tu Pasi[F]ón es tu victoria.
+
+		ESTRIBILLO
+Cuán glori[C]oso fue tu am[G]or en la cruz, tu real[Am]eza es incompar[F]able,
+Jesús, te alab[C]amos y exalt[G]amos tu poder,
+nos rend[Am]imos ante el rey, nos rend[F]imos ante el rey.
+
+Glori[C]oso Rey en la Cruz, nos am[Am]aste hasta el extremo,
+siendo R[G]ey del Universo, por amor te hiciste esclavo, y por [F]eso te cantamos.
+		ESTRIBILLO
+
+Tú pag[Am]aste con tu muerte el pr[C]ecio, de nuestra redenci[F]ón, Rey en la cruz,
+por la ofr[Am]enda de tu cuerpo y tu s[C]angre, nos concedes el perd[F]ón.
+		ESTRIBILLO
+`
+  };

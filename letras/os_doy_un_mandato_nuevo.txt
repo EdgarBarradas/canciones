@@ -1,0 +1,11 @@
+letra={
+  titulo:"Os doy un mandato nuevo",
+  tonalidad:"C",
+  letra:`
+Os d[C]oy un mandato nu[C]evo,
+osd oy un mand[F]ato nu[C]evo. [C7]
+
+Que os am[F]eis,[G] que os am[Em]eis,[Am] como y[Dm]o os h[G]e am[C]ado, [C7]
+que os am[F]eis,[G] que os am[Em]eis,[Am] como y[Dm]o os h[G]e am[C]ado.
+`
+  };

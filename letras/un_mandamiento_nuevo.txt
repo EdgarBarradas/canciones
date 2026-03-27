@@ -1,0 +1,37 @@
+letra={
+  titulo:"Un mandamiento nuevo",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+[D]Un mandamiento nu[Bm]evo nos dio El Señ[A]or,
+qu[Em]e nos amáremos t[D]odos como [A]Él nos am[D]ó,
+qu[G]e nos amáremos t[D]odos como [A]Él nos am[D]ó.
+
+Acerc[D]aos, hermanos todos, que es Dios m[Em]ismo quien inv[G]i-t[D]a.
+	ESTRIBILLO
+
+Dios perd[D]ona nuestras culpas, a su m[Em]esa nos inv[G]i-t[D]a.
+	ESTRIBILLO
+
+El que no [D]ama a su hermano, no se ac[Em]erca a este conv[G]i-t[D]e.
+	ESTRIBILLO
+
+Perdon[D]emos al hermano, como Él m[Em]ismo nos perd[G]o-n[D]a.
+	ESTRIBILLO
+
+De su cu[D]erpo y de su sangre, se hace r[Em]eo quien no [G]a-m[D]a.
+	ESTRIBILLO
+
+Quien te c[D]ome y no te ama, a si m[Em]ismo se cond[G]e-n[D]a.
+	ESTRIBILLO
+
+Lo que hag[D]amos al hermano, a Dios m[Em]ismo se lo hac[G]e-m[D]os.
+	ESTRIBILLO
+
+Quien no ame a su hermano, miente si [Em]a Dios dice que a-m[D]a.
+	ESTRIBILLO
+
+La señ[D]al de los cristianos, es am[Em]arse como herm[G]a-n[D]os.
+	ESTRIBILLO
+`
+  };
