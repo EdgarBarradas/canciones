@@ -3,21 +3,21 @@ letra={
   tonalidad:"D",
   letra:`
 	ESTRIBILLO
-Hosanna h[D]ey, hosanna h[Bm]a, hosanna h[G]ey hosanna h[A]ey hosanna [D]ah. (2)
+Hosanna h[D]ey, hosanna [Bm]ah, hosanna h[G]ey hosanna h[A]ey hosanna [D]ah. (2)
 
-Él es el santo, es el hijo de Mar[Bm]ía,
+Él es el s[D]anto, es el hijo de Mar[Bm]ía,
 es el Dios de Isra[G]el, es el hijo de Dav[A]id. (2)
 	ESTRIBILLO
 
-Vamos a Él, con espigas de mil tr[Bm]igos,
+Vamos a [D]Él, con espigas de mil tr[Bm]igos,
 y con mil ramos de ol[G]ivos, simpre alegres siempre en p[A]az.(2)
 	ESTRIBILLO
 
-Es el Cristo, es el unificad[Bm]or,
+Es el Cr[D]isto, es el unificad[Bm]or,
 es hosanna en las alt[G]uras, es hosanna en el am[A]or. (2)
 	ESTRIBILLO
 
-Es la alegría, es la razón de mi exist[Bm]ir,
+Es la alegr[D]ía, es la razón de mi exist[Bm]ir,
 es la vida de mi v[G]ida, es consuelo en mi sufr[A]ir. (2)
 	ESTRIBILLO
 `
