@@ -8,17 +8,17 @@ de t[D]i viene la v[G]id[D]a, de T[G]i, la salvaci[D]ón.
 
 Oh Cruz fi[Dm]el, el más n[F]oble de t[G]odos los [A]árboles,
 ningún b[Dm]osque ha produc[F]ido jam[G]ás otro igu[A]al,
-en h[Gm]o-o-jas, en fl[Dm]o-o-res, en fr[A]u-uto sin p[D]ar. 
+en h[Gm]ojas, en fl[Dm]ores, en fr[A]uto sin p[D]ar. 
 	ESTRIBILLO
 
 Ensalc[Dm]emos la gl[F]oria del tri[G]unfo en la l[A]ucha,
 y cant[Dm]emos la vict[F]oria de Cr[G]isto el Señ[A]or;
-al m[Gm]u-und-o lo s[Dm]a-a-alva con mu[A]e-erte de Cr[D]uz.
+al m[Gm]undo lo s[Dm]alva con mu[A]erte de Cr[D]uz.
 	ESTRIBILLO
 
 De un [Dm]árbol nos v[F]ino la mu[G]erte a los h[A]ombres,
 y de un [Dm]árbol viene al m[F]undo s[G]u salvaci[A]ón;
-la mu[Gm]e-e-erte es venc[Dm]i-i-ida por Cr[A]i-isto en la Cr[D]uz.
+la mu[Gm]erte es venc[Dm]ida por Cr[A]isto en la Cr[D]uz.
 	ESTRIBILLO
 `
   };
