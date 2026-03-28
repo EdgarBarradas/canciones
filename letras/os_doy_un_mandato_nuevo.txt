@@ -3,7 +3,7 @@ letra={
   tonalidad:"C",
   letra:`
 Os d[C]oy un mand[F]ato nu[C]evo,
-osd oy un mand[F]ato nu[C]evo. [C7]
+os doy un mand[F]ato nu[C]evo. [C7]
 
 Que os am[F]eis, que os am[Em]eis, como y[F]o os h[G]e am[C]ado, [C7]
 que os am[F]eis, que os am[Em]eis, como y[F]o os h[G]e am[C]ado.
