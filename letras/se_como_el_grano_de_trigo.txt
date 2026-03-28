@@ -11,13 +11,12 @@ y aunque te duela la mu[D]erte de hoy, mira la espiga que cr[A]ece.
 [D] fecundadas de la s[A]angre de aquel,[E] que dio su vida por [A]ella.
 Ci[A]udad nueva, d[E]el amor,[F#m] donde vivirá su pu[C#m]eblo,
 [D] que de los brazos de su du[A]eño nació,[E] sostenido de un mad[A]ero.
-
 	ESTRIBILLO
+
 Y[A]o mi vida, he d[E]e entregar,[F#m] para aumentar la cos[C#m]echa,
 [D] que el sembrador al fin[A]al buscará,[E] y dejará ser et[A]erna.
 [A]Un día al Padre, v[E]olveré,[F#m] a descubrir el secr[C#m]eto,
 [D] de la semilla de tr[A]igo que fiel,[E] guardó su herencia en el ci[A]elo.
 	ESTRIBILLO
-
 `
   };
