@@ -3,7 +3,7 @@ letra={
   tonalidad:"C",
   letra:`
 Pon tu m[C]ano en la mano de aquel que te da la m[G]ano,
-pon tu mano en la mano de aquel que te dice: v[C]en.
+pon tu m[F]ano en la mano de aqu[G]el que te dice: v[C]en.
 
 Él ser[C7]á tu amigo, para l[F]a eternid[Fm]ad,
 pon tu m[C]ano en la mano de aqu[G]el que te da la p[C]az. [F] [C]
