@@ -5,7 +5,7 @@ letra={
 [A]
 	ESTRIBILLO
 Sé cómo el grano de tr[D]igo que cae, en ti[E]erra y desapar[A]ece,
-y aunque te duela la mu[D]erte de hoy, mira la espiga que cr[A]ece.
+y aunque te duela la mu[D]erte de hoy,[E] mira la espiga que cr[A]ece.
 
 [A]Un trigal, ser[E]á mi iglesia,[F#m] que tomará mis entr[C#m]egas,
 [D] fecundadas de la s[A]angre de aquel,[E] que dio su vida por [A]ella.
