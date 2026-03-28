@@ -1,0 +1,26 @@
+letra={
+  titulo:"Alégrate Jerusalén",
+  tonalidad:"E",
+  letra:`
+	ESTRIBILLO
+Alégrat[E]e, Jerusalén, que se re[B]únan cuantos te aman,
+compartan s[C#m]u alegría, los que est[B]aban tristes,
+vengan [A]a saciarse c[Am]on su felicid[E]ad. (2)
+
+Como n[E]iños serán llevados en el reg[C#m]azo,
+y acarici[F#m]ados, sobre sus rod[B]illas.
+	ESTRIBILLO
+
+Como un h[E]ijo a quien su madre consu[C#m]ela,
+as[F#m]í los consolaré y[B]o.
+	ESTRIBILLO
+
+Al ver [E]esto se alegrará su coraz[C#m]ón,
+y sus hu[F#m]esos florecerán como un pr[B]ado.
+
+Alégrat[E]e, Jerusalén, que se re[B]únan cuantos te aman,
+compartan s[C#m]u alegría, los que est[B]aban tristes,
+vengan [A]a saciarse c[Am]on su felicid[E]ad,
+vengan [A]a saciarse c[Am]on su felicid[E]ad.
+`
+  };

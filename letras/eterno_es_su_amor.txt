@@ -1,0 +1,24 @@
+letra={
+  titulo:"Eterno es su amor",
+  tonalidad:"G",
+  letra:`
+[G] [G7]
+	ESTRIBILLO
+Te alab[C]amos Di[D]os del ci[G]elo,[Em] te alab[C]amos Señ[D]or del univ[Bm]ers[Em]o,
+p[C]orque [D]eres bu[Bm]en[Em]o, porque et[C]erno [D]es su am[G]or. (2)
+
+Al Di[G]os de los di[Bm]oses, d[C]ém[Am]osle gr[D]acias,
+al Señ[Em]or de los señ[Bm]ores, p[C]or su mis[Am]eric[D]ordia.
+	ESTRIBILLO
+
+Al [G]único que hace marav[Bm]illas, gl[C]ori[Am]a y hon[D]or,
+al que h[Em]izo sabiamente los ci[Bm]elos, gr[C]aci[Am]as por si[D]empre.
+	ESTRIBILLO
+
+A quien nos recu[G]erda cuando estamos abat[Bm]idos, t[C]oda ador[Am]aci[D]ón,
+al que nos l[Em]ibra de nuestros enem[Bm]igos, gr[C]aci[Am]as Señ[D]or.
+	ESTRIBILLO
+
+Et[Cm]erno es su am[G]or.
+`
+  };

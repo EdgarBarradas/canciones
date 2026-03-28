@@ -1,0 +1,22 @@
+letra={
+  titulo:"Alabo tu bondad",
+  tonalidad:"A",
+  letra:`
+T[A]odo mi ser canta h[E]oy, por las c[D]osas, que hay en m[A]í,
+gracias te doy mi Señ[E]or, Tú me h[D]aces tan fel[A]iz.
+T[D]ú me has regal[E]ado tu amist[A]ad, conf[C#]ío en T[F#m]i, me ll[A]enas d[D]e tu p[E]az,
+T[D]ú me haces sent[E]ir tu gran bond[A]ad, yo c[C#]antar[F#m]é por si[A]empre t[E]u fidelid[A]ad.
+
+	ESTRIBILLO
+Gl[A]oria a T[E]i, Señ[Bm]or, por tu bond[F#m]ad,
+gl[D]ori[E]a, gl[F#m]ori[C#m]a, si[D]empre cantar[A]é t[D]u fidelid[E]ad.
+Gl[A]oria a T[E]i, Señ[Bm]or, por tu bond[F#m]ad,
+gl[D]ori[E]a, gl[F#m]ori[C#m]a, si[D]empre cantar[A]é t[E]u fidelid[A]ad.
+
+Si[A]empre a tu lado estar[E]é, alab[D]ando tu bond[A]ad,
+a mis hermanos dir[E]é el gran g[D]ozo que hallo en T[A]i.
+[D]En Ti podrán si[E]empre encontr[A]ar fid[C#]elid[F#m]ad, confi[A]anza [D]y amist[E]ad,
+n[D]unca fallar[E]á tu gran am[A]or, ni t[C#]u perd[F#m]ón, me qui[A]eres t[E]al como s[A]oy.
+	ESTRIBILLO
+`
+  };

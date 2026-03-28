@@ -1,0 +1,31 @@
+letra={
+  titulo:"Cristo, luz de los pueblos",
+  tonalidad:"C",
+  letra:`
+
+	ESTRIBILLO
+Proclam[C]emos el r[Dm]eino de la v[C]ida, aclamemos el tri[F]unfo del Señ[G]or,
+celebr[Dm]emos ya t[E]odos redim[Am]idos, el banqu[F]ete del P[Dm]an y del Am[G]or.
+¡Cr[C]isto, l[F]uz de los pu[C]eblos, alel[F]uy[G]a!
+¡Cr[C]isto, l[F]uz de los pu[C]eblos, pascua y lib[C]er[G]aci[C]ón! 
+
+
+Por t[C]odos los cam[Dm]inos de la ti[C]erra, lleg[B]amos hasta T[Em]i,
+carg[C]ados de pes[Dm]ares y esper[C]anzas, te busc[F]amos a T[G]i,
+tu me[C]sa es nuestro m[G]undo, que el p[Am]an multiplic[G]aste,
+tu v[C]ino nos al[Dm]egra el c[F]oraz[G]ón.
+	ESTRIBILLO
+
+Sembr[C]aste el evang[Dm]elio en nuestros s[C]urcos, flor[B]ece la verd[Em]ad,
+mad[C]ura contra el h[Dm]ambre el fruto ci[C]erto, de la fr[F]aternid[G]ad.
+tu am[C]or y tu just[G]icia, destr[Am]uyen las front[G]eras,
+la p[C]az es fin de l[Dm]a trib[F]ulaci[G]ón.
+	ESTRIBILLO
+
+Har[C]emos de esta ti[Dm]erra ya tu c[C]asa, la nu[B]eva humanid[Em]ad,
+un[C]idos los herm[Dm]anos brindar[C]emos, con tu v[F]ino y tu p[G]an,
+de g[C]ozo revest[G]idos, la v[Am]ida cantar[G]emos,
+que n[C]os ganaste en t[Dm]u res[F]urrecci[G]ón.
+	ESTRIBILLO
+`
+  };

@@ -1,0 +1,29 @@
+letra={
+  titulo:"Que detalle Señor",
+  tonalidad:"G",
+  letra:`
+	ESTRIBILLO
+Que det[G]alle Señor has ten[D]ido conm[G]igo,
+cuando me llam[D]aste, cuando me eleg[G]iste,
+cuando me dij[C]iste que Tú [D]eras mi am[G]igo,
+que detalle Señor has ten[D]ido conm[G]igo.
+
+Te acercaste a mi puerta pronunciaste mi n[D]ombre,
+yo temblando te dije aquí estoy Señ[G]or, [G7]
+Tú me hablaste de un r[C]eino,[A] de un tesoro escond[D]ido,
+de un mensaje frat[C]erno que encendi[D]ó mi ilusi[G]ón.
+	ESTRIBILLO
+
+Yo deje casa y pueblo por seguir tu avent[D]ura,
+codo a codo contigo empecé a camin[G]ar, [G7]
+han pasado los [C]años,[A] y aunque apriete el cans[D]ancio,
+paso a paso te s[C]igo sin mir[D]ar hacia atr[G]ás.
+	ESTRIBILLO
+
+Que alegría yo siento cuando digo tu n[D]ombre,
+que sosiego me inunda cuando oigo tu v[G]oz, [G7]
+que emoción me estrem[C]ece,[A] cuando escucho en sil[D]encio,
+tu palabra que av[C]iva mi sil[D]encio interi[G]or.
+	ESTRIBILLO
+`
+  };

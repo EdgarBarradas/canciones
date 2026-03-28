@@ -1,0 +1,36 @@
+letra={
+  titulo:"Nada es imposible para Ti",
+  tonalidad:"C",
+  letra:`
+[C]¿Por qué tengo mi[F]edo? Si n[G]ada es imposible para T[C]i,
+¿por qu[Em]é tengo mi[Am]edo? Si n[F]ada es impos[G]ible para T[C]i. (2)
+
+¿Por qué tengo trist[F]eza? Si n[G]ada es imposible para T[C]i,
+¿por qué t[Em]engo tristeza? Si n[F]ada es impos[G]ible para T[C]i. (2)
+
+	ESTRIBILLO
+Nada es impos[G]ible para T[C]i, nada es impos[G]ible para T[C]i.
+
+¿Por qué tengo d[F]udas? Si n[G]ada es imposible para T[C]i,
+¿por qu[Em]é tengo d[Am]udas? Si n[F]ada es impos[G]ible para T[C]i. (2)
+
+Enséñame a am[F]ar, porque n[G]ada es imposible para T[C]i,
+enséñ[Em]ame a am[Am]ar, porque n[F]ada es impos[G]ible para T[C]i.
+Enséñame a perdon[F]ar, porque n[G]ada es imposible para T[C]i,
+enséñ[Em]ame a perdon[Am]ar, porque n[F]ada es impos[G]ible para T[C]i.
+	ESTRIBILLO
+
+Tú te hiciste h[F]ombre, porque n[G]ada es imposible para T[C]i,
+Tú t[Em]e hiciste h[Am]ombre, porque n[F]ada es impos[G]ible para T[C]i. (2)
+
+Tú venciste la mu[F]erte, porque n[G]ada es imposible para T[C]i,
+Tú venc[Em]iste la mu[Am]erte, porque n[F]ada es impos[G]ible para T[C]i.
+Tú estás entre nos[F]otros, porque n[G]ada es imposible para T[C]i,
+Tú estás [Em]entre nos[Am]otros, porque n[F]ada es impos[G]ible para T[C]i.
+	ESTRIBILLO
+
+¿Por qué tengo mi[F]edo? Si n[G]ada es imposible para T[C]i,
+¿por qu[Em]é tengo mi[Am]edo? Si n[F]ada es impos[G]ible para T[C]i.
+	ESTRIBILLO
+`
+  };

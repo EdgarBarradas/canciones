@@ -1,0 +1,27 @@
+letra={
+  titulo:"Pequeñas aclaraciones",
+  tonalidad:"Am",
+  letra:`
+Cuando el p[Am]obre nada ti[E]ene y aún rep[Am]arte,
+cuando un h[F]ombre pasa s[G]ed y agua nos d[C]a,
+cuando el d[E]ébil a su hermano fortal[Am]ece,
+	ESTRIBILLO
+va Dios m[F]ismo en nuestro m[G]ismo camin[C]ar,
+va Dios m[Dm]ismo en nuestro mismo camin[Am]ar.
+
+Cuando s[Am]ufre un hombre y l[E]ogra la esper[Am]anza,
+cuando esp[F]era y no se c[G]ansa de esper[C]ar,
+cuando am[E]amos aunque el odio nos rod[Am]ee,
+	ESTRIBILLO
+
+Cuando cr[Am]ece la alegría y n[E]os in[Am]unda,
+cuando d[F]icen nuestros l[G]abios la verd[C]ad,
+cuando am[E]amos el sentir de los senc[Am]illos,
+	ESTRIBILLO
+
+Cuando ab[Am]unda el bien y t[E]odos lo comp[Am]arten,
+cuando el h[F]ombre donde hay gu[G]erra pone p[C]az,
+cuando herm[E]ano le llamamos al extr[Am]año,
+	ESTRIBILLO
+`
+  };
