@@ -4,27 +4,24 @@ letra={
   letra:`
 	ESTRIBILLO
 Es Jes[C]ús, Enm[F]anu[C]el, Dios con nos[Am]otr[Em]os, en este s[Am]acr[G]am[C]ento,
-v[G]en rec[C]íbelo, ad[F]óral[C]o, es Jes[Am]ús, nu[G]estr[F]o S[G]eñ[C]or.
+v[G]en rec[C]íbelo, ad[F]óral[C]o, es Jes[Am]ús, nu[G]estr[F]o S[G]eñ[C]or. [E]
 
-[E]
 [Am]Oh brillante estrella, [F]esplendor de Di[Am]os,
-ah[C]ora Pan de V[F]id[C]a, el Cu[Dm]erpo del Señ[G]or. 
+ah[C]ora Pan de Vida, el Cu[Dm]erpo del Señ[G]or. 
 V[Am]en con reverencia, rec[F]ibe con ferv[Am]or,
-El S[C]anto Sacram[F]ent[C]o, el C[Dm]ordero de Di[G]os.
+El S[C]anto Sacramento, el C[Dm]ordero de Di[G]os.
 	ESTRIBILLO
 
-[E]
 T[Am]oma el agua viva, que br[F]ota del Señ[Am]or,
-t[C]oma de este C[F]ál[C]iz, la S[Dm]angre del Señ[G]or. 
+t[C]oma de este Cáliz, la S[Dm]angre del Señ[G]or. 
 R[Am]ío de Salvación, p[F]urificad[Am]or,
-de[C]l costado d[F]e Jes[C]ús, br[Dm]ota redenci[G]ón.
+de[C]l costado de Jesús, br[Dm]ota redenci[G]ón.
 	ESTRIBILLO
 
-[E]
 S[Am]umo Sacerdote, S[F]oberano R[Am]ey, 
-C[C]ordero sin m[F]anch[C]a, V[Dm]íctima pascu[G]al. 
+C[C]ordero sin mancha, V[Dm]íctima pascu[G]al. 
 [Am]El Hijo del Padre su v[F]ida entreg[Am]ó, 
-fu[C]e dado en resc[F]at[C]e p[Dm]or nuestro perd[G]ón.
+fu[C]e dado en rescate p[Dm]or nuestro perd[G]ón.
 	ESTRIBILLO
 `
   };
