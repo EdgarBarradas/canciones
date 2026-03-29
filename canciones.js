@@ -11,7 +11,6 @@ function x(n){
 
 document.getElementById("notacion").addEventListener("change", function() {
   notacion=this.value;
-  console.log(la_letra)
   if (la_letra!=="x"){console.log(la_letra)}
   else {console.log(la_letra)}
 })
