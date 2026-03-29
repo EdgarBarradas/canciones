@@ -54,8 +54,8 @@ function pinta_linea_1(linea, bloque){
     }
 
     function alinear(linea_obj, contenedor, est){
-        acordes=acordes.map(n => x(n))
         acordes=linea_obj.acordes;letras=linea_obj.letras
+        acordes=acordes.map(n => x(n))      
         contenedor.innerHTML+="<div id='temp_acorde' class='acorde_"+est+"' style='display:inline-block;visibility:hidden'> </div><div id='temp_letra' class='letra_"+est+"' style='display:inline-block;visibility:hidden'> </div>"
         ta=document.getElementById('temp_acorde');tl=document.getElementById('temp_letra')
         ancho_espacio_acorde=ta.getBoundingClientRect().width
