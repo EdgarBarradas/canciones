@@ -8,7 +8,8 @@ function x(ing){
 }
 
 function actualizar_notacion(){
-  notac=document.getElementById('temp_acorde').value
+  notacion=document.getElementById('temp_acorde').value
+  console.log(notacion)
 }
 
 function reverse_indexes(texto,cadena){
