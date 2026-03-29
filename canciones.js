@@ -10,7 +10,7 @@ function x(n){
      if (n.length>0){
         return notes_converter[notes_converter.indexOf(n[0])+7]+n.slice(1)
      }
-    else{return n
+    else{return n}
   }
 }
 
