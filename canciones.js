@@ -137,7 +137,7 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
 
 function transponer(nuevo){////////////////////////////------Esta función realiza la trasposcón de acordes de una canción mostrada
       final=nuevo
-      actual=document.getElementById("tonalidad").innerHTML
+      actual=document.getElementById("tonalidad").value
       actual=actual.replace("tonalidad: ","")
       console.log(actual)
       console.log(nuevo)
