@@ -2,10 +2,10 @@ letra={
   titulo:"Adviento",
   tonalidad:"D",
   letra:`
-[D]Adviento, [A]Adviento, vi[Dm]ene el Señ[G]or.
-Prepar[D]emos s[A]us cam[D]inos, abri[G]éndole las pu[D]ertas de nu[A]estro coraz[D]ón. [A].
+[D]Adviento, [A]Adviento, vi[D]ene el Señ[G]or.
+Prepar[D]emos s[A]us camin[D]os, abri[G]éndole las pu[D]ertas de nu[A]estro coraz[D]ón. [A]
 
-[D]Adviento, [A]Adviento, vi[Dm]ene el Señ[G]or.
-Prepar[D]emos s[A]us cam[D]inos, abri[G]éndole las pu[D]ertas de nu[A]estro coraz[D]ón.
+[D]Adviento, [A]Adviento, vi[D]ene el Señ[G]or.
+Prepar[D]emos s[A]us camin[D]os, abri[G]éndole las pu[D]ertas de nu[A]estro coraz[D]ón.
 `
   };
