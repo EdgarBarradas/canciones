@@ -115,14 +115,14 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci√
     tonalidades_m.forEach((t,i)=>{
       if (letra.tonalidad===t){s=" selected"}
       else{s=""}
-      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
+      document.getElementById("transponer").innerHTML += '<option value="'+x(t)+'"'+s+'>'+t+'</option>'
       })
   }
   else{
     tonalidades.forEach((t,i)=>{
       if (letra.tonalidad===t){s=" selected"}
       else{s=""}
-      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+t+'</option>'
+      document.getElementById("transponer").innerHTML += '<option value="'+x(t)t+'"'+s+'>'+t+'</option>'
       })
   }
 
@@ -156,7 +156,7 @@ function transponer(nuevo){////////////////////////////------Esta funci√≥n reali
       })
       letra.tonalidad=final
       document.getElementById("bloque_letra").innerHTML=" "
-      //crear_bloque_letra(letra) 
+      la_letra=letra
       crear_bloque_letra(letra)
 }
 
