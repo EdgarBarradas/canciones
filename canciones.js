@@ -107,7 +107,7 @@ function pinta_linea_1(linea, bloque){
 function crear_bloque_letra(letra){////////////////////////////------Esta función dibuja el bloque de la letra y los acordes de una canción
   la_letra=letra
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
-  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad" data-value=${letra.tonalidad}>tonalidad: '+x(letra.tonalidad)+'</h3>'
+  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad" data-value="'+letra.tonalidad+'>tonalidad: '+x(letra.tonalidad)+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
   document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
   
