@@ -139,8 +139,8 @@ function transponer(nuevo){////////////////////////////------Esta función reali
       console.log(nuevo)
       final=nuevo
       actual=document.getElementById("tonalidad").innerHTML
-      console.log(actual)
       actual=actual.replace("tonalidad: ","")
+      console.log(actual)
       document.getElementById("tonalidad").innerHTML="tonalidad: "+nuevo
     
       if (actual.charAt(actual.length - 1)==='m'){
