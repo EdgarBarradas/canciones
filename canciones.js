@@ -42,7 +42,7 @@ function pinta_linea_1(linea, bloque){
         for (let i=0;i<text.length;i++){
             if (text[i]=='['){next='acorde_nuevo';acordes.push('')}
             else if (text[i]==']'){next='letra_nueva';letras.push('')}
-            else if (next=='acorde_nuevo'){acordes[acordes.length-1]+=text[i]}
+            else if (next=='acorde_nuevo'){acordes[acordes.length-1]+=x(text[i])}
             else if (next=='letra_nueva'){letras[letras.length-1]+=text[i]}
         }
         if (letras.length<acordes.length){letras.push('')}
