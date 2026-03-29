@@ -8,7 +8,8 @@ function x(ing){
 }
 
 document.getElementById("notacion").addEventListener("change", function() {
-  console.log(this.value);
+  notacion=this.value;
+  console.log(notacion)
 })
 
 function actualizar_notacion(){
