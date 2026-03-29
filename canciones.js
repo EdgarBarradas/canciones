@@ -107,7 +107,7 @@ function pinta_linea_1(linea, bloque){
 function crear_bloque_letra(letra){////////////////////////////------Esta función dibuja el bloque de la letra y los acordes de una canción
   la_letra=letra
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
-  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad" value=letra.tonalidad>tonalidad: '+x(letra.tonalidad)+'</h3>'
+  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad" value=${letra.tonalidad}>tonalidad: '+x(letra.tonalidad)+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
   document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
   
@@ -138,6 +138,7 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
 function transponer(nuevo){////////////////////////////------Esta función realiza la trasposcón de acordes de una canción mostrada
       final=nuevo
       actual=document.getElementById("tonalidad").value
+      console.log(actual)
       actual=actual.replace("tonalidad: ","")
       console.log(actual)
       console.log(nuevo)
@@ -237,107 +238,4 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
 }
  
 listarCanciones("canciones.txt")
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
