@@ -21,7 +21,6 @@ document.getElementById("notacion").addEventListener("change", function() {
 
 function actualizar_notacion(){
   notacion=document.getElementById('temp_acorde').value
-  console.log(notacion)
 }
 
 function reverse_indexes(texto,cadena){
@@ -138,10 +137,7 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
 function transponer(nuevo){////////////////////////////------Esta función realiza la trasposcón de acordes de una canción mostrada
       final=nuevo
       actual=document.getElementById("tonalidad").dataset.value
-      console.log(actual)
       actual=actual.replace("tonalidad: ","")
-      console.log(actual)
-      console.log(nuevo)
       document.getElementById("tonalidad").innerHTML="tonalidad: "+nuevo
     
       if (actual.charAt(actual.length - 1)==='m'){
