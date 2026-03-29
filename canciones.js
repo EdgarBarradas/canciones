@@ -11,8 +11,9 @@ function x(n){
 
 document.getElementById("notacion").addEventListener("change", function() {
   notacion=this.value;
-  if (la_letra!=="x"){console.log(la_letra)}
-  else {console.log(la_letra)}
+  crear_bloque_letra(letra)
+  //if (la_letra!=="x"){console.log(la_letra)}
+  //else {console.log(la_letra)}
 })
 
 function actualizar_notacion(){
