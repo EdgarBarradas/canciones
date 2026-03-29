@@ -7,10 +7,10 @@ la_letra='x'
 function x(n){
   if (notacion=='Inglesa'){return n}
   if (notacion=='Latina'){
-    console.log(n)
-    sufix=n.slice(1)
-    console.log(sufix)
-    return notes_converter[notes_converter.indexOf(n[0])+7]+sufix
+     if (n.length>0){
+        return notes_converter[notes_converter.indexOf(n[0])+7]+n.slice(1)
+     }
+    else{return n
   }
 }
 
@@ -45,7 +45,7 @@ function pinta_linea_1(linea, bloque){
         for (let i=0;i<text.length;i++){
             if (text[i]=='['){next='acorde_nuevo';acordes.push('')}
             else if (text[i]==']'){next='letra_nueva';letras.push('')}
-            else if (next=='acorde_nuevo'){acordes[acordes.length-1]+=x(text[i])}
+            else if (next=='acorde_nuevo'){acordes[acordes.length-1]+=text[i]}
             else if (next=='letra_nueva'){letras[letras.length-1]+=text[i]}
         }
         if (letras.length<acordes.length){letras.push('')}
@@ -54,6 +54,7 @@ function pinta_linea_1(linea, bloque){
     }
 
     function alinear(linea_obj, contenedor, est){
+        acordes=acordes.map(n => x(n))
         acordes=linea_obj.acordes;letras=linea_obj.letras
         contenedor.innerHTML+="<div id='temp_acorde' class='acorde_"+est+"' style='display:inline-block;visibility:hidden'> </div><div id='temp_letra' class='letra_"+est+"' style='display:inline-block;visibility:hidden'> </div>"
         ta=document.getElementById('temp_acorde');tl=document.getElementById('temp_letra')
