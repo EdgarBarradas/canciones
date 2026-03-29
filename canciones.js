@@ -7,6 +7,10 @@ function x(ing){
   return ing
 }
 
+document.getElementById("notacion").addEventListener("change", function() {
+  console.log(this.value);
+})
+
 function actualizar_notacion(){
   notacion=document.getElementById('temp_acorde').value
   console.log(notacion)
