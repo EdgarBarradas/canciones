@@ -6,7 +6,9 @@ la_letra='x'
 
 function x(n){
   if (notacion=='Inglesa'){return n}
-  if (notacion=='Latina'){return '8'}
+  if (notacion=='Latina'){
+    return notes_converter.indexOf(n[0])
+  }
 }
 
 document.getElementById("notacion").addEventListener("change", function() {
