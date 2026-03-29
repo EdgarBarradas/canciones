@@ -1562,7 +1562,7 @@ canciones = [
       {
         "titulo":"Oh, Dios, ¿por qué?",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Vía Crucis"],
+        "misas":["No filtrar","Vía Crucis","Domingo de Ramos"],
         "momentos":["No filtrar"],
         "audio":"audios/oh_dios_por_que.mp4",
         "tono_audio":"A",
