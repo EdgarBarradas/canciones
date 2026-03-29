@@ -7,7 +7,7 @@ la_letra='x'
 function x(n){
   if (notacion=='Inglesa'){return n}
   if (notacion=='Latina'){
-    return notes_converter.indexOf(n[0])
+    return notes_converter[notes_converter.indexOf(n[0])]+n.slice(1)
   }
 }
 
