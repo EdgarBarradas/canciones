@@ -5,7 +5,7 @@ notacion='Inglesa'
 
 function x(n){
   if (notacion=='Inglesa'){return n}
-  if (notacion=='Latina'){return n}
+  if (notacion=='Latina'){return '8'}
 }
 
 document.getElementById("notacion").addEventListener("change", function() {
