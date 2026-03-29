@@ -3,13 +3,13 @@ tonalidades_m=['Cm','C#m','Dm','D#m','Em','Fm','F#m','Gm','G#m','Am','A#m','Bm']
 notes_converter=['A','B','C','D','E','F','G','La','Si','Do','Re','Mi','Fa','Sol']
 notacion='Inglesa'
 
-function x(ing){
-  return ing
+function x(n){
+  if (notacion=='Inglesa'){return n}
+  if (notacion=='Latina'){return n}
 }
 
 document.getElementById("notacion").addEventListener("change", function() {
   notacion=this.value;
-  console.log(notacion)
 })
 
 function actualizar_notacion(){
@@ -98,7 +98,7 @@ function pinta_linea_1(linea, bloque){
 
 function crear_bloque_letra(letra){////////////////////////////------Esta función dibuja el bloque de la letra y los acordes de una canción
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
-  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+letra.tonalidad+'</h3>'
+  document.getElementById("bloque_letra").innerHTML += '<h3 id="tonalidad">tonalidad: '+${letra.tonalidad}+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label>Transponer a:</label>'
   document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
   
