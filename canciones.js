@@ -115,14 +115,14 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funciÃ
     tonalidades_m.forEach((t,i)=>{
       if (letra.tonalidad===t){s=" selected"}
       else{s=""}
-      document.getElementById("transponer").innerHTML += '<option value="'+x(t)+'"'+s+'>'+t+'</option>'
+      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+x(t)+'</option>'
       })
   }
   else{
     tonalidades.forEach((t,i)=>{
       if (letra.tonalidad===t){s=" selected"}
       else{s=""}
-      document.getElementById("transponer").innerHTML += '<option value="'+x(t)+'"'+s+'>'+t+'</option>'
+      document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+x(t)+'</option>'
       })
   }
 
