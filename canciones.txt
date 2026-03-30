@@ -1715,7 +1715,7 @@ canciones = [
       {
         "titulo":"Doxología",
         "tiempos":["No filtrar","Pascua"],
-        "misas":["No filtrar","Pascua de Resurrección"],
+        "misas":["No filtrar","Domingo de Ramos","Pascua de Resurrección"],
         "momentos":["No filtrar"],
         "audio":"audios/doxologia",
         "tono_audio":"",
