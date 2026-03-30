@@ -1571,7 +1571,7 @@ canciones = [
       {
         "titulo":"Pedro te negó tres veces",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Vía Crucis"],
+        "misas":["No filtrar","Vía Crucis","Viernes Santo"],
         "momentos":["No filtrar"],
         "audio":"audios/pedro_te_nego_tres_veces.mp4",
         "tono_audio":"D#m",
@@ -1580,7 +1580,7 @@ canciones = [
       {
         "titulo":"Pequé, pequé, Dios mío",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Vía Crucis"],
+        "misas":["No filtrar","Vía Crucis","Viernes Santo"],
         "momentos":["No filtrar"],
         "audio":"audios/xxxxxxxxxxx",
         "tono_audio":"",
@@ -1589,7 +1589,7 @@ canciones = [
       {
         "titulo":"Perdona a tu pueblo, Señor",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Vía Crucis"],
+        "misas":["No filtrar","Vía Crucis","Viernes Santo"],
         "momentos":["No filtrar"],
         "audio":"audios/xxxxxxxxxxx",
         "tono_audio":"",
