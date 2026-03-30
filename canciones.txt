@@ -2470,7 +2470,7 @@ canciones = [
       },
       {
         "titulo":"Os doy un mandato nuevo",
-        "tiempos":["No filtrar","Cuaresma"],
+        "tiempos":["No filtrar","Cuaresma","Jueves Santo"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/os_doy_un_mandato_nuevo",
@@ -2479,7 +2479,7 @@ canciones = [
       },
       {
         "titulo":"Un mandamiento nuevo",
-        "tiempos":["No filtrar","Cuaresma"],
+        "tiempos":["No filtrar","Cuaresma","Jueves Santo"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/un_mandamiento_nuevo",
