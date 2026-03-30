@@ -1220,7 +1220,7 @@ canciones = [
       {
         "titulo":"Reina del cielo A",
         "tiempos":["No filtrar","Pascua"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Pascua de Resurrección"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -1229,7 +1229,7 @@ canciones = [
       {
         "titulo":"Reina del cielo m",
         "tiempos":["No filtrar","Pascua"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Pascua de Resurrección"],
         "momentos":["No filtrar","Marianos"],
         "audio":"no hay",
         "tono_audio":"x",
@@ -2237,7 +2237,7 @@ canciones = [
       {
         "titulo":"Reina del cielo L",
         "tiempos":["No filtrar","Pascua"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Pascua de Resurrección"],
         "momentos":["No filtrar"],
         "audio":"audios/reina_del_cielo_l",
         "tono_audio":"",
@@ -2470,8 +2470,8 @@ canciones = [
       },
       {
         "titulo":"Os doy un mandato nuevo",
-        "tiempos":["No filtrar","Cuaresma","Jueves Santo"],
-        "misas":["No filtrar"],
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar","Jueves Santo"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/os_doy_un_mandato_nuevo",
         "tono_audio":"x",
@@ -2479,8 +2479,8 @@ canciones = [
       },
       {
         "titulo":"Un mandamiento nuevo",
-        "tiempos":["No filtrar","Cuaresma","Jueves Santo"],
-        "misas":["No filtrar"],
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar","Jueves Santo"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/un_mandamiento_nuevo",
         "tono_audio":"x",
