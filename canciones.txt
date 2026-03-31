@@ -2345,7 +2345,7 @@ canciones = [
       {
         "titulo":"Rostro Santo de Cristo",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Viernes Santo"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/rostro_santo_de_cristo",
         "tono_audio":"",
