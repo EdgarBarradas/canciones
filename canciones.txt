@@ -2585,6 +2585,33 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/se_como_el_grano_de_trigo.txt",
       },
+      {
+        "titulo":"Cristo, maravilloso eres",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Acción de gracias","Adoración"],
+        "audio":"audios/cristo_maravilloso_eres_tu",
+        "tono_audio":"x",
+        "txt":"letras/cristo_maravilloso_eres_tu.txt",
+      },
+      {
+        "titulo":"No adoreis a nadie más",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Acción de gracias","Adoración"],
+        "audio":"audios/no_adoreis_a_nadie_mas",
+        "tono_audio":"x",
+        "txt":"letras/no_adoreis_a_nadie_mas.txt",
+      },
+      {
+        "titulo":"Cristo por nosotros",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar","Viernes Santo"],
+        "momentos":["No filtrar"],
+        "audio":"audios/cristo_por_nosotros",
+        "tono_audio":"x",
+        "txt":"letras/cristo_por_nosotros.txt",
+      },
 ]
 
 
