@@ -1,0 +1,11 @@
+letra={
+  titulo:"Cristo por nosotros",
+  tonalidad:"Dm",
+  letra:`
+Cr[Dm]isto por nosotros se s[C]ometi[F]ó,
+incl[Gm]uso a la mu[A]erte, y una mu[A#]erte de cr[A]uz.
+
+Por [A7]eso Dios lo levant[Dm]o sobre t[A]odo,
+[Gm]y le concedi[Dm]ó el n[A#]ombre s[A]obre todo n[A7]ombr[Dm]e.
+`
+  };

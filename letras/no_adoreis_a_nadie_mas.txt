@@ -1,0 +1,29 @@
+letra={
+  titulo:"No adoreis a nadie más",
+  tonalidad:"C",
+  letra:`
+No ador[C]éis a nadie, a n[F]adie más que a [C]Él,
+no ador[Em]éis a nadie, a n[F]adie más que a [G]Él.
+
+	ESTRIBILLO
+No ador[F]éis a nadie, a n[G]adie más,
+no ador[Em]éis a nadie, a n[Am]adie más,
+no ador[C]éis a nadie, a n[F]adie m[G]ás que a [C]Él.
+
+Porque s[C]olo Él, os pu[F]ede sosten[C]er,
+porque s[Em]olo Él, os pu[F]ede sosten[G]er.
+	ESTRIBILLO
+
+No fij[C]éis los ojos, en n[F]adie más que en [C]Él,
+no fij[Em]éis los ojos, en n[F]adie más que en [G]Él.
+	ESTRIBILLO
+
+No sig[C]áis a nadie, a n[F]adie más que a [C]Él,
+no sig[Em]áis a nadie, a n[F]adie más que a [G]Él.
+	ESTRIBILLO
+
+No esper[C]éis a nadie, a n[F]adie más que a [C]Él,
+no esper[Em]éis a nadie, a n[F]adie más que a [G]Él.
+	ESTRIBILLO
+`
+  };
