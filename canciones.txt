@@ -2612,4 +2612,22 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/cristo_por_nosotros.txt",
       },
+      {
+        "titulo":"Tantum ergo",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar","Jueves Santo"],
+        "momentos":["No filtrar"],
+        "audio":"audios/tantum_ergo",
+        "tono_audio":"x",
+        "txt":"letras/tantum_ergo.txt",
+      },
+      {
+        "titulo":"Ubi caritas",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar","Jueves Santo"],
+        "momentos":["No filtrar"],
+        "audio":"audios/ubi_caritas",
+        "tono_audio":"x",
+        "txt":"letras/ubi_caritas.txt",
+      },
 ]
