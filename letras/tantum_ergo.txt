@@ -1,0 +1,15 @@
+letra={
+  titulo:"Tantum ergo",
+  tonalidad:"A",
+  letra:`
+Tantum [A]ergo Sacram[F#m]éntum, v[D]enerémur cérnu[C#m]i:
+Et ant[F#m]íquum docum[E]entum, n[D]ovo cedat r[Bm]ítu[E]i;
+Pr[A]æstet fides supplem[F#m]éntum ,s[D]énsuum d[E]eféct[A]ui.
+
+Genit[A]ori Genit[F#m]óque, l[D]aus et iubiláti[C#m]o;
+salus, h[F#m]onor, virtus qu[E]oque, s[D]it et bened[Bm]ícti[E]o;
+pr[A]ocedénti ab utr[F#m]óque, c[D]ompar sit laud[E]áti[A]o.
+
+[E]Am[A]en.
+`
+  };

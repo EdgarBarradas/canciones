@@ -1,0 +1,8 @@
+letra={
+  titulo:"Ubi caritas",
+  tonalidad:"F",
+  letra:`
+[F]Ubi c[C]arit[Dm]as, et [A#]am[C]or,
+[F]ubi c[C]arit[Dm]as, D[A#]eus [C]ibi [F]est.
+`
+  };
