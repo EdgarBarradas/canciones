@@ -2630,4 +2630,13 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/ubi_caritas.txt",
       },
+      {
+        "titulo":"Sigue habiendo",
+        "tiempos":["No filtrar","Cuaresma"],
+        "misas":["No filtrar","Jueves Santo"],
+        "momentos":["No filtrar"],
+        "audio":"audios/sigue_habiendo",
+        "tono_audio":"x",
+        "txt":"letras/sigue_habiendo.txt",
+      },
 ]
