@@ -1,0 +1,22 @@
+letra={
+  titulo:"Sigue habiendo",
+  tonalidad:"C",
+  letra:`
+[C]
+Sigue habiendo t[F]antos pies que lav[C]ar,
+sigue habiendo t[F]anta oscurid[C]ad que il[Am]uminar, [F]
+tantas cad[G]enas que romp[Em]e-[Am]er,
+pan y v[F]ino para el p[Dm]obre quiero s[G]er.
+[C]
+Sigue habiendo t[F]antos pies que lav[C]ar,
+sigue habiendo t[F]anta oscurid[C]ad que il[Am]uminar, [F]
+tantas cad[G]enas que romp[Em]e-[Am]er,
+pan y v[F]ino para el p[Dm]obre quiero s[G]er.
+[C]
+Sigue habiendo t[F]antos pies que lav[C]ar,
+sigue habiendo t[F]anta oscurid[C]ad que il[Am]uminar, [F]
+tantas cad[G]enas que romp[Em]e-[Am]er,
+fortal[F]ece Señ[Dm]or mi poca f[G]e. 
+[C]
+`
+  };
