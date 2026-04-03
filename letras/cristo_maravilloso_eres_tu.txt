@@ -3,7 +3,7 @@ letra={
   tonalidad:"C",
   letra:`
 [C] [C7]
-Crist[F]o,[G] maravilloso es T[Em]ú, [Am]
+Crist[F]o,[G] maravilloso eres T[Em]ú, [Am]
 eres tan bu[Dm]eno,[G] tan lleno de am[C]or. [C7]
 Brill[F]as,[G] como brilla el s[Em]ol, [Am]
 Crist[Dm]o,[G] maravilloso eres T[C]ú.  (n veces)
