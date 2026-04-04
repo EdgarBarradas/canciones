@@ -6,16 +6,16 @@ letra={
 Tu pal[C]abra m[C7]e da v[F]id[C]a, confío en Ti, Señ[G]or,
 tu pal[C]abra [C7]es  et[F]ern[C]a, en ella esp[G]erar[C]é.
 
-Dichoso el que con v[F]ida intach[C]able, camina en la l[G]ey del Señ[C]or.
-Dichoso el que guard[F]ando sus prec[C]eptos, lo busca de t[G]odo coraz[C]ón.
+Dichoso el que con v[F]ida intach[C]able, cam[G]ina en la ley del Señ[C]or.
+Dichoso el que guard[F]ando sus prec[C]eptos, lo b[G]usca de todo coraz[C]ón.
 	ESTRIBILLO
 
-Postrada en el p[F]olvo está mi [C]alma, devuélvame la v[G]ida tu pal[C]abra.
-Mi alma está ll[F]ena de trist[C]eza, consuélame, Señ[G]or, con tus prom[C]esas.
+Postrada en el p[F]olvo está mi [C]alma, devu[G]élvame la vida tu pal[C]abra.
+Mi alma está ll[F]ena de trist[C]eza, consu[G]élame, Señor, con tus prom[C]esas.
 	ESTRIBILLO
 
-Escogí el cam[F]ino verdad[C]ero, y he tenido pres[G]ente tus decr[C]etos.
-Correré por el cam[F]ino del Señor, cuando me hayas ensanch[G]ado el coraz[C]ón.
+Escogí el cam[F]ino verdad[C]ero, y he ten[G]ido presente tus decr[C]etos.
+Correré por el cam[F]ino del Señor, cuando me h[G]ayas ensanchado el coraz[C]ón.
 	ESTRIBILLO
 `
   };
