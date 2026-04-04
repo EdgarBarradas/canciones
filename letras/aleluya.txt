@@ -1,6 +1,6 @@
 letra={
   titulo:"Aleluya",
-  tonalidad:"G",
+  tonalidad:"C",
   letra:`
 [C]Aleluy[G]a, [F]aleluy[C]a, [Am]aleluy[Em]a,   [F]al[G]eluy[C]a, [G].
 [C]aleluy[G]a, [F]aleluy[C]a, [Am]aleluy[Em]a,   [F]al[G]eluy[C]a.
