@@ -3,8 +3,8 @@ letra={
   tonalidad:"C",
   letra:`
 	ESTRIBILLO
-Tu pal[C]abra m[C7]e da v[F]id[C]a, confío en Ti, Señ[G]or,
-tu pal[C]abra [C7]es  et[F]ern[C]a, en [F]ella esp[G]erar[C]é.
+Tu pal[C]abra me da v[F]id[C]a, confío en Ti, Señ[G]or,
+tu pal[C]abra es  et[F]ern[C]a, en [F]ella esp[G]erar[C]é.
 
 Dichoso el que con v[F]ida intach[C]able, cam[G]ina en la ley del Señ[C]or.
 Dichoso el que guard[F]ando sus prec[C]eptos, lo b[G]usca de todo coraz[C]ón.
