@@ -2639,4 +2639,13 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/sigue_habiendo.txt",
       },
+      {
+        "titulo":"Hemos visto al Señor",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/hemos_visto_al_señor",
+        "tono_audio":"x",
+        "txt":"letras/hemos_visto_al_señor.txt",
+      },
 ]
