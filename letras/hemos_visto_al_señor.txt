@@ -1,0 +1,34 @@
+letra={
+  titulo:"Hemos visto al Señor",
+  tonalidad:"D",
+  letra:`
+La p[D]az,[A] esté con ust[Bm]edes,
+como el P[G]adre me ha enviado as[Em]í los envío y[A]o.
+Rec[D]iban,[A] al Espíritu S[Bm]anto,
+a ust[G]edes entrego el reg[Em]alo de perdon[A]ar.
+
+	ESTRIBILLO
+Hemos visto al Señ[D]or,[A] hemos visto al Señ[Bm]or,
+[G]entre nosotros ha est[Em]ado y la paz nos dese[A]ó.
+Hemos visto al Señ[D]or,[A] hemos visto al Señ[Bm]or,
+c[G]omo el Padre lo ha envi[Em]ado Él también nos envi[A]ó.
+
+Tom[D]ás,[A] no estaba con [Bm]ellos,
+cuando v[G]ino Jesús y a su l[Em]ado, se present[A]ó.
+Si no v[D]eo,[A] la señal de los cl[Bm]avos,
+y no m[G]eto mi mano en la her[Em]ida no creer[A]é.
+	ESTRIBILLO
+
+Reun[D]idos,[A] a puerta cerr[Bm]ada,
+los disc[G]ípulos se encontr[Em]aban días despu[A]és.
+Tom[D]ás,[A] estaba con [Bm]ellos
+cu[G]ando de pronto Jes[Em]ús, se les present[A]ó.
+	ESTRIBILLO
+
+Aqu[D]í,[A] están mis m[Bm]anos,
+ac[G]erca tu dedo y tu m[Em]ano y no dudes m[A]ás.
+Señ[D]or,[A] y Dios m[Bm]ío,
+porque has v[G]isto tú crees fel[Em]iz el que cree sin v[A]er.
+	ESTRIBILLO
+`
+  };
