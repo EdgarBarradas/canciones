@@ -19,8 +19,8 @@ Reun[D]idos,[A] a puerta cerr[Bm]ada, los disc[G]ípulos se encontr[Em]aban día
 Tom[D]ás,[A] estaba con [Bm]ellos, cu[G]ando de pronto Jes[Em]ús, se les present[A]ó.
 	ESTRIBILLO
 
-Aqu[D]í,[A] están mis m[Bm]anos, ac[G]erca tu dedo y tu m[Em]ano y no dudes m[A]ás.
-Señ[D]or,[A] y Dios m[Bm]ío, porque has v[G]isto tú crees fel[Em]iz el que cree sin v[A]er.
+Aqu[G]í,[A] están mis m[F#m]anos,[Bm] ac[G]erca tu dedo y tu m[Em]ano y no dudes m[A]ás.
+Señ[G]or,[A] y Dios m[F#m]ío,[Bm] porque has v[G]isto tú crees fel[Em]iz el que cree sin v[A]er.
 	ESTRIBILLO
 `
   };
