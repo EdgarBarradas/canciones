@@ -2,7 +2,7 @@ letra={
   titulo:"Hemos visto al Señor",
   tonalidad:"D",
   letra:`
-La p[D]az,[A] esté con ust[Bm]edes, como el P[G]adre me ha enviado as[Em]í los envío y[A]o.
+La p[D]az,[A] esté con vos[Bm]otros, como el P[G]adre me ha enviado as[Em]í los envío y[A]o.
 Rec[D]iban,[A] al Espíritu S[Bm]anto, a ust[G]edes entrego el reg[Em]alo de perdon[A]ar.
 
 	ESTRIBILLO
