@@ -2648,4 +2648,13 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/hemos_visto_al_señor.txt",
       },
+      {
+        "titulo":"Jesús está vivo",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión","Adoración"],
+        "audio":"audios/jesus_esta_vivo",
+        "tono_audio":"x",
+        "txt":"letras/jesus_esta_vivo.txt",
+      },
 ]
