@@ -2657,4 +2657,13 @@ canciones = [
         "tono_audio":"x",
         "txt":"letras/jesus_esta_vivo.txt",
       },
+      {
+        "titulo":"Quédate con nosotros",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/quedate_con_nosotros",
+        "tono_audio":"x",
+        "txt":"letras/quedate_con_nosotros.txt",
+      },
 ]
