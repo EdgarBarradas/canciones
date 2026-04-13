@@ -2644,8 +2644,8 @@ canciones = [
         "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/hemos_visto_al_señor",
-        "tono_audio":"x",
+        "audio":"audios/hemos_visto_al_señor.mp4",
+        "tono_audio":"D",
         "txt":"letras/hemos_visto_al_señor.txt",
       },
       {
