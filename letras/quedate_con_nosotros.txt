@@ -2,7 +2,7 @@ letra={
   titulo:"Quedate con nosotros",
   tonalidad:"Em",
   letra:`
-[Em] [D] [C] [B]
+[Em] [D] [C] [Am] [Em] [B] [Em]
 	ESTRIBILLO
 Qu[Em]édat[D]e c[C]on nos[Em]otros, la t[Am]arde está cay[Em]endo, qu[B]édat[Em]e. (2)
 
