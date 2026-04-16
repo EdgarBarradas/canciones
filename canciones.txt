@@ -2662,8 +2662,17 @@ canciones = [
         "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/quedate_con_nosotros",
+        "audio":"audios/quedate_con_nosotros.mp4",
         "tono_audio":"x",
         "txt":"letras/quedate_con_nosotros.txt",
+      },
+      {
+        "titulo":"Te conocimos, Señor",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/te_conocimos_señor.mp4",
+        "tono_audio":"x",
+        "txt":"letras/te_conocimos_señor.txt",
       },
 ]
