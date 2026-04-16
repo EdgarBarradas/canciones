@@ -4,13 +4,13 @@ letra={
   letra:`
 [Em] [D] [C] [Am] [Em] [B] [Em]
 	ESTRIBILLO
-Qu[Em]édat[D]e c[C]on nos[Em]otros, la t[Am]arde está cay[Em]endo, qu[B]édat[Em]e. (2)
+Qu[Em]édat[D]e c[C]on n[B]os[Em]otros, la t[Am]arde está cay[Em]endo, qu[B]édat[Em]e. (2)
 
 ¿Cómo te enc[D]ontrar[G]emos, al d[Am]eclin[D]ar el d[G]ía, si tu cam[B]ino no es nuestro cam[Em]ino?
 Det[E7]ente con nos[Am]otros; la m[D]esa está serv[G]ida, cali[Em]ente el p[B]an, y envejecido el v[Em]ino.
 	ESTRIBILLO
 
-¿Cómo sabr[D]emos que [G]eres, un h[Am]ombre entr[D]e los h[G]ombres, si nos comp[B]artes nuestra mesa hum[Em]ilde?
+¿Cómo sabr[D]emos que [G]eres, un h[Am]ombre entr[D]e los h[G]ombres, si no comp[B]artes nuestra mesa hum[Em]ilde?
 Rep[E7]ártenos tu cu[Am]erpo, y el g[D]ozo irá alej[G]ando, la osc[Em]urid[B]ad que pesa sobre el h[Em]ombre.
 	ESTRIBILLO
 
@@ -19,7 +19,7 @@ Que el vi[E7]ento de la n[Am]oche, no ap[D]ague el fuego v[G]ivo, que n[Em]os de
 	ESTRIBILLO
 
 Arroja en nu[D]estras m[G]anos, tend[Am]idas [D]en tu b[G]usca, las ascuas [B]encendidas del Esp[Em]íritu
-y l[E7]impia en lo más h[Am]ondo, del c[D]orazón del h[G]ombre, tu im[Em]agen empaña[B]da por la c[Em]ulpa.
+y l[E7]impia en lo más h[Am]ondo, del c[D]orazón del h[G]ombre, tu im[Em]agen empañ[B]ada por la c[Em]ulpa.
 	ESTRIBILLO
 `
   };
