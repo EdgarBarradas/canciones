@@ -1,0 +1,26 @@
+letra={
+  titulo:"Te conocimos, Señor",
+  tonalidad:"Dm",
+  letra:`
+And[Dm]ando por el camino, t[A]e tropezamos, Señ[Dm]or,
+te hiciste el encontradizo, n[Gm]os diste conversaci[Dm]ón,
+ten[Gm]ían tus pal[Dm]abras, fu[A]erza de vida y val[Dm]or,[D7]
+pon[Gm]ían esper[Dm]anza [A]y fuego en el coraz[D]ón.
+
+	ESTRIBILLO
+T[D]e conocimos, Señor, al part[G]ir el p[D]an,
+T[G]ú nos conoces, Señ[D]or, al part[Em]ir [A]el p[D]an. (2) [Dm]
+
+Lleg[Dm]ando a la encrucijada, T[A]ú proseguías, Señ[Dm]or,
+te dimos nuestra posada, t[Gm]echo, comida y cal[Dm]or,
+sent[Gm]ados como am[Dm]igos, [A]al compartir la c[Dm]ena,[D7]
+all[Gm]í te conoc[Dm]imos, [A]al repartirnos el p[D]an.
+	ESTRIBILLO
+
+And[Dm]ando por los caminos, t[A]e tropezamos, Señ[Dm]or,
+en todos los peregrinos, qu[Gm]e necesitan am[Dm]or,
+escl[Gm]avos y oprim[Dm]idos qu[A]e buscan la libert[Dm]ad,[D7]
+hambri[Gm]entos, desval[Dm]idos, [A]a quienes damos el p[D]an.
+	ESTRIBILLO
+`
+  };
