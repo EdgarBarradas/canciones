@@ -4,7 +4,7 @@ letra={
   letra:`
 R[E]egína caeli, la[A]etáre, [F#m]allel[B]úi[E]a.
 quia quem m[A]eruíst[E]i portár[C#m]e, [A]allel[B]úi[E]a.
-resurréxit, s[A]icut dix[E]it, [A]allelúi[B]a.
+resurréxit, s[A]icut dix[E]it, [F#m]allelúi[B]a.
 [E]ora pro n[A]obis De[E]um, [B]allelúi[E]a.
 `
   };
