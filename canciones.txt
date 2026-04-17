@@ -145,7 +145,7 @@ canciones = [
       },
       {
         "titulo":"Gloria B",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
         "audio":"audios/gloria_b",
@@ -154,7 +154,7 @@ canciones = [
       },
       {
         "titulo":"Gloria MC",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
         "audio":"no hay",
@@ -163,7 +163,7 @@ canciones = [
       },
       {
         "titulo":"Gloria MMD",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar","Navidad"],
         "momentos":["No filtrar","Gloria"],
         "audio":"no hay",
@@ -172,7 +172,7 @@ canciones = [
       },
       {
         "titulo":"Gloria ST",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
         "audio":"no hay",
@@ -181,7 +181,7 @@ canciones = [
       },
       {
         "titulo":"Gloria V",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
         "audio":"no hay",
@@ -190,7 +190,7 @@ canciones = [
       },
       {
         "titulo":"Gloria a Dios en el cielo",
-        "tiempos":["No filtrar"],
+        "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
         "audio":"audios/gloria_a_dios_en_el_cielo.mp4",
