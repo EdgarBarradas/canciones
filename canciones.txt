@@ -148,7 +148,7 @@ canciones = [
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
-        "audio":"audios/nana.m4a",
+        "audio":"audios/gloria_b",
         "tono_audio":"",
         "txt":"letras/gloria_b.txt",
       },
