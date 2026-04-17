@@ -19,6 +19,6 @@ es et[F]erna s[G]u miseric[C]ordia.
 s[F]ea nuestra alegr[C]ía y nuestro g[D]oz[G]o,
 dad gr[C]acias al Señ[F]or porque es bu[C]eno, [F].
 porque es et[C]erna s[G]u miseric[C]ordia,
-[F]alel[C]uya, [G]aleluy[C]a, [F]alel[C]uya, [G]aleluy[C]a.
+[F]alel[C]uya, [G]aleluy[C]a.
 `
   };
