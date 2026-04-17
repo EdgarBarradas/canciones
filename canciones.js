@@ -173,7 +173,7 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
     if (exist) {
       document.getElementById("bloque_audio").innerHTML = '<br>'
       document.getElementById("bloque_audio").innerHTML += '<audio controls src="'+audio_file+'"></audio>'
-      document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;">Versión de audio por '+tono_audio+'</p>'
+      document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;">Versión de audio por '+x(tono_audio)+'</p>'
     } else {
       document.getElementById("bloque_audio").innerHTML = '<br>'
       document.getElementById("bloque_audio").innerHTML += '<audio controls src="'+audio_file+'"></audio>'
