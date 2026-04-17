@@ -143,21 +143,13 @@ canciones = [
         "tono_audio":"C",
         "txt":"letras/cordero_pd.txt",
       },
-
-
-
-
-
-
-
-
       {
         "titulo":"Gloria B",
         "tiempos":["No filtrar"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
         "audio":"no hay",
-        "tono_audio":"x",
+        "tono_audio":"audios/grb.mp3",
         "txt":"letras/gloria_b.txt",
       },
       {
