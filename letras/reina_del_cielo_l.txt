@@ -2,7 +2,7 @@ letra={
   titulo:"Reina del cielo L",
   tonalidad:"C",
   letra:`
-R[C]eina del cielo al[F]égrat[C]e, alel[F]uy[G]a,
+R[C]eina del cielo al[F]égrat[C]e, alel[F]uy[C]a,
 p[C]orque El Señor, a quien merec[F]iste llev[C]ar, alel[F]uy[G]a,
 r[C]esucitó seg[F]ún su pa[Am]labra, al[F]eluy[E]a,
 ru[Dm]ega al Señ[G]or por nos[C]otros, al[G]eluy[C]a.
