@@ -2573,7 +2573,7 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar","Difuntos"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/se_como_el_grano_de_trigo",
+        "audio":"audios/se_como_el_grano_de_trigo.mp4",
         "tono_audio":"A",
         "txt":"letras/se_como_el_grano_de_trigo.txt",
       },
