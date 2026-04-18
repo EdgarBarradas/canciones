@@ -2,28 +2,14 @@ letra={
   titulo:"Jesús está vivo",
   tonalidad:"E",
   letra:`
-[E] [C#m] [A] [B] [E]
+[E]
 Tanto am[B]ó Dios al mund[C#m]o, Que a su [G#m]único Hij[A]o, [F#m]Él entreg[B]ó, [G#]
 para que todo aqu[C#m]el que cr[G#m]ea en [A]Él, no mu[F#m]era mas t[A]enga vida et[B]erna. [A]
-	ESTRIBILLO
 ¡Jes[B]ús está v[E]ivo! ¡Jes[B]ús está viv[C#m]o!, es [G#m]el Pan de V[A]ida, baj[F#m]ado del Ciel[B]o,
 ¡Jesús está v[E]ivo! ¡Jes[B]ús está viv[C#m]o!, su s[G#m]angre me s[A]ana y s[F#m]acia mi [B]alma.
-
-Está v[F#m]ivo, está pres[G#m]ente, mi Di[F#m]os es real,[A] y yo le ad[B]oro rever[E]ente.
-
-[B] [E] [C#m] [A] [B] [E]
-Tanto am[B]ó Dios al mund[C#m]o, Que a su [G#m]único Hij[A]o, [F#m]Él entreg[B]ó, [G#]
-para que todo aqu[C#m]el que cr[G#m]ea en [A]Él, no mu[F#m]era mas t[A]enga vida et[B]erna. [A]
-	ESTRIBILLO
-
-Está v[F#m]ivo, está pres[G#m]ente, mi Di[F#m]os es real,[A] y yo le ad[B]oro rever[E]ente.
-
-¡V[E]ivo![B] ¡viv[C#m]o! [A] [B]
-	ESTRIBILLO
-
-Está v[F#m]ivo, está pres[G#m]ente, mi Di[F#m]os es real,[A] y yo le ad[B]oro rever[E]ente.
+Está v[F#m]ivo, está pres[G#m]ente, mi Di[F#m]os es real,[A] y le adora[B]amos rever[E]entes. (n veces)
 
 [C#m] [A]
-Y yo le ad[B]oro rever[E]ente
+Y yo le adora[B]amos rever[E]entes.
 `
   };
