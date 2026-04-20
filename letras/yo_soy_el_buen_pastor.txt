@@ -1,0 +1,25 @@
+letra={
+  titulo:"Yo soy el Buen Pastor",
+  tonalidad:"A",
+  letra:`
+	ESTRIBILLO
+Yo S[A]oy El Buen Past[D]or, y con[E]ozco a mis ov[A]ejas,
+reconocerán mi v[Bm]oz, yo la v[E]ida doy por [A]ellas. (2)
+ 
+A mis ovejas [D]amo, c[E]omo me ama el P[A]adre,
+[Bm]Él las ha puesto [F#m]en mis manos, y n[C#]adie me las quitar[E]á.[E7]
+	ESTRIBILLO
+
+Les cuido con car[D]iño; y[E]a no estarán s[A]olos,
+cu[Bm]ando vengan l[F#m]os peligros, si[C#]empre los proteger[E]é.[E7]
+	ESTRIBILLO
+
+En valles y prad[D]eras, y[E]o les apaci[A]ento,
+h[Bm]acia fuentes de [F#m]agua fresca, c[C#]on amor los llevar[E]é.[E7]
+	ESTRIBILLO
+
+Se llenan de d[D]icha, p[E]or gracia de mi n[A]ombre,
+p[Bm]or senderos d[F#m]e justicia, y[C#]o los voy a conduc[E]ir.[E7]
+	ESTRIBILLO
+`
+  };
