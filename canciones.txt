@@ -2676,4 +2676,22 @@ canciones = [
         "tono_audio":"F",
         "txt":"letras/regina_caeli.txt",
       },
+      {
+        "titulo":"El Buen Pastor",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/el_buen_pastor",
+        "tono_audio":"",
+        "txt":"letras/el_buen_pastor.txt",
+      },
+      {
+        "titulo":"Yo soy el Buen Pastor",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/yo_soy_el_buen_pastor",
+        "tono_audio":"",
+        "txt":"letras/yo_soy_el_buen_pastor.txt",
+      },
 ]
