@@ -3,7 +3,7 @@ tonalidades_m=['Cm','C#m','Dm','D#m','Em','Fm','F#m','Gm','G#m','Am','A#m','Bm']
 notes_converter=['A','B','C','D','E','F','G','La','Si','Do','Re','Mi','Fa','Sol']
 notacion='Inglesa'
 la_letra='x'
-data_cancion=['','','']
+tono_audio_global =''
 
 function x(n){
   if (notacion=='Inglesa'){return n}
