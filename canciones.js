@@ -3,7 +3,7 @@ tonalidades_m=['Cm','C#m','Dm','D#m','Em','Fm','F#m','Gm','G#m','Am','A#m','Bm']
 notes_converter=['A','B','C','D','E','F','G','La','Si','Do','Re','Mi','Fa','Sol']
 notacion='Inglesa'
 la_letra='x'
-tono_audio_global=''
+data_cancion=['','','']
 
 function x(n){
   if (notacion=='Inglesa'){return n}
@@ -105,7 +105,6 @@ function pinta_linea_1(linea, bloque){
 }
 
 function crear_bloque_letra(letra){////////////////////////////------Esta función dibuja el bloque de la letra y los acordes de una canción
-  la_letra=letra
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
   document.getElementById("bloque_letra").innerHTML += '<h3 style="display:inline-block; margin-right:10px;" id="tonalidad" data-value="'+letra.tonalidad+'">tonalidad: '+x(letra.tonalidad)+'</h3>'
   document.getElementById("bloque_letra").innerHTML += '<label style="display:inline-block;">Transponer a:</label>'
@@ -133,9 +132,10 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
     pinta_linea_1(lineas[i], document.getElementById("bloque_letra"))
   });
 
-  audio_desc=document.getElementById("audio_text").innerHTML
-  console.log(audio_desc)
-
+  if (document.getElementById("audio_text")){
+    audio_desc=document.getElementById("audio_text").innerHTML
+    console.log(audio_desc)
+  }
 }
 
 function transponer(nuevo){////////////////////////////------Esta función realiza la trasposcón de acordes de una canción mostrada
@@ -219,6 +219,7 @@ function buscarCanciones(canciones) {
     if (c.audio.includes(".")){audio_icon = " ♫"}
     if (c.txt.includes(".")){txt_icon = " 📄"}
     showing_title = c.titulo + txt_icon + audio_icon
+    tono_audio_global = c.tono_audio
 
     document.getElementById('resultados').innerHTML += `
       <div class="cancion">
