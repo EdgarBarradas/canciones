@@ -136,6 +136,7 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
     audio_desc=document.getElementById("audio_text").innerHTML
     if (audio_desc.startsWith('Versión de audio por ')){
       document.getElementById("audio_text").innerHTML='Versión de audio por '+x(tono_audio_global)
+    }
   }
 }
 
