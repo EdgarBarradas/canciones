@@ -187,6 +187,7 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
 });
   letra_acordes = await (await fetch((txt_file))).text();
   eval(letra_acordes)
+  la_letra=letra
   crear_bloque_letra(letra)
 }        
 
