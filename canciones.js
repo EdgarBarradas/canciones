@@ -133,7 +133,7 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci√
     pinta_linea_1(lineas[i], document.getElementById("bloque_letra"))
   });
 
-  audio_desc=document.getElementById("audio_texto").innerHTML
+  audio_desc=document.getElementById("audio_text").innerHTML
   console.log(audio_desc)
 
 }
