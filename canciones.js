@@ -3,6 +3,7 @@ tonalidades_m=['Cm','C#m','Dm','D#m','Em','Fm','F#m','Gm','G#m','Am','A#m','Bm']
 notes_converter=['A','B','C','D','E','F','G','La','Si','Do','Re','Mi','Fa','Sol']
 notacion='Inglesa'
 la_letra='x'
+tono_audio_global=''
 
 function x(n){
   if (notacion=='Inglesa'){return n}
@@ -132,6 +133,9 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
     pinta_linea_1(lineas[i], document.getElementById("bloque_letra"))
   });
 
+  audio_desc=document.getElementById("audio_texto").innerHTML
+  console.log(audio_desc)
+
 }
 
 function transponer(nuevo){////////////////////////////------Esta funci처n realiza la trasposc처n de acordes de una canci처n mostrada
@@ -169,15 +173,16 @@ async function fileExist(ruta) {
 }
 
 async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
+  tono_audio_global=tono_audio
   fileExist(audio_file).then(exist => {
     if (exist) {
       document.getElementById("bloque_audio").innerHTML = '<br>'
       document.getElementById("bloque_audio").innerHTML += '<audio controls src="'+audio_file+'"></audio>'
-      document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;">Versi처n de audio por '+x(tono_audio)+'</p>'
+      document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;" id='audio_text'>Versi처n de audio por '+x(tono_audio)+'</p>'
     } else {
       document.getElementById("bloque_audio").innerHTML = '<br>'
       document.getElementById("bloque_audio").innerHTML += '<audio controls src="'+audio_file+'"></audio>'
-      document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;">Aun no hemos incluido un audio para esta canci처n</p>'
+      document.getElementById("bloque_audio").innerHTML += '<p style="color: grey;" id='audio_text'>Aun no hemos incluido un audio para esta canci처n</p>'
     }
 });
   letra_acordes = await (await fetch((txt_file))).text();
