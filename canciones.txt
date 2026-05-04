@@ -2699,8 +2699,8 @@ canciones = [
         "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar","Pentecostes"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/ven_espiritu",
-        "tono_audio":"",
+        "audio":"audios/ven_espiritu.mp3",
+        "tono_audio":"F#",
         "txt":"letras/ven_espiritu.txt",
       },
 ]
