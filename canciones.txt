@@ -2695,7 +2695,7 @@ canciones = [
         "txt":"letras/yo_soy_el_buen_pastor.txt",
       },
       {
-        "titulo":"Ven Espíritu, secuenca de Pentecostés",
+        "titulo":"Ven Espíritu, secuencia de Pentecostés",
         "tiempos":["No filtrar","Pascua"],
         "misas":["No filtrar","Pentecostés"],
         "momentos":["No filtrar","Comunión"],
