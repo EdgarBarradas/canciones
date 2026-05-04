@@ -1,0 +1,32 @@
+letra={
+  titulo:"Ven Espíritu Divino, secuencia de Pentecostes",
+  tonalidad:"F",
+  letra:`
+[F]
+	ESTRIBILLO
+Ven Esp[C]írit[Dm]u,[A#] ven Espírit[Dm]u,[A#] ven Espírit[F]u-[A#]u-[C]u. [F]
+
+Ven Espíritu divin[C]o,[F] manda tu luz desde el ci[C]elo, [A]
+Padre amoroso del p[Dm]obre,[A#] don en tus dones espl[C]éndidos, [A]
+luz que penetra las [Dm]almas,[A#] fuente del mayor consu[C]elo. [F]
+	ESTRIBILLO
+
+Ven dulce huésped del [C]alma,[F] descanso de nuestro esfu[C]erzo, [A]
+tregua en el duro trab[Dm]ajo,[A#] brisa en las horas de fu[C]ego, [A]
+gozo que enjuga las l[Dm]ágrimas,[A#] y reconforta en los du[C]elos. [F]
+
+Entras hasta el fondo del [C]alma,[F] divina luz y enriqu[C]écenos, [A]
+mira el vacío del h[Dm]ombre,[A#] si Tú le faltas por d[C]entro, [A]
+mira el poder del pec[Dm]ado,[A#] cuando no envías tu ali[C]ento. [F]
+	ESTRIBILLO
+
+Riega la tierra en sequ[C]ía,[F] sana el corazón enf[C]ermo, [A]
+lava las manchas y f[Dm]unde,[A#] calor de vida en el hi[C]elo, [A]
+doma el espíritu ind[Dm]ómito,[A#] guía al que tuerce el send[C]ero. [F]
+
+Reparte tus siete d[C]ones,[F] según la fe de tus ci[C]ervos, [A]
+por tu bondad y tu gr[Dm]acia,[A#] dale al esfuerzo su m[C]érito, [A]
+salva al que busca salv[Dm]arse,[A#] y danos ti gozo et[C]erno. [F]
+	ESTRIBILLO
+`
+  };
