@@ -8,12 +8,16 @@ me [Gm]abro, a tu pres[Dm]encia, cambiar[A#]ás, mi c[F]oraz[C]ón. [A].
 Ven Esp[Dm]íritu de Dios, sobre m[C]í,
 me [Gm]abro, a tu pres[Dm]encia, cambiar[A#]ás, mi c[F]or[C]az[F]ón.
 
- [A].
-
-T[Dm]oca mi debilid[C]ad, t[Gm]oma todo lo que s[Dm]oy,
+[A] T[Dm]oca mi debilid[C]ad, t[Gm]oma todo lo que s[Dm]oy,
 p[A#]ongo, mi v[A]ida en tus m[Dm]an[F]os [G]y mi f[C]e.
 P[Dm]oco a poco llegar[C]ás, [Gm]a inundarme de tu l[Dm]uz,
 T[A#]ú cambiar[A]ás mi pas[Dm]ad[F]o, c[G]antar[C]é. [A].
+    ESTRIBILLO
+
+[A] Qui[Dm]ero ser signo de p[C]az, qui[Gm]ero compartir mi s[Dm]er,
+y[A#]o neces[A]ito tu fu[Dm]erz[F]a, t[G]u val[C]or.
+Qui[Dm]ero proclamarte a T[C]i, s[Gm]er testigo de tu am[Dm]or,
+[A#]entra y transf[A]orma mi v[Dm]id[F]a, v[G]en a m[C]í. [A].
     ESTRIBILLO
 `
   };
