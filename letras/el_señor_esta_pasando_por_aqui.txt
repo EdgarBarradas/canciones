@@ -1,0 +1,15 @@
+letra={
+  titulo:"El Señor está pasando por aquí",
+  tonalidad:"D",
+  letra:`
+El Señ[D]or está pas[G]ando por aqu[D]í,
+El Señor está pas[G]ando junto a t[A]i,
+El Señ[D]or está pas[G]ando por aqu[D]í, 
+y es seg[Bm]uro que ÉL te qui[A]ere bendec[D]ir. [A] (2)
+
+Está pas[Bm]ando,[A] está san[G]and[D]o,
+está pas[Bm]ando,[A] por aqu[Bm]í. [A]
+Está pas[Bm]ando,[A] está san[G]and[D]o,
+El Señor está pas[G]ando por aqu[D]í.
+`
+  };
