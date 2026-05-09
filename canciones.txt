@@ -2703,4 +2703,13 @@ canciones = [
         "tono_audio":"F#",
         "txt":"letras/ven_espiritu.txt",
       },
+      {
+        "titulo":"El Señor está pasando por aquí",
+        "tiempos":["No filtrar","Pascua"],
+        "misas":["No filtrar","Pentecostés"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/el_señor_esta_pasando_por_aqui.",
+        "tono_audio":"",
+        "txt":"letras/el_señor_esta_pasando_por_aqui.txt",
+      },
 ]
