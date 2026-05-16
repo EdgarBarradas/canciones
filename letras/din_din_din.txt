@@ -8,47 +8,38 @@ l[G#]os esposos v[C#m]an, d[F#]esde Nazar[B]et, l[G#]os esposos v[C#m]an, d[F#]e
 
 La Virgen Mar[F#]ía, modesta y senc[Bm]illa, [B]es la marav[Em]illa d[C#]el dichoso Ed[F#]én,
 la Virgen Mar[F#]ía, modesta y senc[Bm]illa, [B]es la marav[Em]illa d[F#]el dichoso Ed[B]én.
-  
 		ESTRIBILLO
-  
+
 Sobre un jument[F#]illo se sienta Mar[Bm]ía, y [B]es experto gu[Em]ía [C#]el casto Jos[F#]é.
 sobre un jument[F#]illo se sienta Mar[Bm]ía, y [B]es experto gu[Em]ía [F#]el casto Jos[B]é.
-  
 		ESTRIBILLO
-  
+
 Van José y Mar[F#]ía, van hacia Bel[Bm]én, d[B]onde nuestro Bi[Em]en h[C#]a de aparec[F#]er.
 van José y Mar[F#]ía, van hacia Bel[Bm]én, d[B]onde nuestro Bi[Em]en h[F#]a de aparec[B]er.
-  
 		ESTRIBILLO
-  
+
 Largo es el cam[F#]ino, aire sofoc[Bm]ante, [B]es más import[Em]ante c[C#]umplir el deb[F#]er.
 largo es el cam[F#]ino, aire sofoc[Bm]ante, [B]es más import[Em]ante c[F#]umplir el deb[B]er.
-  
 		ESTRIBILLO
-  
+
 Llegan exten[F#]uados al morir el d[Bm]ía, y [B]en la noche fr[Em]ía no h[C#]ay donde hosped[F#]ar.
 llegan exten[F#]uados al morir el d[Bm]ía, y [B]en la noche fr[Em]ía no h[F#]ay donde hosped[B]ar.
-  
 		ESTRIBILLO
-  
+
 Posadas repl[F#]etas de inmenso gent[Bm]ío, ¡[B]ah, Señor, Dios m[Em]ío! ¿ [C#]a dónde lleg[F#]ar?
 posadas repl[F#]etas de inmenso gent[Bm]ío, ¡[B]ah, Señor, Dios m[Em]ío! ¿ [F#]a dónde lleg[B]ar?
-  
 		ESTRIBILLO
-  
+
 Y saliendo al c[F#]ampo una grupa encu[Bm]entran, y [B]en ella se ad[Em]entran p[C#]ara pernoct[F#]ar.
 y saliendo al c[F#]ampo una grupa encu[Bm]entran, y [B]en ella se ad[Em]entran p[F#]ara pernoct[B]ar.
-  
 		ESTRIBILLO
-  
+
 San José y la V[F#]irgen la mula y el bu[Bm]ey, fu[B]eron los que vi[Em]eron [C#]al niño nac[F#]er.
 San José y la V[F#]irgen la mula y el b[Bm]uey, fu[B]eron los que vi[Em]eron [F#]al niño nac[B]er.
-  
 		ESTRIBILLO
-  
+
 Celebremos j[F#]untos este hermoso d[Bm]ía: ll[B]ega la alegr[Em]ía d[C#]e la Navid[F#]ad.  
 celebremos j[F#]untos este hermoso d[Bm]ía: ll[B]ega la alegr[Em]ía d[F#]e la Navid[B]ad.  
-  
 		ESTRIBILLO
 `
   };
