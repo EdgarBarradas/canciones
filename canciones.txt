@@ -1849,7 +1849,7 @@ canciones = [
         "txt":"letras/anima_christi.txt",
       },
       {
-        "titulo":"Alaluya cantará",
+        "titulo":"Aleluya cantará",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Difuntos"],
         "momentos":["No filtrar","Interleccional"],
