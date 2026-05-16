@@ -1,5 +1,5 @@
 letra={
-  titulo:"Ven, Espítitu ven",
+  titulo:"Ven, Espíritu, ven",
   tonalidad:"D",
   letra:`
 V[D]en, Esp[A]íritu v[Bm]en, y ll[F#m]éname, Señ[G]or, con t[Em]u preciosa unci[A]ón. [A7].
