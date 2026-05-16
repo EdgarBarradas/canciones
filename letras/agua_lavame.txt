@@ -1,5 +1,5 @@
 letra={
-  titulo:"Agua lavame",
+  titulo:"Agua lávame",
   tonalidad:"A",
   letra:`
 [A]Agua lávam[E]e, p[D]urifícam[A]e,
