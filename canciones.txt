@@ -1968,7 +1968,7 @@ canciones = [
       {
         "titulo":"El Señor es el lote de mi heredad",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Cristo Rey"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/el_señor_es_el_lote_de_mi_heredad",
         "tono_audio":"",
@@ -2013,7 +2013,7 @@ canciones = [
       {
         "titulo":"Tú, el único Rey",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Cristo Rey"],
         "momentos":["No filtrar","Comunión","Adoración"],
         "audio":"audios/tu_el_unico_rey",
         "tono_audio":"",
