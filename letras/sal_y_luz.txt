@@ -1,0 +1,27 @@
+letra={
+  titulo:"Sal y luz",
+  tonalidad:"E",
+  letra:
+[A] [Bm] [E] [A] [E]
+
+L[A]uz, del mu[Bm]ndo, d[D]eja de ocult[E]arte en lo prof[A]undo, [E]
+s[A]al, de la ti[Bm]erra, cu[D]ida tu sab[E]or, nunca lo pi[A]erdas. [F#m]
+An[E]uncia la pal[D]abra,[F#m] con [E]obras, es tu v[D]ida la que h[A]abla. [F#m]
+Ay[E]uda a tus herm[D]anos,[F#m] que el m[E]undo, neces[D]ita de tus m[E]anos.
+
+ESTRIBILLO
+Sal y l[A]uz, luz y s[E]al, mezcl[Bm]ado con la g[E]ente, está Jes[G]ús en la ciud[E7]ad,
+mostrar[A]á, la verd[E]ad, no habr[Bm]á noche en tu v[E]ida, será si[G]empre un despert[E7]ar.
+
+[A] [Bm] [E] [A]
+
+L[A]uz, si tú ilum[Bm]inas, n[D]o puede ocult[E]arse la ciud[A]ad sobre la c[E]ima,
+s[A]al, excel[Bm]ente, m[D]irando hacia el ci[E]elo, con los pi[A]es en el pres[E]ente. [F#m]
+Y aunqu[E]e quizás tropi[D]eces,[F#m] no olv[E]ides, que Jes[D]ús cayó tres v[A]eces, [F#m]
+lev[E]ántate y cam[D]ina,[F#m] que c[E]on tu andar, el m[D]undo se ilum[E]ina.
+ESTRIBILLO
+
+Si al ci[E]elo caminas, tu amor ilumina. (4)
+ESTRIBILLO
+`
+  };
