@@ -1,6 +1,6 @@
 letra={
   titulo:"Sal y luz",
-  tonalidad:"E",
+  tonalidad:"A",
   letra:`
 [A] [Bm] [E] [A] [E]
 
