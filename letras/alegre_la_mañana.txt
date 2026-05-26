@@ -1,0 +1,26 @@
+letra={
+  titulo:"Alegre la mañana",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+Al[D]egre la mañana que me h[G]abla de T[D]i, al[A]egre la mañ[D]ana. (2)
+
+En nombre del Dios P[G]adre, del Hijo y del Esp[D]íritu,
+salimos de la n[A]oche y estrenamos la aur[D]ora.
+Salud[D7]amos el g[G]ozo, de la luz que nos ll[D]ega,
+resucit[A]ada y resucitad[D]ora.
+	ESTRIBILLO
+
+Tu mano acerca el fu[G]ego, a la sombría ti[D]erra,
+y el rostro de las c[A]osas, se alegra en tu pres[D]encia.
+Silab[D7]eas el [G]alba, igual que una pal[D]abra,
+Tú pronuncias el m[A]ar como sent[D]encia.
+	ESTRIBILLO
+
+Regresas desde el su[G]eño, el hombre a su mem[D]oria,
+acude a su trab[A]ajo madruga sus dol[D]ores.
+Le conf[D7]ías la ti[G]erra, y a la tarde la encu[D]entras,
+rica de p[A]an y amarga de sud[D]ores.
+	ESTRIBILLO
+`
+  };
