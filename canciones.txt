@@ -2721,4 +2721,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/alegre_la_mañana.txt",
       },
+      {
+        "titulo":"Sal y luz",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/sal_y_luz",
+        "tono_audio":"",
+        "txt":"letras/sal_y_luz.txt",
+      },
 ]
