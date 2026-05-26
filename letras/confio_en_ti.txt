@@ -1,6 +1,6 @@
 letra={
   titulo:"Confío en Ti",
-  tonalidad:"x",
+  tonalidad:"D",
   letra:`
 [D] [A] [Bm] [Bm].
 [G] [G] [A] [Asus4]
