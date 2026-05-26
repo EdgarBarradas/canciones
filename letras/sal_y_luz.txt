@@ -1,7 +1,7 @@
 letra={
   titulo:"Sal y luz",
   tonalidad:"E",
-  letra:
+  letra:`
 [A] [Bm] [E] [A] [E]
 
 L[A]uz, del mu[Bm]ndo, d[D]eja de ocult[E]arte en lo prof[A]undo, [E]
