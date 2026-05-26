@@ -2730,4 +2730,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/sal_y_luz.txt",
       },
+      {
+        "titulo":"Magnificat MMD",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Marianos"],
+        "audio":"audios/magnificat_mmd",
+        "tono_audio":"",
+        "txt":"letras/magnificat_mmd.txt",
+      },
 ]
