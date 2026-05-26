@@ -1,18 +1,18 @@
 letra={
   titulo:"No solo el vino y el pan",
-  tonalidad:"[D]",
+  tonalidad:"D",
   letra:`
 No solo el v[F#m]ino y el p[Em]an,[A] te venimos a ofrec[D]er,
-queremos d[F#m]arte algo m[E]ás,[A] te entregamos nuestro s[D]er. [F#].
+queremos d[F#m]arte algo m[E]ás,[A] te entregamos nuestro s[D]er. [F#]
 
 		ESTRIBILLO
-Como lo hizo Mar[Bm]ía,[F#] que su mensaje escuch[Bm]ó, [G].
-y dijo un sí gener[D]oso,[A] para aceptar su misi[D]ón. [F#].
-Como lo hizo Mar[Bm]ía,[F#] que su mensaje escuch[Bm]ó, [G].
+Como lo hizo Mar[Bm]ía,[F#] que su mensaje escuch[Bm]ó, [G]
+y dijo un sí gener[D]oso,[A] para aceptar su misi[D]ón. [F#]
+Como lo hizo Mar[Bm]ía,[F#] que su mensaje escuch[Bm]ó, [G]
 y dijo un sí gener[D]oso,[A] para aceptar su misi[D]ón.
 
 Hoy quedan s[F#m]obre el alt[Em]ar,[A] nuestras vidas oh, Señ[D]or,
-haz que sep[F#m]amos luch[Em]ar,[A] para conservar tu am[D]or. [F#].
+haz que sep[F#m]amos luch[Em]ar,[A] para conservar tu am[D]or. [F#]
 
 		ESTRIBILLO
 `
