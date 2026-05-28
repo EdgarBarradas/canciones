@@ -2739,4 +2739,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/magnificat_mmd.txt",
       },
+      {
+        "titulo":"Alabaré, alabaré",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Entrada"],
+        "audio":"audios/alabare_alabare",
+        "tono_audio":"",
+        "txt":"letras/alabare_alabare.txt",
+      },
 ]
