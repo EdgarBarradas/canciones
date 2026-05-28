@@ -1,0 +1,20 @@
+letra={
+  titulo:"Alabaré, alabaré",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+Alabar[D]é, alabar[Bm]é, al[G]abar[A]é a mi Señ[D]or. (2)
+
+Juan vio el número de los redimidos, y todos alababan al Señ[A]or.
+[Em]Unos cant[A]aban, [Em]otros or[A]aban, y t[Em]odos alab[A]aban al Señ[D]o-[A]or.
+	ESTRIBILLO
+
+Todos unidos alegres cantan, gloria y alabanzas al Señ[A]or.
+Gl[Em]oria al P[A]adre, gl[Em]oria al H[A]ijo, y gl[Em]oria al Esp[A]íritu de am[D]o-[A]or. 
+	ESTRIBILLO
+
+Somos tus hijos, Dios Padre eterno, Tú nos has creado por am[A]or,
+t[Em]e damos gr[A]acias, t[Em]e bendec[A]imos, [Em]y todos cant[A]amos con amo[D]o-[A]r.
+	ESTRIBILLO
+`
+  };
