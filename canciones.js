@@ -1,7 +1,7 @@
 tonalidades=['C','C#','D','D#','E','F','F#','G','G#','A','A#','B']
 tonalidades_m=['Cm','C#m','Dm','D#m','Em','Fm','F#m','Gm','G#m','Am','A#m','Bm']
 notes_converter=['A','B','C','D','E','F','G','La','Si','Do','Re','Mi','Fa','Sol']
-notacion='Inglesa'
+notacion='Latina'
 la_letra='x'
 tono_audio_global =''
 
