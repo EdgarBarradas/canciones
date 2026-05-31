@@ -1,0 +1,22 @@
+letra={
+  titulo:"El amor me lo ha explicado todo",
+  tonalidad:"G",
+  letra:`
+El am[G]or me lo h[C]a explicado t[G]o-do,
+el am[C]or  lo es t[D]odo para m[C]í, [D]
+el am[C]or me transf[D]orma, me h[B]ace Jes[Em]ús,
+el am[C]or, me ll[Am]eva a plenit[D]ud. [D7]
+
+El am[G]or me ha salv[C]ado de la n[G]a-da,
+el pr[C]onunció mi n[D]ombre y exist[C]í, [D]
+el am[C]or me ha llam[D]ado, a v[B]ivir en [Em]él,
+al am[C]or, es mi v[Am]erdadero s[D]er.
+
+	ESTRIBILLO
+Del am[C]or he nac[D]ido, al am[B]or tornar[Em]é,
+si al am[C]or perten[D]ezco, yo por [B]él vivir[Em]é,
+del am[C]or es mi su[D]elo, el amor [B]es mi hog[A]ar,
+eres T[C]ú, o S[Am]anta Trinid[D]ad.
+	ESTRIBILLO
+`
+  };
