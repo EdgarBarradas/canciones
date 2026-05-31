@@ -15,7 +15,7 @@ al am[C]or, es mi v[Am]erdadero s[D]er.
 	ESTRIBILLO
 Del am[C]or he nac[D]ido, al am[B]or tornar[Em]é,
 si al am[C]or perten[D]ezco, yo por [B]él vivir[Em]é,
-del am[C]or es mi su[D]elo, el amor [B]es mi hog[A]ar,
+del am[C]or es mi su[D]elo, el am[B]or es mi hog[A]ar,
 eres T[C]ú, o S[Am]anta Trinid[D]ad. (2)
 `
   };
