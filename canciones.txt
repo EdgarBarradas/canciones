@@ -2748,4 +2748,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/alabare_alabare.txt",
       },
+      {
+        "titulo":"El amor me lo ha explicado",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/el_amor_me_lo_ha_explicado",
+        "tono_audio":"",
+        "txt":"letras/el_amor_me_lo_ha_explicado.txt",
+      },
 ]
