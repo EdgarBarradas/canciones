@@ -6,7 +6,7 @@ letra={
 Es Jes[C]ús, Enm[F]anu[C]el, Dios con nos[Am]otr[Em]os, en este s[Am]acr[G]am[C]ento,
 v[G]en rec[C]íbelo, ad[F]óral[C]o, es Jes[Am]ús, nu[G]estr[F]o S[G]eñ[C]or. [E]
 
-[Am]Oh brillante estrella, [F]esplendor de Di[Am]os,
+[Am]Oh, brillante estrella, [F]esplendor de Di[Am]os,
 ah[C]ora Pan de Vida, el Cu[Dm]erpo del Señ[G]or. 
 V[Am]en con reverencia, rec[F]ibe con ferv[Am]or,
 El S[C]anto Sacramento, el C[Dm]ordero de Di[G]os.
@@ -20,8 +20,8 @@ de[C]l costado de Jesús, br[Dm]ota redenci[G]ón.
 
 S[Am]umo Sacerdote, S[F]oberano R[Am]ey, 
 C[C]ordero sin mancha, V[Dm]íctima pascu[G]al. 
-[Am]El Hijo del Padre su v[F]ida entreg[Am]ó, 
-fu[C]e dado en rescate p[Dm]or nuestro perd[G]ón.
+[Am]El Hijo del Padre, su v[F]ida entreg[Am]ó, 
+fu[C]e dado en rescate, p[Dm]or nuestro perd[G]ón.
 	ESTRIBILLO
 `
   };
