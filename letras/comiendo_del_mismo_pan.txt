@@ -7,7 +7,7 @@ Comi[Em]endo del mismo p[G]an, bebi[Am]endo del mismo v[Em]ino,
 queri[Am]endo en el mismo am[Em]or, sell[B]amos tu Alianza, Cr[Em]isto.
 
 La noche de su pasi[G]ón, cogi[Am]ó el pan entre sus m[Em]anos
-y d[Am]ijo: “Tomad, com[Em]ed, esto [B]es mi cuerpo entreg[Em]ado”.
+y d[Am]ijo: “Tomad, com[Em]ed, este [B]es mi cuerpo entreg[Em]ado”.
 	ESTRIBILLO
 
 La noche de su pasi[G]ón, tom[Am]ó el cáliz en sus m[Em]anos
@@ -15,7 +15,7 @@ y d[Am]ijo: “Tomad, beb[Em]ed, es l[B]a sangre que derr[Em]amo”.
 	ESTRIBILLO
 
 La noche de su pasi[G]ón, nos di[Am]o el Señor su mand[Em]ato:
-“Am[Am]aos unos a [Em]otros, lo m[B]ismo que Yo os [Em]amo”.
+“Am[Am]aos unos a [Em]otros, lo m[B]ismo que yo os [Em]amo”.
 	ESTRIBILLO
 `
   };
