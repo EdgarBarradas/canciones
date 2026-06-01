@@ -3,20 +3,18 @@ letra={
   tonalidad:"Am",
   letra:`
 Te ofrec[Am]emos Señor,[A] este pan y este v[Dm]ino,
-te ofrecemos tambi[G]én, el amor de nuestra v[C]ida. [C7].
+te ofrecemos tambi[G]én, el amor de nuestra v[C]ida. [C7]
 
 		ESTRIBILLO
-Te ofrecemos Señ[F]or,[G] la alegría de am[Em]ar, [Am].
+Te ofrecemos Señ[F]or,[G] la alegría de am[Em]ar, [Am]
 te ofrecemos Señ[E]or, nuestra vida y nuestro am[Am]or.
 
 Te ofrecemos Señor,[A] el amor y la esper[Dm]anza,
-los dolores tambi[G]én, de este pueblo que te b[C]usca. [C7].
-
+los dolores tambi[G]én, de este pueblo que te b[C]usca. [C7]
 		ESTRIBILLO
 
 Te ofrecemos Señor,[A] el trabajo y la fat[Dm]iga,
-nuestro pan, nuestra uni[G]ón, nuestra sed de la just[C]icia. [C7].
-
+nuestro pan, nuestra uni[G]ón, nuestra sed de la just[C]icia. [C7]
 		ESTRIBILLO
 `
   };
