@@ -1678,7 +1678,7 @@ canciones = [
         "txt":"letras/iglesia_peregrina_de_dios.txt",
       },
       {
-        "titulo":"Sois la semila",
+        "titulo":"Sois la semilla",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Entrada","Comunión"],
