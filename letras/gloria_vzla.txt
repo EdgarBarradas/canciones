@@ -2,11 +2,11 @@ letra={
   titulo:"Gloria Vzla",
   tonalidad:"C",
   letra:`
-G[C]lo-[G]o-r[C]ia, glo-[G]o-r[C]ia,[Am]  a Dios [Em]en el cielo, g[F]lo-[G]o-r[C]ia,
+G[C]lo-[G]or[C]ia, glo-[G]or[C]ia,[Am]  a Dios [Em]en el cielo, gl[F]o-[G]o-r[C]ia,
 y [C]en la t[G]ierra p[C]az, y en la t[G]ierra p[C]az,[Am]  paz a los h[Em]ombres, que [F]ama [G]El Señ[C]or. [C7]
 
 Te [F]alabamos, t[C]e bendecimos, ta [F]adoramos, t[G]e glorificamos.
-T[C]e d[G]a-m[C]os, gra-a[G]-ci[C]as,[Am]  por tu gl[Em]oria, inm[F]e-[G]ens[C]a. [E]
+T[C]e d[G]am[C]os, gra-[G]aci[C]as,[Am]  por tu gl[Em]oria, inm[F]e-[G]ens[C]a. [E]
 
 Señ[Am]or Hijo unig[Em]énito, Jesucr[F]isto Señ[G]or Di[C]os,
 Cord[Am]ero, de Di[Em]os,[F] Hijo del P[E]adre. [Am]
@@ -21,8 +21,8 @@ ten pied[C]ad Señor,[D] piedad d[G]e nosotros.
 Porqu[F]e Tú eres Santo, s[C]olo Tú Señor,
 s[F]olo Tú altísimo, J[G]esucristo.
 
-C[C]on El Esp[G]írit[C]u, Sa-[G]an-t[C]o,[Am] en la gloria d[Em]e Dios Padre, [F]a-[G]a-m[C]én [Am]
-En la gloria d[Em]e Dios Padre [F]a-[G]a-m[C]én.
+C[C]on El Esp[G]írit[C]u, Sa-[G]ant[C]o,[Am] en la gloria d[Em]e Dios Padre, [F]a-[G]am[C]én [Am]
+En la gloria d[Em]e Dios Padre [F]a-[G]am[C]én.
   `
   };
 
