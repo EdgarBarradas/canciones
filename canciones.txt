@@ -1988,8 +1988,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
-        "audio":"audios/milagro_de_amor",
-        "tono_audio":"",
+        "audio":"audios/milagro_de_amor.mp4",
+        "tono_audio":"F#",
         "txt":"letras/milagro_de_amor.txt",
       },
       {
@@ -2519,8 +2519,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Cristo Rey"],
         "momentos":["No filtrar","Comunión","Adoración"],
-        "audio":"audios/es_jesus",
-        "tono_audio":"x",
+        "audio":"audios/es_jesus.mp4",
+        "tono_audio":"B",
         "txt":"letras/es_jesus.txt",
       },
       {
