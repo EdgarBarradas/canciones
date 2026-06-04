@@ -2,10 +2,10 @@ letra={
   titulo:"Alma misionera",
   tonalidad:"E",
   letra:`
-Señ[E]or,[B] toma mi vida nu[C#m]eva, [A].
+Señ[E]or,[B] toma mi vida nu[C#m]eva, [A]
 antes de que la esp[E]era,[A] desgaste años en m[B]í.
-Est[E]oy,[B] dispuesto a lo que qui[C#m]eras, [A].
-no importa lo que s[E]ea, Tú ll[B]ámame a serv[E]ir. [B].
+Est[E]oy,[B] dispuesto a lo que qui[C#m]eras, [A]
+no importa lo que s[E]ea, Tú ll[B]ámame a serv[E]ir. [B]
 
 		ESTRIBILLO
 Llévam[E]e donde los h[B]ombres, neces[C#m]iten tus pal[G#m]abras,
@@ -13,18 +13,18 @@ neces[A]iten[F#] tus ganas de viv[B]ir,
 donde f[E]alte la esper[B]anza, donde f[C#m]alte la alegr[G#m]ía,
 simplem[A]ente,[B] por no saber de t[E]i.
 
-[B].
-Te d[E]oy,[B] mi corazón sinc[C#m]ero, [A].
+[B]
+Te d[E]oy,[B] mi corazón sinc[C#m]ero, [A]
 para gritar sin mi[E]edo,[A] lo hermoso que es tu am[B]or.
-Tendr[E]é,[B] mis manos sin cans[C#m]ancio, [A].
-tu historia entre mis l[E]abios, y fu[B]erza en la oraci[E]ón. [B].
+Tendr[E]é,[B] mis manos sin cans[C#m]ancio, [A]
+tu historia entre mis l[E]abios, y fu[B]erza en la oraci[E]ón. [B]
 		ESTRIBILLO
 
-[B].
-Y as[E]í,[B] en marcha iré cant[C#m]ando, [A].
+[B]
+Y as[E]í,[B] en marcha iré cant[C#m]ando, [A]
 por pueblos predic[E]ando,[A] tu grandeza Señ[B]or.
-Señ[E]or,[B] tengo alma mision[C#m]era, [A].
-condúceme a la ti[E]erra, que t[B]enga sed de Di[E]os. [B].
+Señ[E]or,[B] tengo alma mision[C#m]era, [A]
+condúceme a la ti[E]erra, que t[B]enga sed de Di[E]os. [B]
 		ESTRIBILLO
 `
   };
