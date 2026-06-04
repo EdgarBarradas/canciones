@@ -2643,7 +2643,7 @@ canciones = [
       {
         "titulo":"Jesús está vivo",
         "tiempos":["No filtrar","Pascua"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Santísima Trinidad"],
         "momentos":["No filtrar","Comunión","Adoración"],
         "audio":"audios/jesus_esta_vivo",
         "tono_audio":"x",
