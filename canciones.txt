@@ -1959,7 +1959,7 @@ canciones = [
       {
         "titulo":"Divino tesoro",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/divino_tesoro",
         "tono_audio":"",
@@ -1986,7 +1986,7 @@ canciones = [
       {
         "titulo":"Milagro de amor",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/milagro_de_amor.mp4",
         "tono_audio":"F#",
@@ -2103,7 +2103,7 @@ canciones = [
       {
         "titulo":"Alabado sea el Santísimo",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Adoración"],
         "audio":"audios/alabado_sea_el_santisimo",
         "tono_audio":"",
@@ -2112,7 +2112,7 @@ canciones = [
       {
         "titulo":"Bendito sea Dios",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Adoración"],
         "audio":"audios/bendito_bendito",
         "tono_audio":"",
@@ -2121,7 +2121,7 @@ canciones = [
       {
         "titulo":"Cantemos al Amor de los amores",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Adoración"],
         "audio":"audios/cantemos_al_amor_de_los_amores",
         "tono_audio":"",
@@ -2220,7 +2220,7 @@ canciones = [
       {
         "titulo":"Pan de vida eterna",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/pan_de_vida_eterna",
         "tono_audio":"",
@@ -2274,7 +2274,7 @@ canciones = [
       {
         "titulo":"Ya no eres pan y vino",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar"],
+        "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/ya_no_eres_pan_y_vino",
         "tono_audio":"",
@@ -2427,7 +2427,7 @@ canciones = [
       {
         "titulo":"Comiendo del mismo pan",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Jueves Santo"],
+        "misas":["No filtrar","Jueves Santo","Corpus Cristi"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/comiendo_del_mismo_pan",
         "tono_audio":"x",
@@ -2463,7 +2463,7 @@ canciones = [
       {
         "titulo":"Os doy un mandato nuevo",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Jueves Santo"],
+        "misas":["No filtrar","Jueves Santo","Corpus Cristi"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/os_doy_un_mandato_nuevo",
         "tono_audio":"x",
@@ -2472,7 +2472,7 @@ canciones = [
       {
         "titulo":"Un mandamiento nuevo",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Jueves Santo"],
+        "misas":["No filtrar","Jueves Santo","Corpus Cristi"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/un_mandamiento_nuevo",
         "tono_audio":"x",
@@ -2517,7 +2517,7 @@ canciones = [
       {
         "titulo":"Es Jesús, Enmanuel",
         "tiempos":["No filtrar","Ordinario"],
-        "misas":["No filtrar","Cristo Rey"],
+        "misas":["No filtrar","Cristo Rey","Corpus Cristi"],
         "momentos":["No filtrar","Comunión","Adoración"],
         "audio":"audios/es_jesus.mp4",
         "tono_audio":"B",
@@ -2607,7 +2607,7 @@ canciones = [
       {
         "titulo":"Tantum ergo",
         "tiempos":["No filtrar","Cuaresma"],
-        "misas":["No filtrar","Jueves Santo"],
+        "misas":["No filtrar","Jueves Santo","Corpus Cristi"],
         "momentos":["No filtrar"],
         "audio":"audios/tantum_ergo",
         "tono_audio":"x",
