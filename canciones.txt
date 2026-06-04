@@ -184,8 +184,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Gloria"],
-        "audio":"no hay",
-        "tono_audio":"x",
+        "audio":"audios/gloria_vzla.mp4",
+        "tono_audio":"C",
         "txt":"letras/gloria_vzla.txt",
       },
       {
