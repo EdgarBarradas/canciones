@@ -2,13 +2,13 @@ letra={
   titulo:"Gloria aleluya",
   tonalidad:"C",
   letra:`
-Al[C]eluya, gloria aleluya,[Am] aleluya, gloria aleluya, [F].
-aleluya, gloria aleluya,[G] aleluya, gloria aleluya. [C].
+Al[C]eluya, gloria aleluya,[Am] aleluya, gloria aleluya, [F]
+aleluya, gloria aleluya,[G] aleluya, gloria aleluya. [C]
 
-Cantad alegres, cantad a Dios,[Am] habitantes de toda la tierra, [F].
-servid a Dios, con alegría,[G] cantad a Él con regocijo. [C].
+Cantad alegres, cantad a Dios,[Am] habitantes de toda la tierra, [F]
+servid a Dios, con alegría,[G] cantad a Él con regocijo. [C]
 
-Aleluya, gloria aleluya,[Am] aleluya, gloria aleluya, [F].
-aleluya, gloria aleluya,[G] aleluya, gloria al Señ[C]or.
+Aleluya, gloria aleluya,[Am] aleluya, gloria aleluya, [F]
+aleluya, gloria aleluya,[G] aleluya, glori[F]a [Em]al S[Dm]eñ[C]or.
 `
   };
