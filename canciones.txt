@@ -2794,15 +2794,6 @@ canciones = [
         "txt":"letras/himno_a_la_cruz_gloriosa.txt",
       },
       {
-        "titulo":"Magnificat MMD",
-        "tiempos":["No filtrar"],
-        "misas":["No filtrar"],
-        "momentos":["No filtrar","Marianos"],
-        "audio":"audios/magnificat_mmd",
-        "tono_audio":"",
-        "txt":"letras/magnificat_mmd.txt",
-      },
-      {
         "titulo":"Quiero alabarte",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
