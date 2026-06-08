@@ -2757,4 +2757,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/el_amor_me_lo_ha_explicado.txt",
       },
+      {
+        "titulo":"María, intercesora",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Marianos"],
+        "audio":"audios/maria_intercesora",
+        "tono_audio":"",
+        "txt":"letras/maria_intercesora.txt",
+      },
 ]
