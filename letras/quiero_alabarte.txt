@@ -1,0 +1,13 @@
+letra={
+  titulo:"Quiero alabarte",
+  tonalidad:"D",
+  letra:`
+Quiero alab[D]arte, más, y más aún quiero alab[Bm]arte, más, y más aún,
+busc[G]ar tu voluntad, tu gr[Em]acia conocer, quiero alab[A]art[A7]e.
+
+Las [D]aves del cielo, cantan para ti, las b[Bm]estias del campo, reflejan tu poder,
+qui[G]ero cantar, qui[Em]ero cantar mis manos [A]a T[A7]i.
+
+Quiero alab[D]arte.
+`
+  };

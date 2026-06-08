@@ -1,0 +1,30 @@
+letra={
+  titulo:"Todo lo haces nuevo",
+  tonalidad:"E",
+  letra:`
+Tú [E]obras marav[A]illas con tu gr[E]acia, nada es impos[A]ible en tus m[F#m]anos,
+v[B]en, hasta lo más h[A]ondo d[B]e mi s[E]er. (2)
+V[B]en, creo en tu pal[A]abra y t[B]u pod[E]er, porqu[B]e:
+
+		ESTRIBILLO
+Todo lo haces nu[A]ev[B]o, Jes[E]ús, t[B]odo lo haces nu[A]ev[B]o, Jes[E]ús,
+mi vi[A]da es t[B]uya, Señor, renu[A]évam[B]e con tu am[E]or.
+
+Señ[B]or y Jes[E]ús.
+
+Limpia mis her[A]idas con tu gr[E]acia, quema con tu fu[A]ego hoy mi v[F#m]ida,
+v[B]en, hasta lo más h[A]ondo d[B]e mi s[E]er, v[B]en, creo en tu pal[A]abra y t[B]u pod[E]er; porqu[B]e:
+
+		ESTRIBILLO (2)
+Señ[B]or y Jes[E]ús.
+
+Dejando t[E]odo atrás, quiero volver a empezar, rest[A]áurame, renuévame.[E] (3)
+Dejando t[E]odo atrás, quiero volver a empezar, rest[A]áurame.
+
+		ESTRIBILLO (2)
+Señ[B]or y Jes[E]ús.
+
+Todo lo haces nu[A]ev[B]o, Jes[E]ús. (4)
+
+`
+  };

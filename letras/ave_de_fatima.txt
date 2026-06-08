@@ -1,0 +1,28 @@
+letra={
+  titulo:"Ave María de Fátima",
+  tonalidad:"D",
+  letra:`
+El tr[D]ece de mayo, la Virgen Mar[A]ía, baj[G]ó de los ci[D]elos a C[A]ova da Ir[D]ia.
+
+	ESTRIBILLO
+Ave, Ave, Ave Mar[A]ía, Av[G]e, Av[D]e, [A]Ave Mar[D]ía. (2)
+
+A tr[D]es pastorcitos la madre de Di[A]os, desc[G]ubre el mist[D]erio de s[A]u coraz[D]ón.
+	ESTRIBILLO
+
+Vest[D]ida de blanco más bella que el s[A]ol, con d[G]ulces pal[D]abras La V[A]irgen habl[D]ó.
+	ESTRIBILLO
+
+El S[D]anto Rosario constante rez[A]ar, y l[G]a paz del m[D]undo el S[A]eñor dar[D]á.
+	ESTRIBILLO
+
+Con d[D]ulces palabras, nos mandas rez[A]ar, La V[G]irgen Mar[D]ía nos qui[A]ere salv[D]ar.
+	ESTRIBILLO
+
+Hac[D]ed penitencia, haced oraci[A]ón, por l[G]os pecad[D]ores impl[A]ora perd[D]ón.
+	ESTRIBILLO
+
+La V[D]irgen María cercada de l[A]uz, con t[G]odo car[D]iño nos ll[A]eva a Jes[D]ús.
+	ESTRIBILLO
+`
+  };

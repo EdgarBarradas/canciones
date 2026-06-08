@@ -1,0 +1,21 @@
+letra={
+  titulo:"Tan cerca de mí",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+T[C]an c[G]erca de m[Am]í, t[F]an cerca de m[G]í,
+que h[C]asta lo pu[C7]edo toc[F]ar,[Fm] J[C]es[G]ús está aqu[C]í.
+
+N[C]o busques a Cr[G]isto en lo [C]alto,[C7] n[F]i lo busques [G]en la oscurid[Em]ad,[Am]
+m[F]uy dentro de t[G]i, [Em]en tu coraz[Am]ón, pu[F]edes ador[D]ar a tu Señ[G]or.[G7]
+	ESTRIBILLO
+
+Le h[C]ablaré sin mi[G]edo al o[C]ído,[C7] l[F]e contaré las c[G]osas que hay en m[Em]í,[Am]
+[F]y que sólo a [G]El, l[Em]e interesar[Am]án, [F]Él es más que am[D]igo para m[G]í.[G7]
+	ESTRIBILLO
+
+M[C]íralo a tu l[G]ado por la c[C]alle,[C7] c[F]aminando entr[G]e la multit[Em]ud,[Am]
+m[F]uchos no lo v[G]en, p[Em]orque ciegos s[Am]on, ci[F]egos de cegu[D]era espiritu[G]al.[G7]
+	ESTRIBILLO
+`
+  };

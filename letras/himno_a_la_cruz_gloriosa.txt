@@ -1,0 +1,30 @@
+letra={
+  titulo:"Himno a la Cruz gloriosa",
+  tonalidad:"E",
+  letra:`
+	ESTRIBILLO
+L[E]a Cruz gloriosa,[G#] del Señor resucit[C#m]ado,
+es el [F#m]árbol, de la salvaci[G#]ón.
+De [E]él yo me nutro, [G#m]en él me del[C#m]eito,
+en s[F#m]us raíces crezco,[B] en sus ramas yo me exti[E]endo.
+
+
+S[G#]u rocío me da fu[A]erza, su Espíritu como brisa me fec[G#]unda;
+a su s[F#m]ombra he puesto yo mi ti[G#]enda.
+En el h[A]ambre es la comida, en la desnudez es mi vestido,
+en la sed es agua v[G#]iva,
+
+Ang[F#m]osto sendero, mi puerta estr[G#]echa, esc[F#m]ala de Jacob, lecho de amor
+donde nos ha desposado el Señ[G#]or.
+	ESTRIBILLO
+
+
+[G#]En el temor es mi def[A]ensa, en el tropiezo me da fu[G#]erzas
+en la vict[A]oria la corona, en la lucha ella es el pr[G#]emio.
+
+[F#m]Árbol de vida et[G#]erna, mist[F#m]erio del univ[G#]erso.
+Col[A]umna de la tierra, tu cima toca el cielo,
+y en tus brazos abiertos, brilla el amor de Di[G#]os.
+	ESTRIBILLO
+`
+  };

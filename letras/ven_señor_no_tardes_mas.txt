@@ -1,0 +1,14 @@
+letra={
+  titulo:"Ven Señor no tardes más",
+  tonalidad:"E",
+  letra:`
+	ESTRIBILLO
+V[E]en Señor no tardes m[E7]ás, v[A]en Señor Jes[E]ús,
+ven Señor no t[G#m]ardes m[C#m]ás, v[A]en Señ[B]or Jes[E]ús.
+
+Desde el f[E]ondo,[A] de los s[E]iglos, va elev[F#m]ándose un clam[B]or,
+con un gr[A]ito de esper[E]anza, ansi[B]ando un redent[E]or,[E7]
+con un gr[A]ito de esper[E]anza, ansi[B]ando un redent[E]or.
+	ESTRIBILLO
+`
+  };

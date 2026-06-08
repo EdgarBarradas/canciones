@@ -1,0 +1,32 @@
+letra={
+  titulo:"Cuantas veces",
+  tonalidad:"C",
+  letra:`
+Cuántas v[C]eces siendo n[G]iño te rec[C]é,
+con mis besos te dec[F]ía que te am[G]aba,
+poc[F]o a poco con el ti[G]empo, olvid[C]ándome de T[Am]i,
+por cam[F]inos que se al[G]ejan me perd[C]í,
+por cam[F]inos que se al[G]ejan me perd[C]í.
+
+	ESTRIBILLO
+Hoy he vu[G]elto, Madre, a record[C]ar,
+cuántas c[G]osas dije ante tu alt[C]ar,[C7]
+y al rez[F]arte puedo comprend[C]er,
+que una M[G]adre no se cansa de esper[C]ar,
+que una M[G]adre no se cansa de esper[C]ar.
+
+Al regr[C]eso, me enc[G]endías una l[C]uz,
+sonriendo desde l[F]ejos me esper[G]abas,
+en la m[F]esa, la com[G]ida aún cali[C]ente y el mant[Am]el,
+y en tu abr[F]azo, mi alegr[G]ía de volv[C]er,
+y en tu abr[F]azo, mi alegr[G]ía de volv[C]er.
+	ESTRIBILLO
+
+Aunque el h[C]ijo se alej[G]ara del hog[C]ar,
+una madre siempre esp[F]era su regr[G]eso,
+el reg[F]alo más herm[G]oso que a los h[C]ijos da el Señ[Am]or,
+que es la m[F]adre y el mil[G]agro de su am[C]or,
+que es la m[F]adre y el mil[G]agro de su am[C]or.
+	ESTRIBILLO
+`
+  };
