@@ -2,20 +2,20 @@ letra={
   titulo:"Quien pierde su vida por Mí",
   tonalidad:"D",
   letra:`
-Quien pi[D]erde su vida por m[Bm]í, la encontrar[G]á, la encontrar[A]á, la encontrar[D]á.
+Quien pi[D]erde su vida por M[Bm]í, la encontrar[G]á, la encontrar[A]á, la encontrar[D]á.
 [Bm] [G] [A] [D]
 
-Quien d[D]eja a su padre por m[Bm]í, su madre por m[G]í, me encontrar[A]á, me encontrar[D]á.
+Quien d[D]eja a su padre por M[Bm]í, su madre por M[G]í, me encontrar[A]á, me encontrar[D]á.
 
 No tengas mi[Bm]edo, no tengas mi[G]edo yo estoy aqu[A]í, yo estoy aqu[D]í
 [Bm] [G] [A] [D]
 
-Quien d[D]eja su tierra por m[Bm]í, sus bienes por m[G]í, sus hijos por mí, me encontrar[D]á.
+Quien d[D]eja su tierra por M[Bm]í, sus bienes por M[G]í, sus hijos por M[A]í, me encontrar[D]á.
 
 No tengas mi[Bm]edo, yo con[G]ozco a quienes elegí,[A] a quienes eleg[D]í.
 [Bm] [G] [A] [D]
 
-Quien pi[D]erde su vida por m[Bm]í, la encontrar[G]á, la encontrar[A]á, la encontrar[D]á.
+Quien pi[D]erde su vida por M[Bm]í, la encontrar[G]á, la encontrar[A]á, la encontrar[D]á.
 [Bm] [G] [A] [D]
 `
   };
