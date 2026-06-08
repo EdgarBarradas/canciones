@@ -1,0 +1,15 @@
+letra={
+  titulo:"Alabado sea el Santísimo",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+Alab[C]ado sea el Sant[G]ísimo, sacram[F]ento del alt[C]ar,
+y La V[C]irgen conceb[G]ida, sin pec[F]ado origin[C]al,
+y La V[C]irgen conceb[G]ida, sin pec[F]ado origin[C]al.
+
+Bendice, bendice, bendice alma m[G]ía,
+Bendice, bendice, bendice al Señ[C]or.
+
+	ESTRIBILLO
+`
+  };
