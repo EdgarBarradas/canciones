@@ -2867,8 +2867,8 @@ canciones = [
       },
       {
         "titulo":"Venid fieles todos",
-        "tiempos":["No filtrar","Navidad","Epifanía"],
-        "misas":["No filtrar","Navidad"],
+        "tiempos":["No filtrar","Navidad"],
+        "misas":["No filtrar","Navidad","Epifanía"],
         "momentos":["No filtrar","Comunión"],
         "audio":"audios/venid_fieles_todos",
         "tono_audio":"",
