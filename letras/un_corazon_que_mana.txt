@@ -1,0 +1,32 @@
+letra={
+  titulo:"Un corazón que mana",
+  tonalidad:"E",
+  letra:`
+[E]Hay un corazón que m[F#m]ana, que palp[B]ita en el Sagr[E]ario, [C#m]
+el corazón solit[F#m]ario,[B] que se alimenta de am[E]or.
+Es un corazón paci[F#m]ente, es un c[B]orazón am[E]igo, [C#m]
+el que habita en el olv[F#m]ido el cor[B]azón de tu Di[E]os.
+
+Es un corazón que [F#m]ama, un cor[B]azón que perd[E]ona, [C#m]
+que te conoce y que t[F#m]oma,[B] de tu vida lo pe[E]or.
+Que comenzó esta tar[F#m]ea, una t[B]arde en el Calv[E]ario, [C#m]
+y que ahora desde el Sagr[F#m]ario tan sól[B]o quiere tu am[E]or. [E67]
+
+	ESTRIBILLO
+Decidle a todos que v[A]engan, a la fu[B]ente de la v[G#m]ida. [C#m]
+Hay una historia escond[F#m]ida dentro de [B]este coraz[E]ón. [E7]
+Decidles que hay esper[A]anza, que tod[B]o tiene un sent[G#m]ido. [C#m]
+Que Jesucristo está v[F#m]ivo, decidl[B]es que existe Di[E]os.
+
+Es el corazón que ll[F#m]ora, en la c[B]asa de Bet[E]ania. [C#m]
+El corazón que acomp[F#m]aña,[B] a los dos de Ema[E]ús.
+Es el corazón que al j[F#m]oven, rico am[B]ó con la mir[E]ada. [C#m]
+El que a Pedro perdon[F#m]aba después d[B]e su negaci[E]ón.
+
+Es el corazón en l[F#m]ucha, del huert[B]o de los Ol[E]ivos, [C#m]
+que amando a sus enem[F#m]igos,[B] hizo creer al ladr[E]ón.
+Es el corazón que s[F#m]alva, por su f[B]e a quien se le ac[E]erca. [C#m]
+Que mostró su herida abi[F#m]erta al ap[B]óstol que dud[E]ó. [E7]
+	ESTRIBILLO
+`
+  };

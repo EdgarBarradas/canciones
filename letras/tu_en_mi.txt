@@ -1,0 +1,15 @@
+letra={
+  titulo:"Tú en mí, yo en Ti",
+  tonalidad:"Em",
+  letra:`
+Me amas t[C]anto que te d[Em]as para m[D]í, te haces pequ[C]eño para h[Em]abitar en m[D]í,
+Tú en m[Em]í, yo en T[D]i, Tú en m[C]í, yo en T[D]i.
+Me amas t[C]anto que quis[Em]iste qued[D]arte, vives v[C]erdaderam[Em]ente en Cuerpo y S[D]angre,
+Tú en m[Em]í, yo en T[D]i, Tú en m[C]í, yo en T[D]i.
+
+
+No soy d[C]igno, de que [Em]entres, en mi c[D]asa, pero [C]una palabra bastar[Em]á, para san[D]arme,
+Quiero que entres, solo [C]una palabra bastará, Tú en m[C]í, yo en T[D]i,
+Solo [C]una palabra bastar[Em]á, Tú en m[C]í, yo en T[D]i, solo [C]una palabra bastar[Em]á.
+`
+  };

@@ -1,0 +1,24 @@
+letra={
+  titulo:"Venid fieles todos",
+  tonalidad:"C",
+  letra:`
+Ven[C]id fieles t[G]odos, qu[C]e sentís el g[G]ozo, de v[Am]er el gran d[G]ía, de p[D]az d[D7]e am[G]or,
+[C]el Rey del ci[F]el[C]o, [D]a Belén desci[G]ende;
+Postr[C]émonos hum[G]ildes, del[C]ante del Dios h[G]ombre, ven[Dm]id y ador[G]emos, al R[F]ey [G]y Señ[C]or.
+
+
+Busc[C]ando el pes[G]ebre, d[C]ejan sus reb[G]años, past[Am]ores que oy[G]eron la c[D]it[D7]a de Di[G]os,
+t[C]ambién nos[F]otr[C]os, [D]a Belén corr[G]amos;
+Postr[C]émonos hum[G]ildes, del[C]ante del Dios h[G]ombre, ven[Dm]id y ador[G]emos, al R[F]ey [G]y Señ[C]or.
+
+
+Ver[C]éis con sorpr[G]esa, [C]al divino inf[G]ante, que en l[Am]a carne esc[G]onde su et[D]erno [D7]espland[G]or,
+[C]un Dios se v[F]ist[C]e, c[D]on pañal hum[G]ilde;
+Postr[C]émonos hum[G]ildes, del[C]ante del Dios h[G]ombre, ven[Dm]id y ador[G]emos, al R[F]ey [G]y Señ[C]or.
+
+
+Pues du[C]erme entre p[G]ajas, s[C]in hogar y p[G]obre, de un [Am]abrazo nu[G]estro rec[D]iba [D7]el cal[G]or,
+si [C]así nos [F]am[C]a, nu[D]estro amor se infl[G]ame;
+Postr[C]émonos hum[G]ildes, del[C]ante del Dios h[G]ombre, ven[Dm]id y ador[G]emos, al R[F]ey [G]y Señ[C]or.
+`
+  };

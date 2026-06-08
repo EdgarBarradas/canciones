@@ -1,0 +1,27 @@
+letra={
+  titulo:"Si me falta el amor",
+  tonalidad:"C",
+  letra:`
+Aunque y[C]o dominara las l[F]enguas arc[C]anas,
+y el lenguaje del cielo supi[F]era expres[G]ar,
+solam[F]ente sería una hueca camp[C]ana, si me f[G]alta el am[C]or.
+
+	ESTRIBILLO
+Si me falta el am[G]or, no me sirve de n[C]ada,
+si me falta el am[G]or, nada s[C]oy. 
+Si me falta el am[G]or, no me sirve de n[C]ada,
+si me f[A]alta el am[Dm]or,[G] nada s[C]oy. 
+
+
+
+Aunque t[C]odos mis bienes dej[F]ase a los p[C]obres,
+y mi cuerpo en el fuego quisi[F]era inmol[G]ar,
+todo aqu[F]ello sería una inútil haz[C]aña, si me f[G]alta el am[C]or.
+	ESTRIBILLO
+
+Aunque y[C]o desvelase los gr[F]andes mist[C]erios,
+y mi fe las montañas pudi[F]eran mov[G]er,
+no tendr[F]ía valor ni me sirve de n[C]ada, si me f[G]alta el am[C]or.
+	ESTRIBILLO
+`
+  };
