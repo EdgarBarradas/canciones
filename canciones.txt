@@ -2848,7 +2848,7 @@ canciones = [
         "txt":"letras/si_me_falta_el_amor.txt",
       },
       {
-        "titulo":"Tú en mí, yo en Ti",
+        "titulo":"Tú en Mí, yo en Ti",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Adoración"],
