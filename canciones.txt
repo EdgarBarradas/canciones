@@ -2132,8 +2132,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Corpus Cristi"],
         "momentos":["No filtrar","Adoración"],
-        "audio":"audios/cantemos_al_amor_de_los_amores",
-        "tono_audio":"",
+        "audio":"audios/cantemos_al_amor_de_los_amores.mp4",
+        "tono_audio":"C",
         "txt":"letras/cantemos_al_amor_de_los_amores.txt",
       },
       {
