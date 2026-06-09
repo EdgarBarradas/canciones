@@ -2087,8 +2087,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar","Cristo Rey"],
         "momentos":["No filtrar","Comunión","Adoración"],
-        "audio":"audios/todo_es_de_mi_cristo",
-        "tono_audio":"",
+        "audio":"audios/todo_es_de_mi_cristo.mp4",
+        "tono_audio":"Bm",
         "txt":"letras/todo_es_de_mi_cristo.txt",
       },
       {
@@ -2142,7 +2142,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Acción de gracias","Adoración"],
         "audio":"audios/en_el.mp4",
-        "tono_audio":"C",
+        "tono_audio":"F",
         "txt":"letras/en_el.txt",
       },
       {
