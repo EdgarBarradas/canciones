@@ -1165,7 +1165,7 @@ canciones = [
         "txt":"letras/maria_ven.txt",
       },
       {
-        "titulo":"Mi alma canta",
+        "titulo":"Magnificat, Mi alma canta",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Marianos"],
