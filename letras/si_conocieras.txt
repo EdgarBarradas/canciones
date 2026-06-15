@@ -1,0 +1,23 @@
+letra={
+  titulo:"Si conocieras como te amo",
+  tonalidad:"C",
+  letra:`
+Si conoci[C]eras como te amo, si conoci[Em]eras como te amo,
+dejar[F]ías de vivir sin am[G]or.
+Si conoci[C]eras como te amo, si conoci[Em]eras como te amo,
+dejar[F]ías de mendigar cualquier am[G]or. [E]
+Si conoci[Am]eras como te [Em]amo, como te [F]amo, ser[G]ías más fel[C]iz.
+
+Si conoci[C]eras como te busco, si conoci[Em]eras como te busco,
+dejar[F]ías que te alcanzara mi v[G]oz.
+Si conoci[C]eras como te busco, si conoci[Em]eras como te busco,
+dejar[F]ías que te hablara al coraz[G]ón. [E]
+Si conoci[Am]eras como te b[Em]usco, como te b[F]usco, escuchar[G]ías más mi v[C]oz.
+
+Si conoci[C]eras como te sueño, si conoci[Em]eras como te sueño,
+me preguntar[F]ías lo que espero de t[G]i.
+Si conoci[C]eras como te sueño, si conoci[Em]eras como te sueño,
+buscar[F]ías lo que he pensado para t[G]i. [E]
+Si conoci[Am]eras como te su[Em]eño, como te su[F]eño, pensar[G]ías más fel[C]iz
+`
+  };
