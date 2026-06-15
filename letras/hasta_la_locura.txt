@@ -1,0 +1,18 @@
+letra={
+  titulo:"Hasta la locura",
+  tonalidad:"G",
+  letra:`
+[G]
+Me puede faltar todo en la v[C]ida,[D] me puede faltar hasta la v[G]ida, [Em]
+pero nunca quiero que me f[C]alte, el deseo de am[D]arte, hasta el fin[G]al.
+
+	ESTRIBILLO
+H[G7]asta la loc[C]ura te amo Señ[D]or, ya no quedan d[Bm]udas en mi coraz[Em]ón,
+de que te [C]amo, de que te [D]amo, Señ[G]or.
+
+Quiero amarte hasta el extr[C]emo,[D] sin reservas darme por ent[G]ero, [Em]
+como los que se han enamor[C]ado, yo te canto mi am[D]ado, hasta el fin[G]al.
+	ESTRIBILLO
+	ESTRIBILLO
+`
+  };
