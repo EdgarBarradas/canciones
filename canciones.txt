@@ -2883,4 +2883,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/venid_fieles_todos.txt",
       },
+      {
+        "titulo":"Si conocieras como te amo",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/si_conocieras",
+        "tono_audio":"",
+        "txt":"letras/si_conocieras.txt",
+      },
 ]
