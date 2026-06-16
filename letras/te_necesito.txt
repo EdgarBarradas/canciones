@@ -1,0 +1,20 @@
+letra={
+  titulo:"Te necesito",
+  tonalidad:"C",
+  letra:`
+T[C]e neces[G]ito, d[F]entro[G] de mi coraz[C]ón, [E]
+si[Am]ento en tus br[Dm]azos, reboz[F]ar[G] mi alma de [C]amor. (2)
+
+Como el [G]ave necesita del vi[C]ento,
+y las fl[G]ores necesitan del s[C]ol,
+así mi [C7]alma necesita de T[F]i,
+de sentir tu presencia div[G]ina,
+cuando ll[Em]enas mi vida vac[Am]ía,
+del am[F]or[G] de tu Espírit[C]u en mi. (2)
+
+[Am]
+
+Del am[F]or[G] de tu Espírit[C]u en mi.
+
+`
+  };
