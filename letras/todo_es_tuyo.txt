@@ -2,18 +2,18 @@ letra={
   titulo:"Todo es tuyo",
   tonalidad:"C",
   letra:`
-Mis alegr[C]ias, y mis tristezas, lo que t[F]engo y lo que s[G]oy,
-todos mis su[C]eños, y mis anhelos, todo t[F]e lo entr[G]ego, oh Di[C]os.
+Mis alegr[C]ías, y mis tristezas, lo que t[F]engo y lo que s[G]oy,
+todos mis su[C]eños, y mis anhelos, todo t[F]e lo entr[G]ego, oh, Di[C]os.
 
 	ESTRIBILLO
-Todo es t[C]uy[Am]o, todo es t[F]uy[C]o, h[F]az lo que quieras de m[G]i,
+Todo es t[C]uy[Am]o, todo es t[F]uy[C]o, h[F]az lo que quieras de m[G]í,
 todo es t[C]uy[Am]o, todo es t[F]uy[C]o, Jes[F]ús yo conf[G]ío en T[C]i.
 
 Toma mi ti[C]empo, y mis talentos, toma mis m[F]anos y mi v[G]oz,
-para tu Gl[C]oria, para tu Reino, todo t[F]e lo entr[G]ego, oh Di[C]os.
+para tu Gl[C]oria, para tu Reino, todo t[F]e lo entr[G]ego, oh, Di[C]os.
 	ESTRIBILLO
 
-T[C]od[Am]o, todo, te entr[C]eg[Am]o, Señ[G]or. (5)
+T[C]od[Am]o, t[C]od[Am]o, te entr[C]eg[Am]o, Señ[G]or. (5)
 
 	ESTRIBILLO
 	ESTRIBILLO
