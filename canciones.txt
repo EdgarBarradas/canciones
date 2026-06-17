@@ -2928,4 +2928,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/cada_vez_que_te_recibo.txt",
       },
+      {
+        "titulo":"Alzad la mirada",
+        "tiempos":["No filtrar"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar"],
+        "audio":"audios/alzad_la_mirada",
+        "tono_audio":"",
+        "txt":"letras/alzad_la_mirada.txt",
+      },
 ]
