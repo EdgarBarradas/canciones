@@ -1,0 +1,34 @@
+letra={
+  titulo:"Alzad la mirada",
+  tonalidad:"G",
+  letra:`
+	ESTRIBILLO
+[G]Alzo l[D]a mir[Em]ada, mis [C]ojos en Jes[D]ús,
+[Em]alzo l[D]a mir[G]ada, clav[C]ada en la cr[D]uz,
+cu[C]ando miro al ci[D]elo todo es nu[Em]evo con su luz.
+[C]Alzo la mir[D]ad[Em]a, [C]alzo la mir[D]ad[Em]a, [C]alzo la mir[D]ad[G]a.
+
+No estoy hecho, p[C]ara mirar al su[G]elo,
+al mir[Em]arte, s[C]é por qué nac[D]í,
+me cre[Em]aste, p[C]ara mirar al ci[G]elo, [Em]
+estoy inqui[Am]eto hasta que no descanse en t[D]i.
+	ESTRIBILLO
+
+El Señor es mi fu[Em]erza, y mi esper[C]anza,
+no vacilar[D]é, alzo la mir[D7]ad[G]a.
+Él es la r[Em]oca de la salvaci[C]ón,
+en Él conf[D]ío,[C] y no tinc p[D]or,
+en Él conf[Am]ío, y no tinc p[D]or.
+	ESTRIBILLO
+
+Por los que buscan la p[D]az, y la libertad, [Em]
+para que encuentren en tus [Bm7]ojos, dónde descans[C]ar,
+por los que cruzan el m[D]ar buscando un hoga-[Em]ar,
+para que vean más all[Bm7]á de la tempest[C]ad,
+por los que buscan la p[D]az, y la liberta-[Em]ad,
+para que encuentren en tus [Bm7]ojos, dónde descans[C]ar. [D]
+
+[C]Alzo la mir[D]ad[Em]a, (3)
+[C]Alzo la mir[D]ad[G]a.
+`
+  };
