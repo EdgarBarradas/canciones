@@ -18,6 +18,6 @@ Si conoci[C]eras como te sueño, si conoci[Em]eras como te sueño,
 me preguntar[F]ías lo que espero de t[G]i.
 Si conoci[C]eras como te sueño, si conoci[Em]eras como te sueño,
 buscar[F]ías lo que he pensado para t[G]i. [E]
-Si conoci[Am]eras como te su[Em]eño, como te su[F]eño, pensar[G]ías más fel[C]iz
+Si conoci[Am]eras como te su[Em]eño, como te su[F]eño, pensar[G]ías más fel[C]iz.
 `
   };
