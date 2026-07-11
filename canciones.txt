@@ -2937,4 +2937,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/alzad_la_mirada.txt",
       },
+      {
+        "titulo":"Ha llegado el momento",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Acción de gracias"],
+        "audio":"audios/ha_llegado_el_momento",
+        "tono_audio":"",
+        "txt":"letras/ha_llegado_el_momento.txt",
+      },
 ]
