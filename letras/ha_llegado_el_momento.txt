@@ -1,0 +1,16 @@
+letra={
+  titulo:"Ha llegado el momento",
+  tonalidad:"C",
+  letra:`
+[C]
+Ha llegado el mom[G]ento,[Am] de decirle al S[Em]eñor, [F]
+que le damos las gr[C]acias, por s[F]u gran am[G]or. [C]
+Por haber penetr[G]ado,[Am] en nuestro interi[Em]or, [F]
+con el sacram[C]ento, de l[F]a comuni[G]ón.
+
+[Am]Jesús,[Em] Jesús, [F]
+hoy tu eres el centro de nu[C]estro coraz[C7]ón, [F]
+tu resucitaste,[Em] y eres el amor, [Am]
+ahora y por si[F]empre, por si[G]empre Señ[C]or.
+`
+  };
