@@ -3,18 +3,18 @@ letra={
   tonalidad:"G",
   letra:`
 	ESTRIBILLO
-C[G]ada vez que te rec[C]ibo Señor,[D] algo grande pasa [G]en mí, [Em]
+C[G]ada vez que te rec[C]ibo, Señor,[D] algo grande pasa [G]en mí, [Em]
 cada vez que estoy cont[C]igo, mi Dios,[D] me acerco un poco más [G]a Ti,
 porque en la h[C]ostia estás, mi Jesús d[D]e verdad,
-yo estoy a un p[G]aso del ci[D]elo aqu[Em]í, estoy a un p[C]aso del ci[D]elo, ¡s[G]í!
+yo estoy a un p[B]aso del cielo aqu[Em]í, estoy a un p[C]aso del ci[D]elo, ¡s[G]í!
 
-De t[C]anto amor, te entr[D]egarás, en la cr[G]uz y en [D]el alt[Em]ar,
-tu cu[C]erpo está, tu s[D]angre das, tu alma y t[G]u div[D]inid[Em]ad,
+De t[C]anto amor, te entr[D]egarás, en la cr[B]uz y en el alt[Em]ar,
+tu cu[C]erpo está, tu s[D]angre das, tu alma y t[B]u divinid[Em]ad,
 todo Di[C]os escond[D]ido en un p[G]an.
 	ESTRIBILLO
 
-Al c[C]omulgar, me abr[D]azará, Jesús en S[G]anta Tr[D]inid[Em]ad,
-me in[C]undará, me [D]amará, con su alma y s[G]u div[D]inid[Em]ad,
+Al c[C]omulgar, me abr[D]azará, Jesús en S[B]anta Trinid[Em]ad,
+me in[C]undará, me [D]amará, con su alma y s[B]u divinid[Em]ad,
 todo Di[C]os para m[D]í en el p[G]an.
 	ESTRIBILLO
 `
