@@ -2946,4 +2946,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/ha_llegado_el_momento.txt",
       },
+      {
+        "titulo":"Cómo o creer en Ti",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/como_no_creer_en_ti",
+        "tono_audio":"",
+        "txt":"letras/como_no_creer_en_ti.txt",
+      },
 ]
