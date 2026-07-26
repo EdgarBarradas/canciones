@@ -2947,7 +2947,7 @@ canciones = [
         "txt":"letras/ha_llegado_el_momento.txt",
       },
       {
-        "titulo":"Cómo o creer en Ti",
+        "titulo":"Cómo no creer en Ti",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["No filtrar","Comunión"],
