@@ -1,0 +1,35 @@
+letra={
+  titulo:"Como no creer en Ti",
+  tonalidad:"A",
+  letra:`
+¿C[A]ómo no creer en ti? ¿Cómo no creer en ti?
+Si en mi yo respiro y hablo,
+camino, pienso y descanso, sólo en t[E]i.
+¿Cómo no creer en ti? ¿Cómo no creer en ti?
+Si el amor que brota de mis ojos al mirar,
+es tu amor que quiere convertir y transformar,
+t[A]odo alrededor, en paz, en gozo y am[A7]or,
+en cam[D]inos de rosas y espinas,
+que esperan ansi[A]osos a quien camina,
+llev[E]ando a los hombres la salvaci[A]ón.
+
+¿Cómo no creer en ti? ¿Cómo no creer en ti? [A7]
+Si tan s[D]ólo con volver los oj[Dm]os en el horiz[A]onte,
+tan s[F#]ólo con mirar los m[Bm]ontes,
+Te v[E]eo Señor, te v[A]eo Señ[A7]or.
+
+Te [D]amo Señor Jes[Dm]ús, te [A]amo Señor Jes[F#]ús,
+te [Bm]amo Señor Jes[E]ús, te [A]amo Señor Jes[A7]ús.
+Si tan s[D]ólo con volver los oj[Dm]os en el horiz[A]onte,
+tan s[F#]ólo con mirar los m[Bm]ontes,
+Te v[E]eo Señor, te v[A]eo Señ[A7]or. (2)
+
+[D] [Dm]
+
+Quiero estar junto a t[A]i,[F#] caminar cont[Bm]igo,[E]
+quiero ser fel[A]iz, [A7]
+y no dudar jam[D]ás,[Dm] de ti inmenso am[A]or, [F#]
+te adoro J[Bm]esús,[E] mi salvad[A]or.
+
+`
+  };
