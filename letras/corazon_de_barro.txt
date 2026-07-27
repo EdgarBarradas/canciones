@@ -3,16 +3,16 @@ letra={
   tonalidad:"E",
   letra:`
 H[E]azme un coraz[B]ón de b[C#m]arro, r[A]ompe el corazón de pi[B]edra,
-d[G#]ale las vueltas que s[C#m]ean, pero h[A]azlo,[F#m][E][B] a tu man[E]era.
+d[G#]ale las vueltas que s[C#m]ean, pero h[A]azlo, [F#m][E][B] a tu man[E]era.
 
 D[E]ame un coraz[B]ón senc[C#m]illo, h[A]azme un corazón como el t[B]uyo,
-[G#]usa la forma que qui[C#m]eras, pero h[A]azlo,[F#m][E][B] igualito que el t[E]uyo. [C#m]
+[G#]usa la forma que qui[C#m]eras, pero h[A]azlo, [F#m][E][B] igualito que el t[E]uyo. [C#m]
 
 Como quieras Señ[G#m]or,[A] ¿Cómo quieres que s[B]ea? [C#m]
 Dale la forma Jes[G#m]ús,[A] hazlo a tu man[B]era.
 
 Que t[C#m]enga tu paciencia, tu amor,[A] que tenga tu voluntad,[E]
-que tenga tu libertad,[B] que reine esa paz con Dios,[B]
+que tenga tu libertad,[B] que reine esa paz con Dios,[C#m]
 que tenga lo que me falt[A]a, que sobre lo que no teng[E]o,
 hazme un corazón de barr[B]o, es todo lo que yo quier[C#m]o,
 que tenga tu sencillez,[A] siempre tan lleno de luz,[E]
@@ -21,7 +21,7 @@ hazme un corazón de niñ[A]o, un corazón limpio y pur[E]o,
 dale las vueltas con tus man[F#m]os, y h[A]azme,[B] un corazón como el t[E]uyo. (2)
 
 H[E]azme un coraz[B]ón de b[C#m]arro, r[A]ompe el corazón de pi[B]edra,
-d[G#]ale las vueltas que s[C#m]ean, pero h[A]azlo,[B] a tu man[E]era.
+d[G#]ale las vueltas que s[C#m]ean, pero h[A]azlo, [F#m][E][B] a tu man[E]era.
 ...[A]t[B]u man[E]era
 `
   };
