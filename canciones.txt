@@ -2955,4 +2955,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/como_no_creer_en_ti.txt",
       },
+      {
+        "titulo":"Corazón de barro",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/corazon_de_barro",
+        "tono_audio":"",
+        "txt":"letras/corazon_de_barro.txt",
+      },
 ]
