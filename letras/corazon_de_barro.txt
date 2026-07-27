@@ -2,10 +2,10 @@ letra={
   titulo:"Corazón de barro",
   tonalidad:"E",
   letra:`
-H[E]azme un coraz[B]ón de b[C#m]arro, r[A]ompe el corazón de pi[B]edra,
+H[E]azme un coraz[B]ón de b[C#m]arro, r[F#m]ompe el corazón de pi[B]edra,
 d[G#]ale las vueltas que s[C#m]ean, pero h[A]azlo, [F#m] [C#m] [B] a tu man[E]era.
 
-D[E]ame un coraz[B]ón senc[C#m]illo, h[A]azme un corazón como el t[B]uyo,
+D[E]ame un coraz[B]ón senc[C#m]illo, h[F#m]azme un corazón como el t[B]uyo,
 [G#]usa la forma que qui[C#m]eras, pero h[A]azlo, [F#m] [C#m] [B] igualito que el t[E]uyo. [C#m]
 
 Como quieras Señ[G#m]or,[A] ¿Cómo quieres que s[B]ea? [C#m]
@@ -20,7 +20,7 @@ perdonar como perdon[B]as, mira que bien lo haces Tú,[C#m]
 hazme un corazón de niñ[A]o, un corazón limpio y pur[E]o,
 dale las vueltas con tus man[F#m]os, y h[A]azme,[B] un corazón como el t[E]uyo. (2)
 
-H[E]azme un coraz[B]ón de b[C#m]arro, r[A]ompe el corazón de pi[B]edra,
+H[E]azme un coraz[B]ón de b[C#m]arro, r[F#m]ompe el corazón de pi[B]edra,
 d[G#]ale las vueltas que s[C#m]ean, pero h[A]azlo, [F#m] [C#m] [B] a tu man[E]era.
 ...[A]t[B]u man[E]era
 `
