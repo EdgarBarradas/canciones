@@ -22,6 +22,6 @@ dale vueltas con tus man[F#m]os, y h[A]azme, [F#m] [C#m] [B] un corazón como el
 
 H[E]azme un coraz[B]ón de b[C#m]arro, r[F#m]ompe el corazón de pi[B]edra,
 d[G#]ale las vueltas que s[C#m]ean, pero h[A]azlo, [F#m] [C#m] [B] a tu man[E]era.
-...[A]t[B]u man[E]era
+... [A] t[B]u man[E]era
 `
   };
