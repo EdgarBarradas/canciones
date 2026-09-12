@@ -2964,4 +2964,22 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/corazon_de_barro.txt",
       },
+      {
+        "titulo":"Santo de Shubert",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["Santo"],
+        "audio":"audios/santo_shubert",
+        "tono_audio":"",
+        "txt":"letras/santo_shubert.txt",
+      },
+      {
+        "titulo":"Déjame nacer de nuevo",
+        "tiempos":["No filtrar","Ordinario","Cuaresma"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/dejame_nacer_de_nuevo",
+        "tono_audio":"",
+        "txt":"letras/dejame_nacer_de_nuevo.txt",
+      },
 ]
