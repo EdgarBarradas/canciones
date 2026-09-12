@@ -1,0 +1,18 @@
+letra={
+  titulo:"Déjame nacer de nuevo",
+  tonalidad:"C",
+  letra:`
+Tú con[C]oces la dur[F]eza en mi sent[C]ir, y la t[F]erquedad que hay [G]en mi coraz[C]ón,[C7]
+son las c[F]osas que me al[G]ejaron de t[C]i, Señ[Am]or, h[F]azme renac[G]er en tu am[C]or.[C7]
+
+	ESTRIBILLO
+Déjame nac[F]er, de nu[G]evo, déjame nac[Em]er, de nu[Am]evo,
+déjame nac[F]er, de nu[G]evo, Señ[C]or,[C7]
+no importa la ed[F]ad que t[G]enga, Tú no la tien[Em]es en cu[Am]enta,
+déjame nac[F]er, de nu[G]evo, Señ[C]or.
+
+Tú con[C]oces el pec[F]ado que hay en m[C]í, y el dol[F]or que este dejó [G]en mi coraz[C]ón,[C7]
+por la mu[F]erte que ha caus[G]ado vuelvo a t[C]i, Señ[Am]or, d[F]ame vida nu[G]eva con tu am[C]or.[C]
+	ESTRIBILLO
+`
+  };

@@ -1,0 +1,17 @@
+letra={
+  titulo:"Santo de Shubert",
+  tonalidad:"D",
+  letra:`
+S[D]anto, s[A]anto, s[G]ant[D]o, s[G]anto es [A]el Señ[D]o-[A]or,
+s[D]anto, s[A]anto, s[G]ant[D]o, s[G]anto es nu[A]estro Di[D]os.
+
+Llenos d[D7]e tu Gl[G]ori[Em]a, ci[G]elo y t[D]ierra s[A]on,
+Di[D]os del [D7]univ[G]ers[D]o, r[Em]ey de l[A]a creaci[D]ón.
+
+S[D]anto, s[A]anto, s[G]ant[D]o, s[G]anto es [A]el Señ[D]o-[A]or,
+s[D]anto, s[A]anto, s[G]ant[D]o, s[G]anto es nu[A]estro Di[D]os.
+
+Bendito [D7]el que vi[G]en[Em]e, [G]en nombr[D]e de D[A]ios,
+h[D]osanna [D7]en el ci[G]el[D]o, s[Em]anto es [A]El Señ[D]or.
+`
+  };
