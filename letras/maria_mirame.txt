@@ -3,7 +3,7 @@ letra={
   tonalidad:"C",
   letra:`
 		ESTRIBILLO
-María m[C]írame,[G] María m[Am]írame,[Em] si tú me m[C]iras, él tambi[F]én me mirar[G]á,
+María m[C]írame,[G] María m[Am]írame, si tú me m[C]iras, él tambi[F]én me mirar[G]á,
 Madre mía m[Am]írame,[F] de la mano ll[C]évame,[Am] muy cerca de [Dm]Él, que ahí m[G]e quiero qued[C]ar.
 
 María c[Em]úbreme[Dm] con tu m[Am]anto, que tengo mi[F]edo,[G] y no sé rez[C]ar, [C7].
