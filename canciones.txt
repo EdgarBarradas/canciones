@@ -1807,7 +1807,7 @@ canciones = [
         "titulo":"En su mesa hay amor",
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
-        "momentos":["No filtrar","Comunión"],
+        "momentos":["No filtrar","Entrada","Ofertorio","Comunión"],
         "audio":"audios/en_su_mesa_hay_amor",
         "tono_audio":"",
         "txt":"letras/en_su_mesa_hay_amor.txt",
