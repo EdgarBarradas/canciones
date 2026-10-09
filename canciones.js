@@ -193,13 +193,19 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   crear_bloque_letra(letra)
 }        
 
+function abrirCancionNuevaPestana(audio_file, tono_audio, txt_file) {
+  const url = new URL("cancion.html", window.location.href)
+  url.searchParams.set("audio", audio_file)
+  url.searchParams.set("tono_audio", tono_audio)
+  url.searchParams.set("txt", txt_file)
+  window.open(url.href, "_blank", "noopener")
+}
+
 function buscarCanciones(canciones) {
     function sinAcentos(t) {
       return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
       }  
   la_letra="x"
-  document.getElementById('bloque_audio').innerHTML=""
-  document.getElementById('bloque_letra').innerHTML=""
   tiempo=document.getElementById('tiempo').value
   misa=document.getElementById('misa').value
   momento=document.getElementById('momento').value
@@ -224,10 +230,14 @@ function buscarCanciones(canciones) {
     showing_title = c.titulo + txt_icon + audio_icon
     tono_audio_global = c.tono_audio
 
-    document.getElementById('resultados').innerHTML += `
-      <div class="cancion">
-        <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${showing_title} </h3>
-      </div>`;
+    const cancion = document.createElement("div")
+    cancion.className = "cancion"
+    const titulo = document.createElement("h3")
+    titulo.className = "result"
+    titulo.textContent = showing_title
+    titulo.addEventListener("click", () => abrirCancionNuevaPestana(c.audio, c.tono_audio, c.txt))
+    cancion.appendChild(titulo)
+    document.getElementById("resultados").appendChild(cancion)
   });  
 }
 
@@ -242,5 +252,13 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
     document.getElementById("btnBuscar").addEventListener("click", () => buscarCanciones(canciones));
 }
  
-listarCanciones("canciones.txt")
-
+if (document.getElementById("resultados")) {
+  listarCanciones("canciones.txt")
+} else {
+  const parametros = new URLSearchParams(window.location.search)
+  mostrarAudioLetraAcordes(
+    parametros.get("audio"),
+    parametros.get("tono_audio"),
+    parametros.get("txt")
+  )
+}
