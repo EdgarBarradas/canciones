@@ -168,28 +168,21 @@ function transponer(nuevo){////////////////////////////------Esta función reali
       crear_bloque_letra(letra)
 }
 
-async function fileExist(ruta) {
-    try {
-        const resp = await fetch(ruta, { method: "HEAD" });
-        return resp.ok;   // true si existe (200), false si no (404)
-    } catch (e) {
-        return false;     // error de red → tratar como que no existe
-    }
-}
-
 async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   tono_audio_global=tono_audio
-  fileExist(audio_file).then(exist => {
-    if (exist) {
-      document.getElementById("bloque_audio").innerHTML = '<br>'
-      document.getElementById("bloque_audio").innerHTML += '<audio controls src="'+audio_file+'"></audio>'
-      document.getElementById("bloque_audio").innerHTML += '<p id="audio_text" style="color: grey;">Versión de audio por '+x(tono_audio)+'</p>'
-    } else {
-      document.getElementById("bloque_audio").innerHTML = '<br>'
-      document.getElementById("bloque_audio").innerHTML += '<audio controls src="'+audio_file+'"></audio>'
-      document.getElementById("bloque_audio").innerHTML += '<p  id="audio_text" style="color: grey;">Aun no hemos incluido un audio para esta canción</p>'
-    }
-});
+  const bloqueAudio = document.getElementById("bloque_audio")
+  bloqueAudio.innerHTML = '<br>'
+  const reproductor = document.createElement("audio")
+  reproductor.controls = true
+  const textoAudio = document.createElement("p")
+  textoAudio.id = "audio_text"
+  textoAudio.style.color = "grey"
+  textoAudio.textContent = "Versión de audio por " + x(tono_audio)
+  reproductor.addEventListener("error", () => {
+    textoAudio.textContent = "Aun no hemos incluido un audio para esta canción"
+  })
+  bloqueAudio.append(reproductor, textoAudio)
+  reproductor.src = audio_file
   letra_acordes = await (await fetch((txt_file))).text();
   eval(letra_acordes)
   la_letra=letra
@@ -227,18 +220,11 @@ function buscarCanciones(canciones) {
   canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
 
   canciones_filtradas.forEach(c => {
-    audio_icon = ""
-    txt_icon = ""
-    if (c.audio.includes(".")){audio_icon = " ♫"}
-    if (c.txt.includes(".")){txt_icon = " 📄"}
-    showing_title = c.titulo + txt_icon + audio_icon
-    tono_audio_global = c.tono_audio
-
     const cancion = document.createElement("div")
     cancion.className = "cancion"
     const titulo = document.createElement("h3")
     titulo.className = "result"
-    titulo.textContent = showing_title
+    titulo.textContent = c.titulo
     titulo.addEventListener("click", () => abrirCancionNuevaPestana(c.audio, c.tono_audio, c.txt))
     cancion.appendChild(titulo)
     document.getElementById("resultados").appendChild(cancion)
