@@ -15,10 +15,13 @@ function x(n){
   }
 }
 
-document.getElementById("notacion").addEventListener("change", function() {
-  notacion=this.value;
-  if (la_letra!=="x"){crear_bloque_letra(la_letra)}
-})
+const selectorNotacion = document.getElementById("notacion")
+if (selectorNotacion) {
+  selectorNotacion.addEventListener("change", function() {
+    notacion=this.value;
+    if (la_letra!=="x"){crear_bloque_letra(la_letra)}
+  })
+}
 
 function actualizar_notacion(){
   notacion=document.getElementById('temp_acorde').value
@@ -190,6 +193,7 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
   letra_acordes = await (await fetch((txt_file))).text();
   eval(letra_acordes)
   la_letra=letra
+  document.title = letra.titulo
   crear_bloque_letra(letra)
 }        
 
