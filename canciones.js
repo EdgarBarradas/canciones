@@ -109,9 +109,10 @@ function pinta_linea_1(linea, bloque){
 
 function crear_bloque_letra(letra){////////////////////////////------Esta función dibuja el bloque de la letra y los acordes de una canción
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
-  document.getElementById("bloque_letra").innerHTML += '<h3 style="display:inline-block; margin-right:10px;" id="tonalidad" data-value="'+letra.tonalidad+'">tonalidad: '+x(letra.tonalidad)+'</h3>'
-  document.getElementById("bloque_letra").innerHTML += '<label style="display:inline-block;">Transponer a:</label>'
-  document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
+  document.getElementById("controles_tonalidad").innerHTML =
+    '<h3 id="tonalidad" data-value="'+letra.tonalidad+'">Tonalidad: '+x(letra.tonalidad)+'</h3>' +
+    '<label for="transponer">Transponer a:</label>' +
+    '<select id="transponer"></select>'
   
   if (letra.tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
     tonalidades_m.forEach((t,i)=>{
@@ -127,6 +128,9 @@ function crear_bloque_letra(letra){////////////////////////////------Esta funci�
       document.getElementById("transponer").innerHTML += '<option value="'+t+'"'+s+'>'+x(t)+'</option>'
       })
   }
+  document.getElementById("transponer").addEventListener("change", function() {
+    transponer(this.value)
+  })
 
   lineas = letra.letra.trim().split("\n");
   estilo='estrofa'
@@ -147,7 +151,7 @@ function transponer(nuevo){////////////////////////////------Esta función reali
       final=nuevo
       actual=document.getElementById("tonalidad").dataset.value
       actual=actual.replace("tonalidad: ","")
-      document.getElementById("tonalidad").innerHTML="tonalidad: "+nuevo
+      document.getElementById("tonalidad").textContent="Tonalidad: "+x(nuevo)
     
       if (actual.charAt(actual.length - 1)==='m'){
         actual=actual.substring(0,actual.length - 1)
