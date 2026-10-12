@@ -2982,4 +2982,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/dejame_nacer_de_nuevo.txt",
       },
+      {
+        "titulo":"Envíame a mí",
+        "tiempos":["No filtrar","Ordinario"],
+        "misas":["No filtrar"],
+        "momentos":["No filtrar","Comunión"],
+        "audio":"audios/enviame_a_mi",
+        "tono_audio":"",
+        "txt":"letras/enviame_a_mi.txt",
+      },
 ]
