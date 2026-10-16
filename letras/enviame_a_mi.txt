@@ -1,5 +1,5 @@
 letra={
-  titulo:"Envíame e mí",
+  titulo:"Envíame a mí",
   tonalidad:"D",
   letra:`
 Puedo v[D]er en tu mirada y tu pres[Bm]encia, la bell[D]eza de aquel que me enamor[A]ó,
@@ -17,9 +17,9 @@ Envíame a m[D]í, envíame a m[A]í, que encuentren en t[Bm]i, el tes[F#m]oro m
 
 Envíame a m[D]í.
 
-Te seguir[G]e-[A]e-[D]é, te seguir[A]e-[G]e-[A]é, te seguir[G]e-[A]e-[D]é, te seguir[A]e-[G]e-[A]é,
-te seguir[G]e-[A]e-[D]é, con toda mi v[A]id[G]a,[A] te seguir[G]e-[A]e-[D]é, de noche y de d[A]í[G]a,[A]
-te seguir[G]e-[A]e-[D]é, por toda la ti[A]err[G]a,[A] te seguir[G]e-[A]e-[D]é, aquí está mi respu[A]est[G]a.[A] 
+Te seguir[G]e-[A]e-[D]é, te seguir[A]e-[D]e-[A]é, te seguir[G]e-[A]e-[D]é, te seguir[A]e-[D]e-[A]é,
+te seguir[G]e-[A]e-[D]é, con toda mi v[A]id[D]a,[A] te seguir[G]e-[A]e-[D]é, de noche y de d[A]í[D]a,[A]
+te seguir[G]e-[A]e-[D]é, por toda la ti[A]err[D]a,[A] te seguir[G]e-[A]e-[D]é, aquí está mi respu[A]est[D]a.[A] 
 
 	ESTRIBILLO
 
