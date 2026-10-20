@@ -3000,4 +3000,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/veni_sancte_spiritus_medjugorje.txt",
       },
+      {
+        "titulo":"Yo navegaré",
+        "tiempos":["No filtrar","Ordinario","Pascua"],
+        "misas":["No filtrar","Pentecostés"],
+        "momentos":["No filtrar","Comunión","Acción de gracias","Adoración"],
+        "audio":"audios/yo_navegare",
+        "tono_audio":"",
+        "txt":"letras/yo_navegare.txt",
+      },
 ]
