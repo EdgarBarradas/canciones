@@ -2991,4 +2991,13 @@ canciones = [
         "tono_audio":"",
         "txt":"letras/enviame_a_mi.txt",
       },
+      {
+        "titulo":"Veni Sancte Spiritus Medjugorje",
+        "tiempos":["No filtrar","Ordinario","Pascua"],
+        "misas":["No filtrar","Pentecostés"],
+        "momentos":["No filtrar","Ofertorio","Acción de gracias"],
+        "audio":"audios/enviame_a_mi",
+        "tono_audio":"",
+        "txt":"letras/enviame_a_mi.txt",
+      },
 ]
