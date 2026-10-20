@@ -2996,8 +2996,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario","Pascua"],
         "misas":["No filtrar","Pentecostés"],
         "momentos":["No filtrar","Ofertorio","Acción de gracias"],
-        "audio":"audios/enviame_a_mi",
+        "audio":"audios/veni_sancte_spiritus_medjugorje",
         "tono_audio":"",
-        "txt":"letras/enviame_a_mi.txt",
+        "txt":"letras/veni_sancte_spiritus_medjugorje.txt",
       },
 ]
