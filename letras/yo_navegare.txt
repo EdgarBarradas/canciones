@@ -2,13 +2,15 @@ letra={
   titulo:"Yo navegaré",
   tonalidad:"Em",
   letra:`
-Yo navegar[Em]é, en el río de tu Espír[D]itu,
-y allí adorar[C]é, al Dios que me am[B]o.
-Yo adorar[Em]é, al Dios que me da v[D]ida,
-que me comprend[C]e, sin ninguna explicaci[B]ón.
+Yo navegar[Em]é, en el océano de tu Espír[D]itu,
+y allí adorar[C]é, al Dios que me am[B]o. (2)
 
 	ESTRIBILLO
 Espíritu, Espírit[Em]u, desciende como fu[D]ego,
 como en Pentecost[C]és, y lléname de nu[B]evo. (2)
+
+Yo adorar[Em]é, al Dios que me da v[D]ida,
+que me comprend[C]e, sin ninguna explicaci[B]ón. (2)
+	ESTRIBILLO
 `
   };
