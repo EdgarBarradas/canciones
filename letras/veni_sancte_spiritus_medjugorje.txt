@@ -2,9 +2,9 @@ letra={
   titulo:"Veni Sancte Spiritus de Medjugorje",
   tonalidad:"Em",
   letra:`
-V[Em]eni Sancte Spir[D]itus,
-v[Em]eni Sancte Spir[D]itus,
+V[Em]eni Sancte Spir[Bm]itus,
+v[Em]eni Sancte Spir[Bm]itus,
 v[G]eni Sancte Spir[D]itus,
-v[Em]eni Sancte Spir[B]itus.
+v[Em]eni Sancte Spir[F#]itus.
 `
   };
