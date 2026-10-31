@@ -18,16 +18,19 @@ h1 { color: darkblue; }
 .acorde_estrib { font-size: 0.8em; color: red; line-height: 1.2; margin-top: 0px; margin-bottom: 0px; background-color: rgb(220, 220, 220); white-space: pre;}/* Acordes de estribillo */
 
 .pagina-cancionero {
-  --tinta: #183b35;
-  --texto-secundario: #667873;
-  --verde: #287565;
-  --verde-oscuro: #1d5b50;
-  --borde: #dce7e2;
+  --tinta: #30243f;
+  --texto-secundario: #716b79;
+  --verde: #347653;
+  --rojo: #b43d4a;
+  --rojo-oscuro: #92313c;
+  --morado: #704b91;
+  --borde: #e5dfeb;
   min-height: 100vh;
   margin: 0;
   background:
-    radial-gradient(ellipse at 85% 0%, rgba(198, 226, 211, 0.55), transparent 32rem),
-    #f7f9f7;
+    radial-gradient(ellipse at 85% 0%, rgba(218, 204, 235, 0.42), transparent 32rem),
+    radial-gradient(ellipse at 0% 12%, rgba(245, 215, 218, 0.34), transparent 28rem),
+    #fff;
   color: var(--tinta);
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -50,7 +53,7 @@ h1 { color: darkblue; }
 
 .pagina-cancionero .eyebrow {
   margin: 0 0 8px;
-  color: var(--verde);
+  color: var(--morado);
   font-size: 0.76rem;
   font-weight: 750;
   letter-spacing: 0.14em;
@@ -73,10 +76,10 @@ h1 { color: darkblue; }
 
 .panel-busqueda {
   padding: 28px;
-  border: 1px solid rgba(220, 231, 226, 0.9);
+  border: 1px solid rgba(229, 223, 235, 0.9);
   border-radius: 20px;
   background: rgba(255, 255, 255, 0.92);
-  box-shadow: 0 16px 40px rgba(27, 62, 51, 0.07);
+  box-shadow: 0 16px 40px rgba(48, 36, 63, 0.07);
 }
 
 .titulo-panel {
@@ -93,7 +96,7 @@ h1 { color: darkblue; }
   flex: 0 0 48px;
   place-items: center;
   border-radius: 15px;
-  background: #e8f3ed;
+  background: #eaf3ed;
   color: var(--verde);
   font-size: 1.8rem;
 }
@@ -125,7 +128,7 @@ h1 { color: darkblue; }
 .campo label {
   display: block;
   margin: 0 0 8px;
-  color: #35534b;
+  color: #315d43;
   font-size: 0.88rem;
   font-weight: 650;
 }
@@ -148,7 +151,7 @@ h1 { color: darkblue; }
 .pagina-cancionero input[type="text"]:focus {
   border-color: var(--verde);
   outline: none;
-  box-shadow: 0 0 0 3px rgba(40, 117, 101, 0.14);
+  box-shadow: 0 0 0 3px rgba(52, 118, 83, 0.14);
 }
 
 .pagina-cancionero input[type="text"]::placeholder {
@@ -161,7 +164,7 @@ h1 { color: darkblue; }
   padding: 0 22px;
   border: 0;
   border-radius: 10px;
-  background: var(--verde);
+  background: var(--rojo);
   color: #fff;
   cursor: pointer;
   font: inherit;
@@ -170,12 +173,12 @@ h1 { color: darkblue; }
 }
 
 .pagina-cancionero #btnBuscar:hover {
-  background: var(--verde-oscuro);
+  background: var(--rojo-oscuro);
   transform: translateY(-1px);
 }
 
 .pagina-cancionero #btnBuscar:focus-visible {
-  outline: 3px solid rgba(40, 117, 101, 0.35);
+  outline: 3px solid rgba(180, 61, 74, 0.35);
   outline-offset: 3px;
 }
 
@@ -194,14 +197,14 @@ h1 { color: darkblue; }
   border-radius: 12px;
   background: #fff;
   color: var(--tinta);
-  box-shadow: 0 3px 12px rgba(27, 62, 51, 0.035);
+  box-shadow: 0 3px 12px rgba(48, 36, 63, 0.035);
   transition: border-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
 }
 
 .pagina-cancionero .cancion:hover {
   transform: translateY(-2px);
-  border-color: #b7d5c7;
-  box-shadow: 0 8px 20px rgba(27, 62, 51, 0.08);
+  border-color: #cbb9dc;
+  box-shadow: 0 8px 20px rgba(48, 36, 63, 0.08);
 }
 
 .pagina-cancionero .result {
