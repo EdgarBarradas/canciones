@@ -16,3 +16,231 @@ h1 { color: darkblue; }
 
 .letra_estrib { line-height: 1.2; font-style: italic; font-weight: bold; -webkit-text-size-adjust: none; text-size-adjust: none; margin-top: 0px; margin-bottom: 0px; background-color: rgb(220, 220, 220); white-space: pre;}/* Linea de estribillo */
 .acorde_estrib { font-size: 0.8em; color: red; line-height: 1.2; margin-top: 0px; margin-bottom: 0px; background-color: rgb(220, 220, 220); white-space: pre;}/* Acordes de estribillo */
+
+.pagina-cancionero {
+  --tinta: #183b35;
+  --texto-secundario: #667873;
+  --verde: #287565;
+  --verde-oscuro: #1d5b50;
+  --borde: #dce7e2;
+  min-height: 100vh;
+  margin: 0;
+  background:
+    radial-gradient(ellipse at 85% 0%, rgba(198, 226, 211, 0.55), transparent 32rem),
+    #f7f9f7;
+  color: var(--tinta);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.pagina-cancionero *,
+.pagina-cancionero *::before,
+.pagina-cancionero *::after {
+  box-sizing: border-box;
+}
+
+.cancionero {
+  width: min(100% - 40px, 1040px);
+  margin: 0 auto;
+  padding: 64px 0 80px;
+}
+
+.encabezado {
+  margin-bottom: 34px;
+}
+
+.pagina-cancionero .eyebrow {
+  margin: 0 0 8px;
+  color: var(--verde);
+  font-size: 0.76rem;
+  font-weight: 750;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.pagina-cancionero h1 {
+  margin: 0;
+  color: var(--tinta);
+  font-size: clamp(2.2rem, 6vw, 3.5rem);
+  letter-spacing: -0.055em;
+  line-height: 1.08;
+}
+
+.introduccion {
+  margin: 14px 0 0;
+  color: var(--texto-secundario);
+  font-size: 1.08rem;
+}
+
+.panel-busqueda {
+  padding: 28px;
+  border: 1px solid rgba(220, 231, 226, 0.9);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 16px 40px rgba(27, 62, 51, 0.07);
+}
+
+.titulo-panel {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.icono-musica {
+  display: grid;
+  width: 48px;
+  height: 48px;
+  flex: 0 0 48px;
+  place-items: center;
+  border-radius: 15px;
+  background: #e8f3ed;
+  color: var(--verde);
+  font-size: 1.8rem;
+}
+
+.pagina-cancionero h2 {
+  margin: 0;
+  color: var(--tinta);
+  font-size: 1.3rem;
+  letter-spacing: -0.025em;
+}
+
+.titulo-panel p {
+  margin: 5px 0 0;
+  color: var(--texto-secundario);
+  font-size: 0.93rem;
+}
+
+.filtros {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: end;
+  gap: 18px 16px;
+}
+
+.campo {
+  min-width: 0;
+}
+
+.campo label {
+  display: block;
+  margin: 0 0 8px;
+  color: #35534b;
+  font-size: 0.88rem;
+  font-weight: 650;
+}
+
+.pagina-cancionero select,
+.pagina-cancionero input[type="text"] {
+  width: 100%;
+  min-height: 48px;
+  margin: 0;
+  padding: 0 14px;
+  border: 1px solid var(--borde);
+  border-radius: 10px;
+  background-color: #fff;
+  color: var(--tinta);
+  font: inherit;
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.pagina-cancionero select:focus,
+.pagina-cancionero input[type="text"]:focus {
+  border-color: var(--verde);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(40, 117, 101, 0.14);
+}
+
+.pagina-cancionero input[type="text"]::placeholder {
+  color: #9aa9a3;
+}
+
+.pagina-cancionero #btnBuscar {
+  min-height: 48px;
+  margin: 0;
+  padding: 0 22px;
+  border: 0;
+  border-radius: 10px;
+  background: var(--verde);
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+  transition: background-color 160ms ease, transform 160ms ease;
+}
+
+.pagina-cancionero #btnBuscar:hover {
+  background: var(--verde-oscuro);
+  transform: translateY(-1px);
+}
+
+.pagina-cancionero #btnBuscar:focus-visible {
+  outline: 3px solid rgba(40, 117, 101, 0.35);
+  outline-offset: 3px;
+}
+
+.seccion-resultados {
+  margin-top: 48px;
+}
+
+.encabezado-resultados {
+  margin-bottom: 16px;
+}
+
+.pagina-cancionero .cancion {
+  margin: 0 0 10px;
+  padding: 0 18px;
+  border: 1px solid var(--borde);
+  border-radius: 12px;
+  background: #fff;
+  color: var(--tinta);
+  box-shadow: 0 3px 12px rgba(27, 62, 51, 0.035);
+  transition: border-color 160ms ease, transform 160ms ease, box-shadow 160ms ease;
+}
+
+.pagina-cancionero .cancion:hover {
+  transform: translateY(-2px);
+  border-color: #b7d5c7;
+  box-shadow: 0 8px 20px rgba(27, 62, 51, 0.08);
+}
+
+.pagina-cancionero .result {
+  margin: 0;
+  padding: 15px 0;
+  color: var(--tinta);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 650;
+}
+
+@media (max-width: 720px) {
+  .cancionero {
+    width: min(100% - 32px, 560px);
+    padding: 42px 0 56px;
+  }
+
+  .filtros {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .cancionero {
+    width: min(100% - 28px, 420px);
+    padding-top: 34px;
+  }
+
+  .panel-busqueda {
+    padding: 21px 17px;
+    border-radius: 16px;
+  }
+
+  .filtros {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .pagina-cancionero #btnBuscar {
+    width: 100%;
+  }
+}
