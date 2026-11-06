@@ -1,6 +1,6 @@
 letra={
   titulo:"Cerca de ti Señor",
-  tonalidad:"",
+  tonalidad:"E",
   letra:`
 C[E]erc[B]a de T[A]i Señor, y[E]o quiero est[B]ar,
 t[E]u gr[B]ande et[A]erno amor, qui[E]er[B]o goz[E]ar.
