@@ -1,0 +1,17 @@
+letra={
+  titulo:"Bendecid al Señor",
+  tonalidad:"D",
+  letra:`
+B[D]endec[G]id al Señ[D]or,
+todos los ci[G]ervos del Señ[D]or,
+alzad vuestras m[G]anos,
+en [D]el santuario,
+[G]y bendec[A]id al Señ[D]or.
+
+B[D]endec[G]id al Señ[D]or,
+todos los ci[G]ervos del Señ[D]or,
+cantad alab[G]anzas,
+en [D]el santuario,
+[G]y bendec[A]id al Señ[D]or.
+`
+  };

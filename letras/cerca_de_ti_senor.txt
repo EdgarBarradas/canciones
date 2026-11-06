@@ -1,0 +1,25 @@
+letra={
+  titulo:"Cerca de ti Señor",
+  tonalidad:"",
+  letra:`
+C[E]erc[B]a de T[A]i Señor, y[E]o quiero est[B]ar,
+t[E]u gr[B]ande et[A]erno amor, qui[E]er[B]o goz[E]ar.
+Ll[E]en[A]a mi p[E]obre s[B]er, l[E]impi[A]a mi c[E]oraz[B]ón,
+h[E]azm[B]e tu r[A]ostro ver, [E]en la [B]aflicci[E]ón.
+
+M[E]i p[B]obre c[A]orazón, [E]inquieto est[B]á,
+p[E]or [B]esta v[A]ida voy, b[E]usc[B]ando p[E]az.
+M[E]ás s[A]olo T[E]ú Señ[B]or, l[E]a p[A]az me pu[E]edes d[B]ar,
+c[E]erc[B]a de t[A]i Señor, y[E]o qui[B]ero est[E]ar.
+
+P[E]as[B]os inci[A]ertos doy, [E]el sol se v[B]a,
+m[E]ás s[B]i cont[A]igo estoy, n[E]o t[B]emo y[E]a.
+H[E]imn[A]os de gr[E]atit[B]ud, [E]al[A]egre c[E]antar[B]é,
+[E]y fi[B]el a T[A]i Señor, si[E]empr[B]e ser[E]é.
+
+D[E]í[B]a fel[A]iz veré, cr[E]eyendo en T[B]i,
+[E]en qu[B]e yo hab[A]itaré, c[E]erc[B]a de T[E]i.
+M[E]i v[A]oz al[E]abar[B]á, t[E]u s[A]anto n[E]ombre all[B]í,
+[E]y mi [B]alma g[A]ozará, c[E]erc[B]a de T[E]i.
+`
+  };

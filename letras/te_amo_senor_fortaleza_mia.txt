@@ -1,0 +1,14 @@
+letra={
+  titulo:"Te amo oh Señor, fortaleza mía",
+  tonalidad:"D",
+  letra:`
+Te [D]amo oh Señ[A]or, fortaleza m[Bm]ía,[F#m]
+roca m[G]ía, castillo m[A]ío, y mi libertad[D]or, [D7]
+Señ[G]or en t[A]í,[F#m] confiar[Bm]é,
+mi esc[G]udo eres Tú, y la fu[A]erza de mi salvaci[D]ón. (2)
+
+
+Mi esc[G]udo eres Tú, y la fu[A]erza de mi salvaci[D]ón.
+
+`
+  };
