@@ -1845,7 +1845,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Acción de gracias"],
         "audio":"audios/anima_christi.mp4",
-        "tono_audio":"F",
+        "tono_audio":"Am",
         "txt":"letras/anima_christi.txt",
       },
       {
