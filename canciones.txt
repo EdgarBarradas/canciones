@@ -1845,7 +1845,7 @@ canciones = [
         "misas":["No filtrar"],
         "momentos":["No filtrar","Acción de gracias"],
         "audio":"audios/anima_christi.mp4",
-        "tono_audio":"",
+        "tono_audio":"F",
         "txt":"letras/anima_christi.txt",
       },
       {
@@ -2969,8 +2969,8 @@ canciones = [
         "tiempos":["No filtrar","Ordinario"],
         "misas":["No filtrar"],
         "momentos":["Santo"],
-        "audio":"audios/santo_shubert",
-        "tono_audio":"",
+        "audio":"audios/santo_shubert.mp4",
+        "tono_audio":"D",
         "txt":"letras/santo_shubert.txt",
       },
       {
