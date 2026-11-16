@@ -247,3 +247,75 @@ h1 { color: darkblue; }
     width: 100%;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+
+  body:not(.pagina-cancionero) {
+    background-color: #121212;
+    color: #f2f2f2;
+  }
+
+  select,
+  button,
+  input {
+    color-scheme: dark;
+  }
+
+  .letra_estrib,
+  .acorde_estrib {
+    background-color: #383838;
+  }
+
+  .cancion {
+    border-color: #555;
+    background-color: #1e1e1e;
+  }
+
+  .pagina-cancionero {
+    --tinta: #eee9f4;
+    --texto-secundario: #b8b2c0;
+    --verde: #75b58e;
+    --borde: #45404b;
+    background:
+      radial-gradient(ellipse at 85% 0%, rgba(80, 57, 103, 0.28), transparent 32rem),
+      radial-gradient(ellipse at 0% 12%, rgba(100, 48, 57, 0.22), transparent 28rem),
+      #121212;
+  }
+
+  .panel-busqueda {
+    border-color: rgba(69, 64, 75, 0.9);
+    background: rgba(30, 30, 30, 0.94);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+  }
+
+  .icono-musica {
+    background: #203629;
+  }
+
+  .campo label {
+    color: #8fbd9e;
+  }
+
+  .pagina-cancionero select,
+  .pagina-cancionero input[type="text"] {
+    background-color: #242424;
+  }
+
+  .pagina-cancionero input[type="text"]::placeholder {
+    color: #a7aaa8;
+  }
+
+  .pagina-cancionero .cancion {
+    border-color: var(--borde);
+    background: #1e1e1e;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .pagina-cancionero .cancion:hover {
+    border-color: #745b8c;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.32);
+  }
+}
