@@ -27,6 +27,5 @@ todo es fi[A]esta, todo es v[C#m]ida, p[F#m]orque me has salvado T[B]ú.
 Jes[F]ús, ven T[Dm]ú, [Gm]entra en mi c[A#]asa de nu[C]evo,
 Jes[F]ús, ven T[Dm]ú, p[Gm]ara encend[A#]er nuestro fu[C]ego. 
 Jes[A#]ús,[Am#] Jes[F]ús.
-
 `
   };
