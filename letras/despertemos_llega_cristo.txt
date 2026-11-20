@@ -1,0 +1,24 @@
+letra={
+  titulo:"Despertemos llega Cristo",
+  tonalidad:"C",
+  letra:`
+	ESTRIBILLO
+Despert[C]emos ll[G]ega Cr[Am]isto, v[F]en S[G]eñ[C]or,
+acud[C]amos [G]a su encu[Am]entro, v[F]en S[G]eñ[C]or.
+
+La igl[F]esia espera t[C]u venida, ven S[F]eñ[C]or,
+y ll[F]ena de alegr[C]ía canta, v[F]en S[G]eñ[C]or.
+	ESTRIBILLO
+
+Pal[F]abra eterna y cr[C]eadora, ven S[F]eñ[C]or,
+a r[F]evonar tod[C]as las cosas, v[F]en S[G]eñ[C]or.
+	ESTRIBILLO
+
+Im[F]agen de la l[C]uz eterna, ven S[F]eñ[C]or,
+a il[F]uminar nuestr[C]as tinieblas, v[F]en S[G]eñ[C]or.
+	ESTRIBILLO
+
+Verd[F]ad y vida [C]encarnada, ven S[F]eñ[C]or,
+a r[F]esponder a nu[C]estras ansias, v[F]en S[G]eñ[C]or.
+`
+  };

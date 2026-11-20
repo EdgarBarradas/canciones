@@ -1,0 +1,32 @@
+letra={
+  titulo:"Jesús ven Tú",
+  tonalidad:"E",
+  letra:`
+Pan y v[E]ino son tu r[C#m]ostro, que hoy volv[F#m]emos a toc[B]ar,
+tu mir[E]ada que cur[C#m]aba, de nu[F#m]evo nos sanar[B]á,
+no mer[A]ezco que Tú v[C#m]engas, [F#m]a mi pobreza toc[B]ar,
+mas yo qui[A]ero que en mi v[C#m]ida, J[F#m]esús Tú puedas est[B]ar.
+
+	ESTRBILLO
+Jes[E]ús, ven T[C#m]ú, [F#m]entra en mi c[A]asa de nu[B]evo,
+Jes[E]ús, ven T[C#m]ú, p[F#m]ara encend[A]er nuestro fu[B]ego. 
+Jes[A]ús,[Am] Jes[E]ús.
+
+Es tu v[E]ino nuestra s[C#m]angre, que no n[F#m]os deja mor[B]ir,
+pan y v[E]ida `para t[C#m]odos, prontos p[F#m]ara compart[B]ir,
+te comp[A]artes con nos[C#m]otros, [F#m]en la pobreza de un p[B]an,
+cambiar[A]emos nuestro m[C#m]undo, p[F#m]ara que puedas est[B]ar.
+	ESTRIBILLO
+
+Como un ci[E]ego no e atr[C#m]evo, a acerc[F#m]arme un poco a T[B]i,
+Tú con[E]oces mis acci[C#m]ones, las vec[F#m]es que me perd[B]í,
+mas tu s[A]abes que te qui[C#m]ero, [F#m]y que si vienes Jes[B]ús,
+todo es fi[A]esta, todo es v[C#m]ida, p[F#m]orque me has salvado T[B]ú.
+	ESTRIBILLO
+
+Jes[F]ús, ven T[Dm]ú, [Gm]entra en mi c[A#]asa de nu[C]evo,
+Jes[F]ús, ven T[Dm]ú, p[Gm]ara encend[A#]er nuestro fu[C]ego. 
+Jes[A#]ús,[Am#] Jes[F]ús.
+
+`
+  };
