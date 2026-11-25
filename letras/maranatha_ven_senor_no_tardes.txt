@@ -8,8 +8,8 @@ prep[E]aren los camin[Am]os, all[F]anen sus sender[G]os,
 que s[C]e elev[G]en los vall[Am]es, los m[Dm]ontes s[F]e rebaj[G]en,
 las s[E]endas se enderec[Am]en, lo esc[F]abroso de igual[G]e,
     ESTRIBILLO
-Maranath[C]a, Maranath[Am]a, v[F]en Señor no t[G]ardes,
-Maranath[C]a, Maranath[Am]a, v[F]en que te esper[G]amos,
+Maranath[C]a,[G] Maranath[Am]a, v[Dm]en Señ[F]or no tard[G]es,
+Maranath[C]a,[G] Maranath[Am]a, v[Dm]en que [F]te esperam[G]os,
 
 tu s[F]alvación Señ[G]or contemplar[C]emos.
 
@@ -17,7 +17,8 @@ Se esc[C]ucha [G]una v[Am]oz, que cl[Dm]ama en [F]el desiert[G]o,
 prep[E]aren los camin[Am]os, all[F]anen sus sender[G]os,
 que s[C]e elev[G]en los vall[Am]es, los m[Dm]ontes s[F]e rebaj[G]en,
 las s[E]endas se enderec[Am]en, lo esc[F]abroso de igual[G]e,
-    ESTRIBILLO (2)
+    ESTRIBILLO
+    ESTRIBILLO
 
 tu s[F]alvación Señ[G]or contemplar[C]emos.
 
