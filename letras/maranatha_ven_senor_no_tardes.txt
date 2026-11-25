@@ -3,22 +3,22 @@ letra={
   tonalidad:"C",
   letra:`
 [C] [G] [Am] [Am] [Dm] [F] [G] [G]
-Se esc[C]ucha una v[Am]oz, que cl[F]ama en el desi[G]erto,
-prep[E]aren los cam[Am]inos, all[F]anen sus send[G]eros,
-que s[C]e eleven los v[Am]alles, los m[F]ontes se reb[G]ajen,
-las s[E]endas se ender[Am]ecen, lo esc[F]abroso de igu[G]ale,
+Se esc[C]ucha [G]una v[Am]oz, que cl[Dm]ama en [F]el desiert[G]o,
+prep[E]aren los camin[Am]os, all[F]anen sus sender[G]os,
+que s[C]e elev[G]en los vall[Am]es, los m[Dm]ontes s[F]e rebaj[G]en,
+las s[E]endas se enderec[Am]en, lo esc[F]abroso de igual[G]e,
+    ESTRIBILLO
 Maranath[C]a, Maranath[Am]a, v[F]en Señor no t[G]ardes,
 Maranath[C]a, Maranath[Am]a, v[F]en que te esper[G]amos,
+
 tu s[F]alvación Señ[G]or contemplar[C]emos.
 
-Se esc[C]ucha una v[Am]oz, que cl[F]ama en el desi[G]erto,
-prep[E]aren los cam[Am]inos, all[F]anen sus send[G]eros,
-que s[C]e eleven los v[Am]alles, los m[F]ontes se reb[G]ajen,
-las s[E]endas se ender[Am]ecen, lo esc[F]abroso de igu[G]ale,
-Maranath[C]a, Maranath[Am]a, v[F]en Señor no t[G]ardes,
-Maranath[C]a, Maranath[Am]a, v[F]en que te esper[G]amos,
-Maranath[C]a, Maranath[Am]a, v[F]en Señor no t[G]ardes,
-Maranath[C]a, Maranath[Am]a, v[F]en que te esper[G]amos,
+Se esc[C]ucha [G]una v[Am]oz, que cl[Dm]ama en [F]el desiert[G]o,
+prep[E]aren los camin[Am]os, all[F]anen sus sender[G]os,
+que s[C]e elev[G]en los vall[Am]es, los m[Dm]ontes s[F]e rebaj[G]en,
+las s[E]endas se enderec[Am]en, lo esc[F]abroso de igual[G]e,
+    ESTRIBILLO (2)
+
 tu s[F]alvación Señ[G]or contemplar[C]emos.
 
 Tu s[F]alvación Señ[G]or contemplar[C]emos.
