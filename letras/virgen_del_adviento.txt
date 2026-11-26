@@ -3,7 +3,7 @@ letra={
   tonalidad:"D",
   letra:`
 	ESTRIBILLO
-V[D]irgen del advi[[G]ent[D]o, [G]esperanza nu[D]estra,
+V[D]irgen del advi[G]ent[D]o, [G]esperanza nu[D]estra,
 ruega por nos[G]otr[D]os, m[G]adre d[A]e la igl[D]esia.
 
 V[D]irgen del advi[A]ent[D]o, [A]esper[Bm]anza nu[F#]estra;
@@ -23,6 +23,5 @@ d[D]el Señor la escl[A]av[D]a, d[Bm]el mundo la R[A]eina.
 
 [D]Alza nuestros [A]oj[D]os, h[A]acia t[Bm]u bell[F#]eza;
 gu[D]ía nuestros p[A]as[D]os, [Bm]a la vida et[A]erna.
-
 `
   };
